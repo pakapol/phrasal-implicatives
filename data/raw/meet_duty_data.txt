@@ -1,0 +1,3152 @@
+IBM has met the duty to accommodate
+entails
+IBM has accommodated
+
+IBM has accommodated
+permits
+IBM has met the duty to accommodate
+
+IBM has met the duty to accommodate
+permits
+he has accommodated
+
+IBM met the duty to accommodate
+contradicts
+IBM did n't accommodate
+
+IBM did n't accommodate
+contradicts
+IBM met the duty to accommodate
+
+IBM met the duty to accommodate
+permits
+he did n't accommodate
+
+IBM had n't met the duty to accommodate
+entails
+IBM had n't accommodated
+
+IBM had n't accommodated
+permits
+IBM had n't met the duty to accommodate
+
+IBM had n't met the duty to accommodate
+permits
+the City Corporation had not accommodated
+
+IBM had almost met the duty to accommodate
+contradicts
+IBM had accommodated
+
+IBM had accommodated
+contradicts
+IBM had almost met the duty to accommodate
+
+IBM had met its duty to accommodate
+entails
+IBM had accommodated
+
+IBM had accommodated
+permits
+IBM had met its duty to accommodate
+
+IBM met its duty to accommodate
+contradicts
+IBM did n't accommodate
+
+IBM did n't accommodate
+contradicts
+IBM met its duty to accommodate
+
+IBM has n't met its duty to accommodate
+entails
+IBM has n't accommodated
+
+IBM has n't accommodated
+permits
+IBM has n't met its duty to accommodate
+
+IBM has n't met its duty to accommodate
+permits
+IBM has n't made records available
+
+IBM never has met its duty to accommodate
+contradicts
+IBM has accommodated
+
+IBM has accommodated
+contradicts
+IBM never has met its duty to accommodate
+
+IBM never has met its duty to accommodate
+permits
+OSHA has accommodated
+
+the Crown had met the duty to consult with the Inuit
+entails
+the Crown had consulted with the Inuit
+
+the Crown had consulted with the Inuit
+permits
+the Crown had met the duty to consult with the Inuit
+
+the Crown met the duty to consult with the Inuit
+contradicts
+the Crown did not consult with the Inuit
+
+the Crown did not consult with the Inuit
+contradicts
+the Crown met the duty to consult with the Inuit
+
+the Crown met the duty to consult with the Inuit
+permits
+the Crown did n't investigate under the Code
+
+the Crown had not met the duty to consult with the Inuit
+entails
+the Crown had not consulted with the Inuit
+
+the Crown had not consulted with the Inuit
+permits
+the Crown had not met the duty to consult with the Inuit
+
+the Crown had not met the duty to consult with the Inuit
+permits
+Yukon had n't consulted with the Inuit
+
+the Crown has not met the duty to consult with the Inuit
+contradicts
+the Crown has consulted with the Inuit
+
+the Crown has consulted with the Inuit
+contradicts
+the Crown has not met the duty to consult with the Inuit
+
+the Crown has not met the duty to consult with the Inuit
+permits
+she has consulted with the Inuit
+
+the Crown had met its duty to consult with the Inuit
+entails
+the Crown had consulted with the Inuit
+
+the Crown had consulted with the Inuit
+permits
+the Crown had met its duty to consult with the Inuit
+
+the Crown had met its duty to consult with the Inuit
+contradicts
+the Crown had n't consulted with the Inuit
+
+the Crown had n't consulted with the Inuit
+contradicts
+the Crown had met its duty to consult with the Inuit
+
+the Crown had met its duty to consult with the Inuit
+permits
+the Crown had not disclosed that there is no association
+
+the Crown had not met its duty to consult with the Inuit
+entails
+the Crown had n't consulted with the Inuit
+
+the Crown had n't consulted with the Inuit
+permits
+the Crown had not met its duty to consult with the Inuit
+
+the Crown had n't met its duty to consult with the Inuit
+contradicts
+the Crown had consulted with the Inuit
+
+the Crown had consulted with the Inuit
+contradicts
+the Crown had n't met its duty to consult with the Inuit
+
+the Crown had n't met its duty to consult with the Inuit
+permits
+you had consulted with the Inuit
+
+the employee had met the duty to mitigate
+entails
+the employee had mitigated
+
+the employee had mitigated
+permits
+the employee had met the duty to mitigate
+
+the employee met the duty to mitigate
+contradicts
+the employee did n't mitigate
+
+the employee did n't mitigate
+contradicts
+the employee met the duty to mitigate
+
+the employee did n't meet the duty to mitigate
+entails
+the employee did n't mitigate
+
+the employee did n't mitigate
+permits
+the employee did n't meet the duty to mitigate
+
+the employee did n't meet the duty to mitigate
+permits
+IBM did n't mitigate
+
+the employee had n't met the duty to mitigate
+contradicts
+the employee had mitigated
+
+the employee had mitigated
+contradicts
+the employee had n't met the duty to mitigate
+
+the employee had n't met the duty to mitigate
+permits
+he had mitigated
+
+the employee had met her duty to mitigate
+entails
+the employee had mitigated
+
+the employee had mitigated
+permits
+the employee had met her duty to mitigate
+
+the employee had met her duty to mitigate
+permits
+the employee had consulted obligations
+
+the employee had met her duty to mitigate
+contradicts
+the employee had n't mitigated
+
+the employee had n't mitigated
+contradicts
+the employee had met her duty to mitigate
+
+the employee had met her duty to mitigate
+permits
+the employee had n't disclosed that there is no association
+
+the employee had n't met her duty to mitigate
+entails
+the employee had n't mitigated
+
+the employee had n't mitigated
+permits
+the employee had n't met her duty to mitigate
+
+the employee never met her duty to mitigate
+contradicts
+the employee mitigated
+
+the employee mitigated
+contradicts
+the employee never met her duty to mitigate
+
+the City Corporation has met the duty to co-operate in the preparation of the Local Plan
+entails
+the City Corporation co-operate in the preparation of the Local Plan
+
+the City Corporation co-operate in the preparation of the Local Plan
+permits
+the City Corporation has met the duty to co-operate in the preparation of the Local Plan
+
+the City Corporation has met the duty to co-operate in the preparation of the Local Plan
+permits
+VA co-operate in the preparation of the Local Plan
+
+the City Corporation met the duty to co-operate in the preparation of the Local Plan
+contradicts
+the City Corporation co-operate in the preparation of the Local Plan
+
+the City Corporation co-operate in the preparation of the Local Plan
+contradicts
+the City Corporation met the duty to co-operate in the preparation of the Local Plan
+
+the City Corporation had n't met the duty to co-operate in the preparation of the Local Plan
+entails
+the City Corporation co-operate in the preparation of the Local Plan
+
+the City Corporation co-operate in the preparation of the Local Plan
+permits
+the City Corporation had n't met the duty to co-operate in the preparation of the Local Plan
+
+the City Corporation had n't met the duty to co-operate in the preparation of the Local Plan
+permits
+VA co-operate in the preparation of the Local Plan
+
+the City Corporation had never met the duty to co-operate in the preparation of the Local Plan
+contradicts
+the City Corporation co-operate in the preparation of the Local Plan
+
+the City Corporation co-operate in the preparation of the Local Plan
+contradicts
+the City Corporation had never met the duty to co-operate in the preparation of the Local Plan
+
+the City Corporation had never met the duty to co-operate in the preparation of the Local Plan
+permits
+Enbridge co-operate in the preparation of the Local Plan
+
+the City Corporation has met its duty to co-operate in the preparation of the Local Plan
+entails
+the City Corporation co-operate in the preparation of the Local Plan
+
+the City Corporation co-operate in the preparation of the Local Plan
+permits
+the City Corporation has met its duty to co-operate in the preparation of the Local Plan
+
+the City Corporation has met its duty to co-operate in the preparation of the Local Plan
+contradicts
+the City Corporation co-operate in the preparation of the Local Plan
+
+the City Corporation co-operate in the preparation of the Local Plan
+contradicts
+the City Corporation has met its duty to co-operate in the preparation of the Local Plan
+
+the City Corporation did not meet its duty to co-operate in the preparation of the Local Plan
+entails
+the City Corporation co-operate in the preparation of the Local Plan
+
+the City Corporation co-operate in the preparation of the Local Plan
+permits
+the City Corporation did not meet its duty to co-operate in the preparation of the Local Plan
+
+the City Corporation did not meet its duty to co-operate in the preparation of the Local Plan
+permits
+the City Corporation did n't support itself by saving wisely
+
+the City Corporation had not met its duty to co-operate in the preparation of the Local Plan
+contradicts
+the City Corporation co-operate in the preparation of the Local Plan
+
+the City Corporation co-operate in the preparation of the Local Plan
+contradicts
+the City Corporation had not met its duty to co-operate in the preparation of the Local Plan
+
+VA has met the duty to assist the Veteran
+entails
+VA has assisted the Veteran
+
+VA has assisted the Veteran
+permits
+VA has met the duty to assist the Veteran
+
+VA has met the duty to assist the Veteran
+contradicts
+VA has n't assisted the Veteran
+
+VA has n't assisted the Veteran
+contradicts
+VA has met the duty to assist the Veteran
+
+VA did n't meet the duty to assist the Veteran
+entails
+VA did n't assist the Veteran
+
+VA did n't assist the Veteran
+permits
+VA did n't meet the duty to assist the Veteran
+
+VA did not meet the duty to assist the Veteran
+contradicts
+VA assisted the Veteran
+
+VA assisted the Veteran
+contradicts
+VA did not meet the duty to assist the Veteran
+
+VA had met its duty to assist the Veteran
+entails
+VA had assisted the Veteran
+
+VA had assisted the Veteran
+permits
+VA had met its duty to assist the Veteran
+
+VA had met its duty to assist the Veteran
+permits
+the university had assisted the Veteran
+
+VA had met its duty to assist the Veteran
+contradicts
+VA had not assisted the Veteran
+
+VA had not assisted the Veteran
+contradicts
+VA had met its duty to assist the Veteran
+
+VA did not meet its duty to assist the Veteran
+entails
+VA did n't assist the Veteran
+
+VA did n't assist the Veteran
+permits
+VA did not meet its duty to assist the Veteran
+
+VA did not meet its duty to assist the Veteran
+permits
+VA did n't come forward and identify the needs
+
+VA has never met its duty to assist the Veteran
+contradicts
+VA has assisted the Veteran
+
+VA has assisted the Veteran
+contradicts
+VA has never met its duty to assist the Veteran
+
+the owner met the duty to have continuous financial responsibility for the vehicle
+entails
+the owner had continuous financial responsibility for the vehicle
+
+the owner had continuous financial responsibility for the vehicle
+permits
+the owner met the duty to have continuous financial responsibility for the vehicle
+
+the owner has met the duty to have continuous financial responsibility for the vehicle
+contradicts
+the owner has n't had continuous financial responsibility for the vehicle
+
+the owner has n't had continuous financial responsibility for the vehicle
+contradicts
+the owner has met the duty to have continuous financial responsibility for the vehicle
+
+the owner did not meet the duty to have continuous financial responsibility for the vehicle
+entails
+the owner did n't have continuous financial responsibility for the vehicle
+
+the owner did n't have continuous financial responsibility for the vehicle
+permits
+the owner did not meet the duty to have continuous financial responsibility for the vehicle
+
+the owner did not meet the duty to have continuous financial responsibility for the vehicle
+contradicts
+the owner had continuous financial responsibility for the vehicle
+
+the owner had continuous financial responsibility for the vehicle
+contradicts
+the owner did not meet the duty to have continuous financial responsibility for the vehicle
+
+the owner did not meet the duty to have continuous financial responsibility for the vehicle
+permits
+the owner supported himself by saving wisely
+
+the owner had met his duty to have continuous financial responsibility for the vehicle
+entails
+the owner had had continuous financial responsibility for the vehicle
+
+the owner had had continuous financial responsibility for the vehicle
+permits
+the owner had met his duty to have continuous financial responsibility for the vehicle
+
+the owner has met his duty to have continuous financial responsibility for the vehicle
+contradicts
+the owner has not had continuous financial responsibility for the vehicle
+
+the owner has not had continuous financial responsibility for the vehicle
+contradicts
+the owner has met his duty to have continuous financial responsibility for the vehicle
+
+the owner almost met his duty to have continuous financial responsibility for the vehicle
+entails
+the owner did n't have continuous financial responsibility for the vehicle
+
+the owner did n't have continuous financial responsibility for the vehicle
+permits
+the owner almost met his duty to have continuous financial responsibility for the vehicle
+
+the owner almost met his duty to have continuous financial responsibility for the vehicle
+contradicts
+the owner had continuous financial responsibility for the vehicle
+
+the owner had continuous financial responsibility for the vehicle
+contradicts
+the owner almost met his duty to have continuous financial responsibility for the vehicle
+
+the policyholder met the duty to give notice
+entails
+the policyholder gave notice
+
+the policyholder gave notice
+permits
+the policyholder met the duty to give notice
+
+the policyholder met the duty to give notice
+contradicts
+the policyholder did not give notice
+
+the policyholder did not give notice
+contradicts
+the policyholder met the duty to give notice
+
+the policyholder has almost met the duty to give notice
+entails
+the policyholder has n't given notice
+
+the policyholder has n't given notice
+permits
+the policyholder has almost met the duty to give notice
+
+the policyholder has almost met the duty to give notice
+permits
+the policyholder has not identified relevant factual evidence
+
+the policyholder almost met the duty to give notice
+contradicts
+the policyholder gave notice
+
+the policyholder gave notice
+contradicts
+the policyholder almost met the duty to give notice
+
+the policyholder almost met the duty to give notice
+permits
+the policyholder authorized and paid for care
+
+the policyholder met her duty to give notice
+entails
+the policyholder gave notice
+
+the policyholder gave notice
+permits
+the policyholder met her duty to give notice
+
+the policyholder had met her duty to give notice
+contradicts
+the policyholder had n't given notice
+
+the policyholder had n't given notice
+contradicts
+the policyholder had met her duty to give notice
+
+the policyholder had met her duty to give notice
+permits
+Enbridge had not given notice
+
+the policyholder has never met her duty to give notice
+entails
+the policyholder has not given notice
+
+the policyholder has not given notice
+permits
+the policyholder has never met her duty to give notice
+
+the policyholder has never met her duty to give notice
+permits
+the policyholder has never shared the message
+
+the policyholder has n't met her duty to give notice
+contradicts
+the policyholder has given notice
+
+the policyholder has given notice
+contradicts
+the policyholder has n't met her duty to give notice
+
+they have met the duty to accommodate employees with disabilities
+entails
+they have accommodated employees with disabilities
+
+they have accommodated employees with disabilities
+permits
+they have met the duty to accommodate employees with disabilities
+
+they had met the duty to accommodate employees with disabilities
+contradicts
+they had not accommodated employees with disabilities
+
+they had not accommodated employees with disabilities
+contradicts
+they had met the duty to accommodate employees with disabilities
+
+they have not met the duty to accommodate employees with disabilities
+entails
+they have not accommodated employees with disabilities
+
+they have not accommodated employees with disabilities
+permits
+they have not met the duty to accommodate employees with disabilities
+
+they had n't met the duty to accommodate employees with disabilities
+contradicts
+they had accommodated employees with disabilities
+
+they had accommodated employees with disabilities
+contradicts
+they had n't met the duty to accommodate employees with disabilities
+
+they had n't met the duty to accommodate employees with disabilities
+permits
+they had supported themselves by saving wisely
+
+they have met their duty to accommodate employees with disabilities
+entails
+they have accommodated employees with disabilities
+
+they have accommodated employees with disabilities
+permits
+they have met their duty to accommodate employees with disabilities
+
+they have met their duty to accommodate employees with disabilities
+permits
+they have served the country
+
+they have met their duty to accommodate employees with disabilities
+contradicts
+they have not accommodated employees with disabilities
+
+they have not accommodated employees with disabilities
+contradicts
+they have met their duty to accommodate employees with disabilities
+
+they have met their duty to accommodate employees with disabilities
+permits
+the seller and seller's broker have not accommodated employees with disabilities
+
+they did not meet their duty to accommodate employees with disabilities
+entails
+they did not accommodate employees with disabilities
+
+they did not accommodate employees with disabilities
+permits
+they did not meet their duty to accommodate employees with disabilities
+
+they had not met their duty to accommodate employees with disabilities
+contradicts
+they had accommodated employees with disabilities
+
+they had accommodated employees with disabilities
+contradicts
+they had not met their duty to accommodate employees with disabilities
+
+you have met the duty to cooperate
+entails
+you have cooperated
+
+you have cooperated
+permits
+you have met the duty to cooperate
+
+you had met the duty to cooperate
+contradicts
+you had not cooperated
+
+you had not cooperated
+contradicts
+you had met the duty to cooperate
+
+you did n't meet the duty to cooperate
+entails
+you did not cooperate
+
+you did not cooperate
+permits
+you did n't meet the duty to cooperate
+
+you have n't met the duty to cooperate
+contradicts
+you have cooperated
+
+you have cooperated
+contradicts
+you have n't met the duty to cooperate
+
+you met your duty to cooperate
+entails
+you cooperated
+
+you cooperated
+permits
+you met your duty to cooperate
+
+you met your duty to cooperate
+permits
+you handed over the goods
+
+you met your duty to cooperate
+contradicts
+you did n't cooperate
+
+you did n't cooperate
+contradicts
+you met your duty to cooperate
+
+you never had met your duty to cooperate
+entails
+you had not cooperated
+
+you had not cooperated
+permits
+you never had met your duty to cooperate
+
+you had n't met your duty to cooperate
+contradicts
+you had cooperated
+
+you had cooperated
+contradicts
+you had n't met your duty to cooperate
+
+you had n't met your duty to cooperate
+permits
+the Crown had cooperated
+
+the seller and seller's broker had met the duty to disclose the frog problem
+entails
+the seller and seller's broker had disclosed the frog problem
+
+the seller and seller's broker had disclosed the frog problem
+permits
+the seller and seller's broker had met the duty to disclose the frog problem
+
+the seller and seller's broker had met the duty to disclose the frog problem
+permits
+we had disclosed the frog problem
+
+the seller and seller's broker met the duty to disclose the frog problem
+contradicts
+the seller and seller's broker did not disclose the frog problem
+
+the seller and seller's broker did not disclose the frog problem
+contradicts
+the seller and seller's broker met the duty to disclose the frog problem
+
+the seller and seller's broker had not met the duty to disclose the frog problem
+entails
+the seller and seller's broker had not disclosed the frog problem
+
+the seller and seller's broker had not disclosed the frog problem
+permits
+the seller and seller's broker had not met the duty to disclose the frog problem
+
+the seller and seller's broker had not met the duty to disclose the frog problem
+contradicts
+the seller and seller's broker had disclosed the frog problem
+
+the seller and seller's broker had disclosed the frog problem
+contradicts
+the seller and seller's broker had not met the duty to disclose the frog problem
+
+the seller and seller's broker had met their duty to disclose the frog problem
+entails
+the seller and seller's broker had disclosed the frog problem
+
+the seller and seller's broker had disclosed the frog problem
+permits
+the seller and seller's broker had met their duty to disclose the frog problem
+
+the seller and seller's broker met their duty to disclose the frog problem
+contradicts
+the seller and seller's broker did n't disclose the frog problem
+
+the seller and seller's broker did n't disclose the frog problem
+contradicts
+the seller and seller's broker met their duty to disclose the frog problem
+
+the seller and seller's broker met their duty to disclose the frog problem
+permits
+the seller and seller's broker did not anticipate a reasonable apparent risk
+
+the seller and seller's broker have not met their duty to disclose the frog problem
+entails
+the seller and seller's broker have not disclosed the frog problem
+
+the seller and seller's broker have not disclosed the frog problem
+permits
+the seller and seller's broker have not met their duty to disclose the frog problem
+
+the seller and seller's broker have not met their duty to disclose the frog problem
+permits
+the seller and seller's broker have not assisted the Veteran
+
+the seller and seller's broker have not met their duty to disclose the frog problem
+contradicts
+the seller and seller's broker have disclosed the frog problem
+
+the seller and seller's broker have disclosed the frog problem
+contradicts
+the seller and seller's broker have not met their duty to disclose the frog problem
+
+the insured driver met the duty to anticipate a reasonable apparent risk
+entails
+the insured driver anticipated a reasonable apparent risk
+
+the insured driver anticipated a reasonable apparent risk
+permits
+the insured driver met the duty to anticipate a reasonable apparent risk
+
+the insured driver met the duty to anticipate a reasonable apparent risk
+permits
+the insured driver maximized net present value to investors
+
+the insured driver has met the duty to anticipate a reasonable apparent risk
+contradicts
+the insured driver has not anticipated a reasonable apparent risk
+
+the insured driver has not anticipated a reasonable apparent risk
+contradicts
+the insured driver has met the duty to anticipate a reasonable apparent risk
+
+the insured driver has met the duty to anticipate a reasonable apparent risk
+permits
+he has not anticipated a reasonable apparent risk
+
+the insured driver had never met the duty to anticipate a reasonable apparent risk
+entails
+the insured driver had n't anticipated a reasonable apparent risk
+
+the insured driver had n't anticipated a reasonable apparent risk
+permits
+the insured driver had never met the duty to anticipate a reasonable apparent risk
+
+the insured driver had never met the duty to anticipate a reasonable apparent risk
+permits
+OSHA had never anticipated a reasonable apparent risk
+
+the insured driver never had met the duty to anticipate a reasonable apparent risk
+contradicts
+the insured driver had anticipated a reasonable apparent risk
+
+the insured driver had anticipated a reasonable apparent risk
+contradicts
+the insured driver never had met the duty to anticipate a reasonable apparent risk
+
+the insured driver has met her duty to anticipate a reasonable apparent risk
+entails
+the insured driver has anticipated a reasonable apparent risk
+
+the insured driver has anticipated a reasonable apparent risk
+permits
+the insured driver has met her duty to anticipate a reasonable apparent risk
+
+the insured driver has met her duty to anticipate a reasonable apparent risk
+contradicts
+the insured driver has not anticipated a reasonable apparent risk
+
+the insured driver has not anticipated a reasonable apparent risk
+contradicts
+the insured driver has met her duty to anticipate a reasonable apparent risk
+
+the insured driver has n't met her duty to anticipate a reasonable apparent risk
+entails
+the insured driver has n't anticipated a reasonable apparent risk
+
+the insured driver has n't anticipated a reasonable apparent risk
+permits
+the insured driver has n't met her duty to anticipate a reasonable apparent risk
+
+the insured driver had not met her duty to anticipate a reasonable apparent risk
+contradicts
+the insured driver had anticipated a reasonable apparent risk
+
+the insured driver had anticipated a reasonable apparent risk
+contradicts
+the insured driver had not met her duty to anticipate a reasonable apparent risk
+
+the insured driver had not met her duty to anticipate a reasonable apparent risk
+permits
+the insured driver had given notice
+
+Yukon has met the duty to consult
+entails
+Yukon has consulted
+
+Yukon has consulted
+permits
+Yukon has met the duty to consult
+
+Yukon met the duty to consult
+contradicts
+Yukon did not consult
+
+Yukon did not consult
+contradicts
+Yukon met the duty to consult
+
+Yukon almost has met the duty to consult
+entails
+Yukon has almost consulted
+
+Yukon has almost consulted
+permits
+Yukon almost has met the duty to consult
+
+Yukon has never met the duty to consult
+contradicts
+Yukon has consulted
+
+Yukon has consulted
+contradicts
+Yukon has never met the duty to consult
+
+Yukon has never met the duty to consult
+permits
+Yukon has provided accommodation under the homelessness legislation
+
+Yukon met its duty to consult
+entails
+Yukon consulted
+
+Yukon consulted
+permits
+Yukon met its duty to consult
+
+Yukon met its duty to consult
+permits
+the seller consulted
+
+Yukon met its duty to consult
+contradicts
+Yukon did n't consult
+
+Yukon did n't consult
+contradicts
+Yukon met its duty to consult
+
+Yukon never met its duty to consult
+entails
+Yukon never consulted
+
+Yukon never consulted
+permits
+Yukon never met its duty to consult
+
+Yukon has n't met its duty to consult
+contradicts
+Yukon has consulted
+
+Yukon has consulted
+contradicts
+Yukon has n't met its duty to consult
+
+trusts met the duty to notify relevant persons
+entails
+trusts notified relevant persons
+
+trusts notified relevant persons
+permits
+trusts met the duty to notify relevant persons
+
+trusts met the duty to notify relevant persons
+permits
+trusts mitigated
+
+trusts have met the duty to notify relevant persons
+contradicts
+trusts have not notified relevant persons
+
+trusts have not notified relevant persons
+contradicts
+trusts have met the duty to notify relevant persons
+
+trusts have met the duty to notify relevant persons
+permits
+we have not notified relevant persons
+
+trusts have never met the duty to notify relevant persons
+entails
+trusts have never notified relevant persons
+
+trusts have never notified relevant persons
+permits
+trusts have never met the duty to notify relevant persons
+
+trusts have never met the duty to notify relevant persons
+permits
+the seller and seller's broker have never notified relevant persons
+
+trusts have almost met the duty to notify relevant persons
+contradicts
+trusts have notified relevant persons
+
+trusts have notified relevant persons
+contradicts
+trusts have almost met the duty to notify relevant persons
+
+trusts had met their duty to notify relevant persons
+entails
+trusts had notified relevant persons
+
+trusts had notified relevant persons
+permits
+trusts had met their duty to notify relevant persons
+
+trusts met their duty to notify relevant persons
+contradicts
+trusts did n't notify relevant persons
+
+trusts did n't notify relevant persons
+contradicts
+trusts met their duty to notify relevant persons
+
+trusts met their duty to notify relevant persons
+permits
+trusts did n't make reasonable adjustments
+
+trusts have almost met their duty to notify relevant persons
+entails
+trusts have almost notified relevant persons
+
+trusts have almost notified relevant persons
+permits
+trusts have almost met their duty to notify relevant persons
+
+trusts have almost met their duty to notify relevant persons
+permits
+trusts have not shared the message
+
+trusts have n't met their duty to notify relevant persons
+contradicts
+trusts have notified relevant persons
+
+trusts have notified relevant persons
+contradicts
+trusts have n't met their duty to notify relevant persons
+
+trusts have n't met their duty to notify relevant persons
+permits
+we have notified relevant persons
+
+the defendant had met the duty to provide reasonably safe premises
+entails
+the defendant had provided reasonably safe premises
+
+the defendant had provided reasonably safe premises
+permits
+the defendant had met the duty to provide reasonably safe premises
+
+the defendant had met the duty to provide reasonably safe premises
+permits
+Enbridge had provided reasonably safe premises
+
+the defendant had met the duty to provide reasonably safe premises
+contradicts
+the defendant had n't provided reasonably safe premises
+
+the defendant had n't provided reasonably safe premises
+contradicts
+the defendant had met the duty to provide reasonably safe premises
+
+the defendant did not meet the duty to provide reasonably safe premises
+entails
+the defendant did n't provide reasonably safe premises
+
+the defendant did n't provide reasonably safe premises
+permits
+the defendant did not meet the duty to provide reasonably safe premises
+
+the defendant has n't met the duty to provide reasonably safe premises
+contradicts
+the defendant has provided reasonably safe premises
+
+the defendant has provided reasonably safe premises
+contradicts
+the defendant has n't met the duty to provide reasonably safe premises
+
+the defendant has met his duty to provide reasonably safe premises
+entails
+the defendant has provided reasonably safe premises
+
+the defendant has provided reasonably safe premises
+permits
+the defendant has met his duty to provide reasonably safe premises
+
+the defendant has met his duty to provide reasonably safe premises
+contradicts
+the defendant has not provided reasonably safe premises
+
+the defendant has not provided reasonably safe premises
+contradicts
+the defendant has met his duty to provide reasonably safe premises
+
+the defendant did n't meet his duty to provide reasonably safe premises
+entails
+the defendant did not provide reasonably safe premises
+
+the defendant did not provide reasonably safe premises
+permits
+the defendant did n't meet his duty to provide reasonably safe premises
+
+the defendant did n't meet his duty to provide reasonably safe premises
+permits
+the defendant did not drive with due regard for the safety of all persons
+
+the defendant has n't met his duty to provide reasonably safe premises
+contradicts
+the defendant has provided reasonably safe premises
+
+the defendant has provided reasonably safe premises
+contradicts
+the defendant has n't met his duty to provide reasonably safe premises
+
+the employer had met the duty to make reasonable adjustments
+entails
+the employer had made reasonable adjustments
+
+the employer had made reasonable adjustments
+permits
+the employer had met the duty to make reasonable adjustments
+
+the employer has met the duty to make reasonable adjustments
+contradicts
+the employer has n't made reasonable adjustments
+
+the employer has n't made reasonable adjustments
+contradicts
+the employer has met the duty to make reasonable adjustments
+
+the employer has met the duty to make reasonable adjustments
+permits
+the employer has not informed Mr. Jandre
+
+the employer has not met the duty to make reasonable adjustments
+entails
+the employer has not made reasonable adjustments
+
+the employer has not made reasonable adjustments
+permits
+the employer has not met the duty to make reasonable adjustments
+
+the employer has n't met the duty to make reasonable adjustments
+contradicts
+the employer has made reasonable adjustments
+
+the employer has made reasonable adjustments
+contradicts
+the employer has n't met the duty to make reasonable adjustments
+
+the employer had met its duty to make reasonable adjustments
+entails
+the employer had made reasonable adjustments
+
+the employer had made reasonable adjustments
+permits
+the employer had met its duty to make reasonable adjustments
+
+the employer had met its duty to make reasonable adjustments
+permits
+Enbridge had made reasonable adjustments
+
+the employer met its duty to make reasonable adjustments
+contradicts
+the employer did n't make reasonable adjustments
+
+the employer did n't make reasonable adjustments
+contradicts
+the employer met its duty to make reasonable adjustments
+
+the employer met its duty to make reasonable adjustments
+permits
+the employer did n't consult with the Inuit
+
+the employer did n't meet its duty to make reasonable adjustments
+entails
+the employer did not make reasonable adjustments
+
+the employer did not make reasonable adjustments
+permits
+the employer did n't meet its duty to make reasonable adjustments
+
+the employer did n't meet its duty to make reasonable adjustments
+permits
+OSHA did not make reasonable adjustments
+
+the employer never met its duty to make reasonable adjustments
+contradicts
+the employer made reasonable adjustments
+
+the employer made reasonable adjustments
+contradicts
+the employer never met its duty to make reasonable adjustments
+
+the employer never met its duty to make reasonable adjustments
+permits
+Enbridge made reasonable adjustments
+
+the university had met the duty to investigate under the Code
+entails
+the university had investigated under the Code
+
+the university had investigated under the Code
+permits
+the university had met the duty to investigate under the Code
+
+the university had met the duty to investigate under the Code
+contradicts
+the university had not investigated under the Code
+
+the university had not investigated under the Code
+contradicts
+the university had met the duty to investigate under the Code
+
+the university had n't met the duty to investigate under the Code
+entails
+the university had not investigated under the Code
+
+the university had not investigated under the Code
+permits
+the university had n't met the duty to investigate under the Code
+
+the university had never met the duty to investigate under the Code
+contradicts
+the university had investigated under the Code
+
+the university had investigated under the Code
+contradicts
+the university had never met the duty to investigate under the Code
+
+the university had never met the duty to investigate under the Code
+permits
+he had investigated under the Code
+
+the university had met its duty to investigate under the Code
+entails
+the university had investigated under the Code
+
+the university had investigated under the Code
+permits
+the university had met its duty to investigate under the Code
+
+the university met its duty to investigate under the Code
+contradicts
+the university did n't investigate under the Code
+
+the university did n't investigate under the Code
+contradicts
+the university met its duty to investigate under the Code
+
+the university has almost met its duty to investigate under the Code
+entails
+the university has almost investigated under the Code
+
+the university has almost investigated under the Code
+permits
+the university has almost met its duty to investigate under the Code
+
+the university has almost met its duty to investigate under the Code
+permits
+the university has almost provided reasonably safe premises
+
+the university almost met its duty to investigate under the Code
+contradicts
+the university investigated under the Code
+
+the university investigated under the Code
+contradicts
+the university almost met its duty to investigate under the Code
+
+the university almost met its duty to investigate under the Code
+permits
+the university informed Mr. Jandre
+
+the driver has met the duty to drive with due regard for the safety of all persons
+entails
+the driver has driven with due regard for the safety of all persons
+
+the driver has driven with due regard for the safety of all persons
+permits
+the driver has met the duty to drive with due regard for the safety of all persons
+
+the driver has met the duty to drive with due regard for the safety of all persons
+contradicts
+the driver has not driven with due regard for the safety of all persons
+
+the driver has not driven with due regard for the safety of all persons
+contradicts
+the driver has met the duty to drive with due regard for the safety of all persons
+
+the driver almost met the duty to drive with due regard for the safety of all persons
+entails
+the driver did not drive with due regard for the safety of all persons
+
+the driver did not drive with due regard for the safety of all persons
+permits
+the driver almost met the duty to drive with due regard for the safety of all persons
+
+the driver had never met the duty to drive with due regard for the safety of all persons
+contradicts
+the driver had driven with due regard for the safety of all persons
+
+the driver had driven with due regard for the safety of all persons
+contradicts
+the driver had never met the duty to drive with due regard for the safety of all persons
+
+the driver had never met the duty to drive with due regard for the safety of all persons
+permits
+the driver had authorized and paid for care
+
+the driver had met her duty to drive with due regard for the safety of all persons
+entails
+the driver had driven with due regard for the safety of all persons
+
+the driver had driven with due regard for the safety of all persons
+permits
+the driver had met her duty to drive with due regard for the safety of all persons
+
+the driver had met her duty to drive with due regard for the safety of all persons
+permits
+the driver had consulted with the Inuit
+
+the driver has met her duty to drive with due regard for the safety of all persons
+contradicts
+the driver has not driven with due regard for the safety of all persons
+
+the driver has not driven with due regard for the safety of all persons
+contradicts
+the driver has met her duty to drive with due regard for the safety of all persons
+
+the driver has met her duty to drive with due regard for the safety of all persons
+permits
+the driver has not served the country
+
+the driver had n't met her duty to drive with due regard for the safety of all persons
+entails
+the driver had n't driven with due regard for the safety of all persons
+
+the driver had n't driven with due regard for the safety of all persons
+permits
+the driver had n't met her duty to drive with due regard for the safety of all persons
+
+the driver had n't met her duty to drive with due regard for the safety of all persons
+permits
+IBM had n't driven with due regard for the safety of all persons
+
+the driver did n't meet her duty to drive with due regard for the safety of all persons
+contradicts
+the driver drove with due regard for the safety of all persons
+
+the driver drove with due regard for the safety of all persons
+contradicts
+the driver did n't meet her duty to drive with due regard for the safety of all persons
+
+the disabled employee has met the duty to come forward and identify the needs
+entails
+the disabled employee has come forward and identified the needs
+
+the disabled employee has come forward and identified the needs
+permits
+the disabled employee has met the duty to come forward and identify the needs
+
+the disabled employee has met the duty to come forward and identify the needs
+permits
+Yukon has come forward and identified the needs
+
+the disabled employee has met the duty to come forward and identify the needs
+contradicts
+the disabled employee has n't come forward and identified the needs
+
+the disabled employee has n't come forward and identified the needs
+contradicts
+the disabled employee has met the duty to come forward and identify the needs
+
+the disabled employee never met the duty to come forward and identify the needs
+entails
+the disabled employee did not come forward and identify the needs
+
+the disabled employee did not come forward and identify the needs
+permits
+the disabled employee never met the duty to come forward and identify the needs
+
+the disabled employee has almost met the duty to come forward and identify the needs
+contradicts
+the disabled employee has come forward and identified the needs
+
+the disabled employee has come forward and identified the needs
+contradicts
+the disabled employee has almost met the duty to come forward and identify the needs
+
+the disabled employee has almost met the duty to come forward and identify the needs
+permits
+the disabled employee has kept her in school
+
+the disabled employee met her duty to come forward and identify the needs
+entails
+the disabled employee came forward and identified the needs
+
+the disabled employee came forward and identified the needs
+permits
+the disabled employee met her duty to come forward and identify the needs
+
+the disabled employee met her duty to come forward and identify the needs
+permits
+you came forward and identified the needs
+
+the disabled employee met her duty to come forward and identify the needs
+contradicts
+the disabled employee did n't come forward and identify the needs
+
+the disabled employee did n't come forward and identify the needs
+contradicts
+the disabled employee met her duty to come forward and identify the needs
+
+the disabled employee has not met her duty to come forward and identify the needs
+entails
+the disabled employee has n't come forward and identified the needs
+
+the disabled employee has n't come forward and identified the needs
+permits
+the disabled employee has not met her duty to come forward and identify the needs
+
+the disabled employee had never met her duty to come forward and identify the needs
+contradicts
+the disabled employee had come forward and identified the needs
+
+the disabled employee had come forward and identified the needs
+contradicts
+the disabled employee had never met her duty to come forward and identify the needs
+
+the employer had met the duty to negotiate this agreement
+entails
+the employer had negotiated this agreement
+
+the employer had negotiated this agreement
+permits
+the employer had met the duty to negotiate this agreement
+
+the employer met the duty to negotiate this agreement
+contradicts
+the employer did n't negotiate this agreement
+
+the employer did n't negotiate this agreement
+contradicts
+the employer met the duty to negotiate this agreement
+
+the employer met the duty to negotiate this agreement
+permits
+VA did n't negotiate this agreement
+
+the employer had n't met the duty to negotiate this agreement
+entails
+the employer had not negotiated this agreement
+
+the employer had not negotiated this agreement
+permits
+the employer had n't met the duty to negotiate this agreement
+
+the employer has not met the duty to negotiate this agreement
+contradicts
+the employer has negotiated this agreement
+
+the employer has negotiated this agreement
+contradicts
+the employer has not met the duty to negotiate this agreement
+
+the employer has not met the duty to negotiate this agreement
+permits
+IBM has negotiated this agreement
+
+the employer met its duty to negotiate this agreement
+entails
+the employer negotiated this agreement
+
+the employer negotiated this agreement
+permits
+the employer met its duty to negotiate this agreement
+
+the employer met its duty to negotiate this agreement
+permits
+the employer accommodated a disabled employee
+
+the employer has met its duty to negotiate this agreement
+contradicts
+the employer has not negotiated this agreement
+
+the employer has not negotiated this agreement
+contradicts
+the employer has met its duty to negotiate this agreement
+
+the employer had not met its duty to negotiate this agreement
+entails
+the employer had n't negotiated this agreement
+
+the employer had n't negotiated this agreement
+permits
+the employer had not met its duty to negotiate this agreement
+
+the employer had not met its duty to negotiate this agreement
+permits
+the employer had n't accommodated employees with disabilities
+
+the employer had never met its duty to negotiate this agreement
+contradicts
+the employer had negotiated this agreement
+
+the employer had negotiated this agreement
+contradicts
+the employer had never met its duty to negotiate this agreement
+
+the seller has met the duty to hand over the goods
+entails
+the seller has handed over the goods
+
+the seller has handed over the goods
+permits
+the seller has met the duty to hand over the goods
+
+the seller has met the duty to hand over the goods
+permits
+the seller has accommodated
+
+the seller met the duty to hand over the goods
+contradicts
+the seller did n't hand over the goods
+
+the seller did n't hand over the goods
+contradicts
+the seller met the duty to hand over the goods
+
+the seller met the duty to hand over the goods
+permits
+the seller did n't maximize net present value to investors
+
+the seller almost met the duty to hand over the goods
+entails
+the seller almost handed over the goods
+
+the seller almost handed over the goods
+permits
+the seller almost met the duty to hand over the goods
+
+the seller almost met the duty to hand over the goods
+permits
+IBM did not hand over the goods
+
+the seller had almost met the duty to hand over the goods
+contradicts
+the seller had handed over the goods
+
+the seller had handed over the goods
+contradicts
+the seller had almost met the duty to hand over the goods
+
+the seller had met his duty to hand over the goods
+entails
+the seller had handed over the goods
+
+the seller had handed over the goods
+permits
+the seller had met his duty to hand over the goods
+
+the seller has met his duty to hand over the goods
+contradicts
+the seller has not handed over the goods
+
+the seller has not handed over the goods
+contradicts
+the seller has met his duty to hand over the goods
+
+the seller has met his duty to hand over the goods
+permits
+VA has not handed over the goods
+
+the seller almost met his duty to hand over the goods
+entails
+the seller did not hand over the goods
+
+the seller did not hand over the goods
+permits
+the seller almost met his duty to hand over the goods
+
+the seller almost met his duty to hand over the goods
+permits
+you did not hand over the goods
+
+the seller had n't met his duty to hand over the goods
+contradicts
+the seller had handed over the goods
+
+the seller had handed over the goods
+contradicts
+the seller had n't met his duty to hand over the goods
+
+we met the duty to authorize and pay for care
+entails
+we authorized and paid for care
+
+we authorized and paid for care
+permits
+we met the duty to authorize and pay for care
+
+we have met the duty to authorize and pay for care
+contradicts
+we have n't authorized and paid for care
+
+we have n't authorized and paid for care
+contradicts
+we have met the duty to authorize and pay for care
+
+we never met the duty to authorize and pay for care
+entails
+we did not authorize and pay for care
+
+we did not authorize and pay for care
+permits
+we never met the duty to authorize and pay for care
+
+we never met the duty to authorize and pay for care
+permits
+we did not make records available
+
+we did n't meet the duty to authorize and pay for care
+contradicts
+we authorized and paid for care
+
+we authorized and paid for care
+contradicts
+we did n't meet the duty to authorize and pay for care
+
+we did n't meet the duty to authorize and pay for care
+permits
+the seller and seller's broker authorized and paid for care
+
+we had met our duty to authorize and pay for care
+entails
+we had authorized and paid for care
+
+we had authorized and paid for care
+permits
+we had met our duty to authorize and pay for care
+
+we have met our duty to authorize and pay for care
+contradicts
+we have n't authorized and paid for care
+
+we have n't authorized and paid for care
+contradicts
+we have met our duty to authorize and pay for care
+
+we never met our duty to authorize and pay for care
+entails
+we did n't authorize and pay for care
+
+we did n't authorize and pay for care
+permits
+we never met our duty to authorize and pay for care
+
+we have never met our duty to authorize and pay for care
+contradicts
+we have authorized and paid for care
+
+we have authorized and paid for care
+contradicts
+we have never met our duty to authorize and pay for care
+
+we have never met our duty to authorize and pay for care
+permits
+we have maximized net present value to investors
+
+we met the duty to support ourselves by saving wisely
+entails
+we supported ourselves by saving wisely
+
+we supported ourselves by saving wisely
+permits
+we met the duty to support ourselves by saving wisely
+
+we had met the duty to support ourselves by saving wisely
+contradicts
+we had n't supported ourselves by saving wisely
+
+we had n't supported ourselves by saving wisely
+contradicts
+we had met the duty to support ourselves by saving wisely
+
+we had never met the duty to support ourselves by saving wisely
+entails
+we had n't supported ourselves by saving wisely
+
+we had n't supported ourselves by saving wisely
+permits
+we had never met the duty to support ourselves by saving wisely
+
+we had never met the duty to support ourselves by saving wisely
+permits
+they had never supported themselves by saving wisely
+
+we did n't meet the duty to support ourselves by saving wisely
+contradicts
+we supported ourselves by saving wisely
+
+we supported ourselves by saving wisely
+contradicts
+we did n't meet the duty to support ourselves by saving wisely
+
+we met our duty to support ourselves by saving wisely
+entails
+we supported ourselves by saving wisely
+
+we supported ourselves by saving wisely
+permits
+we met our duty to support ourselves by saving wisely
+
+we met our duty to support ourselves by saving wisely
+permits
+trusts supported themselves by saving wisely
+
+we have met our duty to support ourselves by saving wisely
+contradicts
+we have not supported ourselves by saving wisely
+
+we have not supported ourselves by saving wisely
+contradicts
+we have met our duty to support ourselves by saving wisely
+
+we have almost met our duty to support ourselves by saving wisely
+entails
+we have n't supported ourselves by saving wisely
+
+we have n't supported ourselves by saving wisely
+permits
+we have almost met our duty to support ourselves by saving wisely
+
+we have not met our duty to support ourselves by saving wisely
+contradicts
+we have supported ourselves by saving wisely
+
+we have supported ourselves by saving wisely
+contradicts
+we have not met our duty to support ourselves by saving wisely
+
+we have not met our duty to support ourselves by saving wisely
+permits
+they have supported themselves by saving wisely
+
+she met the duty to make a safe pass
+entails
+she made a safe pass
+
+she made a safe pass
+permits
+she met the duty to make a safe pass
+
+she met the duty to make a safe pass
+permits
+VA made a safe pass
+
+she has met the duty to make a safe pass
+contradicts
+she has not made a safe pass
+
+she has not made a safe pass
+contradicts
+she has met the duty to make a safe pass
+
+she has met the duty to make a safe pass
+permits
+she has not accommodated a disabled employee
+
+she has almost met the duty to make a safe pass
+entails
+she has not made a safe pass
+
+she has not made a safe pass
+permits
+she has almost met the duty to make a safe pass
+
+she has almost met the duty to make a safe pass
+permits
+the plaintiff has n't made a safe pass
+
+she has almost met the duty to make a safe pass
+contradicts
+she has made a safe pass
+
+she has made a safe pass
+contradicts
+she has almost met the duty to make a safe pass
+
+she has almost met the duty to make a safe pass
+permits
+the seller has made a safe pass
+
+she had met her duty to make a safe pass
+entails
+she had made a safe pass
+
+she had made a safe pass
+permits
+she had met her duty to make a safe pass
+
+she had met her duty to make a safe pass
+contradicts
+she had n't made a safe pass
+
+she had n't made a safe pass
+contradicts
+she had met her duty to make a safe pass
+
+she had met her duty to make a safe pass
+permits
+the local authority had n't made a safe pass
+
+she had never met her duty to make a safe pass
+entails
+she had not made a safe pass
+
+she had not made a safe pass
+permits
+she had never met her duty to make a safe pass
+
+she did not meet her duty to make a safe pass
+contradicts
+she made a safe pass
+
+she made a safe pass
+contradicts
+she did not meet her duty to make a safe pass
+
+she did not meet her duty to make a safe pass
+permits
+OSHA made a safe pass
+
+they met the duty to share the message
+entails
+they shared the message
+
+they shared the message
+permits
+they met the duty to share the message
+
+they have met the duty to share the message
+contradicts
+they have not shared the message
+
+they have not shared the message
+contradicts
+they have met the duty to share the message
+
+they have met the duty to share the message
+permits
+we have not shared the message
+
+they have not met the duty to share the message
+entails
+they have not shared the message
+
+they have not shared the message
+permits
+they have not met the duty to share the message
+
+they have not met the duty to share the message
+permits
+they have n't consulted with the Inuit
+
+they have never met the duty to share the message
+contradicts
+they have shared the message
+
+they have shared the message
+contradicts
+they have never met the duty to share the message
+
+they have never met the duty to share the message
+permits
+the seller and seller's broker have shared the message
+
+they had met their duty to share the message
+entails
+they had shared the message
+
+they had shared the message
+permits
+they had met their duty to share the message
+
+they had met their duty to share the message
+permits
+we had shared the message
+
+they have met their duty to share the message
+contradicts
+they have not shared the message
+
+they have not shared the message
+contradicts
+they have met their duty to share the message
+
+they had not met their duty to share the message
+entails
+they had n't shared the message
+
+they had n't shared the message
+permits
+they had not met their duty to share the message
+
+they had never met their duty to share the message
+contradicts
+they had shared the message
+
+they had shared the message
+contradicts
+they had never met their duty to share the message
+
+they had never met their duty to share the message
+permits
+the seller and seller's broker had shared the message
+
+they had met the duty to serve the country
+entails
+they had served the country
+
+they had served the country
+permits
+they had met the duty to serve the country
+
+they met the duty to serve the country
+contradicts
+they did n't serve the country
+
+they did n't serve the country
+contradicts
+they met the duty to serve the country
+
+they met the duty to serve the country
+permits
+they did not have continuous financial responsibility for the vehicle
+
+they have never met the duty to serve the country
+entails
+they have never served the country
+
+they have never served the country
+permits
+they have never met the duty to serve the country
+
+they have never met the duty to serve the country
+permits
+we have n't served the country
+
+they did n't meet the duty to serve the country
+contradicts
+they served the country
+
+they served the country
+contradicts
+they did n't meet the duty to serve the country
+
+they had met their duty to serve the country
+entails
+they had served the country
+
+they had served the country
+permits
+they had met their duty to serve the country
+
+they had met their duty to serve the country
+contradicts
+they had n't served the country
+
+they had n't served the country
+contradicts
+they had met their duty to serve the country
+
+they did n't meet their duty to serve the country
+entails
+they did not serve the country
+
+they did not serve the country
+permits
+they did n't meet their duty to serve the country
+
+they did n't meet their duty to serve the country
+permits
+they did n't provide accommodation under the homelessness legislation
+
+they had not met their duty to serve the country
+contradicts
+they had served the country
+
+they had served the country
+contradicts
+they had not met their duty to serve the country
+
+they had not met their duty to serve the country
+permits
+the seller and seller's broker had served the country
+
+I have met the duty to reach decisions dispassionately
+entails
+I have reached decisions dispassionately
+
+I have reached decisions dispassionately
+permits
+I have met the duty to reach decisions dispassionately
+
+I met the duty to reach decisions dispassionately
+contradicts
+I did not reach decisions dispassionately
+
+I did not reach decisions dispassionately
+contradicts
+I met the duty to reach decisions dispassionately
+
+I met the duty to reach decisions dispassionately
+permits
+I did not keep her in school
+
+I had n't met the duty to reach decisions dispassionately
+entails
+I had not reached decisions dispassionately
+
+I had not reached decisions dispassionately
+permits
+I had n't met the duty to reach decisions dispassionately
+
+I had n't met the duty to reach decisions dispassionately
+permits
+I had n't notified relevant persons
+
+I did n't meet the duty to reach decisions dispassionately
+contradicts
+I reached decisions dispassionately
+
+I reached decisions dispassionately
+contradicts
+I did n't meet the duty to reach decisions dispassionately
+
+I have met my duty to reach decisions dispassionately
+entails
+I have reached decisions dispassionately
+
+I have reached decisions dispassionately
+permits
+I have met my duty to reach decisions dispassionately
+
+I have met my duty to reach decisions dispassionately
+permits
+I have supported myself by saving wisely
+
+I had met my duty to reach decisions dispassionately
+contradicts
+I had not reached decisions dispassionately
+
+I had not reached decisions dispassionately
+contradicts
+I had met my duty to reach decisions dispassionately
+
+I almost had met my duty to reach decisions dispassionately
+entails
+I had not reached decisions dispassionately
+
+I had not reached decisions dispassionately
+permits
+I almost had met my duty to reach decisions dispassionately
+
+I have n't met my duty to reach decisions dispassionately
+contradicts
+I have reached decisions dispassionately
+
+I have reached decisions dispassionately
+contradicts
+I have n't met my duty to reach decisions dispassionately
+
+I have n't met my duty to reach decisions dispassionately
+permits
+I have supported myself by saving wisely
+
+the UK Border Agency has met the duty to try to trace family
+entails
+the UK Border Agency has tried to trace family
+
+the UK Border Agency has tried to trace family
+permits
+the UK Border Agency has met the duty to try to trace family
+
+the UK Border Agency has met the duty to try to trace family
+permits
+OSHA has tried to trace family
+
+the UK Border Agency met the duty to try to trace family
+contradicts
+the UK Border Agency did n't try to trace family
+
+the UK Border Agency did n't try to trace family
+contradicts
+the UK Border Agency met the duty to try to trace family
+
+the UK Border Agency has almost met the duty to try to trace family
+entails
+the UK Border Agency has not tried to trace family
+
+the UK Border Agency has not tried to trace family
+permits
+the UK Border Agency has almost met the duty to try to trace family
+
+the UK Border Agency has almost met the duty to try to trace family
+permits
+Yukon has n't tried to trace family
+
+the UK Border Agency has n't met the duty to try to trace family
+contradicts
+the UK Border Agency has tried to trace family
+
+the UK Border Agency has tried to trace family
+contradicts
+the UK Border Agency has n't met the duty to try to trace family
+
+the UK Border Agency has n't met the duty to try to trace family
+permits
+I have tried to trace family
+
+the UK Border Agency met its duty to try to trace family
+entails
+the UK Border Agency tried to trace family
+
+the UK Border Agency tried to trace family
+permits
+the UK Border Agency met its duty to try to trace family
+
+the UK Border Agency has met its duty to try to trace family
+contradicts
+the UK Border Agency has not tried to trace family
+
+the UK Border Agency has not tried to trace family
+contradicts
+the UK Border Agency has met its duty to try to trace family
+
+the UK Border Agency has met its duty to try to trace family
+permits
+she has not tried to trace family
+
+the UK Border Agency has not met its duty to try to trace family
+entails
+the UK Border Agency has n't tried to trace family
+
+the UK Border Agency has n't tried to trace family
+permits
+the UK Border Agency has not met its duty to try to trace family
+
+the UK Border Agency has not met its duty to try to trace family
+permits
+VA has n't tried to trace family
+
+the UK Border Agency has not met its duty to try to trace family
+contradicts
+the UK Border Agency has tried to trace family
+
+the UK Border Agency has tried to trace family
+contradicts
+the UK Border Agency has not met its duty to try to trace family
+
+he had met the duty to be careful
+entails
+he had been careful
+
+he had been careful
+permits
+he had met the duty to be careful
+
+he had met the duty to be careful
+contradicts
+he had not been careful
+
+he had not been careful
+contradicts
+he had met the duty to be careful
+
+he had almost met the duty to be careful
+entails
+he had not been careful
+
+he had not been careful
+permits
+he had almost met the duty to be careful
+
+he almost met the duty to be careful
+contradicts
+he was careful
+
+he was careful
+contradicts
+he almost met the duty to be careful
+
+he has met his duty to be careful
+entails
+he has been careful
+
+he has been careful
+permits
+he has met his duty to be careful
+
+he has met his duty to be careful
+contradicts
+he has n't been careful
+
+he has n't been careful
+contradicts
+he has met his duty to be careful
+
+he almost met his duty to be careful
+entails
+he was n't careful
+
+he was n't careful
+permits
+he almost met his duty to be careful
+
+he almost met his duty to be careful
+contradicts
+he was careful
+
+he was careful
+contradicts
+he almost met his duty to be careful
+
+he met the duty to make records available
+entails
+he made records available
+
+he made records available
+permits
+he met the duty to make records available
+
+he has met the duty to make records available
+contradicts
+he has not made records available
+
+he has not made records available
+contradicts
+he has met the duty to make records available
+
+he had almost met the duty to make records available
+entails
+he had not made records available
+
+he had not made records available
+permits
+he had almost met the duty to make records available
+
+he had almost met the duty to make records available
+permits
+the UK Border Agency had n't made records available
+
+he has n't met the duty to make records available
+contradicts
+he has made records available
+
+he has made records available
+contradicts
+he has n't met the duty to make records available
+
+he has n't met the duty to make records available
+permits
+you have made records available
+
+he met his duty to make records available
+entails
+he made records available
+
+he made records available
+permits
+he met his duty to make records available
+
+he has met his duty to make records available
+contradicts
+he has not made records available
+
+he has not made records available
+contradicts
+he has met his duty to make records available
+
+he did n't meet his duty to make records available
+entails
+he did not make records available
+
+he did not make records available
+permits
+he did n't meet his duty to make records available
+
+he did n't meet his duty to make records available
+permits
+he did n't keep her in school
+
+he never met his duty to make records available
+contradicts
+he made records available
+
+he made records available
+contradicts
+he never met his duty to make records available
+
+he never met his duty to make records available
+permits
+he co-operate in the preparation of the Local Plan
+
+she has met the duty to inform Mr. Jandre
+entails
+she has informed Mr. Jandre
+
+she has informed Mr. Jandre
+permits
+she has met the duty to inform Mr. Jandre
+
+she has met the duty to inform Mr. Jandre
+contradicts
+she has n't informed Mr. Jandre
+
+she has n't informed Mr. Jandre
+contradicts
+she has met the duty to inform Mr. Jandre
+
+she almost met the duty to inform Mr. Jandre
+entails
+she did not inform Mr. Jandre
+
+she did not inform Mr. Jandre
+permits
+she almost met the duty to inform Mr. Jandre
+
+she almost met the duty to inform Mr. Jandre
+contradicts
+she informed Mr. Jandre
+
+she informed Mr. Jandre
+contradicts
+she almost met the duty to inform Mr. Jandre
+
+she met her duty to inform Mr. Jandre
+entails
+she informed Mr. Jandre
+
+she informed Mr. Jandre
+permits
+she met her duty to inform Mr. Jandre
+
+she met her duty to inform Mr. Jandre
+permits
+IBM informed Mr. Jandre
+
+she met her duty to inform Mr. Jandre
+contradicts
+she did n't inform Mr. Jandre
+
+she did n't inform Mr. Jandre
+contradicts
+she met her duty to inform Mr. Jandre
+
+she met her duty to inform Mr. Jandre
+permits
+VA did not inform Mr. Jandre
+
+she never has met her duty to inform Mr. Jandre
+entails
+she has n't informed Mr. Jandre
+
+she has n't informed Mr. Jandre
+permits
+she never has met her duty to inform Mr. Jandre
+
+she had n't met her duty to inform Mr. Jandre
+contradicts
+she had informed Mr. Jandre
+
+she had informed Mr. Jandre
+contradicts
+she had n't met her duty to inform Mr. Jandre
+
+the plaintiff had met a duty to mitigate
+entails
+the plaintiff had mitigated
+
+the plaintiff had mitigated
+permits
+the plaintiff had met a duty to mitigate
+
+the plaintiff has met a duty to mitigate
+contradicts
+the plaintiff has not mitigated
+
+the plaintiff has not mitigated
+contradicts
+the plaintiff has met a duty to mitigate
+
+the plaintiff has met a duty to mitigate
+permits
+Yukon has not mitigated
+
+the plaintiff has not met a duty to mitigate
+entails
+the plaintiff has not mitigated
+
+the plaintiff has not mitigated
+permits
+the plaintiff has not met a duty to mitigate
+
+the plaintiff has almost met a duty to mitigate
+contradicts
+the plaintiff has mitigated
+
+the plaintiff has mitigated
+contradicts
+the plaintiff has almost met a duty to mitigate
+
+the plaintiff has met his duty to mitigate
+entails
+the plaintiff has mitigated
+
+the plaintiff has mitigated
+permits
+the plaintiff has met his duty to mitigate
+
+the plaintiff has met his duty to mitigate
+permits
+the plaintiff has informed Mr. Jandre
+
+the plaintiff had met his duty to mitigate
+contradicts
+the plaintiff had not mitigated
+
+the plaintiff had not mitigated
+contradicts
+the plaintiff had met his duty to mitigate
+
+the plaintiff had met his duty to mitigate
+permits
+VA had n't mitigated
+
+the plaintiff has never met his duty to mitigate
+entails
+the plaintiff has n't mitigated
+
+the plaintiff has n't mitigated
+permits
+the plaintiff has never met his duty to mitigate
+
+the plaintiff has never met his duty to mitigate
+permits
+VA has never mitigated
+
+the plaintiff did not meet his duty to mitigate
+contradicts
+the plaintiff mitigated
+
+the plaintiff mitigated
+contradicts
+the plaintiff did not meet his duty to mitigate
+
+the plaintiff did not meet his duty to mitigate
+permits
+Enbridge mitigated
+
+he has met a duty to keep her in school
+entails
+he has kept her in school
+
+he has kept her in school
+permits
+he has met a duty to keep her in school
+
+he had met a duty to keep her in school
+contradicts
+he had n't kept her in school
+
+he had n't kept her in school
+contradicts
+he had met a duty to keep her in school
+
+he had not met a duty to keep her in school
+entails
+he had n't kept her in school
+
+he had n't kept her in school
+permits
+he had not met a duty to keep her in school
+
+he had not met a duty to keep her in school
+permits
+IBM had not kept her in school
+
+he had not met a duty to keep her in school
+contradicts
+he had kept her in school
+
+he had kept her in school
+contradicts
+he had not met a duty to keep her in school
+
+he had not met a duty to keep her in school
+permits
+he had served the country
+
+he met his duty to keep her in school
+entails
+he kept her in school
+
+he kept her in school
+permits
+he met his duty to keep her in school
+
+he met his duty to keep her in school
+contradicts
+he did not keep her in school
+
+he did not keep her in school
+contradicts
+he met his duty to keep her in school
+
+he has n't met his duty to keep her in school
+entails
+he has n't kept her in school
+
+he has n't kept her in school
+permits
+he has n't met his duty to keep her in school
+
+he has n't met his duty to keep her in school
+permits
+he has n't disclosed that there is no association
+
+he almost met his duty to keep her in school
+contradicts
+he kept her in school
+
+he kept her in school
+contradicts
+he almost met his duty to keep her in school
+
+the adversary has met a duty to disclose that there is no association
+entails
+the adversary has disclosed that there is no association
+
+the adversary has disclosed that there is no association
+permits
+the adversary has met a duty to disclose that there is no association
+
+the adversary has met a duty to disclose that there is no association
+permits
+the adversary has provided reasonably safe premises
+
+the adversary has met a duty to disclose that there is no association
+contradicts
+the adversary has not disclosed that there is no association
+
+the adversary has not disclosed that there is no association
+contradicts
+the adversary has met a duty to disclose that there is no association
+
+the adversary has met a duty to disclose that there is no association
+permits
+the adversary has n't mitigated
+
+the adversary has n't met a duty to disclose that there is no association
+entails
+the adversary has n't disclosed that there is no association
+
+the adversary has n't disclosed that there is no association
+permits
+the adversary has n't met a duty to disclose that there is no association
+
+the adversary has never met a duty to disclose that there is no association
+contradicts
+the adversary has disclosed that there is no association
+
+the adversary has disclosed that there is no association
+contradicts
+the adversary has never met a duty to disclose that there is no association
+
+the adversary has never met a duty to disclose that there is no association
+permits
+she has disclosed that there is no association
+
+the adversary met his duty to disclose that there is no association
+entails
+the adversary disclosed that there is no association
+
+the adversary disclosed that there is no association
+permits
+the adversary met his duty to disclose that there is no association
+
+the adversary has met his duty to disclose that there is no association
+contradicts
+the adversary has n't disclosed that there is no association
+
+the adversary has n't disclosed that there is no association
+contradicts
+the adversary has met his duty to disclose that there is no association
+
+the adversary has met his duty to disclose that there is no association
+permits
+the adversary has n't had continuous financial responsibility for the vehicle
+
+the adversary had not met his duty to disclose that there is no association
+entails
+the adversary had not disclosed that there is no association
+
+the adversary had not disclosed that there is no association
+permits
+the adversary had not met his duty to disclose that there is no association
+
+the adversary has never met his duty to disclose that there is no association
+contradicts
+the adversary has disclosed that there is no association
+
+the adversary has disclosed that there is no association
+contradicts
+the adversary has never met his duty to disclose that there is no association
+
+the adversary has never met his duty to disclose that there is no association
+permits
+the adversary has accommodated employees with disabilities
+
+the company has met a duty to maximize net present value to investors
+entails
+the company has maximized net present value to investors
+
+the company has maximized net present value to investors
+permits
+the company has met a duty to maximize net present value to investors
+
+the company has met a duty to maximize net present value to investors
+permits
+the company has disclosed that there is no association
+
+the company had met a duty to maximize net present value to investors
+contradicts
+the company had n't maximized net present value to investors
+
+the company had n't maximized net present value to investors
+contradicts
+the company had met a duty to maximize net present value to investors
+
+the company had met a duty to maximize net present value to investors
+permits
+she had not maximized net present value to investors
+
+the company had not met a duty to maximize net present value to investors
+entails
+the company had not maximized net present value to investors
+
+the company had not maximized net present value to investors
+permits
+the company had not met a duty to maximize net present value to investors
+
+the company has not met a duty to maximize net present value to investors
+contradicts
+the company has maximized net present value to investors
+
+the company has maximized net present value to investors
+contradicts
+the company has not met a duty to maximize net present value to investors
+
+the company has not met a duty to maximize net present value to investors
+permits
+the company has negotiated this agreement
+
+the company met its duty to maximize net present value to investors
+entails
+the company maximized net present value to investors
+
+the company maximized net present value to investors
+permits
+the company met its duty to maximize net present value to investors
+
+the company had met its duty to maximize net present value to investors
+contradicts
+the company had not maximized net present value to investors
+
+the company had not maximized net present value to investors
+contradicts
+the company had met its duty to maximize net present value to investors
+
+the company had met its duty to maximize net present value to investors
+permits
+Enbridge had n't maximized net present value to investors
+
+the company never met its duty to maximize net present value to investors
+entails
+the company never maximized net present value to investors
+
+the company never maximized net present value to investors
+permits
+the company never met its duty to maximize net present value to investors
+
+the company had n't met its duty to maximize net present value to investors
+contradicts
+the company had maximized net present value to investors
+
+the company had maximized net present value to investors
+contradicts
+the company had n't met its duty to maximize net present value to investors
+
+the local authority has met a duty to provide accommodation under the homelessness legislation
+entails
+the local authority has provided accommodation under the homelessness legislation
+
+the local authority has provided accommodation under the homelessness legislation
+permits
+the local authority has met a duty to provide accommodation under the homelessness legislation
+
+the local authority has met a duty to provide accommodation under the homelessness legislation
+permits
+the local authority has been careful
+
+the local authority has met a duty to provide accommodation under the homelessness legislation
+contradicts
+the local authority has n't provided accommodation under the homelessness legislation
+
+the local authority has n't provided accommodation under the homelessness legislation
+contradicts
+the local authority has met a duty to provide accommodation under the homelessness legislation
+
+the local authority has met a duty to provide accommodation under the homelessness legislation
+permits
+I have n't provided accommodation under the homelessness legislation
+
+the local authority had not met a duty to provide accommodation under the homelessness legislation
+entails
+the local authority had not provided accommodation under the homelessness legislation
+
+the local authority had not provided accommodation under the homelessness legislation
+permits
+the local authority had not met a duty to provide accommodation under the homelessness legislation
+
+the local authority almost met a duty to provide accommodation under the homelessness legislation
+contradicts
+the local authority provided accommodation under the homelessness legislation
+
+the local authority provided accommodation under the homelessness legislation
+contradicts
+the local authority almost met a duty to provide accommodation under the homelessness legislation
+
+the local authority almost met a duty to provide accommodation under the homelessness legislation
+permits
+the local authority made records available
+
+the local authority had met its duty to provide accommodation under the homelessness legislation
+entails
+the local authority had provided accommodation under the homelessness legislation
+
+the local authority had provided accommodation under the homelessness legislation
+permits
+the local authority had met its duty to provide accommodation under the homelessness legislation
+
+the local authority met its duty to provide accommodation under the homelessness legislation
+contradicts
+the local authority did n't provide accommodation under the homelessness legislation
+
+the local authority did n't provide accommodation under the homelessness legislation
+contradicts
+the local authority met its duty to provide accommodation under the homelessness legislation
+
+the local authority had almost met its duty to provide accommodation under the homelessness legislation
+entails
+the local authority had not provided accommodation under the homelessness legislation
+
+the local authority had not provided accommodation under the homelessness legislation
+permits
+the local authority had almost met its duty to provide accommodation under the homelessness legislation
+
+the local authority had almost met its duty to provide accommodation under the homelessness legislation
+permits
+the local authority had not cooperated
+
+the local authority almost met its duty to provide accommodation under the homelessness legislation
+contradicts
+the local authority provided accommodation under the homelessness legislation
+
+the local authority provided accommodation under the homelessness legislation
+contradicts
+the local authority almost met its duty to provide accommodation under the homelessness legislation
+
+the agency met duty to obtain maximum competition
+entails
+the agency obtained maximum competition
+
+the agency obtained maximum competition
+permits
+the agency met duty to obtain maximum competition
+
+the agency met duty to obtain maximum competition
+permits
+the agency maximized net present value to investors
+
+the agency has met duty to obtain maximum competition
+contradicts
+the agency has n't obtained maximum competition
+
+the agency has n't obtained maximum competition
+contradicts
+the agency has met duty to obtain maximum competition
+
+the agency has met duty to obtain maximum competition
+permits
+the agency has not investigated under the Code
+
+the agency had never met duty to obtain maximum competition
+entails
+the agency had n't obtained maximum competition
+
+the agency had n't obtained maximum competition
+permits
+the agency had never met duty to obtain maximum competition
+
+the agency had never met duty to obtain maximum competition
+permits
+Enbridge had n't obtained maximum competition
+
+the agency has not met duty to obtain maximum competition
+contradicts
+the agency has obtained maximum competition
+
+the agency has obtained maximum competition
+contradicts
+the agency has not met duty to obtain maximum competition
+
+the agency has not met duty to obtain maximum competition
+permits
+the agency has negotiated this agreement
+
+the agency has met its duty to obtain maximum competition
+entails
+the agency has obtained maximum competition
+
+the agency has obtained maximum competition
+permits
+the agency has met its duty to obtain maximum competition
+
+the agency has met its duty to obtain maximum competition
+permits
+Yukon has obtained maximum competition
+
+the agency had met its duty to obtain maximum competition
+contradicts
+the agency had not obtained maximum competition
+
+the agency had not obtained maximum competition
+contradicts
+the agency had met its duty to obtain maximum competition
+
+the agency had met its duty to obtain maximum competition
+permits
+I had n't obtained maximum competition
+
+the agency has almost met its duty to obtain maximum competition
+entails
+the agency has almost obtained maximum competition
+
+the agency has almost obtained maximum competition
+permits
+the agency has almost met its duty to obtain maximum competition
+
+the agency had not met its duty to obtain maximum competition
+contradicts
+the agency had obtained maximum competition
+
+the agency had obtained maximum competition
+contradicts
+the agency had not met its duty to obtain maximum competition
+
+the agency had not met its duty to obtain maximum competition
+permits
+the agency had driven with due regard for the safety of all persons
+
+the employer has met duty to accommodate a disabled employee
+entails
+the employer has accommodated a disabled employee
+
+the employer has accommodated a disabled employee
+permits
+the employer has met duty to accommodate a disabled employee
+
+the employer has met duty to accommodate a disabled employee
+contradicts
+the employer has n't accommodated a disabled employee
+
+the employer has n't accommodated a disabled employee
+contradicts
+the employer has met duty to accommodate a disabled employee
+
+the employer has met duty to accommodate a disabled employee
+permits
+the employer has not cooperated
+
+the employer has almost met duty to accommodate a disabled employee
+entails
+the employer has not accommodated a disabled employee
+
+the employer has not accommodated a disabled employee
+permits
+the employer has almost met duty to accommodate a disabled employee
+
+the employer has almost met duty to accommodate a disabled employee
+permits
+the employer has not negotiated this agreement
+
+the employer never met duty to accommodate a disabled employee
+contradicts
+the employer accommodated a disabled employee
+
+the employer accommodated a disabled employee
+contradicts
+the employer never met duty to accommodate a disabled employee
+
+the employer never met duty to accommodate a disabled employee
+permits
+the employer accommodated
+
+the employer has met its duty to accommodate a disabled employee
+entails
+the employer has accommodated a disabled employee
+
+the employer has accommodated a disabled employee
+permits
+the employer has met its duty to accommodate a disabled employee
+
+the employer has met its duty to accommodate a disabled employee
+contradicts
+the employer has n't accommodated a disabled employee
+
+the employer has n't accommodated a disabled employee
+contradicts
+the employer has met its duty to accommodate a disabled employee
+
+the employer has n't met its duty to accommodate a disabled employee
+entails
+the employer has not accommodated a disabled employee
+
+the employer has not accommodated a disabled employee
+permits
+the employer has n't met its duty to accommodate a disabled employee
+
+the employer had n't met its duty to accommodate a disabled employee
+contradicts
+the employer had accommodated a disabled employee
+
+the employer had accommodated a disabled employee
+contradicts
+the employer had n't met its duty to accommodate a disabled employee
+
+OSHA has met duty to identify relevant factual evidence
+entails
+OSHA has identified relevant factual evidence
+
+OSHA has identified relevant factual evidence
+permits
+OSHA has met duty to identify relevant factual evidence
+
+OSHA has met duty to identify relevant factual evidence
+permits
+the owner has identified relevant factual evidence
+
+OSHA has met duty to identify relevant factual evidence
+contradicts
+OSHA has n't identified relevant factual evidence
+
+OSHA has n't identified relevant factual evidence
+contradicts
+OSHA has met duty to identify relevant factual evidence
+
+OSHA had never met duty to identify relevant factual evidence
+entails
+OSHA had never identified relevant factual evidence
+
+OSHA had never identified relevant factual evidence
+permits
+OSHA had never met duty to identify relevant factual evidence
+
+OSHA has not met duty to identify relevant factual evidence
+contradicts
+OSHA has identified relevant factual evidence
+
+OSHA has identified relevant factual evidence
+contradicts
+OSHA has not met duty to identify relevant factual evidence
+
+OSHA met its duty to identify relevant factual evidence
+entails
+OSHA identified relevant factual evidence
+
+OSHA identified relevant factual evidence
+permits
+OSHA met its duty to identify relevant factual evidence
+
+OSHA met its duty to identify relevant factual evidence
+permits
+the policyholder identified relevant factual evidence
+
+OSHA met its duty to identify relevant factual evidence
+contradicts
+OSHA did n't identify relevant factual evidence
+
+OSHA did n't identify relevant factual evidence
+contradicts
+OSHA met its duty to identify relevant factual evidence
+
+OSHA has n't met its duty to identify relevant factual evidence
+entails
+OSHA has not identified relevant factual evidence
+
+OSHA has not identified relevant factual evidence
+permits
+OSHA has n't met its duty to identify relevant factual evidence
+
+OSHA had never met its duty to identify relevant factual evidence
+contradicts
+OSHA had identified relevant factual evidence
+
+OSHA had identified relevant factual evidence
+contradicts
+OSHA had never met its duty to identify relevant factual evidence
+
+OSHA had never met its duty to identify relevant factual evidence
+permits
+OSHA had tried to trace family
+
+Enbridge had met duty to consult obligations
+entails
+Enbridge had consulted obligations
+
+Enbridge had consulted obligations
+permits
+Enbridge had met duty to consult obligations
+
+Enbridge met duty to consult obligations
+contradicts
+Enbridge did n't consult obligations
+
+Enbridge did n't consult obligations
+contradicts
+Enbridge met duty to consult obligations
+
+Enbridge never met duty to consult obligations
+entails
+Enbridge did not consult obligations
+
+Enbridge did not consult obligations
+permits
+Enbridge never met duty to consult obligations
+
+Enbridge never met duty to consult obligations
+permits
+the agency never consulted obligations
+
+Enbridge had almost met duty to consult obligations
+contradicts
+Enbridge had consulted obligations
+
+Enbridge had consulted obligations
+contradicts
+Enbridge had almost met duty to consult obligations
+
+Enbridge has met its duty to consult obligations
+entails
+Enbridge has consulted obligations
+
+Enbridge has consulted obligations
+permits
+Enbridge has met its duty to consult obligations
+
+Enbridge has met its duty to consult obligations
+permits
+the disabled employee has consulted obligations
+
+Enbridge met its duty to consult obligations
+contradicts
+Enbridge did n't consult obligations
+
+Enbridge did n't consult obligations
+contradicts
+Enbridge met its duty to consult obligations
+
+Enbridge never met its duty to consult obligations
+entails
+Enbridge never consulted obligations
+
+Enbridge never consulted obligations
+permits
+Enbridge never met its duty to consult obligations
+
+Enbridge has not met its duty to consult obligations
+contradicts
+Enbridge has consulted obligations
+
+Enbridge has consulted obligations
+contradicts
+Enbridge has not met its duty to consult obligations
+
+the plaintiff had met duty to mitigate
+entails
+the plaintiff had mitigated
+
+the plaintiff had mitigated
+permits
+the plaintiff had met duty to mitigate
+
+the plaintiff had met duty to mitigate
+permits
+Enbridge had mitigated
+
+the plaintiff had met duty to mitigate
+contradicts
+the plaintiff had not mitigated
+
+the plaintiff had not mitigated
+contradicts
+the plaintiff had met duty to mitigate
+
+the plaintiff had met duty to mitigate
+permits
+the plaintiff had n't made reasonable adjustments
+
+the plaintiff had never met duty to mitigate
+entails
+the plaintiff had not mitigated
+
+the plaintiff had not mitigated
+permits
+the plaintiff had never met duty to mitigate
+
+the plaintiff had never met duty to mitigate
+permits
+you had n't mitigated
+
+the plaintiff had never met duty to mitigate
+contradicts
+the plaintiff had mitigated
+
+the plaintiff had mitigated
+contradicts
+the plaintiff had never met duty to mitigate
+
+the plaintiff met his duty to mitigate
+entails
+the plaintiff mitigated
+
+the plaintiff mitigated
+permits
+the plaintiff met his duty to mitigate
+
+the plaintiff has met his duty to mitigate
+contradicts
+the plaintiff has not mitigated
+
+the plaintiff has not mitigated
+contradicts
+the plaintiff has met his duty to mitigate
+
+the plaintiff has met his duty to mitigate
+permits
+the plaintiff has n't investigated under the Code
+
+the plaintiff almost had met his duty to mitigate
+entails
+the plaintiff had almost mitigated
+
+the plaintiff had almost mitigated
+permits
+the plaintiff almost had met his duty to mitigate
+
+the plaintiff had not met his duty to mitigate
+contradicts
+the plaintiff had mitigated
+
+the plaintiff had mitigated
+contradicts
+the plaintiff had not met his duty to mitigate
+
+the plaintiff had not met his duty to mitigate
+permits
+OSHA had mitigated
+

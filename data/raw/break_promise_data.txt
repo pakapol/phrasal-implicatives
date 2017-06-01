@@ -1,0 +1,3068 @@
+Hillary Clinton had broken a promise to disclose her foundation's donors
+entails
+Hillary Clinton had n't disclosed her foundation's donors
+
+Hillary Clinton had n't disclosed her foundation's donors
+permits
+Hillary Clinton had broken a promise to disclose her foundation's donors
+
+Hillary Clinton has broken a promise to disclose her foundation's donors
+contradicts
+Hillary Clinton has disclosed her foundation's donors
+
+Hillary Clinton has disclosed her foundation's donors
+contradicts
+Hillary Clinton has broken a promise to disclose her foundation's donors
+
+Hillary Clinton has broken a promise to disclose her foundation's donors
+permits
+Oedipus has disclosed his foundation's donors
+
+Hillary Clinton has not broken a promise to disclose her foundation's donors
+entails
+Hillary Clinton has disclosed her foundation's donors
+
+Hillary Clinton has disclosed her foundation's donors
+permits
+Hillary Clinton has not broken a promise to disclose her foundation's donors
+
+Hillary Clinton has not broken a promise to disclose her foundation's donors
+permits
+Hillary Clinton has ended her marriage
+
+Hillary Clinton had never broken a promise to disclose her foundation's donors
+contradicts
+Hillary Clinton had not disclosed her foundation's donors
+
+Hillary Clinton had not disclosed her foundation's donors
+contradicts
+Hillary Clinton had never broken a promise to disclose her foundation's donors
+
+Hillary Clinton had never broken a promise to disclose her foundation's donors
+permits
+Hillary Clinton had not fulfilled the punishment over the king's murderer
+
+Hillary Clinton has broken her promise to disclose her foundation's donors
+entails
+Hillary Clinton has not disclosed her foundation's donors
+
+Hillary Clinton has not disclosed her foundation's donors
+permits
+Hillary Clinton has broken her promise to disclose her foundation's donors
+
+Hillary Clinton has broken her promise to disclose her foundation's donors
+contradicts
+Hillary Clinton has disclosed her foundation's donors
+
+Hillary Clinton has disclosed her foundation's donors
+contradicts
+Hillary Clinton has broken her promise to disclose her foundation's donors
+
+Hillary Clinton has never broken her promise to disclose her foundation's donors
+entails
+Hillary Clinton has disclosed her foundation's donors
+
+Hillary Clinton has disclosed her foundation's donors
+permits
+Hillary Clinton has never broken her promise to disclose her foundation's donors
+
+Hillary Clinton has never broken her promise to disclose her foundation's donors
+permits
+Julia has disclosed her foundation's donors
+
+Hillary Clinton almost broke her promise to disclose her foundation's donors
+contradicts
+Hillary Clinton did not disclose her foundation's donors
+
+Hillary Clinton did not disclose her foundation's donors
+contradicts
+Hillary Clinton almost broke her promise to disclose her foundation's donors
+
+Hillary Clinton almost broke her promise to disclose her foundation's donors
+permits
+Paul did n't disclose his foundation's donors
+
+Dorsey has broken a promise to promote his latest mixtape
+entails
+Dorsey has not promoted his latest mixtape
+
+Dorsey has not promoted his latest mixtape
+permits
+Dorsey has broken a promise to promote his latest mixtape
+
+Dorsey has broken a promise to promote his latest mixtape
+contradicts
+Dorsey has promoted his latest mixtape
+
+Dorsey has promoted his latest mixtape
+contradicts
+Dorsey has broken a promise to promote his latest mixtape
+
+Dorsey has broken a promise to promote his latest mixtape
+permits
+Wells Fargo has promoted its latest mixtape
+
+Dorsey did not break a promise to promote his latest mixtape
+entails
+Dorsey promoted his latest mixtape
+
+Dorsey promoted his latest mixtape
+permits
+Dorsey did not break a promise to promote his latest mixtape
+
+Dorsey almost broke a promise to promote his latest mixtape
+contradicts
+Dorsey did not promote his latest mixtape
+
+Dorsey did not promote his latest mixtape
+contradicts
+Dorsey almost broke a promise to promote his latest mixtape
+
+Dorsey almost broke a promise to promote his latest mixtape
+permits
+her boyfriend did not promote his latest mixtape
+
+Dorsey has broken his promise to promote his latest mixtape
+entails
+Dorsey has not promoted his latest mixtape
+
+Dorsey has not promoted his latest mixtape
+permits
+Dorsey has broken his promise to promote his latest mixtape
+
+Dorsey has broken his promise to promote his latest mixtape
+permits
+Dorsey has not apologized to rape victim
+
+Dorsey broke his promise to promote his latest mixtape
+contradicts
+Dorsey promoted his latest mixtape
+
+Dorsey promoted his latest mixtape
+contradicts
+Dorsey broke his promise to promote his latest mixtape
+
+Dorsey broke his promise to promote his latest mixtape
+permits
+Dorsey limited the height of a luxury condo-cum-hotel to 100 feet
+
+Dorsey has almost broken his promise to promote his latest mixtape
+entails
+Dorsey has promoted his latest mixtape
+
+Dorsey has promoted his latest mixtape
+permits
+Dorsey has almost broken his promise to promote his latest mixtape
+
+Dorsey has never broken his promise to promote his latest mixtape
+contradicts
+Dorsey has not promoted his latest mixtape
+
+Dorsey has not promoted his latest mixtape
+contradicts
+Dorsey has never broken his promise to promote his latest mixtape
+
+Dorsey has never broken his promise to promote his latest mixtape
+permits
+Wells Fargo has not promoted its latest mixtape
+
+her boyfriend had broken a promise to give up porn
+entails
+her boyfriend had n't given up porn
+
+her boyfriend had n't given up porn
+permits
+her boyfriend had broken a promise to give up porn
+
+her boyfriend had broken a promise to give up porn
+permits
+her boyfriend had n't had sex with you
+
+her boyfriend broke a promise to give up porn
+contradicts
+her boyfriend gave up porn
+
+her boyfriend gave up porn
+contradicts
+her boyfriend broke a promise to give up porn
+
+her boyfriend never had broken a promise to give up porn
+entails
+her boyfriend had given up porn
+
+her boyfriend had given up porn
+permits
+her boyfriend never had broken a promise to give up porn
+
+her boyfriend almost has broken a promise to give up porn
+contradicts
+her boyfriend has n't given up porn
+
+her boyfriend has n't given up porn
+contradicts
+her boyfriend almost has broken a promise to give up porn
+
+her boyfriend almost has broken a promise to give up porn
+permits
+Julia has n't given up porn
+
+her boyfriend has broken his promise to give up porn
+entails
+her boyfriend has n't given up porn
+
+her boyfriend has n't given up porn
+permits
+her boyfriend has broken his promise to give up porn
+
+her boyfriend has broken his promise to give up porn
+contradicts
+her boyfriend has given up porn
+
+her boyfriend has given up porn
+contradicts
+her boyfriend has broken his promise to give up porn
+
+her boyfriend never broke his promise to give up porn
+entails
+her boyfriend gave up porn
+
+her boyfriend gave up porn
+permits
+her boyfriend never broke his promise to give up porn
+
+her boyfriend has not broken his promise to give up porn
+contradicts
+her boyfriend has not given up porn
+
+her boyfriend has not given up porn
+contradicts
+her boyfriend has not broken his promise to give up porn
+
+her boyfriend has not broken his promise to give up porn
+permits
+the president has not given up porn
+
+Republicans broke a promise to include renewable energy tax credits in a new aviation bill
+entails
+Republicans did n't include renewable energy tax credits in a new aviation bill
+
+Republicans did n't include renewable energy tax credits in a new aviation bill
+permits
+Republicans broke a promise to include renewable energy tax credits in a new aviation bill
+
+Republicans broke a promise to include renewable energy tax credits in a new aviation bill
+contradicts
+Republicans included renewable energy tax credits in a new aviation bill
+
+Republicans included renewable energy tax credits in a new aviation bill
+contradicts
+Republicans broke a promise to include renewable energy tax credits in a new aviation bill
+
+Republicans had almost broken a promise to include renewable energy tax credits in a new aviation bill
+entails
+Republicans had included renewable energy tax credits in a new aviation bill
+
+Republicans had included renewable energy tax credits in a new aviation bill
+permits
+Republicans had almost broken a promise to include renewable energy tax credits in a new aviation bill
+
+Republicans have never broken a promise to include renewable energy tax credits in a new aviation bill
+contradicts
+Republicans have n't included renewable energy tax credits in a new aviation bill
+
+Republicans have n't included renewable energy tax credits in a new aviation bill
+contradicts
+Republicans have never broken a promise to include renewable energy tax credits in a new aviation bill
+
+Republicans have never broken a promise to include renewable energy tax credits in a new aviation bill
+permits
+Republicans have never given more rights to the people
+
+Republicans broke their promise to include renewable energy tax credits in a new aviation bill
+entails
+Republicans did not include renewable energy tax credits in a new aviation bill
+
+Republicans did not include renewable energy tax credits in a new aviation bill
+permits
+Republicans broke their promise to include renewable energy tax credits in a new aviation bill
+
+Republicans had broken their promise to include renewable energy tax credits in a new aviation bill
+contradicts
+Republicans had included renewable energy tax credits in a new aviation bill
+
+Republicans had included renewable energy tax credits in a new aviation bill
+contradicts
+Republicans had broken their promise to include renewable energy tax credits in a new aviation bill
+
+Republicans never broke their promise to include renewable energy tax credits in a new aviation bill
+entails
+Republicans included renewable energy tax credits in a new aviation bill
+
+Republicans included renewable energy tax credits in a new aviation bill
+permits
+Republicans never broke their promise to include renewable energy tax credits in a new aviation bill
+
+Republicans never broke their promise to include renewable energy tax credits in a new aviation bill
+permits
+Vikings included renewable energy tax credits in a new aviation bill
+
+Republicans did n't break their promise to include renewable energy tax credits in a new aviation bill
+contradicts
+Republicans did not include renewable energy tax credits in a new aviation bill
+
+Republicans did not include renewable energy tax credits in a new aviation bill
+contradicts
+Republicans did n't break their promise to include renewable energy tax credits in a new aviation bill
+
+Reagan has broken a promise to hold talks
+entails
+Reagan has n't held talks
+
+Reagan has n't held talks
+permits
+Reagan has broken a promise to hold talks
+
+Reagan has broken a promise to hold talks
+contradicts
+Reagan has held talks
+
+Reagan has held talks
+contradicts
+Reagan has broken a promise to hold talks
+
+Reagan did n't break a promise to hold talks
+entails
+Reagan held talks
+
+Reagan held talks
+permits
+Reagan did n't break a promise to hold talks
+
+Reagan had not broken a promise to hold talks
+contradicts
+Reagan had n't held talks
+
+Reagan had n't held talks
+contradicts
+Reagan had not broken a promise to hold talks
+
+Reagan had broken his promise to hold talks
+entails
+Reagan had not held talks
+
+Reagan had not held talks
+permits
+Reagan had broken his promise to hold talks
+
+Reagan had broken his promise to hold talks
+permits
+her boyfriend had not held talks
+
+Reagan broke his promise to hold talks
+contradicts
+Reagan held talks
+
+Reagan held talks
+contradicts
+Reagan broke his promise to hold talks
+
+Reagan broke his promise to hold talks
+permits
+Reagan promoted his latest mixtape
+
+Reagan did not break his promise to hold talks
+entails
+Reagan held talks
+
+Reagan held talks
+permits
+Reagan did not break his promise to hold talks
+
+Reagan had n't broken his promise to hold talks
+contradicts
+Reagan had not held talks
+
+Reagan had not held talks
+contradicts
+Reagan had n't broken his promise to hold talks
+
+the president has broken a promise to help homeowners facing foreclosure
+entails
+the president has not helped homeowners facing foreclosure
+
+the president has not helped homeowners facing foreclosure
+permits
+the president has broken a promise to help homeowners facing foreclosure
+
+the president broke a promise to help homeowners facing foreclosure
+contradicts
+the president helped homeowners facing foreclosure
+
+the president helped homeowners facing foreclosure
+contradicts
+the president broke a promise to help homeowners facing foreclosure
+
+the president broke a promise to help homeowners facing foreclosure
+permits
+the president stayed by his side
+
+the president never broke a promise to help homeowners facing foreclosure
+entails
+the president helped homeowners facing foreclosure
+
+the president helped homeowners facing foreclosure
+permits
+the president never broke a promise to help homeowners facing foreclosure
+
+the president never broke a promise to help homeowners facing foreclosure
+permits
+Flake helped homeowners facing foreclosure
+
+the president has not broken a promise to help homeowners facing foreclosure
+contradicts
+the president has n't helped homeowners facing foreclosure
+
+the president has n't helped homeowners facing foreclosure
+contradicts
+the president has not broken a promise to help homeowners facing foreclosure
+
+the president has not broken a promise to help homeowners facing foreclosure
+permits
+the president has n't ended his marriage
+
+the president broke his promise to help homeowners facing foreclosure
+entails
+the president did not help homeowners facing foreclosure
+
+the president did not help homeowners facing foreclosure
+permits
+the president broke his promise to help homeowners facing foreclosure
+
+the president broke his promise to help homeowners facing foreclosure
+permits
+the president did n't give more rights to the people
+
+the president has broken his promise to help homeowners facing foreclosure
+contradicts
+the president has helped homeowners facing foreclosure
+
+the president has helped homeowners facing foreclosure
+contradicts
+the president has broken his promise to help homeowners facing foreclosure
+
+the president did n't break his promise to help homeowners facing foreclosure
+entails
+the president helped homeowners facing foreclosure
+
+the president helped homeowners facing foreclosure
+permits
+the president did n't break his promise to help homeowners facing foreclosure
+
+the president did n't break his promise to help homeowners facing foreclosure
+permits
+Paul helped homeowners facing foreclosure
+
+the president had never broken his promise to help homeowners facing foreclosure
+contradicts
+the president had not helped homeowners facing foreclosure
+
+the president had not helped homeowners facing foreclosure
+contradicts
+the president had never broken his promise to help homeowners facing foreclosure
+
+the president had never broken his promise to help homeowners facing foreclosure
+permits
+Paul never had helped homeowners facing foreclosure
+
+the Brooklyn Bridge Park Corp. has broken a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+entails
+the Brooklyn Bridge Park Corp. has n't limited the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. has n't limited the height of a luxury condo-cum-hotel to 100 feet
+permits
+the Brooklyn Bridge Park Corp. has broken a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. has broken a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+permits
+the Brooklyn Bridge Park Corp. has n't brought their children back in August last year
+
+the Brooklyn Bridge Park Corp. broke a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+contradicts
+the Brooklyn Bridge Park Corp. limited the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. limited the height of a luxury condo-cum-hotel to 100 feet
+contradicts
+the Brooklyn Bridge Park Corp. broke a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. broke a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+permits
+he limited the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. did n't break a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+entails
+the Brooklyn Bridge Park Corp. limited the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. limited the height of a luxury condo-cum-hotel to 100 feet
+permits
+the Brooklyn Bridge Park Corp. did n't break a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. did n't break a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+permits
+Art Briles limited the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. has n't broken a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+contradicts
+the Brooklyn Bridge Park Corp. has not limited the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. has not limited the height of a luxury condo-cum-hotel to 100 feet
+contradicts
+the Brooklyn Bridge Park Corp. has n't broken a promise to limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. broke its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+entails
+the Brooklyn Bridge Park Corp. did not limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. did not limit the height of a luxury condo-cum-hotel to 100 feet
+permits
+the Brooklyn Bridge Park Corp. broke its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. has broken its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+contradicts
+the Brooklyn Bridge Park Corp. has limited the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. has limited the height of a luxury condo-cum-hotel to 100 feet
+contradicts
+the Brooklyn Bridge Park Corp. has broken its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. has broken its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+permits
+the Brooklyn Bridge Park Corp. has held talks
+
+the Brooklyn Bridge Park Corp. never broke its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+entails
+the Brooklyn Bridge Park Corp. limited the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. limited the height of a luxury condo-cum-hotel to 100 feet
+permits
+the Brooklyn Bridge Park Corp. never broke its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. did n't break its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+contradicts
+the Brooklyn Bridge Park Corp. did not limit the height of a luxury condo-cum-hotel to 100 feet
+
+the Brooklyn Bridge Park Corp. did not limit the height of a luxury condo-cum-hotel to 100 feet
+contradicts
+the Brooklyn Bridge Park Corp. did n't break its promise to limit the height of a luxury condo-cum-hotel to 100 feet
+
+Charles I has broken a promise to give more rights to the people
+entails
+Charles I has n't given more rights to the people
+
+Charles I has n't given more rights to the people
+permits
+Charles I has broken a promise to give more rights to the people
+
+Charles I had broken a promise to give more rights to the people
+contradicts
+Charles I had given more rights to the people
+
+Charles I had given more rights to the people
+contradicts
+Charles I had broken a promise to give more rights to the people
+
+Charles I had broken a promise to give more rights to the people
+permits
+Charles I had given up porn
+
+Charles I almost broke a promise to give more rights to the people
+entails
+Charles I gave more rights to the people
+
+Charles I gave more rights to the people
+permits
+Charles I almost broke a promise to give more rights to the people
+
+Charles I almost broke a promise to give more rights to the people
+permits
+Charles I included renewable energy tax credits in a new aviation bill
+
+Charles I had never broken a promise to give more rights to the people
+contradicts
+Charles I had not given more rights to the people
+
+Charles I had not given more rights to the people
+contradicts
+Charles I had never broken a promise to give more rights to the people
+
+Charles I had never broken a promise to give more rights to the people
+permits
+Paul had not given more rights to the people
+
+Charles I broke his promise to give more rights to the people
+entails
+Charles I did not give more rights to the people
+
+Charles I did not give more rights to the people
+permits
+Charles I broke his promise to give more rights to the people
+
+Charles I broke his promise to give more rights to the people
+permits
+Charles I did n't promote his latest mixtape
+
+Charles I had broken his promise to give more rights to the people
+contradicts
+Charles I had given more rights to the people
+
+Charles I had given more rights to the people
+contradicts
+Charles I had broken his promise to give more rights to the people
+
+Charles I did n't break his promise to give more rights to the people
+entails
+Charles I gave more rights to the people
+
+Charles I gave more rights to the people
+permits
+Charles I did n't break his promise to give more rights to the people
+
+Charles I had never broken his promise to give more rights to the people
+contradicts
+Charles I had n't given more rights to the people
+
+Charles I had n't given more rights to the people
+contradicts
+Charles I had never broken his promise to give more rights to the people
+
+Christie broke a promise to fund the system
+entails
+Christie did not fund the system
+
+Christie did not fund the system
+permits
+Christie broke a promise to fund the system
+
+Christie broke a promise to fully fund the system
+entails
+Christie did not fully fund the system
+
+Christie did not fully fund the system
+permits
+Christie broke a promise to fully fund the system
+
+Christie broke a promise to fully fund the system
+permits
+Christie did not help boost her own music career
+
+Christie broke a promise to fully fund the system
+permits
+Christie did n't have sex with you
+
+Christie had broken a promise to fund the system
+contradicts
+Christie had funded the system
+
+Christie had funded the system
+contradicts
+Christie had broken a promise to fund the system
+
+Christie had broken a promise to fund the system
+permits
+Hillary Clinton had funded the system
+
+Christie had broken a promise to fund the system
+permits
+she had fully funded the system
+
+Christie had broken a promise to fully fund the system
+contradicts
+Christie had fully funded the system
+
+Christie had fully funded the system
+contradicts
+Christie had broken a promise to fully fund the system
+
+Christie had almost broken a promise to fund the system
+entails
+Christie had funded the system
+
+Christie had funded the system
+permits
+Christie had almost broken a promise to fund the system
+
+Christie had almost broken a promise to fund the system
+permits
+Christie had ended his marriage
+
+Christie had almost broken a promise to fund the system
+permits
+Christie had ported it
+
+Christie had almost broken a promise to fully fund the system
+entails
+Christie had fully funded the system
+
+Christie had fully funded the system
+permits
+Christie had almost broken a promise to fully fund the system
+
+Christie had almost broken a promise to fund the system
+contradicts
+Christie had never funded the system
+
+Christie had never funded the system
+contradicts
+Christie had almost broken a promise to fund the system
+
+Christie had never broken a promise to fully fund the system
+contradicts
+Christie had n't fully funded the system
+
+Christie had n't fully funded the system
+contradicts
+Christie had never broken a promise to fully fund the system
+
+Christie broke his promise to fund the system
+entails
+Christie did n't fund the system
+
+Christie did n't fund the system
+permits
+Christie broke his promise to fund the system
+
+Christie broke his promise to fund the system
+permits
+Christie did n't get the support of the greens
+
+Christie broke his promise to fund the system
+permits
+Christie did not strengthen background checks
+
+Christie broke his promise to fully fund the system
+entails
+Christie did not fully fund the system
+
+Christie did not fully fund the system
+permits
+Christie broke his promise to fully fund the system
+
+Christie has broken his promise to fund the system
+contradicts
+Christie has funded the system
+
+Christie has funded the system
+contradicts
+Christie has broken his promise to fund the system
+
+Christie has broken his promise to fully fund the system
+contradicts
+Christie has fully funded the system
+
+Christie has fully funded the system
+contradicts
+Christie has broken his promise to fully fund the system
+
+Christie has broken his promise to fully fund the system
+permits
+Christie has limited the height of a luxury condo-cum-hotel to 100 feet
+
+Christie has broken his promise to fully fund the system
+permits
+Christie has disclosed his foundation's donors
+
+Christie never had broken his promise to fund the system
+entails
+Christie had funded the system
+
+Christie had funded the system
+permits
+Christie never had broken his promise to fund the system
+
+Christie never had broken his promise to fund the system
+permits
+the husband had funded the system
+
+Christie never had broken his promise to fund the system
+permits
+Hillary Clinton had fully funded the system
+
+Christie had almost broken his promise to fully fund the system
+entails
+Christie had fully funded the system
+
+Christie had fully funded the system
+permits
+Christie had almost broken his promise to fully fund the system
+
+Christie had almost broken his promise to fully fund the system
+permits
+the club had funded the system
+
+Christie had almost broken his promise to fully fund the system
+permits
+Paul had fully funded the system
+
+Christie has not broken his promise to fund the system
+contradicts
+Christie has not funded the system
+
+Christie has not funded the system
+contradicts
+Christie has not broken his promise to fund the system
+
+Christie has not broken his promise to fund the system
+permits
+the husband has n't funded the system
+
+Christie has not broken his promise to fund the system
+permits
+Dorsey has n't fully funded the system
+
+Christie has almost broken his promise to fully fund the system
+contradicts
+Christie has almost fully funded the system
+
+Christie has almost fully funded the system
+contradicts
+Christie has almost broken his promise to fully fund the system
+
+Christie has almost broken his promise to fully fund the system
+permits
+the husband has n't funded the system
+
+Christie has almost broken his promise to fully fund the system
+permits
+you have almost fully funded the system
+
+he had broken a promise to help boost her own music career
+entails
+he had n't helped boost her own music career
+
+he had n't helped boost her own music career
+permits
+he had broken a promise to help boost her own music career
+
+he had broken a promise to help boost her own music career
+permits
+Julia had n't helped boost her own music career
+
+he broke a promise to help boost her own music career
+contradicts
+he helped boost her own music career
+
+he helped boost her own music career
+contradicts
+he broke a promise to help boost her own music career
+
+he broke a promise to help boost her own music career
+permits
+the casino helped boost her own music career
+
+he had n't broken a promise to help boost her own music career
+entails
+he had helped boost her own music career
+
+he had helped boost her own music career
+permits
+he had n't broken a promise to help boost her own music career
+
+he has almost broken a promise to help boost her own music career
+contradicts
+he has n't helped boost her own music career
+
+he has n't helped boost her own music career
+contradicts
+he has almost broken a promise to help boost her own music career
+
+he has almost broken a promise to help boost her own music career
+permits
+he almost has been mine
+
+he broke his promise to help boost her own music career
+entails
+he did not help boost her own music career
+
+he did not help boost her own music career
+permits
+he broke his promise to help boost her own music career
+
+he has broken his promise to help boost her own music career
+contradicts
+he has helped boost her own music career
+
+he has helped boost her own music career
+contradicts
+he has broken his promise to help boost her own music career
+
+he has broken his promise to help boost her own music career
+permits
+he has stayed by his side
+
+he has not broken his promise to help boost her own music career
+entails
+he has helped boost her own music career
+
+he has helped boost her own music career
+permits
+he has not broken his promise to help boost her own music career
+
+he never had broken his promise to help boost her own music career
+contradicts
+he had never helped boost her own music career
+
+he had never helped boost her own music career
+contradicts
+he never had broken his promise to help boost her own music career
+
+she had broken a promise to have sex with you
+entails
+she had n't had sex with you
+
+she had n't had sex with you
+permits
+she had broken a promise to have sex with you
+
+she had broken a promise to have sex with you
+permits
+Art Briles had n't had sex with you
+
+she had broken a promise to have sex with you
+contradicts
+she had had sex with you
+
+she had had sex with you
+contradicts
+she had broken a promise to have sex with you
+
+she almost broke a promise to have sex with you
+entails
+she had sex with you
+
+she had sex with you
+permits
+she almost broke a promise to have sex with you
+
+she almost broke a promise to have sex with you
+permits
+she held talks
+
+she never broke a promise to have sex with you
+contradicts
+she did n't have sex with you
+
+she did n't have sex with you
+contradicts
+she never broke a promise to have sex with you
+
+she never broke a promise to have sex with you
+permits
+she did not pay out the bonus
+
+she has broken her promise to have sex with you
+entails
+she has n't had sex with you
+
+she has n't had sex with you
+permits
+she has broken her promise to have sex with you
+
+she has broken her promise to have sex with you
+contradicts
+she has had sex with you
+
+she has had sex with you
+contradicts
+she has broken her promise to have sex with you
+
+she has broken her promise to have sex with you
+permits
+the adult has had sex with you
+
+she almost broke her promise to have sex with you
+entails
+she had sex with you
+
+she had sex with you
+permits
+she almost broke her promise to have sex with you
+
+she had never broken her promise to have sex with you
+contradicts
+she had n't had sex with you
+
+she had n't had sex with you
+contradicts
+she had never broken her promise to have sex with you
+
+they broke a promise to port it
+entails
+they did not port it
+
+they did not port it
+permits
+they broke a promise to port it
+
+they have broken a promise to port it
+contradicts
+they have ported it
+
+they have ported it
+contradicts
+they have broken a promise to port it
+
+they have broken a promise to port it
+permits
+they have given up porn
+
+they have not broken a promise to port it
+entails
+they have ported it
+
+they have ported it
+permits
+they have not broken a promise to port it
+
+they had never broken a promise to port it
+contradicts
+they had never ported it
+
+they had never ported it
+contradicts
+they had never broken a promise to port it
+
+they had never broken a promise to port it
+permits
+Vikings had n't ported it
+
+they have broken their promise to port it
+entails
+they have n't ported it
+
+they have n't ported it
+permits
+they have broken their promise to port it
+
+they have broken their promise to port it
+permits
+they have n't kept the Beatles' break-up secret
+
+they have broken their promise to port it
+contradicts
+they have ported it
+
+they have ported it
+contradicts
+they have broken their promise to port it
+
+they have broken their promise to port it
+permits
+Vikings have ported it
+
+they almost broke their promise to port it
+entails
+they ported it
+
+they ported it
+permits
+they almost broke their promise to port it
+
+they almost broke their promise to port it
+permits
+they picked them up after school
+
+they had never broken their promise to port it
+contradicts
+they had never ported it
+
+they had never ported it
+contradicts
+they had never broken their promise to port it
+
+they had never broken their promise to port it
+permits
+Vikings had not ported it
+
+he has broken a promise to see her again
+entails
+he has not seen her again
+
+he has not seen her again
+permits
+he has broken a promise to see her again
+
+he has broken a promise to see her again
+permits
+he has not gotten the support of the greens
+
+he has broken a promise to see her again
+contradicts
+he has seen her again
+
+he has seen her again
+contradicts
+he has broken a promise to see her again
+
+he has not broken a promise to see her again
+entails
+he has seen her again
+
+he has seen her again
+permits
+he has not broken a promise to see her again
+
+he has not broken a promise to see her again
+permits
+he has gotten the support of the greens
+
+he had never broken a promise to see her again
+contradicts
+he had not seen her again
+
+he had not seen her again
+contradicts
+he had never broken a promise to see her again
+
+he had never broken a promise to see her again
+permits
+the Brooklyn Bridge Park Corp. had never seen her again
+
+he has broken his promise to see her again
+entails
+he has n't seen her again
+
+he has n't seen her again
+permits
+he has broken his promise to see her again
+
+he has broken his promise to see her again
+permits
+Reagan has not seen her again
+
+he had broken his promise to see her again
+contradicts
+he had seen her again
+
+he had seen her again
+contradicts
+he had broken his promise to see her again
+
+he had broken his promise to see her again
+permits
+he had given up porn
+
+he never broke his promise to see her again
+entails
+he saw her again
+
+he saw her again
+permits
+he never broke his promise to see her again
+
+he had n't broken his promise to see her again
+contradicts
+he had not seen her again
+
+he had not seen her again
+contradicts
+he had n't broken his promise to see her again
+
+he had n't broken his promise to see her again
+permits
+the husband had not seen her again
+
+Ea, the cleverest god, has broken the promise to keep this secret
+entails
+Ea, the cleverest god, has not kept this secret
+
+Ea, the cleverest god, has not kept this secret
+permits
+Ea, the cleverest god, has broken the promise to keep this secret
+
+Ea, the cleverest god, has broken the promise to keep this secret
+permits
+you have not kept this secret
+
+Ea, the cleverest god, had broken the promise to keep this secret
+contradicts
+Ea, the cleverest god, had kept this secret
+
+Ea, the cleverest god, had kept this secret
+contradicts
+Ea, the cleverest god, had broken the promise to keep this secret
+
+Ea, the cleverest god, had not broken the promise to keep this secret
+entails
+Ea, the cleverest god, had kept this secret
+
+Ea, the cleverest god, had kept this secret
+permits
+Ea, the cleverest god, had not broken the promise to keep this secret
+
+Ea, the cleverest god, had not broken the promise to keep this secret
+permits
+Paul had kept this secret
+
+Ea, the cleverest god, had n't broken the promise to keep this secret
+contradicts
+Ea, the cleverest god, had not kept this secret
+
+Ea, the cleverest god, had not kept this secret
+contradicts
+Ea, the cleverest god, had n't broken the promise to keep this secret
+
+Ea, the cleverest god, had n't broken the promise to keep this secret
+permits
+I had n't kept this secret
+
+Ea, the cleverest god, has broken his promise to keep this secret
+entails
+Ea, the cleverest god, has not kept this secret
+
+Ea, the cleverest god, has not kept this secret
+permits
+Ea, the cleverest god, has broken his promise to keep this secret
+
+Ea, the cleverest god, has broken his promise to keep this secret
+contradicts
+Ea, the cleverest god, has kept this secret
+
+Ea, the cleverest god, has kept this secret
+contradicts
+Ea, the cleverest god, has broken his promise to keep this secret
+
+Ea, the cleverest god, did not break his promise to keep this secret
+entails
+Ea, the cleverest god, kept this secret
+
+Ea, the cleverest god, kept this secret
+permits
+Ea, the cleverest god, did not break his promise to keep this secret
+
+Ea, the cleverest god, did not break his promise to keep this secret
+permits
+Ea, the cleverest god, stayed by his side
+
+Ea, the cleverest god, has not broken his promise to keep this secret
+contradicts
+Ea, the cleverest god, has not kept this secret
+
+Ea, the cleverest god, has not kept this secret
+contradicts
+Ea, the cleverest god, has not broken his promise to keep this secret
+
+she had broken the promise to love him forever
+entails
+she had not loved him forever
+
+she had not loved him forever
+permits
+she had broken the promise to love him forever
+
+she had broken the promise to love him forever
+permits
+she had not posted every two days
+
+she had broken the promise to love him forever
+contradicts
+she had loved him forever
+
+she had loved him forever
+contradicts
+she had broken the promise to love him forever
+
+she has n't broken the promise to love him forever
+entails
+she has loved him forever
+
+she has loved him forever
+permits
+she has n't broken the promise to love him forever
+
+she has n't broken the promise to love him forever
+permits
+Julia has loved him forever
+
+she had n't broken the promise to love him forever
+contradicts
+she had n't loved him forever
+
+she had n't loved him forever
+contradicts
+she had n't broken the promise to love him forever
+
+she had n't broken the promise to love him forever
+permits
+the casino had n't loved him forever
+
+she has broken her promise to love him forever
+entails
+she has not loved him forever
+
+she has not loved him forever
+permits
+she has broken her promise to love him forever
+
+she had broken her promise to love him forever
+contradicts
+she had loved him forever
+
+she had loved him forever
+contradicts
+she had broken her promise to love him forever
+
+she has n't broken her promise to love him forever
+entails
+she has loved him forever
+
+she has loved him forever
+permits
+she has n't broken her promise to love him forever
+
+she almost broke her promise to love him forever
+contradicts
+she did not love him forever
+
+she did not love him forever
+contradicts
+she almost broke her promise to love him forever
+
+they have broken the promise to pass a Freedom of Information law
+entails
+they have not passed a Freedom of Information law
+
+they have not passed a Freedom of Information law
+permits
+they have broken the promise to pass a Freedom of Information law
+
+they have broken the promise to pass a Freedom of Information law
+permits
+they have n't fulfilled the punishment over the king's murderer
+
+they have broken the promise to pass a Freedom of Information law
+permits
+they have not let him go
+
+they have even broken the promise to pass a Freedom of Information law
+entails
+they have n't passed a Freedom of Information law
+
+they have n't passed a Freedom of Information law
+permits
+they have even broken the promise to pass a Freedom of Information law
+
+they have even broken the promise to pass a Freedom of Information law
+permits
+we have not passed a Freedom of Information law
+
+they have even broken the promise to pass a Freedom of Information law
+permits
+Republicans have n't passed a Freedom of Information law
+
+they have broken the promise to pass a Freedom of Information law
+contradicts
+they have passed a Freedom of Information law
+
+they have passed a Freedom of Information law
+contradicts
+they have broken the promise to pass a Freedom of Information law
+
+they have even broken the promise to pass a Freedom of Information law
+contradicts
+they have passed a Freedom of Information law
+
+they have passed a Freedom of Information law
+contradicts
+they have even broken the promise to pass a Freedom of Information law
+
+they have even broken the promise to pass a Freedom of Information law
+permits
+they have ended their marriage
+
+they have even broken the promise to pass a Freedom of Information law
+permits
+they have had sex with you
+
+they had n't broken the promise to pass a Freedom of Information law
+entails
+they had passed a Freedom of Information law
+
+they had passed a Freedom of Information law
+permits
+they had n't broken the promise to pass a Freedom of Information law
+
+they had n't even broken the promise to pass a Freedom of Information law
+entails
+they had passed a Freedom of Information law
+
+they had passed a Freedom of Information law
+permits
+they had n't even broken the promise to pass a Freedom of Information law
+
+they had n't even broken the promise to pass a Freedom of Information law
+permits
+we had passed a Freedom of Information law
+
+they had n't even broken the promise to pass a Freedom of Information law
+permits
+we had passed a Freedom of Information law
+
+they did not break the promise to pass a Freedom of Information law
+contradicts
+they did n't pass a Freedom of Information law
+
+they did n't pass a Freedom of Information law
+contradicts
+they did not break the promise to pass a Freedom of Information law
+
+they did not break the promise to pass a Freedom of Information law
+permits
+Vikings did not pass a Freedom of Information law
+
+they did not break the promise to pass a Freedom of Information law
+permits
+we never passed a Freedom of Information law
+
+they never even broke the promise to pass a Freedom of Information law
+contradicts
+they never passed a Freedom of Information law
+
+they never passed a Freedom of Information law
+contradicts
+they never even broke the promise to pass a Freedom of Information law
+
+they broke their promise to pass a Freedom of Information law
+entails
+they did n't pass a Freedom of Information law
+
+they did n't pass a Freedom of Information law
+permits
+they broke their promise to pass a Freedom of Information law
+
+they even broke their promise to pass a Freedom of Information law
+entails
+they did n't pass a Freedom of Information law
+
+they did n't pass a Freedom of Information law
+permits
+they even broke their promise to pass a Freedom of Information law
+
+they even broke their promise to pass a Freedom of Information law
+permits
+we did n't pass a Freedom of Information law
+
+they even broke their promise to pass a Freedom of Information law
+permits
+Vikings did n't pass a Freedom of Information law
+
+they had broken their promise to pass a Freedom of Information law
+contradicts
+they had passed a Freedom of Information law
+
+they had passed a Freedom of Information law
+contradicts
+they had broken their promise to pass a Freedom of Information law
+
+they had even broken their promise to pass a Freedom of Information law
+contradicts
+they had passed a Freedom of Information law
+
+they had passed a Freedom of Information law
+contradicts
+they had even broken their promise to pass a Freedom of Information law
+
+they had even broken their promise to pass a Freedom of Information law
+permits
+they had limited the height of a luxury condo-cum-hotel to 100 feet
+
+they had even broken their promise to pass a Freedom of Information law
+permits
+they had funded the system
+
+they had n't broken their promise to pass a Freedom of Information law
+entails
+they had passed a Freedom of Information law
+
+they had passed a Freedom of Information law
+permits
+they had n't broken their promise to pass a Freedom of Information law
+
+they had never even broken their promise to pass a Freedom of Information law
+entails
+they had passed a Freedom of Information law
+
+they had passed a Freedom of Information law
+permits
+they had never even broken their promise to pass a Freedom of Information law
+
+they almost broke their promise to pass a Freedom of Information law
+contradicts
+they did not pass a Freedom of Information law
+
+they did not pass a Freedom of Information law
+contradicts
+they almost broke their promise to pass a Freedom of Information law
+
+they almost broke their promise to pass a Freedom of Information law
+permits
+they did n't stay just friends
+
+they almost broke their promise to pass a Freedom of Information law
+permits
+they did not return with a treat
+
+they did n't even break their promise to pass a Freedom of Information law
+contradicts
+they did n't pass a Freedom of Information law
+
+they did n't pass a Freedom of Information law
+contradicts
+they did n't even break their promise to pass a Freedom of Information law
+
+the adult has broken the promise to return with a treat
+entails
+the adult has not returned with a treat
+
+the adult has not returned with a treat
+permits
+the adult has broken the promise to return with a treat
+
+the adult has broken the promise to return with a treat
+permits
+the adult has not ended her marriage
+
+the adult has broken the promise to return with a treat
+contradicts
+the adult has returned with a treat
+
+the adult has returned with a treat
+contradicts
+the adult has broken the promise to return with a treat
+
+the adult has not broken the promise to return with a treat
+entails
+the adult has returned with a treat
+
+the adult has returned with a treat
+permits
+the adult has not broken the promise to return with a treat
+
+the adult has n't broken the promise to return with a treat
+contradicts
+the adult has not returned with a treat
+
+the adult has not returned with a treat
+contradicts
+the adult has n't broken the promise to return with a treat
+
+the adult broke her promise to return with a treat
+entails
+the adult did not return with a treat
+
+the adult did not return with a treat
+permits
+the adult broke her promise to return with a treat
+
+the adult broke her promise to return with a treat
+permits
+Wells Fargo did n't return with a treat
+
+the adult broke her promise to return with a treat
+contradicts
+the adult returned with a treat
+
+the adult returned with a treat
+contradicts
+the adult broke her promise to return with a treat
+
+the adult broke her promise to return with a treat
+permits
+the adult posted every two days
+
+the adult did not break her promise to return with a treat
+entails
+the adult returned with a treat
+
+the adult returned with a treat
+permits
+the adult did not break her promise to return with a treat
+
+the adult did not break her promise to return with a treat
+permits
+the adult strengthened background checks
+
+the adult had n't broken her promise to return with a treat
+contradicts
+the adult had n't returned with a treat
+
+the adult had n't returned with a treat
+contradicts
+the adult had n't broken her promise to return with a treat
+
+the husband has broken the promise to bring their children back in August last year
+entails
+the husband has n't brought their children back in August last year
+
+the husband has n't brought their children back in August last year
+permits
+the husband has broken the promise to bring their children back in August last year
+
+the husband broke the promise to bring their children back in August last year
+contradicts
+the husband brought their children back in August last year
+
+the husband brought their children back in August last year
+contradicts
+the husband broke the promise to bring their children back in August last year
+
+the husband broke the promise to bring their children back in August last year
+permits
+ATT landline brought their children back in August last year
+
+the husband did not break the promise to bring their children back in August last year
+entails
+the husband brought their children back in August last year
+
+the husband brought their children back in August last year
+permits
+the husband did not break the promise to bring their children back in August last year
+
+the husband did not break the promise to bring their children back in August last year
+permits
+Dorsey brought their children back in August last year
+
+the husband has n't broken the promise to bring their children back in August last year
+contradicts
+the husband has n't brought their children back in August last year
+
+the husband has n't brought their children back in August last year
+contradicts
+the husband has n't broken the promise to bring their children back in August last year
+
+the husband broke his promise to bring their children back in August last year
+entails
+the husband did n't bring their children back in August last year
+
+the husband did n't bring their children back in August last year
+permits
+the husband broke his promise to bring their children back in August last year
+
+the husband has broken his promise to bring their children back in August last year
+contradicts
+the husband has brought their children back in August last year
+
+the husband has brought their children back in August last year
+contradicts
+the husband has broken his promise to bring their children back in August last year
+
+the husband had never broken his promise to bring their children back in August last year
+entails
+the husband had brought their children back in August last year
+
+the husband had brought their children back in August last year
+permits
+the husband had never broken his promise to bring their children back in August last year
+
+the husband did not break his promise to bring their children back in August last year
+contradicts
+the husband did n't bring their children back in August last year
+
+the husband did n't bring their children back in August last year
+contradicts
+the husband did not break his promise to bring their children back in August last year
+
+the husband did not break his promise to bring their children back in August last year
+permits
+you did not bring their children back in August last year
+
+you broke the promise to be mine
+entails
+you were n't mine
+
+you were n't mine
+permits
+you broke the promise to be mine
+
+you broke the promise to be mine
+permits
+the president was n't mine
+
+you broke the promise to be mine
+contradicts
+you were mine
+
+you were mine
+contradicts
+you broke the promise to be mine
+
+you broke the promise to be mine
+permits
+you helped homeowners facing foreclosure
+
+you did n't break the promise to be mine
+entails
+you were mine
+
+you were mine
+permits
+you did n't break the promise to be mine
+
+you never broke the promise to be mine
+contradicts
+you were not mine
+
+you were not mine
+contradicts
+you never broke the promise to be mine
+
+you broke your promise to be mine
+entails
+you were not mine
+
+you were not mine
+permits
+you broke your promise to be mine
+
+you broke your promise to be mine
+permits
+you did n't have sex with you
+
+you have broken your promise to be mine
+contradicts
+you have been mine
+
+you have been mine
+contradicts
+you have broken your promise to be mine
+
+you almost broke your promise to be mine
+entails
+you were mine
+
+you were mine
+permits
+you almost broke your promise to be mine
+
+you have n't broken your promise to be mine
+contradicts
+you have not been mine
+
+you have not been mine
+contradicts
+you have n't broken your promise to be mine
+
+you have n't broken your promise to be mine
+permits
+you have n't opened their investigation
+
+you broke the promise to end your marriage
+entails
+you did not end your marriage
+
+you did not end your marriage
+permits
+you broke the promise to end your marriage
+
+you once again broke the promise to end your marriage
+entails
+you did n't end your marriage
+
+you did n't end your marriage
+permits
+you once again broke the promise to end your marriage
+
+you broke the promise to end your marriage
+contradicts
+you ended your marriage
+
+you ended your marriage
+contradicts
+you broke the promise to end your marriage
+
+you broke the promise to end your marriage
+permits
+Charles I ended his marriage
+
+you broke the promise to end your marriage
+permits
+her boyfriend ended his marriage
+
+you once again broke the promise to end your marriage
+contradicts
+you ended your marriage
+
+you ended your marriage
+contradicts
+you once again broke the promise to end your marriage
+
+you once again broke the promise to end your marriage
+permits
+you postponed the trustee's sale
+
+you once again broke the promise to end your marriage
+permits
+you funded the system
+
+you had never broken the promise to end your marriage
+entails
+you had ended your marriage
+
+you had ended your marriage
+permits
+you had never broken the promise to end your marriage
+
+you had never broken the promise to end your marriage
+permits
+the husband had ended his marriage
+
+you had never broken the promise to end your marriage
+permits
+Paul had ended his marriage
+
+you had never once again broken the promise to end your marriage
+entails
+you had ended your marriage
+
+you had ended your marriage
+permits
+you had never once again broken the promise to end your marriage
+
+you had never once again broken the promise to end your marriage
+permits
+Christie had ended his marriage
+
+you had never once again broken the promise to end your marriage
+permits
+Reagan had ended his marriage
+
+you did n't break the promise to end your marriage
+contradicts
+you did not end your marriage
+
+you did not end your marriage
+contradicts
+you did n't break the promise to end your marriage
+
+you did n't once again break the promise to end your marriage
+contradicts
+you did not end your marriage
+
+you did not end your marriage
+contradicts
+you did n't once again break the promise to end your marriage
+
+you broke your promise to end your marriage
+entails
+you did n't end your marriage
+
+you did n't end your marriage
+permits
+you broke your promise to end your marriage
+
+you broke your promise to end your marriage
+permits
+the casino did not end its marriage
+
+you broke your promise to end your marriage
+permits
+the president did n't end his marriage
+
+you once again broke your promise to end your marriage
+entails
+you did not end your marriage
+
+you did not end your marriage
+permits
+you once again broke your promise to end your marriage
+
+you have broken your promise to end your marriage
+contradicts
+you have ended your marriage
+
+you have ended your marriage
+contradicts
+you have broken your promise to end your marriage
+
+you have once again broken your promise to end your marriage
+contradicts
+you have ended your marriage
+
+you have ended your marriage
+contradicts
+you have once again broken your promise to end your marriage
+
+you have once again broken your promise to end your marriage
+permits
+Christie has ended his marriage
+
+you have once again broken your promise to end your marriage
+permits
+Christie has ended his marriage
+
+you had never broken your promise to end your marriage
+entails
+you had ended your marriage
+
+you had ended your marriage
+permits
+you had never broken your promise to end your marriage
+
+you never had once again broken your promise to end your marriage
+entails
+you had ended your marriage
+
+you had ended your marriage
+permits
+you never had once again broken your promise to end your marriage
+
+you almost broke your promise to end your marriage
+contradicts
+you never ended your marriage
+
+you never ended your marriage
+contradicts
+you almost broke your promise to end your marriage
+
+you almost broke your promise to end your marriage
+permits
+I did n't end my marriage
+
+you almost broke your promise to end your marriage
+permits
+ATT landline did n't end its marriage
+
+you never once again broke your promise to end your marriage
+contradicts
+you did not end your marriage
+
+you did not end your marriage
+contradicts
+you never once again broke your promise to end your marriage
+
+you never once again broke your promise to end your marriage
+permits
+the casino never ended its marriage
+
+you never once again broke your promise to end your marriage
+permits
+Reagan never ended his marriage
+
+Paul broke the promise to keep the Beatles' break-up secret
+entails
+Paul did n't keep the Beatles' break-up secret
+
+Paul did n't keep the Beatles' break-up secret
+permits
+Paul broke the promise to keep the Beatles' break-up secret
+
+Paul broke the promise to keep the Beatles' break-up secret
+permits
+the Brooklyn Bridge Park Corp. did n't keep the Beatles' break-up secret
+
+Paul had broken the promise to keep the Beatles' break-up secret
+contradicts
+Paul had kept the Beatles' break-up secret
+
+Paul had kept the Beatles' break-up secret
+contradicts
+Paul had broken the promise to keep the Beatles' break-up secret
+
+Paul had almost broken the promise to keep the Beatles' break-up secret
+entails
+Paul had kept the Beatles' break-up secret
+
+Paul had kept the Beatles' break-up secret
+permits
+Paul had almost broken the promise to keep the Beatles' break-up secret
+
+Paul did n't break the promise to keep the Beatles' break-up secret
+contradicts
+Paul did n't keep the Beatles' break-up secret
+
+Paul did n't keep the Beatles' break-up secret
+contradicts
+Paul did n't break the promise to keep the Beatles' break-up secret
+
+Paul did n't break the promise to keep the Beatles' break-up secret
+permits
+Paul did not fund the system
+
+Paul has broken his promise to keep the Beatles' break-up secret
+entails
+Paul has not kept the Beatles' break-up secret
+
+Paul has not kept the Beatles' break-up secret
+permits
+Paul has broken his promise to keep the Beatles' break-up secret
+
+Paul has broken his promise to keep the Beatles' break-up secret
+contradicts
+Paul has kept the Beatles' break-up secret
+
+Paul has kept the Beatles' break-up secret
+contradicts
+Paul has broken his promise to keep the Beatles' break-up secret
+
+Paul has n't broken his promise to keep the Beatles' break-up secret
+entails
+Paul has kept the Beatles' break-up secret
+
+Paul has kept the Beatles' break-up secret
+permits
+Paul has n't broken his promise to keep the Beatles' break-up secret
+
+Paul did n't break his promise to keep the Beatles' break-up secret
+contradicts
+Paul did n't keep the Beatles' break-up secret
+
+Paul did n't keep the Beatles' break-up secret
+contradicts
+Paul did n't break his promise to keep the Beatles' break-up secret
+
+I have broken the promise to post every two days
+entails
+I have not posted every two days
+
+I have not posted every two days
+permits
+I have broken the promise to post every two days
+
+I have broken the promise to post every two days
+permits
+I have n't held talks
+
+I broke the promise to post every two days
+contradicts
+I posted every two days
+
+I posted every two days
+contradicts
+I broke the promise to post every two days
+
+I broke the promise to post every two days
+permits
+the club posted every two days
+
+I had never broken the promise to post every two days
+entails
+I had posted every two days
+
+I had posted every two days
+permits
+I had never broken the promise to post every two days
+
+I have almost broken the promise to post every two days
+contradicts
+I have not posted every two days
+
+I have not posted every two days
+contradicts
+I have almost broken the promise to post every two days
+
+I have almost broken the promise to post every two days
+permits
+Julia has almost posted every two days
+
+I broke my promise to post every two days
+entails
+I did not post every two days
+
+I did not post every two days
+permits
+I broke my promise to post every two days
+
+I have broken my promise to post every two days
+contradicts
+I have posted every two days
+
+I have posted every two days
+contradicts
+I have broken my promise to post every two days
+
+I had almost broken my promise to post every two days
+entails
+I had posted every two days
+
+I had posted every two days
+permits
+I had almost broken my promise to post every two days
+
+I never have broken my promise to post every two days
+contradicts
+I have never posted every two days
+
+I have never posted every two days
+contradicts
+I never have broken my promise to post every two days
+
+Julia has broken the promise to get the support of the greens
+entails
+Julia has not gotten the support of the greens
+
+Julia has not gotten the support of the greens
+permits
+Julia has broken the promise to get the support of the greens
+
+Julia has broken the promise to get the support of the greens
+contradicts
+Julia has gotten the support of the greens
+
+Julia has gotten the support of the greens
+contradicts
+Julia has broken the promise to get the support of the greens
+
+Julia has broken the promise to get the support of the greens
+permits
+Julia has helped boost her own music career
+
+Julia has n't broken the promise to get the support of the greens
+entails
+Julia has gotten the support of the greens
+
+Julia has gotten the support of the greens
+permits
+Julia has n't broken the promise to get the support of the greens
+
+Julia has n't broken the promise to get the support of the greens
+permits
+he has gotten the support of the greens
+
+Julia had n't broken the promise to get the support of the greens
+contradicts
+Julia had not gotten the support of the greens
+
+Julia had not gotten the support of the greens
+contradicts
+Julia had n't broken the promise to get the support of the greens
+
+Julia has broken her promise to get the support of the greens
+entails
+Julia has not gotten the support of the greens
+
+Julia has not gotten the support of the greens
+permits
+Julia has broken her promise to get the support of the greens
+
+Julia has broken her promise to get the support of the greens
+permits
+Julia has n't given up porn
+
+Julia had broken her promise to get the support of the greens
+contradicts
+Julia had gotten the support of the greens
+
+Julia had gotten the support of the greens
+contradicts
+Julia had broken her promise to get the support of the greens
+
+Julia did n't break her promise to get the support of the greens
+entails
+Julia got the support of the greens
+
+Julia got the support of the greens
+permits
+Julia did n't break her promise to get the support of the greens
+
+Julia did n't break her promise to get the support of the greens
+permits
+the casino got the support of the greens
+
+Julia has n't broken her promise to get the support of the greens
+contradicts
+Julia has not gotten the support of the greens
+
+Julia has not gotten the support of the greens
+contradicts
+Julia has n't broken her promise to get the support of the greens
+
+Julia has n't broken her promise to get the support of the greens
+permits
+he has not gotten the support of the greens
+
+I broke the promise to stay by his side
+entails
+I did n't stay by his side
+
+I did n't stay by his side
+permits
+I broke the promise to stay by his side
+
+I have broken the promise to stay by his side
+contradicts
+I have stayed by his side
+
+I have stayed by his side
+contradicts
+I have broken the promise to stay by his side
+
+I never broke the promise to stay by his side
+entails
+I stayed by his side
+
+I stayed by his side
+permits
+I never broke the promise to stay by his side
+
+I have not broken the promise to stay by his side
+contradicts
+I have n't stayed by his side
+
+I have n't stayed by his side
+contradicts
+I have not broken the promise to stay by his side
+
+I have broken my promise to stay by his side
+entails
+I have not stayed by his side
+
+I have not stayed by his side
+permits
+I have broken my promise to stay by his side
+
+I broke my promise to stay by his side
+contradicts
+I stayed by his side
+
+I stayed by his side
+contradicts
+I broke my promise to stay by his side
+
+I had almost broken my promise to stay by his side
+entails
+I had stayed by his side
+
+I had stayed by his side
+permits
+I had almost broken my promise to stay by his side
+
+I had almost broken my promise to stay by his side
+permits
+Reagan had stayed by his side
+
+I have never broken my promise to stay by his side
+contradicts
+I have n't stayed by his side
+
+I have n't stayed by his side
+contradicts
+I have never broken my promise to stay by his side
+
+Wells Fargo had broken the promise to postpone the trustee's sale
+entails
+Wells Fargo had n't postponed the trustee's sale
+
+Wells Fargo had n't postponed the trustee's sale
+permits
+Wells Fargo had broken the promise to postpone the trustee's sale
+
+Wells Fargo had broken the promise to postpone the trustee's sale
+contradicts
+Wells Fargo had postponed the trustee's sale
+
+Wells Fargo had postponed the trustee's sale
+contradicts
+Wells Fargo had broken the promise to postpone the trustee's sale
+
+Wells Fargo did n't break the promise to postpone the trustee's sale
+entails
+Wells Fargo postponed the trustee's sale
+
+Wells Fargo postponed the trustee's sale
+permits
+Wells Fargo did n't break the promise to postpone the trustee's sale
+
+Wells Fargo did n't break the promise to postpone the trustee's sale
+permits
+Reagan postponed the trustee's sale
+
+Wells Fargo has not broken the promise to postpone the trustee's sale
+contradicts
+Wells Fargo has n't postponed the trustee's sale
+
+Wells Fargo has n't postponed the trustee's sale
+contradicts
+Wells Fargo has not broken the promise to postpone the trustee's sale
+
+Wells Fargo has not broken the promise to postpone the trustee's sale
+permits
+the president has not postponed the trustee's sale
+
+Wells Fargo had broken its promise to postpone the trustee's sale
+entails
+Wells Fargo had not postponed the trustee's sale
+
+Wells Fargo had not postponed the trustee's sale
+permits
+Wells Fargo had broken its promise to postpone the trustee's sale
+
+Wells Fargo had broken its promise to postpone the trustee's sale
+permits
+she had not postponed the trustee's sale
+
+Wells Fargo had broken its promise to postpone the trustee's sale
+contradicts
+Wells Fargo had postponed the trustee's sale
+
+Wells Fargo had postponed the trustee's sale
+contradicts
+Wells Fargo had broken its promise to postpone the trustee's sale
+
+Wells Fargo had not broken its promise to postpone the trustee's sale
+entails
+Wells Fargo had postponed the trustee's sale
+
+Wells Fargo had postponed the trustee's sale
+permits
+Wells Fargo had not broken its promise to postpone the trustee's sale
+
+Wells Fargo had not broken its promise to postpone the trustee's sale
+permits
+Hillary Clinton had postponed the trustee's sale
+
+Wells Fargo had n't broken its promise to postpone the trustee's sale
+contradicts
+Wells Fargo had n't postponed the trustee's sale
+
+Wells Fargo had n't postponed the trustee's sale
+contradicts
+Wells Fargo had n't broken its promise to postpone the trustee's sale
+
+Wells Fargo had n't broken its promise to postpone the trustee's sale
+permits
+Wells Fargo had not ended its marriage
+
+we broke a promise to pick them up after school
+entails
+we did not pick them up after school
+
+we did not pick them up after school
+permits
+we broke a promise to pick them up after school
+
+we have broken a promise to pick them up after school
+contradicts
+we have picked them up after school
+
+we have picked them up after school
+contradicts
+we have broken a promise to pick them up after school
+
+we have broken a promise to pick them up after school
+permits
+we have included renewable energy tax credits in a new aviation bill
+
+we had n't broken a promise to pick them up after school
+entails
+we had picked them up after school
+
+we had picked them up after school
+permits
+we had n't broken a promise to pick them up after school
+
+we had n't broken a promise to pick them up after school
+permits
+Republicans had picked them up after school
+
+we had not broken a promise to pick them up after school
+contradicts
+we had not picked them up after school
+
+we had not picked them up after school
+contradicts
+we had not broken a promise to pick them up after school
+
+we had not broken a promise to pick them up after school
+permits
+we had n't opened their investigation
+
+we have broken our promise to pick them up after school
+entails
+we have not picked them up after school
+
+we have not picked them up after school
+permits
+we have broken our promise to pick them up after school
+
+we have broken our promise to pick them up after school
+permits
+they have n't picked them up after school
+
+we have broken our promise to pick them up after school
+contradicts
+we have picked them up after school
+
+we have picked them up after school
+contradicts
+we have broken our promise to pick them up after school
+
+we had never broken our promise to pick them up after school
+entails
+we had picked them up after school
+
+we had picked them up after school
+permits
+we had never broken our promise to pick them up after school
+
+we never broke our promise to pick them up after school
+contradicts
+we never picked them up after school
+
+we never picked them up after school
+contradicts
+we never broke our promise to pick them up after school
+
+we never broke our promise to pick them up after school
+permits
+we did not help homeowners facing foreclosure
+
+we broke the promise to stay just friends
+entails
+we did n't stay just friends
+
+we did n't stay just friends
+permits
+we broke the promise to stay just friends
+
+we broke the promise to stay just friends
+permits
+we did not let him go
+
+we had broken the promise to stay just friends
+contradicts
+we had stayed just friends
+
+we had stayed just friends
+contradicts
+we had broken the promise to stay just friends
+
+we had almost broken the promise to stay just friends
+entails
+we had stayed just friends
+
+we had stayed just friends
+permits
+we had almost broken the promise to stay just friends
+
+we had almost broken the promise to stay just friends
+contradicts
+we had n't stayed just friends
+
+we had n't stayed just friends
+contradicts
+we had almost broken the promise to stay just friends
+
+we had almost broken the promise to stay just friends
+permits
+Republicans had almost stayed just friends
+
+we had broken our promise to stay just friends
+entails
+we had n't stayed just friends
+
+we had n't stayed just friends
+permits
+we had broken our promise to stay just friends
+
+we had broken our promise to stay just friends
+contradicts
+we had stayed just friends
+
+we had stayed just friends
+contradicts
+we had broken our promise to stay just friends
+
+we never broke our promise to stay just friends
+entails
+we stayed just friends
+
+we stayed just friends
+permits
+we never broke our promise to stay just friends
+
+we never broke our promise to stay just friends
+permits
+we kept the Beatles' break-up secret
+
+we had n't broken our promise to stay just friends
+contradicts
+we had not stayed just friends
+
+we had not stayed just friends
+contradicts
+we had n't broken our promise to stay just friends
+
+the casino has broken a promise to pay out the bonus
+entails
+the casino has n't paid out the bonus
+
+the casino has n't paid out the bonus
+permits
+the casino has broken a promise to pay out the bonus
+
+the casino has broken a promise to pay out the bonus
+permits
+her boyfriend has not paid out the bonus
+
+the casino had broken a promise to pay out the bonus
+contradicts
+the casino had paid out the bonus
+
+the casino had paid out the bonus
+contradicts
+the casino had broken a promise to pay out the bonus
+
+the casino had broken a promise to pay out the bonus
+permits
+the casino had limited the height of a luxury condo-cum-hotel to 100 feet
+
+the casino almost has broken a promise to pay out the bonus
+entails
+the casino has paid out the bonus
+
+the casino has paid out the bonus
+permits
+the casino almost has broken a promise to pay out the bonus
+
+the casino had not broken a promise to pay out the bonus
+contradicts
+the casino had n't paid out the bonus
+
+the casino had n't paid out the bonus
+contradicts
+the casino had not broken a promise to pay out the bonus
+
+the casino had broken its promise to pay out the bonus
+entails
+the casino had not paid out the bonus
+
+the casino had not paid out the bonus
+permits
+the casino had broken its promise to pay out the bonus
+
+the casino had broken its promise to pay out the bonus
+permits
+Hillary Clinton had not paid out the bonus
+
+the casino had broken its promise to pay out the bonus
+contradicts
+the casino had paid out the bonus
+
+the casino had paid out the bonus
+contradicts
+the casino had broken its promise to pay out the bonus
+
+the casino did n't break its promise to pay out the bonus
+entails
+the casino paid out the bonus
+
+the casino paid out the bonus
+permits
+the casino did n't break its promise to pay out the bonus
+
+the casino did n't break its promise to pay out the bonus
+permits
+Dorsey paid out the bonus
+
+the casino had not broken its promise to pay out the bonus
+contradicts
+the casino had not paid out the bonus
+
+the casino had not paid out the bonus
+contradicts
+the casino had not broken its promise to pay out the bonus
+
+the casino had not broken its promise to pay out the bonus
+permits
+I had not paid out the bonus
+
+Flake had broken a promise to strengthen background checks
+entails
+Flake had not strengthened background checks
+
+Flake had not strengthened background checks
+permits
+Flake had broken a promise to strengthen background checks
+
+Flake broke a promise to strengthen background checks
+contradicts
+Flake strengthened background checks
+
+Flake strengthened background checks
+contradicts
+Flake broke a promise to strengthen background checks
+
+Flake has n't broken a promise to strengthen background checks
+entails
+Flake has strengthened background checks
+
+Flake has strengthened background checks
+permits
+Flake has n't broken a promise to strengthen background checks
+
+Flake has n't broken a promise to strengthen background checks
+permits
+Art Briles has strengthened background checks
+
+Flake never broke a promise to strengthen background checks
+contradicts
+Flake never strengthened background checks
+
+Flake never strengthened background checks
+contradicts
+Flake never broke a promise to strengthen background checks
+
+Flake has broken his promise to strengthen background checks
+entails
+Flake has not strengthened background checks
+
+Flake has not strengthened background checks
+permits
+Flake has broken his promise to strengthen background checks
+
+Flake has broken his promise to strengthen background checks
+permits
+the president has not strengthened background checks
+
+Flake broke his promise to strengthen background checks
+contradicts
+Flake strengthened background checks
+
+Flake strengthened background checks
+contradicts
+Flake broke his promise to strengthen background checks
+
+Flake broke his promise to strengthen background checks
+permits
+Flake posted every two days
+
+Flake had not broken his promise to strengthen background checks
+entails
+Flake had strengthened background checks
+
+Flake had strengthened background checks
+permits
+Flake had not broken his promise to strengthen background checks
+
+Flake has almost broken his promise to strengthen background checks
+contradicts
+Flake has n't strengthened background checks
+
+Flake has n't strengthened background checks
+contradicts
+Flake has almost broken his promise to strengthen background checks
+
+Flake has almost broken his promise to strengthen background checks
+permits
+ATT landline has n't strengthened background checks
+
+Oedipus broke the promise to fulfill the punishment over the king's murderer
+entails
+Oedipus did not fulfill the punishment over the king's murderer
+
+Oedipus did not fulfill the punishment over the king's murderer
+permits
+Oedipus broke the promise to fulfill the punishment over the king's murderer
+
+Oedipus has broken the promise to fulfill the punishment over the king's murderer
+contradicts
+Oedipus has fulfilled the punishment over the king's murderer
+
+Oedipus has fulfilled the punishment over the king's murderer
+contradicts
+Oedipus has broken the promise to fulfill the punishment over the king's murderer
+
+Oedipus has broken the promise to fulfill the punishment over the king's murderer
+permits
+Oedipus has let him go
+
+Oedipus has never broken the promise to fulfill the punishment over the king's murderer
+entails
+Oedipus has fulfilled the punishment over the king's murderer
+
+Oedipus has fulfilled the punishment over the king's murderer
+permits
+Oedipus has never broken the promise to fulfill the punishment over the king's murderer
+
+Oedipus has never broken the promise to fulfill the punishment over the king's murderer
+permits
+Hillary Clinton has fulfilled the punishment over the king's murderer
+
+Oedipus did n't break the promise to fulfill the punishment over the king's murderer
+contradicts
+Oedipus did n't fulfill the punishment over the king's murderer
+
+Oedipus did n't fulfill the punishment over the king's murderer
+contradicts
+Oedipus did n't break the promise to fulfill the punishment over the king's murderer
+
+Oedipus has broken his promise to fulfill the punishment over the king's murderer
+entails
+Oedipus has n't fulfilled the punishment over the king's murderer
+
+Oedipus has n't fulfilled the punishment over the king's murderer
+permits
+Oedipus has broken his promise to fulfill the punishment over the king's murderer
+
+Oedipus has broken his promise to fulfill the punishment over the king's murderer
+permits
+Reagan has n't fulfilled the punishment over the king's murderer
+
+Oedipus has broken his promise to fulfill the punishment over the king's murderer
+contradicts
+Oedipus has fulfilled the punishment over the king's murderer
+
+Oedipus has fulfilled the punishment over the king's murderer
+contradicts
+Oedipus has broken his promise to fulfill the punishment over the king's murderer
+
+Oedipus has never broken his promise to fulfill the punishment over the king's murderer
+entails
+Oedipus has fulfilled the punishment over the king's murderer
+
+Oedipus has fulfilled the punishment over the king's murderer
+permits
+Oedipus has never broken his promise to fulfill the punishment over the king's murderer
+
+Oedipus had almost broken his promise to fulfill the punishment over the king's murderer
+contradicts
+Oedipus had not fulfilled the punishment over the king's murderer
+
+Oedipus had not fulfilled the punishment over the king's murderer
+contradicts
+Oedipus had almost broken his promise to fulfill the punishment over the king's murderer
+
+Oedipus had almost broken his promise to fulfill the punishment over the king's murderer
+permits
+Oedipus had n't disclosed his foundation's donors
+
+Art Briles has broken promise to apologize to rape victim
+entails
+Art Briles has not apologized to rape victim
+
+Art Briles has not apologized to rape victim
+permits
+Art Briles has broken promise to apologize to rape victim
+
+Art Briles broke promise to apologize to rape victim
+contradicts
+Art Briles apologized to rape victim
+
+Art Briles apologized to rape victim
+contradicts
+Art Briles broke promise to apologize to rape victim
+
+Art Briles broke promise to apologize to rape victim
+permits
+Art Briles fixed increased phone bill
+
+Art Briles has n't broken promise to apologize to rape victim
+entails
+Art Briles has apologized to rape victim
+
+Art Briles has apologized to rape victim
+permits
+Art Briles has n't broken promise to apologize to rape victim
+
+Art Briles had n't broken promise to apologize to rape victim
+contradicts
+Art Briles had n't apologized to rape victim
+
+Art Briles had n't apologized to rape victim
+contradicts
+Art Briles had n't broken promise to apologize to rape victim
+
+Art Briles had n't broken promise to apologize to rape victim
+permits
+Art Briles had n't fixed increased phone bill
+
+Art Briles has broken his promise to apologize to rape victim
+entails
+Art Briles has n't apologized to rape victim
+
+Art Briles has n't apologized to rape victim
+permits
+Art Briles has broken his promise to apologize to rape victim
+
+Art Briles has broken his promise to apologize to rape victim
+contradicts
+Art Briles has apologized to rape victim
+
+Art Briles has apologized to rape victim
+contradicts
+Art Briles has broken his promise to apologize to rape victim
+
+Art Briles has broken his promise to apologize to rape victim
+permits
+Art Briles has paid out the bonus
+
+Art Briles never broke his promise to apologize to rape victim
+entails
+Art Briles apologized to rape victim
+
+Art Briles apologized to rape victim
+permits
+Art Briles never broke his promise to apologize to rape victim
+
+Art Briles never broke his promise to apologize to rape victim
+permits
+Art Briles fully funded the system
+
+Art Briles has n't broken his promise to apologize to rape victim
+contradicts
+Art Briles has not apologized to rape victim
+
+Art Briles has not apologized to rape victim
+contradicts
+Art Briles has n't broken his promise to apologize to rape victim
+
+Art Briles has n't broken his promise to apologize to rape victim
+permits
+Flake has n't apologized to rape victim
+
+ATT landline broke promise to fix increased phone bill
+entails
+ATT landline did n't fix increased phone bill
+
+ATT landline did n't fix increased phone bill
+permits
+ATT landline broke promise to fix increased phone bill
+
+ATT landline broke promise to fix increased phone bill
+permits
+ATT landline did n't keep the Beatles' break-up secret
+
+ATT landline broke promise to fix increased phone bill
+contradicts
+ATT landline fixed increased phone bill
+
+ATT landline fixed increased phone bill
+contradicts
+ATT landline broke promise to fix increased phone bill
+
+ATT landline has almost broken promise to fix increased phone bill
+entails
+ATT landline has fixed increased phone bill
+
+ATT landline has fixed increased phone bill
+permits
+ATT landline has almost broken promise to fix increased phone bill
+
+ATT landline has almost broken promise to fix increased phone bill
+permits
+Ea, the cleverest god, has fixed increased phone bill
+
+ATT landline almost broke promise to fix increased phone bill
+contradicts
+ATT landline did n't fix increased phone bill
+
+ATT landline did n't fix increased phone bill
+contradicts
+ATT landline almost broke promise to fix increased phone bill
+
+ATT landline had broken its promise to fix increased phone bill
+entails
+ATT landline had not fixed increased phone bill
+
+ATT landline had not fixed increased phone bill
+permits
+ATT landline had broken its promise to fix increased phone bill
+
+ATT landline had broken its promise to fix increased phone bill
+permits
+Reagan had not fixed increased phone bill
+
+ATT landline has broken its promise to fix increased phone bill
+contradicts
+ATT landline has fixed increased phone bill
+
+ATT landline has fixed increased phone bill
+contradicts
+ATT landline has broken its promise to fix increased phone bill
+
+ATT landline has broken its promise to fix increased phone bill
+permits
+Art Briles has fixed increased phone bill
+
+ATT landline never broke its promise to fix increased phone bill
+entails
+ATT landline fixed increased phone bill
+
+ATT landline fixed increased phone bill
+permits
+ATT landline never broke its promise to fix increased phone bill
+
+ATT landline never broke its promise to fix increased phone bill
+permits
+Art Briles fixed increased phone bill
+
+ATT landline has almost broken its promise to fix increased phone bill
+contradicts
+ATT landline has almost fixed increased phone bill
+
+ATT landline has almost fixed increased phone bill
+contradicts
+ATT landline has almost broken its promise to fix increased phone bill
+
+ATT landline has almost broken its promise to fix increased phone bill
+permits
+the husband has almost fixed increased phone bill
+
+the club had broken promise to let him go
+entails
+the club had n't let him go
+
+the club had n't let him go
+permits
+the club had broken promise to let him go
+
+the club had broken promise to let him go
+permits
+the club had n't opened their investigation
+
+the club had broken promise to let him go
+contradicts
+the club had let him go
+
+the club had let him go
+contradicts
+the club had broken promise to let him go
+
+the club had broken promise to let him go
+permits
+Oedipus had let him go
+
+the club almost has broken promise to let him go
+entails
+the club has let him go
+
+the club has let him go
+permits
+the club almost has broken promise to let him go
+
+the club almost broke promise to let him go
+contradicts
+the club did not let him go
+
+the club did not let him go
+contradicts
+the club almost broke promise to let him go
+
+the club has broken its promise to let him go
+entails
+the club has not let him go
+
+the club has not let him go
+permits
+the club has broken its promise to let him go
+
+the club has broken its promise to let him go
+permits
+Art Briles has not let him go
+
+the club has broken its promise to let him go
+contradicts
+the club has let him go
+
+the club has let him go
+contradicts
+the club has broken its promise to let him go
+
+the club has broken its promise to let him go
+permits
+the club has given more rights to the people
+
+the club has n't broken its promise to let him go
+entails
+the club has let him go
+
+the club has let him go
+permits
+the club has n't broken its promise to let him go
+
+the club has n't broken its promise to let him go
+permits
+the club has seen her again
+
+the club has n't broken its promise to let him go
+contradicts
+the club has not let him go
+
+the club has not let him go
+contradicts
+the club has n't broken its promise to let him go
+
+the club has n't broken its promise to let him go
+permits
+she has n't let him go
+
+Vikings broke promise to open their investigation
+entails
+Vikings did not open their investigation
+
+Vikings did not open their investigation
+permits
+Vikings broke promise to open their investigation
+
+Vikings have broken promise to open their investigation
+contradicts
+Vikings have opened their investigation
+
+Vikings have opened their investigation
+contradicts
+Vikings have broken promise to open their investigation
+
+Vikings have broken promise to open their investigation
+permits
+Vikings have strengthened background checks
+
+Vikings have not broken promise to open their investigation
+entails
+Vikings have opened their investigation
+
+Vikings have opened their investigation
+permits
+Vikings have not broken promise to open their investigation
+
+Vikings did n't break promise to open their investigation
+contradicts
+Vikings did n't open their investigation
+
+Vikings did n't open their investigation
+contradicts
+Vikings did n't break promise to open their investigation
+
+Vikings had broken their promise to open their investigation
+entails
+Vikings had not opened their investigation
+
+Vikings had not opened their investigation
+permits
+Vikings had broken their promise to open their investigation
+
+Vikings broke their promise to open their investigation
+contradicts
+Vikings opened their investigation
+
+Vikings opened their investigation
+contradicts
+Vikings broke their promise to open their investigation
+
+Vikings broke their promise to open their investigation
+permits
+Vikings paid out the bonus
+
+Vikings had not broken their promise to open their investigation
+entails
+Vikings had opened their investigation
+
+Vikings had opened their investigation
+permits
+Vikings had not broken their promise to open their investigation
+
+Vikings had never broken their promise to open their investigation
+contradicts
+Vikings had not opened their investigation
+
+Vikings had not opened their investigation
+contradicts
+Vikings had never broken their promise to open their investigation
+

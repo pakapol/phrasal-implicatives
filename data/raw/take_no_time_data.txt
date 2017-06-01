@@ -1,0 +1,1452 @@
+they had taken some time to get plates
+entails
+they had gotten plates
+
+they had gotten plates
+permits
+they had taken some time to get plates
+
+they had taken some time to get plates
+permits
+the employees had gotten plates
+
+they have taken some time to get plates
+contradicts
+they have n't gotten plates
+
+they have n't gotten plates
+contradicts
+they have taken some time to get plates
+
+they have taken no time to get plates
+entails
+they have gotten plates
+
+they have gotten plates
+permits
+they have taken no time to get plates
+
+they took no time to get plates
+contradicts
+they did n't get plates
+
+they did n't get plates
+contradicts
+they took no time to get plates
+
+they took no time to get plates
+permits
+they did n't pay for themselves
+
+Ginger and our three cats have taken some time to adjust to each other
+entails
+Ginger and our three cats have adjusted to each other
+
+Ginger and our three cats have adjusted to each other
+permits
+Ginger and our three cats have taken some time to adjust to each other
+
+Ginger and our three cats have taken some time to adjust to each other
+contradicts
+Ginger and our three cats have not adjusted to each other
+
+Ginger and our three cats have not adjusted to each other
+contradicts
+Ginger and our three cats have taken some time to adjust to each other
+
+Ginger and our three cats took no time to adjust to each other
+entails
+Ginger and our three cats adjusted to each other
+
+Ginger and our three cats adjusted to each other
+permits
+Ginger and our three cats took no time to adjust to each other
+
+Ginger and our three cats took no time to adjust to each other
+permits
+the cows adjusted to each other
+
+Ginger and our three cats took no time to adjust to each other
+contradicts
+Ginger and our three cats did not adjust to each other
+
+Ginger and our three cats did not adjust to each other
+contradicts
+Ginger and our three cats took no time to adjust to each other
+
+Ginger and our three cats took no time to adjust to each other
+permits
+Ginger and our three cats did not pay for themselves
+
+Jeff Farmer, our demonstrator, took some time to figure out how to peel these mudbugs
+entails
+Jeff Farmer, our demonstrator, figured out how to peel these mudbugs
+
+Jeff Farmer, our demonstrator, figured out how to peel these mudbugs
+permits
+Jeff Farmer, our demonstrator, took some time to figure out how to peel these mudbugs
+
+Jeff Farmer, our demonstrator, has taken some time to figure out how to peel these mudbugs
+contradicts
+Jeff Farmer, our demonstrator, has not figured out how to peel these mudbugs
+
+Jeff Farmer, our demonstrator, has not figured out how to peel these mudbugs
+contradicts
+Jeff Farmer, our demonstrator, has taken some time to figure out how to peel these mudbugs
+
+Jeff Farmer, our demonstrator, has taken no time to figure out how to peel these mudbugs
+entails
+Jeff Farmer, our demonstrator, has figured out how to peel these mudbugs
+
+Jeff Farmer, our demonstrator, has figured out how to peel these mudbugs
+permits
+Jeff Farmer, our demonstrator, has taken no time to figure out how to peel these mudbugs
+
+Jeff Farmer, our demonstrator, has taken no time to figure out how to peel these mudbugs
+contradicts
+Jeff Farmer, our demonstrator, has not figured out how to peel these mudbugs
+
+Jeff Farmer, our demonstrator, has not figured out how to peel these mudbugs
+contradicts
+Jeff Farmer, our demonstrator, has taken no time to figure out how to peel these mudbugs
+
+the front end executive has taken some time to fill all formalities
+entails
+the front end executive has filled all formalities
+
+the front end executive has filled all formalities
+permits
+the front end executive has taken some time to fill all formalities
+
+the front end executive has taken some time to fill all formalities
+permits
+the front end executive has laced up some sneakers
+
+the front end executive took some time to fill all formalities
+contradicts
+the front end executive did not fill all formalities
+
+the front end executive did not fill all formalities
+contradicts
+the front end executive took some time to fill all formalities
+
+the front end executive took some time to fill all formalities
+permits
+she did n't fill all formalities
+
+the front end executive has taken no time to fill all formalities
+entails
+the front end executive has filled all formalities
+
+the front end executive has filled all formalities
+permits
+the front end executive has taken no time to fill all formalities
+
+the front end executive has taken no time to fill all formalities
+permits
+the front end executive has reacted to it vigorously
+
+the front end executive had taken no time to fill all formalities
+contradicts
+the front end executive had not filled all formalities
+
+the front end executive had not filled all formalities
+contradicts
+the front end executive had taken no time to fill all formalities
+
+MailMunch has taken some time to pay for itself
+entails
+MailMunch has paid for itself
+
+MailMunch has paid for itself
+permits
+MailMunch has taken some time to pay for itself
+
+MailMunch had taken some time to pay for itself
+contradicts
+MailMunch had n't paid for itself
+
+MailMunch had n't paid for itself
+contradicts
+MailMunch had taken some time to pay for itself
+
+MailMunch had taken some time to pay for itself
+permits
+MailMunch had not buffed
+
+MailMunch had taken no time to pay for itself
+entails
+MailMunch had paid for itself
+
+MailMunch had paid for itself
+permits
+MailMunch had taken no time to pay for itself
+
+MailMunch had taken no time to pay for itself
+permits
+MailMunch had slammed Rubio, Cruz, and Kasich
+
+MailMunch has taken no time to pay for itself
+contradicts
+MailMunch has n't paid for itself
+
+MailMunch has n't paid for itself
+contradicts
+MailMunch has taken no time to pay for itself
+
+the cows took some time to adapt and make themselves at home
+entails
+the cows adapted and made themselves at home
+
+the cows adapted and made themselves at home
+permits
+the cows took some time to adapt and make themselves at home
+
+the cows took some time to adapt and make themselves at home
+permits
+the cows accused Rebecca
+
+the cows had taken some time to adapt and make themselves at home
+contradicts
+the cows had n't adapted and made themselves at home
+
+the cows had n't adapted and made themselves at home
+contradicts
+the cows had taken some time to adapt and make themselves at home
+
+the cows had taken some time to adapt and make themselves at home
+permits
+the cows had n't adjusted to their teammates
+
+the cows had taken no time to adapt and make themselves at home
+entails
+the cows had adapted and made themselves at home
+
+the cows had adapted and made themselves at home
+permits
+the cows had taken no time to adapt and make themselves at home
+
+the cows had taken no time to adapt and make themselves at home
+permits
+the cows had started using the system properly
+
+the cows have taken no time to adapt and make themselves at home
+contradicts
+the cows have not adapted and made themselves at home
+
+the cows have not adapted and made themselves at home
+contradicts
+the cows have taken no time to adapt and make themselves at home
+
+the cows have taken no time to adapt and make themselves at home
+permits
+the cows have not adjusted to their teammates
+
+Grannis had taken some time to immerse herself in a variety of programs to find her calling
+entails
+Grannis had immersed herself in a variety of programs to find her calling
+
+Grannis had immersed herself in a variety of programs to find her calling
+permits
+Grannis had taken some time to immerse herself in a variety of programs to find her calling
+
+Grannis took some time to immerse herself in a variety of programs to find her calling
+contradicts
+Grannis did n't immerse herself in a variety of programs to find her calling
+
+Grannis did n't immerse herself in a variety of programs to find her calling
+contradicts
+Grannis took some time to immerse herself in a variety of programs to find her calling
+
+Grannis took some time to immerse herself in a variety of programs to find her calling
+permits
+his oh la la film Porky's did n't immerse itself in a variety of programs to find its calling
+
+Grannis took no time to immerse herself in a variety of programs to find her calling
+entails
+Grannis immersed herself in a variety of programs to find her calling
+
+Grannis immersed herself in a variety of programs to find her calling
+permits
+Grannis took no time to immerse herself in a variety of programs to find her calling
+
+Grannis has taken no time to immerse herself in a variety of programs to find her calling
+contradicts
+Grannis has not immersed herself in a variety of programs to find her calling
+
+Grannis has not immersed herself in a variety of programs to find her calling
+contradicts
+Grannis has taken no time to immerse herself in a variety of programs to find her calling
+
+Grannis has taken no time to immerse herself in a variety of programs to find her calling
+permits
+Grannis has not established their dominance
+
+Huw Jones had taken some time to consider whether he wanted to join up with the national team
+entails
+Huw Jones had considered whether he wanted to join up with the national team
+
+Huw Jones had considered whether he wanted to join up with the national team
+permits
+Huw Jones had taken some time to consider whether he wanted to join up with the national team
+
+Huw Jones had taken some time to consider whether he wanted to join up with the national team
+permits
+Huw Jones had filled all formalities
+
+Huw Jones has taken some time to consider whether he wanted to join up with the national team
+contradicts
+Huw Jones has not considered whether he wanted to join up with the national team
+
+Huw Jones has not considered whether he wanted to join up with the national team
+contradicts
+Huw Jones has taken some time to consider whether he wanted to join up with the national team
+
+Huw Jones has taken some time to consider whether he wanted to join up with the national team
+permits
+MailMunch has n't considered whether it wanted to join up with the national team
+
+Huw Jones took no time to consider whether he wanted to join up with the national team
+entails
+Huw Jones considered whether he wanted to join up with the national team
+
+Huw Jones considered whether he wanted to join up with the national team
+permits
+Huw Jones took no time to consider whether he wanted to join up with the national team
+
+Huw Jones took no time to consider whether he wanted to join up with the national team
+contradicts
+Huw Jones did not consider whether he wanted to join up with the national team
+
+Huw Jones did not consider whether he wanted to join up with the national team
+contradicts
+Huw Jones took no time to consider whether he wanted to join up with the national team
+
+Huw Jones took no time to consider whether he wanted to join up with the national team
+permits
+Huw Jones did n't adjust to his teammates
+
+Laker head coach Byron Scott has taken some time to take shots at the Clippers .
+entails
+Laker head coach Byron Scott has taken shots at the Clippers .
+
+Laker head coach Byron Scott has taken shots at the Clippers .
+permits
+Laker head coach Byron Scott has taken some time to take shots at the Clippers .
+
+Laker head coach Byron Scott has taken some time to take shots at the Clippers .
+permits
+Anderson has taken shots at the Clippers .
+
+Laker head coach Byron Scott has taken some time to take shots at the Clippers .
+contradicts
+Laker head coach Byron Scott has not taken shots at the Clippers .
+
+Laker head coach Byron Scott has not taken shots at the Clippers .
+contradicts
+Laker head coach Byron Scott has taken some time to take shots at the Clippers .
+
+Laker head coach Byron Scott has taken some time to take shots at the Clippers .
+permits
+Donald Trump has n't taken shots at the Clippers .
+
+Laker head coach Byron Scott has taken no time to take shots at the Clippers .
+entails
+Laker head coach Byron Scott has taken shots at the Clippers .
+
+Laker head coach Byron Scott has taken shots at the Clippers .
+permits
+Laker head coach Byron Scott has taken no time to take shots at the Clippers .
+
+Laker head coach Byron Scott has taken no time to take shots at the Clippers .
+permits
+Laker head coach Byron Scott has started using the system properly
+
+Laker head coach Byron Scott had taken no time to take shots at the Clippers .
+contradicts
+Laker head coach Byron Scott had not taken shots at the Clippers .
+
+Laker head coach Byron Scott had not taken shots at the Clippers .
+contradicts
+Laker head coach Byron Scott had taken no time to take shots at the Clippers .
+
+Yuvraj had taken some time to put the pressure on the bowler
+entails
+Yuvraj had put the pressure on the bowler
+
+Yuvraj had put the pressure on the bowler
+permits
+Yuvraj had taken some time to put the pressure on the bowler
+
+Yuvraj had taken some time to put the pressure on the bowler
+permits
+Yuvraj had figured out how to peel these mudbugs
+
+Yuvraj has taken some time to put the pressure on the bowler
+contradicts
+Yuvraj has not put the pressure on the bowler
+
+Yuvraj has not put the pressure on the bowler
+contradicts
+Yuvraj has taken some time to put the pressure on the bowler
+
+Yuvraj has taken some time to put the pressure on the bowler
+permits
+the internet has not put the pressure on the bowler
+
+Yuvraj took no time to put the pressure on the bowler
+entails
+Yuvraj put the pressure on the bowler
+
+Yuvraj put the pressure on the bowler
+permits
+Yuvraj took no time to put the pressure on the bowler
+
+Yuvraj took no time to put the pressure on the bowler
+permits
+she put the pressure on the bowler
+
+Yuvraj had taken no time to put the pressure on the bowler
+contradicts
+Yuvraj had not put the pressure on the bowler
+
+Yuvraj had not put the pressure on the bowler
+contradicts
+Yuvraj had taken no time to put the pressure on the bowler
+
+Yuvraj had taken no time to put the pressure on the bowler
+permits
+the internet had not put the pressure on the bowler
+
+Donald Trump has taken some time to respond to Obama's speech
+entails
+Donald Trump has responded to Obama's speech
+
+Donald Trump has responded to Obama's speech
+permits
+Donald Trump has taken some time to respond to Obama's speech
+
+Donald Trump has taken some time to respond to Obama's speech
+permits
+the video has responded to Obama's speech
+
+Donald Trump took some time to respond to Obama's speech
+contradicts
+Donald Trump did not respond to Obama's speech
+
+Donald Trump did not respond to Obama's speech
+contradicts
+Donald Trump took some time to respond to Obama's speech
+
+Donald Trump has taken no time to respond to Obama's speech
+entails
+Donald Trump has responded to Obama's speech
+
+Donald Trump has responded to Obama's speech
+permits
+Donald Trump has taken no time to respond to Obama's speech
+
+Donald Trump took no time to respond to Obama's speech
+contradicts
+Donald Trump did n't respond to Obama's speech
+
+Donald Trump did n't respond to Obama's speech
+contradicts
+Donald Trump took no time to respond to Obama's speech
+
+this little monkey had taken some time to be settled back at home with us
+entails
+this little monkey had been settled back at home with us
+
+this little monkey had been settled back at home with us
+permits
+this little monkey had taken some time to be settled back at home with us
+
+this little monkey took some time to be settled back at home with us
+contradicts
+this little monkey was not settled back at home with us
+
+this little monkey was not settled back at home with us
+contradicts
+this little monkey took some time to be settled back at home with us
+
+this little monkey took some time to be settled back at home with us
+permits
+this little monkey did not buffer
+
+this little monkey had taken no time to be settled back at home with us
+entails
+this little monkey had been settled back at home with us
+
+this little monkey had been settled back at home with us
+permits
+this little monkey had taken no time to be settled back at home with us
+
+this little monkey had taken no time to be settled back at home with us
+permits
+the 26-year-old singer had been settled back at home with us
+
+this little monkey took no time to be settled back at home with us
+contradicts
+this little monkey was n't settled back at home with us
+
+this little monkey was n't settled back at home with us
+contradicts
+this little monkey took no time to be settled back at home with us
+
+this little monkey took no time to be settled back at home with us
+permits
+Matt was n't settled back at home with us
+
+she took some time to bounce back to normal
+entails
+she bounced back to normal
+
+she bounced back to normal
+permits
+she took some time to bounce back to normal
+
+she took some time to bounce back to normal
+contradicts
+she did not bounce back to normal
+
+she did not bounce back to normal
+contradicts
+she took some time to bounce back to normal
+
+she took some time to bounce back to normal
+permits
+the New Jersey Governor did n't bounce back to normal
+
+she had taken no time to bounce back to normal
+entails
+she had bounced back to normal
+
+she had bounced back to normal
+permits
+she had taken no time to bounce back to normal
+
+she had taken no time to bounce back to normal
+permits
+Jeff Farmer, our demonstrator, had bounced back to normal
+
+she has taken no time to bounce back to normal
+contradicts
+she has not bounced back to normal
+
+she has not bounced back to normal
+contradicts
+she has taken no time to bounce back to normal
+
+she has taken no time to bounce back to normal
+permits
+she has not filled all formalities
+
+Ronaldo had taken some time to lace up some sneakers
+entails
+Ronaldo had laced up some sneakers
+
+Ronaldo had laced up some sneakers
+permits
+Ronaldo had taken some time to lace up some sneakers
+
+Ronaldo had taken some time to lace up some sneakers
+permits
+Donald Trump had laced up some sneakers
+
+Ronaldo took some time to lace up some sneakers
+contradicts
+Ronaldo did n't lace up some sneakers
+
+Ronaldo did n't lace up some sneakers
+contradicts
+Ronaldo took some time to lace up some sneakers
+
+Ronaldo had taken no time to lace up some sneakers
+entails
+Ronaldo had laced up some sneakers
+
+Ronaldo had laced up some sneakers
+permits
+Ronaldo had taken no time to lace up some sneakers
+
+Ronaldo took no time to lace up some sneakers
+contradicts
+Ronaldo did not lace up some sneakers
+
+Ronaldo did not lace up some sneakers
+contradicts
+Ronaldo took no time to lace up some sneakers
+
+the judges had taken some time to pack in the punches
+entails
+the judges had packed in the punches
+
+the judges had packed in the punches
+permits
+the judges had taken some time to pack in the punches
+
+the judges had taken some time to pack in the punches
+permits
+the judges had made their way up from a team member to a group pioneer
+
+the judges had taken some time to pack in the punches
+contradicts
+the judges had not packed in the punches
+
+the judges had not packed in the punches
+contradicts
+the judges had taken some time to pack in the punches
+
+the judges took no time to pack in the punches
+entails
+the judges packed in the punches
+
+the judges packed in the punches
+permits
+the judges took no time to pack in the punches
+
+the judges have taken no time to pack in the punches
+contradicts
+the judges have n't packed in the punches
+
+the judges have n't packed in the punches
+contradicts
+the judges have taken no time to pack in the punches
+
+the judges have taken no time to pack in the punches
+permits
+Ginger and our three cats have not packed in the punches
+
+Ann Putnam Sr. has taken some time to accuse Rebecca
+entails
+Ann Putnam Sr. has accused Rebecca
+
+Ann Putnam Sr. has accused Rebecca
+permits
+Ann Putnam Sr. has taken some time to accuse Rebecca
+
+Ann Putnam Sr. has taken some time to accuse Rebecca
+contradicts
+Ann Putnam Sr. has not accused Rebecca
+
+Ann Putnam Sr. has not accused Rebecca
+contradicts
+Ann Putnam Sr. has taken some time to accuse Rebecca
+
+Ann Putnam Sr. took no time to accuse Rebecca
+entails
+Ann Putnam Sr. accused Rebecca
+
+Ann Putnam Sr. accused Rebecca
+permits
+Ann Putnam Sr. took no time to accuse Rebecca
+
+Ann Putnam Sr. took no time to accuse Rebecca
+permits
+Sussex accused Rebecca
+
+Ann Putnam Sr. has taken no time to accuse Rebecca
+contradicts
+Ann Putnam Sr. has not accused Rebecca
+
+Ann Putnam Sr. has not accused Rebecca
+contradicts
+Ann Putnam Sr. has taken no time to accuse Rebecca
+
+Ann Putnam Sr. has taken no time to accuse Rebecca
+permits
+Ann Putnam Sr. has not considered whether she wanted to join up with the national team
+
+the 26-year-old singer had taken some time to respond to Kim's Snapchat video
+entails
+the 26-year-old singer had responded to Kim's Snapchat video
+
+the 26-year-old singer had responded to Kim's Snapchat video
+permits
+the 26-year-old singer had taken some time to respond to Kim's Snapchat video
+
+the 26-year-old singer had taken some time to respond to Kim's Snapchat video
+permits
+Laker head coach Byron Scott had responded to Kim's Snapchat video
+
+the 26-year-old singer took some time to respond to Kim's Snapchat video
+contradicts
+the 26-year-old singer did n't respond to Kim's Snapchat video
+
+the 26-year-old singer did n't respond to Kim's Snapchat video
+contradicts
+the 26-year-old singer took some time to respond to Kim's Snapchat video
+
+the 26-year-old singer has taken no time to respond to Kim's Snapchat video
+entails
+the 26-year-old singer has responded to Kim's Snapchat video
+
+the 26-year-old singer has responded to Kim's Snapchat video
+permits
+the 26-year-old singer has taken no time to respond to Kim's Snapchat video
+
+the 26-year-old singer took no time to respond to Kim's Snapchat video
+contradicts
+the 26-year-old singer did n't respond to Kim's Snapchat video
+
+the 26-year-old singer did n't respond to Kim's Snapchat video
+contradicts
+the 26-year-old singer took no time to respond to Kim's Snapchat video
+
+the 26-year-old singer took no time to respond to Kim's Snapchat video
+permits
+Matt did not respond to Kim's Snapchat video
+
+the New Jersey Governor had taken some time to slam Rubio, Cruz, and Kasich
+entails
+the New Jersey Governor had slammed Rubio, Cruz, and Kasich
+
+the New Jersey Governor had slammed Rubio, Cruz, and Kasich
+permits
+the New Jersey Governor had taken some time to slam Rubio, Cruz, and Kasich
+
+the New Jersey Governor had taken some time to slam Rubio, Cruz, and Kasich
+contradicts
+the New Jersey Governor had n't slammed Rubio, Cruz, and Kasich
+
+the New Jersey Governor had n't slammed Rubio, Cruz, and Kasich
+contradicts
+the New Jersey Governor had taken some time to slam Rubio, Cruz, and Kasich
+
+the New Jersey Governor has taken no time to slam Rubio, Cruz, and Kasich
+entails
+the New Jersey Governor has slammed Rubio, Cruz, and Kasich
+
+the New Jersey Governor has slammed Rubio, Cruz, and Kasich
+permits
+the New Jersey Governor has taken no time to slam Rubio, Cruz, and Kasich
+
+the New Jersey Governor took no time to slam Rubio, Cruz, and Kasich
+contradicts
+the New Jersey Governor did n't slam Rubio, Cruz, and Kasich
+
+the New Jersey Governor did n't slam Rubio, Cruz, and Kasich
+contradicts
+the New Jersey Governor took no time to slam Rubio, Cruz, and Kasich
+
+the video had taken some time to buffer
+entails
+the video had buffed
+
+the video had buffed
+permits
+the video had taken some time to buffer
+
+the video had taken some time to buffer
+contradicts
+the video had n't buffed
+
+the video had n't buffed
+contradicts
+the video had taken some time to buffer
+
+the video had taken some time to buffer
+permits
+MailMunch had n't buffed
+
+the video had taken no time to buffer
+entails
+the video had buffed
+
+the video had buffed
+permits
+the video had taken no time to buffer
+
+the video had taken no time to buffer
+contradicts
+the video had not buffed
+
+the video had not buffed
+contradicts
+the video had taken no time to buffer
+
+Sussex took some time to hand him his debut
+entails
+Sussex handed him his debut
+
+Sussex handed him his debut
+permits
+Sussex took some time to hand him his debut
+
+Sussex took some time to hand him his debut
+permits
+Sussex made it a hilarious viral sensation
+
+Sussex had taken some time to hand him his debut
+contradicts
+Sussex had not handed him his debut
+
+Sussex had not handed him his debut
+contradicts
+Sussex had taken some time to hand him his debut
+
+Sussex had taken some time to hand him his debut
+permits
+Sussex had not made its way up from a team member to a group pioneer
+
+Sussex took no time to hand him his debut
+entails
+Sussex handed him his debut
+
+Sussex handed him his debut
+permits
+Sussex took no time to hand him his debut
+
+Sussex has taken no time to hand him his debut
+contradicts
+Sussex has n't handed him his debut
+
+Sussex has n't handed him his debut
+contradicts
+Sussex has taken no time to hand him his debut
+
+MapCentrix has taken some time to start using the system properly
+entails
+MapCentrix has started using the system properly
+
+MapCentrix has started using the system properly
+permits
+MapCentrix has taken some time to start using the system properly
+
+MapCentrix had taken some time to start using the system properly
+contradicts
+MapCentrix had n't started using the system properly
+
+MapCentrix had n't started using the system properly
+contradicts
+MapCentrix had taken some time to start using the system properly
+
+MapCentrix had taken some time to start using the system properly
+permits
+MapCentrix had not immersed itself in a variety of programs to find its calling
+
+MapCentrix has taken no time to start using the system properly
+entails
+MapCentrix has started using the system properly
+
+MapCentrix has started using the system properly
+permits
+MapCentrix has taken no time to start using the system properly
+
+MapCentrix has taken no time to start using the system properly
+contradicts
+MapCentrix has n't started using the system properly
+
+MapCentrix has n't started using the system properly
+contradicts
+MapCentrix has taken no time to start using the system properly
+
+MapCentrix has taken no time to start using the system properly
+permits
+Jeff Farmer, our demonstrator, has not started using the system properly
+
+Anderson has taken some time to respond to the posts
+entails
+Anderson has responded to the posts
+
+Anderson has responded to the posts
+permits
+Anderson has taken some time to respond to the posts
+
+Anderson has taken some time to respond to the posts
+contradicts
+Anderson has not responded to the posts
+
+Anderson has not responded to the posts
+contradicts
+Anderson has taken some time to respond to the posts
+
+Anderson has taken some time to respond to the posts
+permits
+Yuvraj has n't responded to the posts
+
+Anderson took no time to respond to the posts
+entails
+Anderson responded to the posts
+
+Anderson responded to the posts
+permits
+Anderson took no time to respond to the posts
+
+Anderson took no time to respond to the posts
+permits
+Anderson slammed Rubio, Cruz, and Kasich
+
+Anderson had taken no time to respond to the posts
+contradicts
+Anderson had not responded to the posts
+
+Anderson had not responded to the posts
+contradicts
+Anderson had taken no time to respond to the posts
+
+the internet took some time to make it a hilarious viral sensation
+entails
+the internet made it a hilarious viral sensation
+
+the internet made it a hilarious viral sensation
+permits
+the internet took some time to make it a hilarious viral sensation
+
+the internet took some time to make it a hilarious viral sensation
+permits
+Kenny made it a hilarious viral sensation
+
+the internet has taken some time to make it a hilarious viral sensation
+contradicts
+the internet has not made it a hilarious viral sensation
+
+the internet has not made it a hilarious viral sensation
+contradicts
+the internet has taken some time to make it a hilarious viral sensation
+
+the internet has taken some time to make it a hilarious viral sensation
+permits
+Donald Trump has not made it a hilarious viral sensation
+
+the internet took no time to make it a hilarious viral sensation
+entails
+the internet made it a hilarious viral sensation
+
+the internet made it a hilarious viral sensation
+permits
+the internet took no time to make it a hilarious viral sensation
+
+the internet took no time to make it a hilarious viral sensation
+contradicts
+the internet did n't make it a hilarious viral sensation
+
+the internet did n't make it a hilarious viral sensation
+contradicts
+the internet took no time to make it a hilarious viral sensation
+
+the internet took no time to make it a hilarious viral sensation
+permits
+I did n't make it a hilarious viral sensation
+
+his oh la la film Porky's has taken some time to gross twenty times as much in the US
+entails
+his oh la la film Porky's has grossed twenty times as much in the US
+
+his oh la la film Porky's has grossed twenty times as much in the US
+permits
+his oh la la film Porky's has taken some time to gross twenty times as much in the US
+
+his oh la la film Porky's has taken some time to gross twenty times as much in the US
+contradicts
+his oh la la film Porky's has not grossed twenty times as much in the US
+
+his oh la la film Porky's has not grossed twenty times as much in the US
+contradicts
+his oh la la film Porky's has taken some time to gross twenty times as much in the US
+
+his oh la la film Porky's has taken no time to gross twenty times as much in the US
+entails
+his oh la la film Porky's has grossed twenty times as much in the US
+
+his oh la la film Porky's has grossed twenty times as much in the US
+permits
+his oh la la film Porky's has taken no time to gross twenty times as much in the US
+
+his oh la la film Porky's has taken no time to gross twenty times as much in the US
+permits
+he has grossed twenty times as much in the US
+
+his oh la la film Porky's had taken no time to gross twenty times as much in the US
+contradicts
+his oh la la film Porky's had n't grossed twenty times as much in the US
+
+his oh la la film Porky's had n't grossed twenty times as much in the US
+contradicts
+his oh la la film Porky's had taken no time to gross twenty times as much in the US
+
+his oh la la film Porky's had taken no time to gross twenty times as much in the US
+permits
+his oh la la film Porky's had not made it a hilarious viral sensation
+
+I have taken some time to learn about Brazil's culture and its people
+entails
+I have learnt about Brazil's culture and its people
+
+I have learnt about Brazil's culture and its people
+permits
+I have taken some time to learn about Brazil's culture and its people
+
+I had taken some time to learn about Brazil's culture and its people
+contradicts
+I had n't learnt about Brazil's culture and its people
+
+I had n't learnt about Brazil's culture and its people
+contradicts
+I had taken some time to learn about Brazil's culture and its people
+
+I had taken no time to learn about Brazil's culture and its people
+entails
+I had learnt about Brazil's culture and its people
+
+I had learnt about Brazil's culture and its people
+permits
+I had taken no time to learn about Brazil's culture and its people
+
+I took no time to learn about Brazil's culture and its people
+contradicts
+I did not learn about Brazil's culture and its people
+
+I did not learn about Brazil's culture and its people
+contradicts
+I took no time to learn about Brazil's culture and its people
+
+he had taken some time to make his way up from a team member to a group pioneer
+entails
+he had made his way up from a team member to a group pioneer
+
+he had made his way up from a team member to a group pioneer
+permits
+he had taken some time to make his way up from a team member to a group pioneer
+
+he has taken some time to make his way up from a team member to a group pioneer
+contradicts
+he has not made his way up from a team member to a group pioneer
+
+he has not made his way up from a team member to a group pioneer
+contradicts
+he has taken some time to make his way up from a team member to a group pioneer
+
+he has taken no time to make his way up from a team member to a group pioneer
+entails
+he has made his way up from a team member to a group pioneer
+
+he has made his way up from a team member to a group pioneer
+permits
+he has taken no time to make his way up from a team member to a group pioneer
+
+he took no time to make his way up from a team member to a group pioneer
+contradicts
+he did n't make his way up from a team member to a group pioneer
+
+he did n't make his way up from a team member to a group pioneer
+contradicts
+he took no time to make his way up from a team member to a group pioneer
+
+he took no time to make his way up from a team member to a group pioneer
+permits
+he did n't pack in the punches
+
+Matt took some time to ask around about me
+entails
+Matt asked around about me
+
+Matt asked around about me
+permits
+Matt took some time to ask around about me
+
+Matt has taken some time to ask around about me
+contradicts
+Matt has n't asked around about me
+
+Matt has n't asked around about me
+contradicts
+Matt has taken some time to ask around about me
+
+Matt has taken some time to ask around about me
+permits
+the video has n't asked around about me
+
+Matt had taken no time to ask around about me
+entails
+Matt had asked around about me
+
+Matt had asked around about me
+permits
+Matt had taken no time to ask around about me
+
+Matt had taken no time to ask around about me
+permits
+Matt had made it a hilarious viral sensation
+
+Matt had taken no time to ask around about me
+contradicts
+Matt had n't asked around about me
+
+Matt had n't asked around about me
+contradicts
+Matt had taken no time to ask around about me
+
+Kenny has taken some time to start enjoying the life changing win
+entails
+Kenny has started enjoying the life changing win
+
+Kenny has started enjoying the life changing win
+permits
+Kenny has taken some time to start enjoying the life changing win
+
+Kenny has taken some time to start enjoying the life changing win
+permits
+Kenny has buffed
+
+Kenny had taken some time to start enjoying the life changing win
+contradicts
+Kenny had not started enjoying the life changing win
+
+Kenny had not started enjoying the life changing win
+contradicts
+Kenny had taken some time to start enjoying the life changing win
+
+Kenny had taken some time to start enjoying the life changing win
+permits
+Kenny had not bounced back to normal
+
+Kenny has taken no time to start enjoying the life changing win
+entails
+Kenny has started enjoying the life changing win
+
+Kenny has started enjoying the life changing win
+permits
+Kenny has taken no time to start enjoying the life changing win
+
+Kenny has taken no time to start enjoying the life changing win
+permits
+Kenny has adjusted to each other
+
+Kenny has taken no time to start enjoying the life changing win
+contradicts
+Kenny has not started enjoying the life changing win
+
+Kenny has not started enjoying the life changing win
+contradicts
+Kenny has taken no time to start enjoying the life changing win
+
+Susquehanna Heating had taken some time to get the new part under warranty
+entails
+Susquehanna Heating had gotten the new part under warranty
+
+Susquehanna Heating had gotten the new part under warranty
+permits
+Susquehanna Heating had taken some time to get the new part under warranty
+
+Susquehanna Heating had taken some time to get the new part under warranty
+permits
+Susquehanna Heating had asked around about me
+
+Susquehanna Heating had taken some time to get the new part under warranty
+contradicts
+Susquehanna Heating had n't gotten the new part under warranty
+
+Susquehanna Heating had n't gotten the new part under warranty
+contradicts
+Susquehanna Heating had taken some time to get the new part under warranty
+
+Susquehanna Heating had taken some time to get the new part under warranty
+permits
+Susquehanna Heating had not made it a hilarious viral sensation
+
+Susquehanna Heating took no time to get the new part under warranty
+entails
+Susquehanna Heating got the new part under warranty
+
+Susquehanna Heating got the new part under warranty
+permits
+Susquehanna Heating took no time to get the new part under warranty
+
+Susquehanna Heating took no time to get the new part under warranty
+permits
+Susquehanna Heating learnt about Brazil's culture and its people
+
+Susquehanna Heating took no time to get the new part under warranty
+contradicts
+Susquehanna Heating did not get the new part under warranty
+
+Susquehanna Heating did not get the new part under warranty
+contradicts
+Susquehanna Heating took no time to get the new part under warranty
+
+Susquehanna Heating took no time to get the new part under warranty
+permits
+Susquehanna Heating did not buffer
+
+they took some time to establish their dominance
+entails
+they established their dominance
+
+they established their dominance
+permits
+they took some time to establish their dominance
+
+they took some time to establish their dominance
+permits
+the employees established their dominance
+
+they had taken some time to establish their dominance
+contradicts
+they had not established their dominance
+
+they had not established their dominance
+contradicts
+they had taken some time to establish their dominance
+
+they had taken some time to establish their dominance
+permits
+Ginger and our three cats had n't established their dominance
+
+they had taken no time to establish their dominance
+entails
+they had established their dominance
+
+they had established their dominance
+permits
+they had taken no time to establish their dominance
+
+they had taken no time to establish their dominance
+permits
+the employees had established their dominance
+
+they have taken no time to establish their dominance
+contradicts
+they have n't established their dominance
+
+they have n't established their dominance
+contradicts
+they have taken no time to establish their dominance
+
+she has taken some time to response to your problem
+entails
+she response to your problem
+
+she response to your problem
+permits
+she has taken some time to response to your problem
+
+she had taken some time to response to your problem
+contradicts
+she response to your problem
+
+she response to your problem
+contradicts
+she had taken some time to response to your problem
+
+she had taken no time to response to your problem
+entails
+she response to your problem
+
+she response to your problem
+permits
+she had taken no time to response to your problem
+
+she had taken no time to response to your problem
+contradicts
+she response to your problem
+
+she response to your problem
+contradicts
+she had taken no time to response to your problem
+
+she had taken no time to response to your problem
+permits
+she had not buffed
+
+he took some time to wreak havoc in the world
+entails
+he wreaked havoc in the world
+
+he wreaked havoc in the world
+permits
+he took some time to wreak havoc in the world
+
+he took some time to wreak havoc in the world
+permits
+Matt wreaked havoc in the world
+
+he took some time to wreak havoc in the world
+contradicts
+he did n't wreak havoc in the world
+
+he did n't wreak havoc in the world
+contradicts
+he took some time to wreak havoc in the world
+
+he took some time to wreak havoc in the world
+permits
+the 26-year-old singer did not wreak havoc in the world
+
+he has taken no time to wreak havoc in the world
+entails
+he has wreaked havoc in the world
+
+he has wreaked havoc in the world
+permits
+he has taken no time to wreak havoc in the world
+
+he took no time to wreak havoc in the world
+contradicts
+he did not wreak havoc in the world
+
+he did not wreak havoc in the world
+contradicts
+he took no time to wreak havoc in the world
+
+he took no time to wreak havoc in the world
+permits
+Kenny did not wreak havoc in the world
+
+the employees had taken some time to start looking for greener pastures
+entails
+the employees had started looking for greener pastures
+
+the employees had started looking for greener pastures
+permits
+the employees had taken some time to start looking for greener pastures
+
+the employees had taken some time to start looking for greener pastures
+permits
+the employees had considered whether they wanted to join up with the national team
+
+the employees have taken some time to start looking for greener pastures
+contradicts
+the employees have not started looking for greener pastures
+
+the employees have not started looking for greener pastures
+contradicts
+the employees have taken some time to start looking for greener pastures
+
+the employees have taken no time to start looking for greener pastures
+entails
+the employees have started looking for greener pastures
+
+the employees have started looking for greener pastures
+permits
+the employees have taken no time to start looking for greener pastures
+
+the employees have taken no time to start looking for greener pastures
+permits
+Ginger and our three cats have started looking for greener pastures
+
+the employees took no time to start looking for greener pastures
+contradicts
+the employees did not start looking for greener pastures
+
+the employees did not start looking for greener pastures
+contradicts
+the employees took no time to start looking for greener pastures
+
+the NBA veteran took some time to adjust to his teammates
+entails
+the NBA veteran adjusted to his teammates
+
+the NBA veteran adjusted to his teammates
+permits
+the NBA veteran took some time to adjust to his teammates
+
+the NBA veteran has taken some time to adjust to his teammates
+contradicts
+the NBA veteran has not adjusted to his teammates
+
+the NBA veteran has not adjusted to his teammates
+contradicts
+the NBA veteran has taken some time to adjust to his teammates
+
+the NBA veteran has taken some time to adjust to his teammates
+permits
+Ronaldo has n't adjusted to his teammates
+
+the NBA veteran has taken no time to adjust to his teammates
+entails
+the NBA veteran has adjusted to his teammates
+
+the NBA veteran has adjusted to his teammates
+permits
+the NBA veteran has taken no time to adjust to his teammates
+
+the NBA veteran took no time to adjust to his teammates
+contradicts
+the NBA veteran did n't adjust to his teammates
+
+the NBA veteran did n't adjust to his teammates
+contradicts
+the NBA veteran took no time to adjust to his teammates
+
+Rayne Summers has taken some time to stray
+entails
+Rayne Summers has strayed
+
+Rayne Summers has strayed
+permits
+Rayne Summers has taken some time to stray
+
+Rayne Summers took some time to stray
+contradicts
+Rayne Summers did n't stray
+
+Rayne Summers did n't stray
+contradicts
+Rayne Summers took some time to stray
+
+Rayne Summers had taken no time to stray
+entails
+Rayne Summers had strayed
+
+Rayne Summers had strayed
+permits
+Rayne Summers had taken no time to stray
+
+Rayne Summers had taken no time to stray
+permits
+Laker head coach Byron Scott had strayed
+
+Rayne Summers had taken no time to stray
+contradicts
+Rayne Summers had n't strayed
+
+Rayne Summers had n't strayed
+contradicts
+Rayne Summers had taken no time to stray
+
+Rayne Summers had taken no time to stray
+permits
+Jeff Farmer, our demonstrator, had not strayed
+
+he public took some time to react to it vigorously
+entails
+he reacted to it vigorously
+
+he reacted to it vigorously
+permits
+he public took some time to react to it vigorously
+
+he public took some time to react to it vigorously
+contradicts
+he did not react to it vigorously
+
+he did not react to it vigorously
+contradicts
+he public took some time to react to it vigorously
+
+he has public taken no time to react to it vigorously
+entails
+he has reacted to it vigorously
+
+he has reacted to it vigorously
+permits
+he has public taken no time to react to it vigorously
+
+he has public taken no time to react to it vigorously
+permits
+he has started using the system properly
+
+he public took no time to react to it vigorously
+contradicts
+he did not react to it vigorously
+
+he did not react to it vigorously
+contradicts
+he public took no time to react to it vigorously
+
+he public took no time to react to it vigorously
+permits
+Susquehanna Heating did n't react to it vigorously
+

@@ -1,0 +1,4496 @@
+she had been prevented to occupy her current office
+entails
+she had n't occupied her current office
+
+she had n't occupied her current office
+permits
+she had been prevented to occupy her current office
+
+my server had prevented her to occupy her current office
+entails
+she had n't occupied her current office
+
+she had n't occupied her current office
+permits
+my server had prevented her to occupy her current office
+
+she had been prevented to occupy her current office
+contradicts
+she had occupied her current office
+
+she had occupied her current office
+contradicts
+she had been prevented to occupy her current office
+
+she had been prevented to occupy her current office
+permits
+she had seen the hand that touched her
+
+Wintershall had prevented her to occupy her current office
+contradicts
+she had occupied her current office
+
+she had occupied her current office
+contradicts
+Wintershall had prevented her to occupy her current office
+
+she has n't been prevented to occupy her current office
+permits
+she has occupied her current office
+
+his former mistress has n't prevented her to occupy her current office
+permits
+she has occupied her current office
+
+she has never been prevented to occupy her current office
+permits
+she has not occupied her current office
+
+she has not occupied her current office
+permits
+she has never been prevented to occupy her current office
+
+the light has never prevented her to occupy her current office
+permits
+she has not occupied her current office
+
+she has not occupied her current office
+permits
+the light has never prevented her to occupy her current office
+
+Wintershall had been prevented to drill in the Structure A area
+entails
+Wintershall had not drilled in the Structure A area
+
+Wintershall had not drilled in the Structure A area
+permits
+Wintershall had been prevented to drill in the Structure A area
+
+Wintershall had been prevented to drill in the Structure A area
+permits
+Wintershall had n't assigned a lower certainty equivalent to xpy than to xp'y
+
+the Vendean army had prevented Wintershall to drill in the Structure A area
+entails
+Wintershall had not drilled in the Structure A area
+
+Wintershall had not drilled in the Structure A area
+permits
+the Vendean army had prevented Wintershall to drill in the Structure A area
+
+the Vendean army had prevented Wintershall to drill in the Structure A area
+permits
+Wintershall had not left the Manila Airport
+
+Wintershall had been prevented to drill in the Structure A area
+contradicts
+Wintershall had drilled in the Structure A area
+
+Wintershall had drilled in the Structure A area
+contradicts
+Wintershall had been prevented to drill in the Structure A area
+
+Wintershall had been prevented to drill in the Structure A area
+permits
+Riek had drilled in the Structure A area
+
+the light had prevented Wintershall to drill in the Structure A area
+contradicts
+Wintershall had drilled in the Structure A area
+
+Wintershall had drilled in the Structure A area
+contradicts
+the light had prevented Wintershall to drill in the Structure A area
+
+Wintershall was almost prevented to drill in the Structure A area
+entails
+Wintershall drilled in the Structure A area
+
+Wintershall drilled in the Structure A area
+permits
+Wintershall was almost prevented to drill in the Structure A area
+
+Wintershall was almost prevented to drill in the Structure A area
+permits
+Wintershall generated galactic winds without explicit wind particles
+
+Girija almost prevented Wintershall to drill in the Structure A area
+entails
+Wintershall drilled in the Structure A area
+
+Wintershall drilled in the Structure A area
+permits
+Girija almost prevented Wintershall to drill in the Structure A area
+
+Wintershall was almost prevented to drill in the Structure A area
+contradicts
+Wintershall did not drill in the Structure A area
+
+Wintershall did not drill in the Structure A area
+contradicts
+Wintershall was almost prevented to drill in the Structure A area
+
+gas cooling almost prevented Wintershall to drill in the Structure A area
+contradicts
+Wintershall did not drill in the Structure A area
+
+Wintershall did not drill in the Structure A area
+contradicts
+gas cooling almost prevented Wintershall to drill in the Structure A area
+
+gas cooling almost prevented Wintershall to drill in the Structure A area
+permits
+Wintershall almost challenged Joaquin Almunia
+
+Aljazeera TV channel has been prevented to enter Tel-Rumieda
+entails
+Aljazeera TV channel has n't entered Tel-Rumieda
+
+Aljazeera TV channel has n't entered Tel-Rumieda
+permits
+Aljazeera TV channel has been prevented to enter Tel-Rumieda
+
+Aljazeera TV channel has been prevented to enter Tel-Rumieda
+permits
+Aljazeera TV channel has n't left Chile
+
+I has prevented Aljazeera TV channel to enter Tel-Rumieda
+entails
+Aljazeera TV channel has n't entered Tel-Rumieda
+
+Aljazeera TV channel has n't entered Tel-Rumieda
+permits
+I has prevented Aljazeera TV channel to enter Tel-Rumieda
+
+I has prevented Aljazeera TV channel to enter Tel-Rumieda
+permits
+Aljazeera TV channel has not drilled in the Structure A area
+
+Aljazeera TV channel was prevented to enter Tel-Rumieda
+contradicts
+Aljazeera TV channel entered Tel-Rumieda
+
+Aljazeera TV channel entered Tel-Rumieda
+contradicts
+Aljazeera TV channel was prevented to enter Tel-Rumieda
+
+Aljazeera TV channel was prevented to enter Tel-Rumieda
+permits
+the Vendean army entered Tel-Rumieda
+
+Mr K.A prevented Aljazeera TV channel to enter Tel-Rumieda
+contradicts
+Aljazeera TV channel entered Tel-Rumieda
+
+Aljazeera TV channel entered Tel-Rumieda
+contradicts
+Mr K.A prevented Aljazeera TV channel to enter Tel-Rumieda
+
+Aljazeera TV channel was not prevented to enter Tel-Rumieda
+entails
+Aljazeera TV channel entered Tel-Rumieda
+
+Aljazeera TV channel entered Tel-Rumieda
+permits
+Aljazeera TV channel was not prevented to enter Tel-Rumieda
+
+the Vendean army did not prevent Aljazeera TV channel to enter Tel-Rumieda
+entails
+Aljazeera TV channel entered Tel-Rumieda
+
+Aljazeera TV channel entered Tel-Rumieda
+permits
+the Vendean army did not prevent Aljazeera TV channel to enter Tel-Rumieda
+
+Aljazeera TV channel has never been prevented to enter Tel-Rumieda
+contradicts
+Aljazeera TV channel has n't entered Tel-Rumieda
+
+Aljazeera TV channel has n't entered Tel-Rumieda
+contradicts
+Aljazeera TV channel has never been prevented to enter Tel-Rumieda
+
+Aljazeera TV channel has never been prevented to enter Tel-Rumieda
+permits
+Wintershall has not entered Tel-Rumieda
+
+Russia has never prevented Aljazeera TV channel to enter Tel-Rumieda
+contradicts
+Aljazeera TV channel has n't entered Tel-Rumieda
+
+Aljazeera TV channel has n't entered Tel-Rumieda
+contradicts
+Russia has never prevented Aljazeera TV channel to enter Tel-Rumieda
+
+I have been prevented to go to my airplane by four officers
+entails
+I have not gone to my airplane by four officers
+
+I have not gone to my airplane by four officers
+permits
+I have been prevented to go to my airplane by four officers
+
+I have been prevented to go to my airplane by four officers
+permits
+you have n't gone to your airplane by four officers
+
+his former mistress have prevented me to go to my airplane by four officers
+entails
+I have not gone to my airplane by four officers
+
+I have not gone to my airplane by four officers
+permits
+his former mistress have prevented me to go to my airplane by four officers
+
+I was prevented to go to my airplane by four officers
+contradicts
+I went to my airplane by four officers
+
+I went to my airplane by four officers
+contradicts
+I was prevented to go to my airplane by four officers
+
+I was prevented to go to my airplane by four officers
+permits
+his former mistress went to her airplane by four officers
+
+Aljazeera TV channel prevented me to go to my airplane by four officers
+contradicts
+I went to my airplane by four officers
+
+I went to my airplane by four officers
+contradicts
+Aljazeera TV channel prevented me to go to my airplane by four officers
+
+Aljazeera TV channel prevented me to go to my airplane by four officers
+permits
+Josep Borrell went to his airplane by four officers
+
+I had not been prevented to go to my airplane by four officers
+entails
+I had gone to my airplane by four officers
+
+I had gone to my airplane by four officers
+permits
+I had not been prevented to go to my airplane by four officers
+
+you had not prevented me to go to my airplane by four officers
+entails
+I had gone to my airplane by four officers
+
+I had gone to my airplane by four officers
+permits
+you had not prevented me to go to my airplane by four officers
+
+I have not been prevented to go to my airplane by four officers
+contradicts
+I have n't gone to my airplane by four officers
+
+I have n't gone to my airplane by four officers
+contradicts
+I have not been prevented to go to my airplane by four officers
+
+his former mistress have not prevented me to go to my airplane by four officers
+contradicts
+I have n't gone to my airplane by four officers
+
+I have n't gone to my airplane by four officers
+contradicts
+his former mistress have not prevented me to go to my airplane by four officers
+
+his former mistress have not prevented me to go to my airplane by four officers
+permits
+I have not acquired the whole of Poland
+
+the actor had been prevented to do it because of his short size
+entails
+the actor had not done it because of his short size
+
+the actor had not done it because of his short size
+permits
+the actor had been prevented to do it because of his short size
+
+I had prevented the actor to do it because of his short size
+entails
+the actor had not done it because of his short size
+
+the actor had not done it because of his short size
+permits
+I had prevented the actor to do it because of his short size
+
+I had prevented the actor to do it because of his short size
+permits
+the actor had n't reached the pool
+
+the actor had been prevented to do it because of his short size
+contradicts
+the actor had done it because of his short size
+
+the actor had done it because of his short size
+contradicts
+the actor had been prevented to do it because of his short size
+
+gas cooling had prevented the actor to do it because of his short size
+contradicts
+the actor had done it because of his short size
+
+the actor had done it because of his short size
+contradicts
+gas cooling had prevented the actor to do it because of his short size
+
+gas cooling had prevented the actor to do it because of his short size
+permits
+Mr K.A had done it because of his short size
+
+the actor almost has been prevented to do it because of his short size
+entails
+the actor has done it because of his short size
+
+the actor has done it because of his short size
+permits
+the actor almost has been prevented to do it because of his short size
+
+the actor almost has been prevented to do it because of his short size
+permits
+Mr K.A has done it because of his short size
+
+Moshe almost has prevented the actor to do it because of his short size
+entails
+the actor has done it because of his short size
+
+the actor has done it because of his short size
+permits
+Moshe almost has prevented the actor to do it because of his short size
+
+Moshe almost has prevented the actor to do it because of his short size
+permits
+the actor has reached the edges of the rectangular sensor
+
+the actor has n't been prevented to do it because of his short size
+contradicts
+the actor has not done it because of his short size
+
+the actor has not done it because of his short size
+contradicts
+the actor has n't been prevented to do it because of his short size
+
+Aljazeera TV channel has n't prevented the actor to do it because of his short size
+contradicts
+the actor has not done it because of his short size
+
+the actor has not done it because of his short size
+contradicts
+Aljazeera TV channel has n't prevented the actor to do it because of his short size
+
+Aljazeera TV channel has n't prevented the actor to do it because of his short size
+permits
+the actor has not come to my table
+
+the light was prevented to reach the edges of the rectangular sensor
+entails
+the light did n't reach the edges of the rectangular sensor
+
+the light did n't reach the edges of the rectangular sensor
+permits
+the light was prevented to reach the edges of the rectangular sensor
+
+you prevented the light to reach the edges of the rectangular sensor
+entails
+the light did n't reach the edges of the rectangular sensor
+
+the light did n't reach the edges of the rectangular sensor
+permits
+you prevented the light to reach the edges of the rectangular sensor
+
+the light was prevented to reach the edges of the rectangular sensor
+contradicts
+the light reached the edges of the rectangular sensor
+
+the light reached the edges of the rectangular sensor
+contradicts
+the light was prevented to reach the edges of the rectangular sensor
+
+I prevented the light to reach the edges of the rectangular sensor
+contradicts
+the light reached the edges of the rectangular sensor
+
+the light reached the edges of the rectangular sensor
+contradicts
+I prevented the light to reach the edges of the rectangular sensor
+
+the light was never prevented to reach the edges of the rectangular sensor
+entails
+the light reached the edges of the rectangular sensor
+
+the light reached the edges of the rectangular sensor
+permits
+the light was never prevented to reach the edges of the rectangular sensor
+
+I never prevented the light to reach the edges of the rectangular sensor
+entails
+the light reached the edges of the rectangular sensor
+
+the light reached the edges of the rectangular sensor
+permits
+I never prevented the light to reach the edges of the rectangular sensor
+
+the light had n't been prevented to reach the edges of the rectangular sensor
+contradicts
+the light had n't reached the edges of the rectangular sensor
+
+the light had n't reached the edges of the rectangular sensor
+contradicts
+the light had n't been prevented to reach the edges of the rectangular sensor
+
+the light had n't been prevented to reach the edges of the rectangular sensor
+permits
+the light had n't seen the hand that touched it
+
+Turkish Cypriot expat had n't prevented the light to reach the edges of the rectangular sensor
+contradicts
+the light had n't reached the edges of the rectangular sensor
+
+the light had n't reached the edges of the rectangular sensor
+contradicts
+Turkish Cypriot expat had n't prevented the light to reach the edges of the rectangular sensor
+
+Turkish Cypriot expat had n't prevented the light to reach the edges of the rectangular sensor
+permits
+his former mistress had not reached the edges of the rectangular sensor
+
+his former mistress was prevented to set him free
+entails
+his former mistress did n't set him free
+
+his former mistress did n't set him free
+permits
+his former mistress was prevented to set him free
+
+you prevented his former mistress to set him free
+entails
+his former mistress did n't set him free
+
+his former mistress did n't set him free
+permits
+you prevented his former mistress to set him free
+
+his former mistress had been prevented to set him free
+contradicts
+his former mistress had set him free
+
+his former mistress had set him free
+contradicts
+his former mistress had been prevented to set him free
+
+his former mistress had been prevented to set him free
+permits
+the Vendean army had set him free
+
+Moshe had prevented his former mistress to set him free
+contradicts
+his former mistress had set him free
+
+his former mistress had set him free
+contradicts
+Moshe had prevented his former mistress to set him free
+
+his former mistress was n't prevented to set him free
+entails
+his former mistress set him free
+
+his former mistress set him free
+permits
+his former mistress was n't prevented to set him free
+
+his former mistress was n't prevented to set him free
+permits
+Josep Borrell set him free
+
+Wintershall did n't prevent his former mistress to set him free
+entails
+his former mistress set him free
+
+his former mistress set him free
+permits
+Wintershall did n't prevent his former mistress to set him free
+
+his former mistress was never prevented to set him free
+contradicts
+his former mistress did n't set him free
+
+his former mistress did n't set him free
+contradicts
+his former mistress was never prevented to set him free
+
+his former mistress was never prevented to set him free
+permits
+his former mistress did n't visit her grandmother in occupied Louroudjina
+
+the Vendean army never prevented his former mistress to set him free
+contradicts
+his former mistress did n't set him free
+
+his former mistress did n't set him free
+contradicts
+the Vendean army never prevented his former mistress to set him free
+
+the Vendean army never prevented his former mistress to set him free
+permits
+his former mistress did not march further by police near Sishu Bhawan square
+
+Turkish Cypriot expat was prevented to visit his grandmother in occupied Louroudjina
+entails
+Turkish Cypriot expat did n't visit his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat did n't visit his grandmother in occupied Louroudjina
+permits
+Turkish Cypriot expat was prevented to visit his grandmother in occupied Louroudjina
+
+my server prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+entails
+Turkish Cypriot expat did n't visit his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat did n't visit his grandmother in occupied Louroudjina
+permits
+my server prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat was prevented to visit his grandmother in occupied Louroudjina
+contradicts
+Turkish Cypriot expat visited his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat visited his grandmother in occupied Louroudjina
+contradicts
+Turkish Cypriot expat was prevented to visit his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat was prevented to visit his grandmother in occupied Louroudjina
+permits
+Turkish Cypriot expat entered by the North Koreans
+
+Riek prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+contradicts
+Turkish Cypriot expat visited his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat visited his grandmother in occupied Louroudjina
+contradicts
+Riek prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+
+Riek prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+permits
+Aljazeera TV channel visited its grandmother in occupied Louroudjina
+
+Turkish Cypriot expat had not been prevented to visit his grandmother in occupied Louroudjina
+entails
+Turkish Cypriot expat had visited his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat had visited his grandmother in occupied Louroudjina
+permits
+Turkish Cypriot expat had not been prevented to visit his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat had not been prevented to visit his grandmother in occupied Louroudjina
+permits
+Turkish Cypriot expat had spoken
+
+Girija had not prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+entails
+Turkish Cypriot expat had visited his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat had visited his grandmother in occupied Louroudjina
+permits
+Girija had not prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat had not been prevented to visit his grandmother in occupied Louroudjina
+contradicts
+Turkish Cypriot expat had not visited his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat had not visited his grandmother in occupied Louroudjina
+contradicts
+Turkish Cypriot expat had not been prevented to visit his grandmother in occupied Louroudjina
+
+my server had not prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+contradicts
+Turkish Cypriot expat had not visited his grandmother in occupied Louroudjina
+
+Turkish Cypriot expat had not visited his grandmother in occupied Louroudjina
+contradicts
+my server had not prevented Turkish Cypriot expat to visit his grandmother in occupied Louroudjina
+
+Babul Supriya has been prevented to enter in a school at Ranjganj
+entails
+Babul Supriya has n't entered in a school at Ranjganj
+
+Babul Supriya has n't entered in a school at Ranjganj
+permits
+Babul Supriya has been prevented to enter in a school at Ranjganj
+
+Russia has prevented Babul Supriya to enter in a school at Ranjganj
+entails
+Babul Supriya has n't entered in a school at Ranjganj
+
+Babul Supriya has n't entered in a school at Ranjganj
+permits
+Russia has prevented Babul Supriya to enter in a school at Ranjganj
+
+Russia has prevented Babul Supriya to enter in a school at Ranjganj
+permits
+Babul Supriya has not proceeded with further enquiry
+
+Babul Supriya has been prevented to enter in a school at Ranjganj
+contradicts
+Babul Supriya has entered in a school at Ranjganj
+
+Babul Supriya has entered in a school at Ranjganj
+contradicts
+Babul Supriya has been prevented to enter in a school at Ranjganj
+
+I has prevented Babul Supriya to enter in a school at Ranjganj
+contradicts
+Babul Supriya has entered in a school at Ranjganj
+
+Babul Supriya has entered in a school at Ranjganj
+contradicts
+I has prevented Babul Supriya to enter in a school at Ranjganj
+
+I has prevented Babul Supriya to enter in a school at Ranjganj
+permits
+the light has entered in a school at Ranjganj
+
+Babul Supriya was not prevented to enter in a school at Ranjganj
+permits
+Babul Supriya entered in a school at Ranjganj
+
+my server did not prevent Babul Supriya to enter in a school at Ranjganj
+permits
+Babul Supriya entered in a school at Ranjganj
+
+Babul Supriya has never been prevented to enter in a school at Ranjganj
+permits
+Babul Supriya has not entered in a school at Ranjganj
+
+Babul Supriya has not entered in a school at Ranjganj
+permits
+Babul Supriya has never been prevented to enter in a school at Ranjganj
+
+the Vendean army has never prevented Babul Supriya to enter in a school at Ranjganj
+permits
+Babul Supriya has not entered in a school at Ranjganj
+
+Babul Supriya has not entered in a school at Ranjganj
+permits
+the Vendean army has never prevented Babul Supriya to enter in a school at Ranjganj
+
+I have been prevented to access my facebook account
+entails
+I have not accessed my facebook account
+
+I have not accessed my facebook account
+permits
+I have been prevented to access my facebook account
+
+I have been prevented to access my facebook account
+permits
+Wintershall has not accessed his facebook account
+
+Girija have prevented me to access my facebook account
+entails
+I have not accessed my facebook account
+
+I have not accessed my facebook account
+permits
+Girija have prevented me to access my facebook account
+
+I was prevented to access my facebook account
+contradicts
+I accessed my facebook account
+
+I accessed my facebook account
+contradicts
+I was prevented to access my facebook account
+
+I was prevented to access my facebook account
+permits
+Turkish Cypriot expat accessed his facebook account
+
+Chris Brown prevented me to access my facebook account
+contradicts
+I accessed my facebook account
+
+I accessed my facebook account
+contradicts
+Chris Brown prevented me to access my facebook account
+
+Chris Brown prevented me to access my facebook account
+permits
+Girija accessed his facebook account
+
+I never had been prevented to access my facebook account
+entails
+I had accessed my facebook account
+
+I had accessed my facebook account
+permits
+I never had been prevented to access my facebook account
+
+I never had been prevented to access my facebook account
+permits
+you had accessed your facebook account
+
+Josep Borrell never had prevented me to access my facebook account
+entails
+I had accessed my facebook account
+
+I had accessed my facebook account
+permits
+Josep Borrell never had prevented me to access my facebook account
+
+Josep Borrell never had prevented me to access my facebook account
+permits
+I had realized my dreams and patents about free energy
+
+I was n't prevented to access my facebook account
+contradicts
+I did n't access my facebook account
+
+I did n't access my facebook account
+contradicts
+I was n't prevented to access my facebook account
+
+Riek did n't prevent me to access my facebook account
+contradicts
+I did n't access my facebook account
+
+I did n't access my facebook account
+contradicts
+Riek did n't prevent me to access my facebook account
+
+Russia was prevented to acquire the whole of Poland
+entails
+Russia did n't acquire the whole of Poland
+
+Russia did n't acquire the whole of Poland
+permits
+Russia was prevented to acquire the whole of Poland
+
+Turkish Cypriot expat prevented Russia to acquire the whole of Poland
+entails
+Russia did n't acquire the whole of Poland
+
+Russia did n't acquire the whole of Poland
+permits
+Turkish Cypriot expat prevented Russia to acquire the whole of Poland
+
+Russia had been prevented to acquire the whole of Poland
+contradicts
+Russia had acquired the whole of Poland
+
+Russia had acquired the whole of Poland
+contradicts
+Russia had been prevented to acquire the whole of Poland
+
+you had prevented Russia to acquire the whole of Poland
+contradicts
+Russia had acquired the whole of Poland
+
+Russia had acquired the whole of Poland
+contradicts
+you had prevented Russia to acquire the whole of Poland
+
+Russia had never been prevented to acquire the whole of Poland
+entails
+Russia had acquired the whole of Poland
+
+Russia had acquired the whole of Poland
+permits
+Russia had never been prevented to acquire the whole of Poland
+
+the actor had never prevented Russia to acquire the whole of Poland
+entails
+Russia had acquired the whole of Poland
+
+Russia had acquired the whole of Poland
+permits
+the actor had never prevented Russia to acquire the whole of Poland
+
+the actor had never prevented Russia to acquire the whole of Poland
+permits
+Russia had come onto the premises
+
+Russia was never prevented to acquire the whole of Poland
+contradicts
+Russia never acquired the whole of Poland
+
+Russia never acquired the whole of Poland
+contradicts
+Russia was never prevented to acquire the whole of Poland
+
+gas cooling never prevented Russia to acquire the whole of Poland
+contradicts
+Russia never acquired the whole of Poland
+
+Russia never acquired the whole of Poland
+contradicts
+gas cooling never prevented Russia to acquire the whole of Poland
+
+Moshe had been prevented to enter the land
+entails
+Moshe had not entered the land
+
+Moshe had not entered the land
+permits
+Moshe had been prevented to enter the land
+
+Moshe had been prevented to enter the land
+permits
+Russia had not entered the land
+
+the company had prevented Moshe to enter the land
+entails
+Moshe had not entered the land
+
+Moshe had not entered the land
+permits
+the company had prevented Moshe to enter the land
+
+Moshe was prevented to enter the land
+contradicts
+Moshe entered the land
+
+Moshe entered the land
+contradicts
+Moshe was prevented to enter the land
+
+Aljazeera TV channel prevented Moshe to enter the land
+contradicts
+Moshe entered the land
+
+Moshe entered the land
+contradicts
+Aljazeera TV channel prevented Moshe to enter the land
+
+Aljazeera TV channel prevented Moshe to enter the land
+permits
+Turkish Cypriot expat entered the land
+
+Moshe had not been prevented to enter the land
+entails
+Moshe had entered the land
+
+Moshe had entered the land
+permits
+Moshe had not been prevented to enter the land
+
+Moshe had not been prevented to enter the land
+permits
+Babul Supriya had entered the land
+
+Josep Borrell had not prevented Moshe to enter the land
+entails
+Moshe had entered the land
+
+Moshe had entered the land
+permits
+Josep Borrell had not prevented Moshe to enter the land
+
+Josep Borrell had not prevented Moshe to enter the land
+permits
+the light had entered the land
+
+Moshe was never prevented to enter the land
+contradicts
+Moshe never entered the land
+
+Moshe never entered the land
+contradicts
+Moshe was never prevented to enter the land
+
+Moshe was never prevented to enter the land
+permits
+Moshe did n't do the same
+
+Mr K.A never prevented Moshe to enter the land
+contradicts
+Moshe never entered the land
+
+Moshe never entered the land
+contradicts
+Mr K.A never prevented Moshe to enter the land
+
+she was prevented to cry
+entails
+she did n't cry
+
+she did n't cry
+permits
+she was prevented to cry
+
+she was prevented to cry
+permits
+Russia did n't cry
+
+he prevented her to cry
+entails
+she did n't cry
+
+she did n't cry
+permits
+he prevented her to cry
+
+she has been prevented to cry
+contradicts
+she has cried
+
+she has cried
+contradicts
+she has been prevented to cry
+
+Wintershall has prevented her to cry
+contradicts
+she has cried
+
+she has cried
+contradicts
+Wintershall has prevented her to cry
+
+she had never been prevented to cry
+entails
+she had cried
+
+she had cried
+permits
+she had never been prevented to cry
+
+Wintershall had never prevented her to cry
+entails
+she had cried
+
+she had cried
+permits
+Wintershall had never prevented her to cry
+
+she has never been prevented to cry
+contradicts
+she has never cried
+
+she has never cried
+contradicts
+she has never been prevented to cry
+
+she has never been prevented to cry
+permits
+the Vendean army has never cried
+
+the company has never prevented her to cry
+contradicts
+she has never cried
+
+she has never cried
+contradicts
+the company has never prevented her to cry
+
+Chris Brown was prevented to leave the Manila Airport
+entails
+Chris Brown did n't leave the Manila Airport
+
+Chris Brown did n't leave the Manila Airport
+permits
+Chris Brown was prevented to leave the Manila Airport
+
+Chris Brown was prevented to leave the Manila Airport
+permits
+you did not leave the Manila Airport
+
+Josep Borrell prevented Chris Brown to leave the Manila Airport
+entails
+Chris Brown did n't leave the Manila Airport
+
+Chris Brown did n't leave the Manila Airport
+permits
+Josep Borrell prevented Chris Brown to leave the Manila Airport
+
+Chris Brown had been prevented to leave the Manila Airport
+contradicts
+Chris Brown had left the Manila Airport
+
+Chris Brown had left the Manila Airport
+contradicts
+Chris Brown had been prevented to leave the Manila Airport
+
+Chris Brown had been prevented to leave the Manila Airport
+permits
+Chris Brown had gone to school by his own mother
+
+Babul Supriya had prevented Chris Brown to leave the Manila Airport
+contradicts
+Chris Brown had left the Manila Airport
+
+Chris Brown had left the Manila Airport
+contradicts
+Babul Supriya had prevented Chris Brown to leave the Manila Airport
+
+Chris Brown has never been prevented to leave the Manila Airport
+permits
+Chris Brown has left the Manila Airport
+
+the Vendean army has never prevented Chris Brown to leave the Manila Airport
+permits
+Chris Brown has left the Manila Airport
+
+Chris Brown has almost been prevented to leave the Manila Airport
+permits
+Chris Brown has not left the Manila Airport
+
+Chris Brown has not left the Manila Airport
+permits
+Chris Brown has almost been prevented to leave the Manila Airport
+
+Moshe has almost prevented Chris Brown to leave the Manila Airport
+permits
+Chris Brown has not left the Manila Airport
+
+Chris Brown has not left the Manila Airport
+permits
+Moshe has almost prevented Chris Brown to leave the Manila Airport
+
+Mr K.A was prevented to exercise his right to vote in the 2006 general elections
+entails
+Mr K.A did not exercise his right to vote in the 2006 general elections
+
+Mr K.A did not exercise his right to vote in the 2006 general elections
+permits
+Mr K.A was prevented to exercise his right to vote in the 2006 general elections
+
+Mr K.A was prevented to exercise his right to vote in the 2006 general elections
+permits
+Mr K.A did not realize his dreams or patents about free energy
+
+the Vendean army prevented Mr K.A to exercise his right to vote in the 2006 general elections
+entails
+Mr K.A did not exercise his right to vote in the 2006 general elections
+
+Mr K.A did not exercise his right to vote in the 2006 general elections
+permits
+the Vendean army prevented Mr K.A to exercise his right to vote in the 2006 general elections
+
+Mr K.A was prevented to exercise his right to vote in the 2006 general elections
+contradicts
+Mr K.A exercised his right to vote in the 2006 general elections
+
+Mr K.A exercised his right to vote in the 2006 general elections
+contradicts
+Mr K.A was prevented to exercise his right to vote in the 2006 general elections
+
+the company prevented Mr K.A to exercise his right to vote in the 2006 general elections
+contradicts
+Mr K.A exercised his right to vote in the 2006 general elections
+
+Mr K.A exercised his right to vote in the 2006 general elections
+contradicts
+the company prevented Mr K.A to exercise his right to vote in the 2006 general elections
+
+Mr K.A has almost been prevented to exercise his right to vote in the 2006 general elections
+entails
+Mr K.A has exercised his right to vote in the 2006 general elections
+
+Mr K.A has exercised his right to vote in the 2006 general elections
+permits
+Mr K.A has almost been prevented to exercise his right to vote in the 2006 general elections
+
+Mr K.A has almost been prevented to exercise his right to vote in the 2006 general elections
+permits
+Mr K.A has penetrated into an apple with up to 5,000 mg/l Citral
+
+Turkish Cypriot expat has almost prevented Mr K.A to exercise his right to vote in the 2006 general elections
+entails
+Mr K.A has exercised his right to vote in the 2006 general elections
+
+Mr K.A has exercised his right to vote in the 2006 general elections
+permits
+Turkish Cypriot expat has almost prevented Mr K.A to exercise his right to vote in the 2006 general elections
+
+Turkish Cypriot expat has almost prevented Mr K.A to exercise his right to vote in the 2006 general elections
+permits
+she has exercised her right to vote in the 2006 general elections
+
+Mr K.A had not been prevented to exercise his right to vote in the 2006 general elections
+contradicts
+Mr K.A had n't exercised his right to vote in the 2006 general elections
+
+Mr K.A had n't exercised his right to vote in the 2006 general elections
+contradicts
+Mr K.A had not been prevented to exercise his right to vote in the 2006 general elections
+
+Mr K.A had not been prevented to exercise his right to vote in the 2006 general elections
+permits
+Mr K.A had n't reached the edges of the rectangular sensor
+
+Aljazeera TV channel had not prevented Mr K.A to exercise his right to vote in the 2006 general elections
+contradicts
+Mr K.A had n't exercised his right to vote in the 2006 general elections
+
+Mr K.A had n't exercised his right to vote in the 2006 general elections
+contradicts
+Aljazeera TV channel had not prevented Mr K.A to exercise his right to vote in the 2006 general elections
+
+he has been prevented to come backstage
+entails
+he has not come backstage
+
+he has not come backstage
+permits
+he has been prevented to come backstage
+
+Girija has prevented him to come backstage
+entails
+he has not come backstage
+
+he has not come backstage
+permits
+Girija has prevented him to come backstage
+
+Girija has prevented him to come backstage
+permits
+the company has n't come backstage
+
+he had been prevented to come backstage
+contradicts
+he had come backstage
+
+he had come backstage
+contradicts
+he had been prevented to come backstage
+
+he had been prevented to come backstage
+permits
+he had cried
+
+Russia had prevented him to come backstage
+contradicts
+he had come backstage
+
+he had come backstage
+contradicts
+Russia had prevented him to come backstage
+
+Russia had prevented him to come backstage
+permits
+Babul Supriya had come backstage
+
+he was not prevented to come backstage
+entails
+he came backstage
+
+he came backstage
+permits
+he was not prevented to come backstage
+
+Mr K.A did not prevent him to come backstage
+entails
+he came backstage
+
+he came backstage
+permits
+Mr K.A did not prevent him to come backstage
+
+he was not prevented to come backstage
+contradicts
+he did n't come backstage
+
+he did n't come backstage
+contradicts
+he was not prevented to come backstage
+
+he was not prevented to come backstage
+permits
+Babul Supriya did not come backstage
+
+I did not prevent him to come backstage
+contradicts
+he did n't come backstage
+
+he did n't come backstage
+contradicts
+I did not prevent him to come backstage
+
+gas cooling has been prevented to generate galactic winds without explicit wind particles
+entails
+gas cooling has not generated galactic winds without explicit wind particles
+
+gas cooling has not generated galactic winds without explicit wind particles
+permits
+gas cooling has been prevented to generate galactic winds without explicit wind particles
+
+gas cooling has been prevented to generate galactic winds without explicit wind particles
+permits
+gas cooling has not occupied its current office
+
+my server has prevented gas cooling to generate galactic winds without explicit wind particles
+entails
+gas cooling has not generated galactic winds without explicit wind particles
+
+gas cooling has not generated galactic winds without explicit wind particles
+permits
+my server has prevented gas cooling to generate galactic winds without explicit wind particles
+
+my server has prevented gas cooling to generate galactic winds without explicit wind particles
+permits
+his former mistress has not generated galactic winds without explicit wind particles
+
+gas cooling was prevented to generate galactic winds without explicit wind particles
+contradicts
+gas cooling generated galactic winds without explicit wind particles
+
+gas cooling generated galactic winds without explicit wind particles
+contradicts
+gas cooling was prevented to generate galactic winds without explicit wind particles
+
+gas cooling was prevented to generate galactic winds without explicit wind particles
+permits
+Babul Supriya generated galactic winds without explicit wind particles
+
+the company prevented gas cooling to generate galactic winds without explicit wind particles
+contradicts
+gas cooling generated galactic winds without explicit wind particles
+
+gas cooling generated galactic winds without explicit wind particles
+contradicts
+the company prevented gas cooling to generate galactic winds without explicit wind particles
+
+gas cooling has n't been prevented to generate galactic winds without explicit wind particles
+permits
+gas cooling has generated galactic winds without explicit wind particles
+
+Russia has n't prevented gas cooling to generate galactic winds without explicit wind particles
+permits
+gas cooling has generated galactic winds without explicit wind particles
+
+gas cooling has almost been prevented to generate galactic winds without explicit wind particles
+permits
+gas cooling has not generated galactic winds without explicit wind particles
+
+gas cooling has not generated galactic winds without explicit wind particles
+permits
+gas cooling has almost been prevented to generate galactic winds without explicit wind particles
+
+Russia has almost prevented gas cooling to generate galactic winds without explicit wind particles
+permits
+gas cooling has not generated galactic winds without explicit wind particles
+
+gas cooling has not generated galactic winds without explicit wind particles
+permits
+Russia has almost prevented gas cooling to generate galactic winds without explicit wind particles
+
+he was prevented to choose his own lawyer
+entails
+he did n't choose his own lawyer
+
+he did n't choose his own lawyer
+permits
+he was prevented to choose his own lawyer
+
+he was prevented to choose his own lawyer
+permits
+Josep Borrell did n't choose his own lawyer
+
+the light prevented him to choose his own lawyer
+entails
+he did n't choose his own lawyer
+
+he did n't choose his own lawyer
+permits
+the light prevented him to choose his own lawyer
+
+he had been prevented to choose his own lawyer
+contradicts
+he had chosen his own lawyer
+
+he had chosen his own lawyer
+contradicts
+he had been prevented to choose his own lawyer
+
+Russia had prevented him to choose his own lawyer
+contradicts
+he had chosen his own lawyer
+
+he had chosen his own lawyer
+contradicts
+Russia had prevented him to choose his own lawyer
+
+he has not been prevented to choose his own lawyer
+permits
+he has chosen his own lawyer
+
+she has not prevented him to choose his own lawyer
+permits
+he has chosen his own lawyer
+
+he had not been prevented to choose his own lawyer
+permits
+he had not chosen his own lawyer
+
+he had not chosen his own lawyer
+permits
+he had not been prevented to choose his own lawyer
+
+Aljazeera TV channel had not prevented him to choose his own lawyer
+permits
+he had not chosen his own lawyer
+
+he had not chosen his own lawyer
+permits
+Aljazeera TV channel had not prevented him to choose his own lawyer
+
+the Vendean army was prevented to enter the town by women
+entails
+the Vendean army did n't enter the town by women
+
+the Vendean army did n't enter the town by women
+permits
+the Vendean army was prevented to enter the town by women
+
+the Vendean army was prevented to enter the town by women
+permits
+the Vendean army did n't set him free
+
+Josep Borrell prevented the Vendean army to enter the town by women
+entails
+the Vendean army did n't enter the town by women
+
+the Vendean army did n't enter the town by women
+permits
+Josep Borrell prevented the Vendean army to enter the town by women
+
+Josep Borrell prevented the Vendean army to enter the town by women
+permits
+the Vendean army did n't acquire the whole of Poland
+
+the Vendean army was prevented to enter the town by women
+contradicts
+the Vendean army entered the town by women
+
+the Vendean army entered the town by women
+contradicts
+the Vendean army was prevented to enter the town by women
+
+the Vendean army was prevented to enter the town by women
+permits
+his former mistress entered the town by women
+
+Turkish Cypriot expat prevented the Vendean army to enter the town by women
+contradicts
+the Vendean army entered the town by women
+
+the Vendean army entered the town by women
+contradicts
+Turkish Cypriot expat prevented the Vendean army to enter the town by women
+
+Turkish Cypriot expat prevented the Vendean army to enter the town by women
+permits
+Babul Supriya entered the town by women
+
+the Vendean army was never prevented to enter the town by women
+permits
+the Vendean army entered the town by women
+
+you never prevented the Vendean army to enter the town by women
+permits
+the Vendean army entered the town by women
+
+the Vendean army has never been prevented to enter the town by women
+permits
+the Vendean army has never entered the town by women
+
+the Vendean army has never entered the town by women
+permits
+the Vendean army has never been prevented to enter the town by women
+
+Wintershall has never prevented the Vendean army to enter the town by women
+permits
+the Vendean army has never entered the town by women
+
+the Vendean army has never entered the town by women
+permits
+Wintershall has never prevented the Vendean army to enter the town by women
+
+he had been prevented to paint with big brush strokes
+entails
+he had n't painted with big brush strokes
+
+he had n't painted with big brush strokes
+permits
+he had been prevented to paint with big brush strokes
+
+Turkish Cypriot expat had prevented him to paint with big brush strokes
+entails
+he had n't painted with big brush strokes
+
+he had n't painted with big brush strokes
+permits
+Turkish Cypriot expat had prevented him to paint with big brush strokes
+
+Turkish Cypriot expat had prevented him to paint with big brush strokes
+permits
+he had not acquired the whole of Poland
+
+he has been prevented to paint with big brush strokes
+contradicts
+he has painted with big brush strokes
+
+he has painted with big brush strokes
+contradicts
+he has been prevented to paint with big brush strokes
+
+my server has prevented him to paint with big brush strokes
+contradicts
+he has painted with big brush strokes
+
+he has painted with big brush strokes
+contradicts
+my server has prevented him to paint with big brush strokes
+
+my server has prevented him to paint with big brush strokes
+permits
+he has come to my table
+
+he was never prevented to paint with big brush strokes
+entails
+he painted with big brush strokes
+
+he painted with big brush strokes
+permits
+he was never prevented to paint with big brush strokes
+
+he was never prevented to paint with big brush strokes
+permits
+he rode the plane to Bhairawa
+
+I never prevented him to paint with big brush strokes
+entails
+he painted with big brush strokes
+
+he painted with big brush strokes
+permits
+I never prevented him to paint with big brush strokes
+
+he has never been prevented to paint with big brush strokes
+contradicts
+he has n't painted with big brush strokes
+
+he has n't painted with big brush strokes
+contradicts
+he has never been prevented to paint with big brush strokes
+
+the light has never prevented him to paint with big brush strokes
+contradicts
+he has n't painted with big brush strokes
+
+he has n't painted with big brush strokes
+contradicts
+the light has never prevented him to paint with big brush strokes
+
+she was prevented to go to school by her own mother
+entails
+she did n't go to school by her own mother
+
+she did n't go to school by her own mother
+permits
+she was prevented to go to school by her own mother
+
+his former mistress prevented her to go to school by her own mother
+entails
+she did n't go to school by her own mother
+
+she did n't go to school by her own mother
+permits
+his former mistress prevented her to go to school by her own mother
+
+his former mistress prevented her to go to school by her own mother
+permits
+she did n't take flight
+
+she was prevented to go to school by her own mother
+contradicts
+she went to school by her own mother
+
+she went to school by her own mother
+contradicts
+she was prevented to go to school by her own mother
+
+Russia prevented her to go to school by her own mother
+contradicts
+she went to school by her own mother
+
+she went to school by her own mother
+contradicts
+Russia prevented her to go to school by her own mother
+
+Russia prevented her to go to school by her own mother
+permits
+she acquired the whole of Poland
+
+she was not prevented to go to school by her own mother
+permits
+she went to school by her own mother
+
+Riek did not prevent her to go to school by her own mother
+permits
+she went to school by her own mother
+
+she has almost been prevented to go to school by her own mother
+permits
+she has n't gone to school by her own mother
+
+she has n't gone to school by her own mother
+permits
+she has almost been prevented to go to school by her own mother
+
+my server has almost prevented her to go to school by her own mother
+permits
+she has n't gone to school by her own mother
+
+she has n't gone to school by her own mother
+permits
+my server has almost prevented her to go to school by her own mother
+
+the company has been prevented to sell some prime assets
+entails
+the company has n't sold some prime assets
+
+the company has n't sold some prime assets
+permits
+the company has been prevented to sell some prime assets
+
+Mr K.A has prevented the company to sell some prime assets
+entails
+the company has n't sold some prime assets
+
+the company has n't sold some prime assets
+permits
+Mr K.A has prevented the company to sell some prime assets
+
+the company was prevented to sell some prime assets
+contradicts
+the company sold some prime assets
+
+the company sold some prime assets
+contradicts
+the company was prevented to sell some prime assets
+
+Moshe prevented the company to sell some prime assets
+contradicts
+the company sold some prime assets
+
+the company sold some prime assets
+contradicts
+Moshe prevented the company to sell some prime assets
+
+the company was almost prevented to sell some prime assets
+entails
+the company sold some prime assets
+
+the company sold some prime assets
+permits
+the company was almost prevented to sell some prime assets
+
+the company was almost prevented to sell some prime assets
+permits
+Mr K.A sold some prime assets
+
+Turkish Cypriot expat almost prevented the company to sell some prime assets
+entails
+the company sold some prime assets
+
+the company sold some prime assets
+permits
+Turkish Cypriot expat almost prevented the company to sell some prime assets
+
+Turkish Cypriot expat almost prevented the company to sell some prime assets
+permits
+the company purchased cigares
+
+the company has almost been prevented to sell some prime assets
+contradicts
+the company has almost sold some prime assets
+
+the company has almost sold some prime assets
+contradicts
+the company has almost been prevented to sell some prime assets
+
+gas cooling has almost prevented the company to sell some prime assets
+contradicts
+the company has almost sold some prime assets
+
+the company has almost sold some prime assets
+contradicts
+gas cooling has almost prevented the company to sell some prime assets
+
+they had been prevented to come to my table
+entails
+they had n't come to my table
+
+they had n't come to my table
+permits
+they had been prevented to come to my table
+
+the counsels had prevented them to come to my table
+entails
+they had n't come to my table
+
+they had n't come to my table
+permits
+the counsels had prevented them to come to my table
+
+the counsels had prevented them to come to my table
+permits
+first larvae of the Codling moth had n't come to my table
+
+they were prevented to come to my table
+contradicts
+they came to my table
+
+they came to my table
+contradicts
+they were prevented to come to my table
+
+the boys prevented them to come to my table
+contradicts
+they came to my table
+
+they came to my table
+contradicts
+the boys prevented them to come to my table
+
+they never have been prevented to come to my table
+entails
+they have come to my table
+
+they have come to my table
+permits
+they never have been prevented to come to my table
+
+they never have been prevented to come to my table
+permits
+they have entered Tel-Rumieda
+
+member states never have prevented them to come to my table
+entails
+they have come to my table
+
+they have come to my table
+permits
+member states never have prevented them to come to my table
+
+member states never have prevented them to come to my table
+permits
+member states have come to my table
+
+they had almost been prevented to come to my table
+contradicts
+they had almost come to my table
+
+they had almost come to my table
+contradicts
+they had almost been prevented to come to my table
+
+the agitators had almost prevented them to come to my table
+contradicts
+they had almost come to my table
+
+they had almost come to my table
+contradicts
+the agitators had almost prevented them to come to my table
+
+children and teachers were prevented to return home
+entails
+children and teachers did not return home
+
+children and teachers did not return home
+permits
+children and teachers were prevented to return home
+
+children and teachers were prevented to return home
+permits
+the bars in the free ends of the flange did n't return home
+
+the agitators prevented children and teachers to return home
+entails
+children and teachers did not return home
+
+children and teachers did not return home
+permits
+the agitators prevented children and teachers to return home
+
+the agitators prevented children and teachers to return home
+permits
+the extreme leftwing people did n't return home
+
+children and teachers were prevented to return home
+contradicts
+children and teachers returned home
+
+children and teachers returned home
+contradicts
+children and teachers were prevented to return home
+
+the agitators prevented children and teachers to return home
+contradicts
+children and teachers returned home
+
+children and teachers returned home
+contradicts
+the agitators prevented children and teachers to return home
+
+the agitators prevented children and teachers to return home
+permits
+the blacks returned home
+
+children and teachers had never been prevented to return home
+entails
+children and teachers had returned home
+
+children and teachers had returned home
+permits
+children and teachers had never been prevented to return home
+
+we had never prevented children and teachers to return home
+entails
+children and teachers had returned home
+
+children and teachers had returned home
+permits
+we had never prevented children and teachers to return home
+
+we had never prevented children and teachers to return home
+permits
+children and teachers had drilled in the Structure A area
+
+children and teachers had not been prevented to return home
+contradicts
+children and teachers had n't returned home
+
+children and teachers had n't returned home
+contradicts
+children and teachers had not been prevented to return home
+
+the bars in the free ends of the flange had not prevented children and teachers to return home
+contradicts
+children and teachers had n't returned home
+
+children and teachers had n't returned home
+contradicts
+the bars in the free ends of the flange had not prevented children and teachers to return home
+
+the bars in the free ends of the flange had not prevented children and teachers to return home
+permits
+children and teachers had not entered into the city
+
+they were prevented to appear in court on due date
+entails
+they did n't appear in court on due date
+
+they did n't appear in court on due date
+permits
+they were prevented to appear in court on due date
+
+they were prevented to appear in court on due date
+permits
+they did n't enter by the North Koreans
+
+the bars in the free ends of the flange prevented them to appear in court on due date
+entails
+they did n't appear in court on due date
+
+they did n't appear in court on due date
+permits
+the bars in the free ends of the flange prevented them to appear in court on due date
+
+the bars in the free ends of the flange prevented them to appear in court on due date
+permits
+the British did n't appear in court on due date
+
+they were prevented to appear in court on due date
+contradicts
+they appeared in court on due date
+
+they appeared in court on due date
+contradicts
+they were prevented to appear in court on due date
+
+they were prevented to appear in court on due date
+permits
+Murle men and women appeared in court on due date
+
+the agitators prevented them to appear in court on due date
+contradicts
+they appeared in court on due date
+
+they appeared in court on due date
+contradicts
+the agitators prevented them to appear in court on due date
+
+the agitators prevented them to appear in court on due date
+permits
+they collected grapes from the outdoor terrace
+
+they had almost been prevented to appear in court on due date
+permits
+they had appeared in court on due date
+
+we had almost prevented them to appear in court on due date
+permits
+they had appeared in court on due date
+
+they were almost prevented to appear in court on due date
+permits
+they almost appeared in court on due date
+
+they almost appeared in court on due date
+permits
+they were almost prevented to appear in court on due date
+
+the Palestinians almost prevented them to appear in court on due date
+permits
+they almost appeared in court on due date
+
+they almost appeared in court on due date
+permits
+the Palestinians almost prevented them to appear in court on due date
+
+we have been prevented to see the hand that touched us
+entails
+we have not seen the hand that touched us
+
+we have not seen the hand that touched us
+permits
+we have been prevented to see the hand that touched us
+
+we have been prevented to see the hand that touched us
+permits
+we have n't proceeded with further enquiry
+
+member states have prevented us to see the hand that touched us
+entails
+we have not seen the hand that touched us
+
+we have not seen the hand that touched us
+permits
+member states have prevented us to see the hand that touched us
+
+member states have prevented us to see the hand that touched us
+permits
+we have not gone to our airplane by four officers
+
+we had been prevented to see the hand that touched us
+contradicts
+we had seen the hand that touched us
+
+we had seen the hand that touched us
+contradicts
+we had been prevented to see the hand that touched us
+
+the people had prevented us to see the hand that touched us
+contradicts
+we had seen the hand that touched us
+
+we had seen the hand that touched us
+contradicts
+the people had prevented us to see the hand that touched us
+
+we were never prevented to see the hand that touched us
+entails
+we saw the hand that touched us
+
+we saw the hand that touched us
+permits
+we were never prevented to see the hand that touched us
+
+the extreme leftwing people never prevented us to see the hand that touched us
+entails
+we saw the hand that touched us
+
+we saw the hand that touched us
+permits
+the extreme leftwing people never prevented us to see the hand that touched us
+
+we have almost been prevented to see the hand that touched us
+contradicts
+we have n't seen the hand that touched us
+
+we have n't seen the hand that touched us
+contradicts
+we have almost been prevented to see the hand that touched us
+
+we have almost been prevented to see the hand that touched us
+permits
+Muslims of the subcontinent have n't seen the hand that touched them
+
+the Scriptures have almost prevented us to see the hand that touched us
+contradicts
+we have n't seen the hand that touched us
+
+we have n't seen the hand that touched us
+contradicts
+the Scriptures have almost prevented us to see the hand that touched us
+
+the Scriptures have almost prevented us to see the hand that touched us
+permits
+the blacks have n't seen the hand that touched them
+
+the Scriptures have been prevented to support the trinity myths
+entails
+the Scriptures have not supported the trinity myths
+
+the Scriptures have not supported the trinity myths
+permits
+the Scriptures have been prevented to support the trinity myths
+
+the Scriptures have been prevented to support the trinity myths
+permits
+the Scriptures have n't drilled in the Structure A area
+
+hot air balloons have prevented the Scriptures to support the trinity myths
+entails
+the Scriptures have not supported the trinity myths
+
+the Scriptures have not supported the trinity myths
+permits
+hot air balloons have prevented the Scriptures to support the trinity myths
+
+the Scriptures had been prevented to support the trinity myths
+contradicts
+the Scriptures had supported the trinity myths
+
+the Scriptures had supported the trinity myths
+contradicts
+the Scriptures had been prevented to support the trinity myths
+
+participants had prevented the Scriptures to support the trinity myths
+contradicts
+the Scriptures had supported the trinity myths
+
+the Scriptures had supported the trinity myths
+contradicts
+participants had prevented the Scriptures to support the trinity myths
+
+the Scriptures never had been prevented to support the trinity myths
+permits
+the Scriptures had supported the trinity myths
+
+member states never had prevented the Scriptures to support the trinity myths
+permits
+the Scriptures had supported the trinity myths
+
+the Scriptures have n't been prevented to support the trinity myths
+permits
+the Scriptures have n't supported the trinity myths
+
+the Scriptures have n't supported the trinity myths
+permits
+the Scriptures have n't been prevented to support the trinity myths
+
+we have n't prevented the Scriptures to support the trinity myths
+permits
+the Scriptures have n't supported the trinity myths
+
+the Scriptures have n't supported the trinity myths
+permits
+we have n't prevented the Scriptures to support the trinity myths
+
+we had been prevented to meet
+entails
+we had n't met
+
+we had n't met
+permits
+we had been prevented to meet
+
+the authorities had prevented us to meet
+entails
+we had n't met
+
+we had n't met
+permits
+the authorities had prevented us to meet
+
+the authorities had prevented us to meet
+permits
+we had n't purchased cigares
+
+we have been prevented to meet
+contradicts
+we have met
+
+we have met
+contradicts
+we have been prevented to meet
+
+we have been prevented to meet
+permits
+we have done the same
+
+the extreme leftwing people have prevented us to meet
+contradicts
+we have met
+
+we have met
+contradicts
+the extreme leftwing people have prevented us to meet
+
+we have n't been prevented to meet
+entails
+we have met
+
+we have met
+permits
+we have n't been prevented to meet
+
+we have n't been prevented to meet
+permits
+we have cried
+
+participants have n't prevented us to meet
+entails
+we have met
+
+we have met
+permits
+participants have n't prevented us to meet
+
+we have not been prevented to meet
+contradicts
+we have n't met
+
+we have n't met
+contradicts
+we have not been prevented to meet
+
+participants have not prevented us to meet
+contradicts
+we have n't met
+
+we have n't met
+contradicts
+participants have not prevented us to meet
+
+participants have not prevented us to meet
+permits
+the extreme leftwing people have not met
+
+the agitators have been prevented to march further by police near Sishu Bhawan square
+entails
+the agitators have n't marched further by police near Sishu Bhawan square
+
+the agitators have n't marched further by police near Sishu Bhawan square
+permits
+the agitators have been prevented to march further by police near Sishu Bhawan square
+
+the agitators have been prevented to march further by police near Sishu Bhawan square
+permits
+Murle men and women have n't marched further by police near Sishu Bhawan square
+
+participants have prevented the agitators to march further by police near Sishu Bhawan square
+entails
+the agitators have n't marched further by police near Sishu Bhawan square
+
+the agitators have n't marched further by police near Sishu Bhawan square
+permits
+participants have prevented the agitators to march further by police near Sishu Bhawan square
+
+participants have prevented the agitators to march further by police near Sishu Bhawan square
+permits
+the agitators have not met
+
+the agitators were prevented to march further by police near Sishu Bhawan square
+contradicts
+the agitators marched further by police near Sishu Bhawan square
+
+the agitators marched further by police near Sishu Bhawan square
+contradicts
+the agitators were prevented to march further by police near Sishu Bhawan square
+
+Murle men and women prevented the agitators to march further by police near Sishu Bhawan square
+contradicts
+the agitators marched further by police near Sishu Bhawan square
+
+the agitators marched further by police near Sishu Bhawan square
+contradicts
+Murle men and women prevented the agitators to march further by police near Sishu Bhawan square
+
+the agitators were n't prevented to march further by police near Sishu Bhawan square
+entails
+the agitators marched further by police near Sishu Bhawan square
+
+the agitators marched further by police near Sishu Bhawan square
+permits
+the agitators were n't prevented to march further by police near Sishu Bhawan square
+
+the agitators were n't prevented to march further by police near Sishu Bhawan square
+permits
+the agitators spoke
+
+member states did n't prevent the agitators to march further by police near Sishu Bhawan square
+entails
+the agitators marched further by police near Sishu Bhawan square
+
+the agitators marched further by police near Sishu Bhawan square
+permits
+member states did n't prevent the agitators to march further by police near Sishu Bhawan square
+
+the agitators were n't prevented to march further by police near Sishu Bhawan square
+contradicts
+the agitators did not march further by police near Sishu Bhawan square
+
+the agitators did not march further by police near Sishu Bhawan square
+contradicts
+the agitators were n't prevented to march further by police near Sishu Bhawan square
+
+the agitators were n't prevented to march further by police near Sishu Bhawan square
+permits
+member states did n't march further by police near Sishu Bhawan square
+
+children and teachers did n't prevent the agitators to march further by police near Sishu Bhawan square
+contradicts
+the agitators did not march further by police near Sishu Bhawan square
+
+the agitators did not march further by police near Sishu Bhawan square
+contradicts
+children and teachers did n't prevent the agitators to march further by police near Sishu Bhawan square
+
+the Palestinians have been prevented to reach the pool
+entails
+the Palestinians have not reached the pool
+
+the Palestinians have not reached the pool
+permits
+the Palestinians have been prevented to reach the pool
+
+the Palestinians have been prevented to reach the pool
+permits
+the Palestinians have not visited their grandmother in occupied Louroudjina
+
+member states have prevented the Palestinians to reach the pool
+entails
+the Palestinians have not reached the pool
+
+the Palestinians have not reached the pool
+permits
+member states have prevented the Palestinians to reach the pool
+
+member states have prevented the Palestinians to reach the pool
+permits
+Murle men and women have n't reached the pool
+
+the Palestinians were prevented to reach the pool
+contradicts
+the Palestinians reached the pool
+
+the Palestinians reached the pool
+contradicts
+the Palestinians were prevented to reach the pool
+
+participants prevented the Palestinians to reach the pool
+contradicts
+the Palestinians reached the pool
+
+the Palestinians reached the pool
+contradicts
+participants prevented the Palestinians to reach the pool
+
+the Palestinians have never been prevented to reach the pool
+entails
+the Palestinians have reached the pool
+
+the Palestinians have reached the pool
+permits
+the Palestinians have never been prevented to reach the pool
+
+the Palestinians have never been prevented to reach the pool
+permits
+women have reached the pool
+
+we have never prevented the Palestinians to reach the pool
+entails
+the Palestinians have reached the pool
+
+the Palestinians have reached the pool
+permits
+we have never prevented the Palestinians to reach the pool
+
+we have never prevented the Palestinians to reach the pool
+permits
+the Palestinians have entered the land
+
+the Palestinians had almost been prevented to reach the pool
+contradicts
+the Palestinians had n't reached the pool
+
+the Palestinians had n't reached the pool
+contradicts
+the Palestinians had almost been prevented to reach the pool
+
+children and teachers had almost prevented the Palestinians to reach the pool
+contradicts
+the Palestinians had n't reached the pool
+
+the Palestinians had n't reached the pool
+contradicts
+children and teachers had almost prevented the Palestinians to reach the pool
+
+the British have been prevented to give their full effort against the relatively weak Americans
+entails
+the British have n't given their full effort against the relatively weak Americans
+
+the British have n't given their full effort against the relatively weak Americans
+permits
+the British have been prevented to give their full effort against the relatively weak Americans
+
+children and teachers have prevented the British to give their full effort against the relatively weak Americans
+entails
+the British have n't given their full effort against the relatively weak Americans
+
+the British have n't given their full effort against the relatively weak Americans
+permits
+children and teachers have prevented the British to give their full effort against the relatively weak Americans
+
+the British have been prevented to give their full effort against the relatively weak Americans
+contradicts
+the British have given their full effort against the relatively weak Americans
+
+the British have given their full effort against the relatively weak Americans
+contradicts
+the British have been prevented to give their full effort against the relatively weak Americans
+
+children and teachers have prevented the British to give their full effort against the relatively weak Americans
+contradicts
+the British have given their full effort against the relatively weak Americans
+
+the British have given their full effort against the relatively weak Americans
+contradicts
+children and teachers have prevented the British to give their full effort against the relatively weak Americans
+
+children and teachers have prevented the British to give their full effort against the relatively weak Americans
+permits
+the British have entered the town by women
+
+the British have never been prevented to give their full effort against the relatively weak Americans
+permits
+the British have given their full effort against the relatively weak Americans
+
+children and teachers have never prevented the British to give their full effort against the relatively weak Americans
+permits
+the British have given their full effort against the relatively weak Americans
+
+the British had never been prevented to give their full effort against the relatively weak Americans
+permits
+the British had n't given their full effort against the relatively weak Americans
+
+the British had n't given their full effort against the relatively weak Americans
+permits
+the British had never been prevented to give their full effort against the relatively weak Americans
+
+hot air balloons had never prevented the British to give their full effort against the relatively weak Americans
+permits
+the British had n't given their full effort against the relatively weak Americans
+
+the British had n't given their full effort against the relatively weak Americans
+permits
+hot air balloons had never prevented the British to give their full effort against the relatively weak Americans
+
+Murle men and women were prevented to enter into the city
+entails
+Murle men and women did not enter into the city
+
+Murle men and women did not enter into the city
+permits
+Murle men and women were prevented to enter into the city
+
+the agitators prevented Murle men and women to enter into the city
+entails
+Murle men and women did not enter into the city
+
+Murle men and women did not enter into the city
+permits
+the agitators prevented Murle men and women to enter into the city
+
+the agitators prevented Murle men and women to enter into the city
+permits
+Murle men and women did n't enter Tel-Rumieda
+
+Murle men and women have been prevented to enter into the city
+contradicts
+Murle men and women have entered into the city
+
+Murle men and women have entered into the city
+contradicts
+Murle men and women have been prevented to enter into the city
+
+Murle men and women have been prevented to enter into the city
+permits
+the extreme leftwing people have entered into the city
+
+hot air balloons have prevented Murle men and women to enter into the city
+contradicts
+Murle men and women have entered into the city
+
+Murle men and women have entered into the city
+contradicts
+hot air balloons have prevented Murle men and women to enter into the city
+
+hot air balloons have prevented Murle men and women to enter into the city
+permits
+Murle men and women have supported the trinity myths
+
+Murle men and women had almost been prevented to enter into the city
+entails
+Murle men and women had entered into the city
+
+Murle men and women had entered into the city
+permits
+Murle men and women had almost been prevented to enter into the city
+
+the bars in the free ends of the flange had almost prevented Murle men and women to enter into the city
+entails
+Murle men and women had entered into the city
+
+Murle men and women had entered into the city
+permits
+the bars in the free ends of the flange had almost prevented Murle men and women to enter into the city
+
+the bars in the free ends of the flange had almost prevented Murle men and women to enter into the city
+permits
+Murle men and women had become a ballerina
+
+Murle men and women had almost been prevented to enter into the city
+contradicts
+Murle men and women had not entered into the city
+
+Murle men and women had not entered into the city
+contradicts
+Murle men and women had almost been prevented to enter into the city
+
+Murle men and women had almost been prevented to enter into the city
+permits
+the Palestinians had not entered into the city
+
+the agitators had almost prevented Murle men and women to enter into the city
+contradicts
+Murle men and women had not entered into the city
+
+Murle men and women had not entered into the city
+contradicts
+the agitators had almost prevented Murle men and women to enter into the city
+
+the agitators had almost prevented Murle men and women to enter into the city
+permits
+Muslims of the subcontinent had n't entered into the city
+
+women have been prevented to manage money and property
+entails
+women have not managed money or property
+
+women have not managed money or property
+permits
+women have been prevented to manage money and property
+
+women have been prevented to manage money and property
+permits
+the British have n't managed money or property
+
+the people have prevented women to manage money and property
+entails
+women have not managed money or property
+
+women have not managed money or property
+permits
+the people have prevented women to manage money and property
+
+women have been prevented to manage money and property
+contradicts
+women have managed money and property
+
+women have managed money and property
+contradicts
+women have been prevented to manage money and property
+
+Muslims of the subcontinent have prevented women to manage money and property
+contradicts
+women have managed money and property
+
+women have managed money and property
+contradicts
+Muslims of the subcontinent have prevented women to manage money and property
+
+women had almost been prevented to manage money or property
+entails
+women had managed money and property
+
+women had managed money and property
+permits
+women had almost been prevented to manage money or property
+
+the leaders of Hungarian minority parties had almost prevented women to manage money or property
+entails
+women had managed money and property
+
+women had managed money and property
+permits
+the leaders of Hungarian minority parties had almost prevented women to manage money or property
+
+women were almost prevented to manage money or property
+contradicts
+women did not manage money or property
+
+women did not manage money or property
+contradicts
+women were almost prevented to manage money or property
+
+the counsels almost prevented women to manage money or property
+contradicts
+women did not manage money or property
+
+women did not manage money or property
+contradicts
+the counsels almost prevented women to manage money or property
+
+the people were prevented to come onto the premises
+entails
+the people did not come onto the premises
+
+the people did not come onto the premises
+permits
+the people were prevented to come onto the premises
+
+the people were prevented to come onto the premises
+permits
+member states did n't come onto the premises
+
+women prevented the people to come onto the premises
+entails
+the people did not come onto the premises
+
+the people did not come onto the premises
+permits
+women prevented the people to come onto the premises
+
+the people have been prevented to come onto the premises
+contradicts
+the people have come onto the premises
+
+the people have come onto the premises
+contradicts
+the people have been prevented to come onto the premises
+
+the people have been prevented to come onto the premises
+permits
+participants have come onto the premises
+
+women have prevented the people to come onto the premises
+contradicts
+the people have come onto the premises
+
+the people have come onto the premises
+contradicts
+women have prevented the people to come onto the premises
+
+women have prevented the people to come onto the premises
+permits
+the people have entered into the city
+
+the people were almost prevented to come onto the premises
+entails
+the people came onto the premises
+
+the people came onto the premises
+permits
+the people were almost prevented to come onto the premises
+
+Murle men and women almost prevented the people to come onto the premises
+entails
+the people came onto the premises
+
+the people came onto the premises
+permits
+Murle men and women almost prevented the people to come onto the premises
+
+Murle men and women almost prevented the people to come onto the premises
+permits
+hot air balloons came onto the premises
+
+the people were n't prevented to come onto the premises
+contradicts
+the people did not come onto the premises
+
+the people did not come onto the premises
+contradicts
+the people were n't prevented to come onto the premises
+
+we did n't prevent the people to come onto the premises
+contradicts
+the people did not come onto the premises
+
+the people did not come onto the premises
+contradicts
+we did n't prevent the people to come onto the premises
+
+they have been prevented to return to the destination country in the future
+entails
+they have not returned to the destination country in the future
+
+they have not returned to the destination country in the future
+permits
+they have been prevented to return to the destination country in the future
+
+they have been prevented to return to the destination country in the future
+permits
+the Scriptures have not returned to the destination country in the future
+
+the boys have prevented them to return to the destination country in the future
+entails
+they have not returned to the destination country in the future
+
+they have not returned to the destination country in the future
+permits
+the boys have prevented them to return to the destination country in the future
+
+they have been prevented to return to the destination country in the future
+contradicts
+they have returned to the destination country in the future
+
+they have returned to the destination country in the future
+contradicts
+they have been prevented to return to the destination country in the future
+
+they have been prevented to return to the destination country in the future
+permits
+they have collected grapes from the outdoor terrace
+
+the boys have prevented them to return to the destination country in the future
+contradicts
+they have returned to the destination country in the future
+
+they have returned to the destination country in the future
+contradicts
+the boys have prevented them to return to the destination country in the future
+
+they were almost prevented to return to the destination country in the future
+permits
+they returned to the destination country in the future
+
+participants almost prevented them to return to the destination country in the future
+permits
+they returned to the destination country in the future
+
+they have n't been prevented to return to the destination country in the future
+permits
+they have n't returned to the destination country in the future
+
+they have n't returned to the destination country in the future
+permits
+they have n't been prevented to return to the destination country in the future
+
+the bars in the free ends of the flange have n't prevented them to return to the destination country in the future
+permits
+they have n't returned to the destination country in the future
+
+they have n't returned to the destination country in the future
+permits
+the bars in the free ends of the flange have n't prevented them to return to the destination country in the future
+
+participants were prevented to assign a lower certainty equivalent to xpy than to xp'y
+entails
+participants did n't assign a lower certainty equivalent to xpy than to xp'y
+
+participants did n't assign a lower certainty equivalent to xpy than to xp'y
+permits
+participants were prevented to assign a lower certainty equivalent to xpy than to xp'y
+
+the agitators prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+entails
+participants did n't assign a lower certainty equivalent to xpy than to xp'y
+
+participants did n't assign a lower certainty equivalent to xpy than to xp'y
+permits
+the agitators prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+
+the agitators prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+permits
+participants did n't leave the Manila Airport
+
+participants had been prevented to assign a lower certainty equivalent to xpy than to xp'y
+contradicts
+participants had assigned a lower certainty equivalent to xpy than to xp'y
+
+participants had assigned a lower certainty equivalent to xpy than to xp'y
+contradicts
+participants had been prevented to assign a lower certainty equivalent to xpy than to xp'y
+
+participants had been prevented to assign a lower certainty equivalent to xpy than to xp'y
+permits
+participants had entered by the North Koreans
+
+the Scriptures had prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+contradicts
+participants had assigned a lower certainty equivalent to xpy than to xp'y
+
+participants had assigned a lower certainty equivalent to xpy than to xp'y
+contradicts
+the Scriptures had prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+
+the Scriptures had prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+permits
+participants had come onto the premises
+
+participants have not been prevented to assign a lower certainty equivalent to xpy than to xp'y
+entails
+participants have assigned a lower certainty equivalent to xpy than to xp'y
+
+participants have assigned a lower certainty equivalent to xpy than to xp'y
+permits
+participants have not been prevented to assign a lower certainty equivalent to xpy than to xp'y
+
+participants have not been prevented to assign a lower certainty equivalent to xpy than to xp'y
+permits
+participants have spoken
+
+women have not prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+entails
+participants have assigned a lower certainty equivalent to xpy than to xp'y
+
+participants have assigned a lower certainty equivalent to xpy than to xp'y
+permits
+women have not prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+
+participants had not been prevented to assign a lower certainty equivalent to xpy than to xp'y
+contradicts
+participants had not assigned a lower certainty equivalent to xpy than to xp'y
+
+participants had not assigned a lower certainty equivalent to xpy than to xp'y
+contradicts
+participants had not been prevented to assign a lower certainty equivalent to xpy than to xp'y
+
+the Palestinians had not prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+contradicts
+participants had not assigned a lower certainty equivalent to xpy than to xp'y
+
+participants had not assigned a lower certainty equivalent to xpy than to xp'y
+contradicts
+the Palestinians had not prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+
+the Palestinians had not prevented participants to assign a lower certainty equivalent to xpy than to xp'y
+permits
+the Scriptures had not assigned a lower certainty equivalent to xpy than to xp'y
+
+the authorities were prevented to proceed with further enquiry
+entails
+the authorities did n't proceed with further enquiry
+
+the authorities did n't proceed with further enquiry
+permits
+the authorities were prevented to proceed with further enquiry
+
+women prevented the authorities to proceed with further enquiry
+entails
+the authorities did n't proceed with further enquiry
+
+the authorities did n't proceed with further enquiry
+permits
+women prevented the authorities to proceed with further enquiry
+
+women prevented the authorities to proceed with further enquiry
+permits
+Murle men and women did not proceed with further enquiry
+
+the authorities were prevented to proceed with further enquiry
+contradicts
+the authorities proceeded with further enquiry
+
+the authorities proceeded with further enquiry
+contradicts
+the authorities were prevented to proceed with further enquiry
+
+the authorities were prevented to proceed with further enquiry
+permits
+member states proceeded with further enquiry
+
+member states prevented the authorities to proceed with further enquiry
+contradicts
+the authorities proceeded with further enquiry
+
+the authorities proceeded with further enquiry
+contradicts
+member states prevented the authorities to proceed with further enquiry
+
+the authorities were n't prevented to proceed with further enquiry
+entails
+the authorities proceeded with further enquiry
+
+the authorities proceeded with further enquiry
+permits
+the authorities were n't prevented to proceed with further enquiry
+
+women did n't prevent the authorities to proceed with further enquiry
+entails
+the authorities proceeded with further enquiry
+
+the authorities proceeded with further enquiry
+permits
+women did n't prevent the authorities to proceed with further enquiry
+
+women did n't prevent the authorities to proceed with further enquiry
+permits
+the authorities acquired the whole of Poland
+
+the authorities have not been prevented to proceed with further enquiry
+contradicts
+the authorities have not proceeded with further enquiry
+
+the authorities have not proceeded with further enquiry
+contradicts
+the authorities have not been prevented to proceed with further enquiry
+
+the authorities have not been prevented to proceed with further enquiry
+permits
+the authorities have not penetrated into an apple with up to 5,000 mg/l Citral
+
+women have not prevented the authorities to proceed with further enquiry
+contradicts
+the authorities have not proceeded with further enquiry
+
+the authorities have not proceeded with further enquiry
+contradicts
+women have not prevented the authorities to proceed with further enquiry
+
+women have not prevented the authorities to proceed with further enquiry
+permits
+participants have not proceeded with further enquiry
+
+we were prevented to deliberate
+entails
+we did not deliberate
+
+we did not deliberate
+permits
+we were prevented to deliberate
+
+we were prevented to deliberate
+permits
+we did n't ride the plane to Bhairawa
+
+participants prevented us to deliberate
+entails
+we did not deliberate
+
+we did not deliberate
+permits
+participants prevented us to deliberate
+
+we had been prevented to deliberate
+contradicts
+we had deliberated
+
+we had deliberated
+contradicts
+we had been prevented to deliberate
+
+we had been prevented to deliberate
+permits
+Muslims of the subcontinent had deliberated
+
+the men had prevented us to deliberate
+contradicts
+we had deliberated
+
+we had deliberated
+contradicts
+the men had prevented us to deliberate
+
+the men had prevented us to deliberate
+permits
+Murle men and women had deliberated
+
+we had almost been prevented to deliberate
+entails
+we had deliberated
+
+we had deliberated
+permits
+we had almost been prevented to deliberate
+
+we had almost been prevented to deliberate
+permits
+the counsels had deliberated
+
+Murle men and women had almost prevented us to deliberate
+entails
+we had deliberated
+
+we had deliberated
+permits
+Murle men and women had almost prevented us to deliberate
+
+we had almost been prevented to deliberate
+contradicts
+we had n't deliberated
+
+we had n't deliberated
+contradicts
+we had almost been prevented to deliberate
+
+children and teachers had almost prevented us to deliberate
+contradicts
+we had n't deliberated
+
+we had n't deliberated
+contradicts
+children and teachers had almost prevented us to deliberate
+
+children and teachers had almost prevented us to deliberate
+permits
+we had n't chosen his own lawyer
+
+they have been prevented to do so by the partisans of the only truth
+entails
+they have n't done so by the partisans of the only truth
+
+they have n't done so by the partisans of the only truth
+permits
+they have been prevented to do so by the partisans of the only truth
+
+the Scriptures have prevented them to do so by the partisans of the only truth
+entails
+they have n't done so by the partisans of the only truth
+
+they have n't done so by the partisans of the only truth
+permits
+the Scriptures have prevented them to do so by the partisans of the only truth
+
+the Scriptures have prevented them to do so by the partisans of the only truth
+permits
+they have n't occupied their current office
+
+they were prevented to do so by the partisans of the only truth
+contradicts
+they did so by the partisans of the only truth
+
+they did so by the partisans of the only truth
+contradicts
+they were prevented to do so by the partisans of the only truth
+
+they were prevented to do so by the partisans of the only truth
+permits
+they rode the plane to Bhairawa
+
+the counsels prevented them to do so by the partisans of the only truth
+contradicts
+they did so by the partisans of the only truth
+
+they did so by the partisans of the only truth
+contradicts
+the counsels prevented them to do so by the partisans of the only truth
+
+they had n't been prevented to do so by the partisans of the only truth
+entails
+they had done so by the partisans of the only truth
+
+they had done so by the partisans of the only truth
+permits
+they had n't been prevented to do so by the partisans of the only truth
+
+the leaders of Hungarian minority parties had n't prevented them to do so by the partisans of the only truth
+entails
+they had done so by the partisans of the only truth
+
+they had done so by the partisans of the only truth
+permits
+the leaders of Hungarian minority parties had n't prevented them to do so by the partisans of the only truth
+
+they had n't been prevented to do so by the partisans of the only truth
+contradicts
+they had n't done so by the partisans of the only truth
+
+they had n't done so by the partisans of the only truth
+contradicts
+they had n't been prevented to do so by the partisans of the only truth
+
+Murle men and women had n't prevented them to do so by the partisans of the only truth
+contradicts
+they had n't done so by the partisans of the only truth
+
+they had n't done so by the partisans of the only truth
+contradicts
+Murle men and women had n't prevented them to do so by the partisans of the only truth
+
+Murle men and women had n't prevented them to do so by the partisans of the only truth
+permits
+they had not taken the same job
+
+the men had been prevented to take the same job
+entails
+the men had not taken the same job
+
+the men had not taken the same job
+permits
+the men had been prevented to take the same job
+
+the men had been prevented to take the same job
+permits
+the men had not deliberated
+
+we had prevented the men to take the same job
+entails
+the men had not taken the same job
+
+the men had not taken the same job
+permits
+we had prevented the men to take the same job
+
+we had prevented the men to take the same job
+permits
+the men had n't drilled in the Structure A area
+
+the men had been prevented to take the same job
+contradicts
+the men had taken the same job
+
+the men had taken the same job
+contradicts
+the men had been prevented to take the same job
+
+the men had been prevented to take the same job
+permits
+the men had collected grapes from the outdoor terrace
+
+children and teachers had prevented the men to take the same job
+contradicts
+the men had taken the same job
+
+the men had taken the same job
+contradicts
+children and teachers had prevented the men to take the same job
+
+children and teachers had prevented the men to take the same job
+permits
+we had taken the same job
+
+the men have almost been prevented to take the same job
+entails
+the men have taken the same job
+
+the men have taken the same job
+permits
+the men have almost been prevented to take the same job
+
+the men have almost been prevented to take the same job
+permits
+the men have deliberated
+
+member states have almost prevented the men to take the same job
+entails
+the men have taken the same job
+
+the men have taken the same job
+permits
+member states have almost prevented the men to take the same job
+
+the men had not been prevented to take the same job
+contradicts
+the men had not taken the same job
+
+the men had not taken the same job
+contradicts
+the men had not been prevented to take the same job
+
+participants had not prevented the men to take the same job
+contradicts
+the men had not taken the same job
+
+the men had not taken the same job
+contradicts
+participants had not prevented the men to take the same job
+
+the counsels had been prevented to make submissions as interveners
+entails
+the counsels had not made submissions as interveners
+
+the counsels had not made submissions as interveners
+permits
+the counsels had been prevented to make submissions as interveners
+
+participants had prevented the counsels to make submissions as interveners
+entails
+the counsels had not made submissions as interveners
+
+the counsels had not made submissions as interveners
+permits
+participants had prevented the counsels to make submissions as interveners
+
+participants had prevented the counsels to make submissions as interveners
+permits
+the counsels had n't buckled
+
+the counsels have been prevented to make submissions as interveners
+contradicts
+the counsels have made submissions as interveners
+
+the counsels have made submissions as interveners
+contradicts
+the counsels have been prevented to make submissions as interveners
+
+participants have prevented the counsels to make submissions as interveners
+contradicts
+the counsels have made submissions as interveners
+
+the counsels have made submissions as interveners
+contradicts
+participants have prevented the counsels to make submissions as interveners
+
+the counsels had not been prevented to make submissions as interveners
+entails
+the counsels had made submissions as interveners
+
+the counsels had made submissions as interveners
+permits
+the counsels had not been prevented to make submissions as interveners
+
+children and teachers had not prevented the counsels to make submissions as interveners
+entails
+the counsels had made submissions as interveners
+
+the counsels had made submissions as interveners
+permits
+children and teachers had not prevented the counsels to make submissions as interveners
+
+children and teachers had not prevented the counsels to make submissions as interveners
+permits
+participants had made submissions as interveners
+
+the counsels had never been prevented to make submissions as interveners
+contradicts
+the counsels had n't made submissions as interveners
+
+the counsels had n't made submissions as interveners
+contradicts
+the counsels had never been prevented to make submissions as interveners
+
+the counsels had never been prevented to make submissions as interveners
+permits
+the counsels had not taken flight
+
+women had never prevented the counsels to make submissions as interveners
+contradicts
+the counsels had n't made submissions as interveners
+
+the counsels had n't made submissions as interveners
+contradicts
+women had never prevented the counsels to make submissions as interveners
+
+women had never prevented the counsels to make submissions as interveners
+permits
+the counsels had not accessed their facebook account
+
+the boys had been prevented to purchase cigares
+entails
+the boys had n't purchased cigares
+
+the boys had n't purchased cigares
+permits
+the boys had been prevented to purchase cigares
+
+the boys had been prevented to purchase cigares
+permits
+the boys had n't chosen his own lawyer
+
+we had prevented the boys to purchase cigares
+entails
+the boys had n't purchased cigares
+
+the boys had n't purchased cigares
+permits
+we had prevented the boys to purchase cigares
+
+we had prevented the boys to purchase cigares
+permits
+the boys had n't gone to school by their own mother
+
+the boys were prevented to purchase cigares
+contradicts
+the boys purchased cigares
+
+the boys purchased cigares
+contradicts
+the boys were prevented to purchase cigares
+
+the boys were prevented to purchase cigares
+permits
+the boys hung out with my Protestant grandparents
+
+we prevented the boys to purchase cigares
+contradicts
+the boys purchased cigares
+
+the boys purchased cigares
+contradicts
+we prevented the boys to purchase cigares
+
+the boys had never been prevented to purchase cigares
+entails
+the boys had purchased cigares
+
+the boys had purchased cigares
+permits
+the boys had never been prevented to purchase cigares
+
+participants had never prevented the boys to purchase cigares
+entails
+the boys had purchased cigares
+
+the boys had purchased cigares
+permits
+participants had never prevented the boys to purchase cigares
+
+participants had never prevented the boys to purchase cigares
+permits
+the boys had sold some prime assets
+
+the boys were almost prevented to purchase cigares
+contradicts
+the boys did not purchase cigares
+
+the boys did not purchase cigares
+contradicts
+the boys were almost prevented to purchase cigares
+
+member states almost prevented the boys to purchase cigares
+contradicts
+the boys did not purchase cigares
+
+the boys did not purchase cigares
+contradicts
+member states almost prevented the boys to purchase cigares
+
+member states almost prevented the boys to purchase cigares
+permits
+hot air balloons did not purchase cigares
+
+first larvae of the Codling moth had been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+entails
+first larvae of the Codling moth had not penetrated into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth had not penetrated into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth had been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth had been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth had not acquired the whole of Poland
+
+children and teachers had prevented first larvae of the Codling moth to penetrate into an apple with up to 5,000 mg/l Citral
+entails
+first larvae of the Codling moth had not penetrated into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth had not penetrated into an apple with up to 5,000 mg/l Citral
+permits
+children and teachers had prevented first larvae of the Codling moth to penetrate into an apple with up to 5,000 mg/l Citral
+
+children and teachers had prevented first larvae of the Codling moth to penetrate into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth had not gone to school by their own mother
+
+first larvae of the Codling moth had been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+contradicts
+first larvae of the Codling moth had penetrated into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth had penetrated into an apple with up to 5,000 mg/l Citral
+contradicts
+first larvae of the Codling moth had been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth had been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth had hung out with my Protestant grandparents
+
+we had prevented first larvae of the Codling moth to penetrate into an apple with up to 5,000 mg/l Citral
+contradicts
+first larvae of the Codling moth had penetrated into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth had penetrated into an apple with up to 5,000 mg/l Citral
+contradicts
+we had prevented first larvae of the Codling moth to penetrate into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth have never been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth have penetrated into an apple with up to 5,000 mg/l Citral
+
+children and teachers have never prevented first larvae of the Codling moth to penetrate into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth have penetrated into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth never had been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth never had penetrated into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth never had penetrated into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth never had been prevented to penetrate into an apple with up to 5,000 mg/l Citral
+
+participants never had prevented first larvae of the Codling moth to penetrate into an apple with up to 5,000 mg/l Citral
+permits
+first larvae of the Codling moth never had penetrated into an apple with up to 5,000 mg/l Citral
+
+first larvae of the Codling moth never had penetrated into an apple with up to 5,000 mg/l Citral
+permits
+participants never had prevented first larvae of the Codling moth to penetrate into an apple with up to 5,000 mg/l Citral
+
+hot air balloons have been prevented to take flight
+entails
+hot air balloons have not taken flight
+
+hot air balloons have not taken flight
+permits
+hot air balloons have been prevented to take flight
+
+hot air balloons have been prevented to take flight
+permits
+the boys have not taken flight
+
+the people have prevented hot air balloons to take flight
+entails
+hot air balloons have not taken flight
+
+hot air balloons have not taken flight
+permits
+the people have prevented hot air balloons to take flight
+
+the people have prevented hot air balloons to take flight
+permits
+member states have n't taken flight
+
+hot air balloons have been prevented to take flight
+contradicts
+hot air balloons have taken flight
+
+hot air balloons have taken flight
+contradicts
+hot air balloons have been prevented to take flight
+
+children and teachers have prevented hot air balloons to take flight
+contradicts
+hot air balloons have taken flight
+
+hot air balloons have taken flight
+contradicts
+children and teachers have prevented hot air balloons to take flight
+
+children and teachers have prevented hot air balloons to take flight
+permits
+hot air balloons have given their full effort against the relatively weak Americans
+
+hot air balloons were n't prevented to take flight
+entails
+hot air balloons took flight
+
+hot air balloons took flight
+permits
+hot air balloons were n't prevented to take flight
+
+hot air balloons were n't prevented to take flight
+permits
+member states took flight
+
+children and teachers did n't prevent hot air balloons to take flight
+entails
+hot air balloons took flight
+
+hot air balloons took flight
+permits
+children and teachers did n't prevent hot air balloons to take flight
+
+children and teachers did n't prevent hot air balloons to take flight
+permits
+hot air balloons entered in a school at Ranjganj
+
+hot air balloons had not been prevented to take flight
+contradicts
+hot air balloons had n't taken flight
+
+hot air balloons had n't taken flight
+contradicts
+hot air balloons had not been prevented to take flight
+
+the counsels had not prevented hot air balloons to take flight
+contradicts
+hot air balloons had n't taken flight
+
+hot air balloons had n't taken flight
+contradicts
+the counsels had not prevented hot air balloons to take flight
+
+the counsels had not prevented hot air balloons to take flight
+permits
+first larvae of the Codling moth had n't taken flight
+
+the leaders of Hungarian minority parties had been prevented to be politically active abroad
+entails
+the leaders of Hungarian minority parties had n't been politically active abroad
+
+the leaders of Hungarian minority parties had n't been politically active abroad
+permits
+the leaders of Hungarian minority parties had been prevented to be politically active abroad
+
+member states had prevented the leaders of Hungarian minority parties to be politically active abroad
+entails
+the leaders of Hungarian minority parties had n't been politically active abroad
+
+the leaders of Hungarian minority parties had n't been politically active abroad
+permits
+member states had prevented the leaders of Hungarian minority parties to be politically active abroad
+
+member states had prevented the leaders of Hungarian minority parties to be politically active abroad
+permits
+the leaders of Hungarian minority parties had n't generated galactic winds without explicit wind particles
+
+the leaders of Hungarian minority parties have been prevented to be politically active abroad
+contradicts
+the leaders of Hungarian minority parties have been politically active abroad
+
+the leaders of Hungarian minority parties have been politically active abroad
+contradicts
+the leaders of Hungarian minority parties have been prevented to be politically active abroad
+
+Murle men and women have prevented the leaders of Hungarian minority parties to be politically active abroad
+contradicts
+the leaders of Hungarian minority parties have been politically active abroad
+
+the leaders of Hungarian minority parties have been politically active abroad
+contradicts
+Murle men and women have prevented the leaders of Hungarian minority parties to be politically active abroad
+
+Murle men and women have prevented the leaders of Hungarian minority parties to be politically active abroad
+permits
+women have been politically active abroad
+
+the leaders of Hungarian minority parties were never prevented to be politically active abroad
+permits
+the leaders of Hungarian minority parties were politically active abroad
+
+children and teachers never prevented the leaders of Hungarian minority parties to be politically active abroad
+permits
+the leaders of Hungarian minority parties were politically active abroad
+
+the leaders of Hungarian minority parties had not been prevented to be politically active abroad
+permits
+the leaders of Hungarian minority parties had n't been politically active abroad
+
+the leaders of Hungarian minority parties had n't been politically active abroad
+permits
+the leaders of Hungarian minority parties had not been prevented to be politically active abroad
+
+women had not prevented the leaders of Hungarian minority parties to be politically active abroad
+permits
+the leaders of Hungarian minority parties had n't been politically active abroad
+
+the leaders of Hungarian minority parties had n't been politically active abroad
+permits
+women had not prevented the leaders of Hungarian minority parties to be politically active abroad
+
+member states were prevented to adopt domestic conditions that are more favourable for the beneficiary
+entails
+member states did not adopt domestic conditions that are more favourable for the beneficiary
+
+member states did not adopt domestic conditions that are more favourable for the beneficiary
+permits
+member states were prevented to adopt domestic conditions that are more favourable for the beneficiary
+
+member states were prevented to adopt domestic conditions that are more favourable for the beneficiary
+permits
+the boys did n't adopt domestic conditions that are more favourable for the beneficiary
+
+we prevented member states to adopt domestic conditions that are more favourable for the beneficiary
+entails
+member states did not adopt domestic conditions that are more favourable for the beneficiary
+
+member states did not adopt domestic conditions that are more favourable for the beneficiary
+permits
+we prevented member states to adopt domestic conditions that are more favourable for the beneficiary
+
+member states were prevented to adopt domestic conditions that are more favourable for the beneficiary
+contradicts
+member states adopted domestic conditions that are more favourable for the beneficiary
+
+member states adopted domestic conditions that are more favourable for the beneficiary
+contradicts
+member states were prevented to adopt domestic conditions that are more favourable for the beneficiary
+
+Murle men and women prevented member states to adopt domestic conditions that are more favourable for the beneficiary
+contradicts
+member states adopted domestic conditions that are more favourable for the beneficiary
+
+member states adopted domestic conditions that are more favourable for the beneficiary
+contradicts
+Murle men and women prevented member states to adopt domestic conditions that are more favourable for the beneficiary
+
+member states were almost prevented to adopt domestic conditions that are more favourable for the beneficiary
+permits
+member states adopted domestic conditions that are more favourable for the beneficiary
+
+children and teachers almost prevented member states to adopt domestic conditions that are more favourable for the beneficiary
+permits
+member states adopted domestic conditions that are more favourable for the beneficiary
+
+member states were not prevented to adopt domestic conditions that are more favourable for the beneficiary
+permits
+member states did n't adopt domestic conditions that are more favourable for the beneficiary
+
+member states did n't adopt domestic conditions that are more favourable for the beneficiary
+permits
+member states were not prevented to adopt domestic conditions that are more favourable for the beneficiary
+
+the Palestinians did not prevent member states to adopt domestic conditions that are more favourable for the beneficiary
+permits
+member states did n't adopt domestic conditions that are more favourable for the beneficiary
+
+member states did n't adopt domestic conditions that are more favourable for the beneficiary
+permits
+the Palestinians did not prevent member states to adopt domestic conditions that are more favourable for the beneficiary
+
+you have been prevented to do the same
+entails
+you have not done the same
+
+you have not done the same
+permits
+you have been prevented to do the same
+
+you have been prevented to do the same
+permits
+she has n't done the same
+
+I have prevented you to do the same
+entails
+you have not done the same
+
+you have not done the same
+permits
+I have prevented you to do the same
+
+you were prevented to do the same
+contradicts
+you did the same
+
+you did the same
+contradicts
+you were prevented to do the same
+
+he prevented you to do the same
+contradicts
+you did the same
+
+you did the same
+contradicts
+he prevented you to do the same
+
+he prevented you to do the same
+permits
+he did the same
+
+you were n't prevented to do the same
+permits
+you did the same
+
+his former mistress did n't prevent you to do the same
+permits
+you did the same
+
+you had n't been prevented to do the same
+permits
+you had n't done the same
+
+you had n't done the same
+permits
+you had n't been prevented to do the same
+
+Turkish Cypriot expat had n't prevented you to do the same
+permits
+you had n't done the same
+
+you had n't done the same
+permits
+Turkish Cypriot expat had n't prevented you to do the same
+
+we had been prevented to collect grapes from the outdoor terrace
+entails
+we had not collected grapes from the outdoor terrace
+
+we had not collected grapes from the outdoor terrace
+permits
+we had been prevented to collect grapes from the outdoor terrace
+
+children and teachers had prevented us to collect grapes from the outdoor terrace
+entails
+we had not collected grapes from the outdoor terrace
+
+we had not collected grapes from the outdoor terrace
+permits
+children and teachers had prevented us to collect grapes from the outdoor terrace
+
+children and teachers had prevented us to collect grapes from the outdoor terrace
+permits
+the leaders of Hungarian minority parties had n't collected grapes from the outdoor terrace
+
+we were prevented to collect grapes from the outdoor terrace
+contradicts
+we collected grapes from the outdoor terrace
+
+we collected grapes from the outdoor terrace
+contradicts
+we were prevented to collect grapes from the outdoor terrace
+
+the men prevented us to collect grapes from the outdoor terrace
+contradicts
+we collected grapes from the outdoor terrace
+
+we collected grapes from the outdoor terrace
+contradicts
+the men prevented us to collect grapes from the outdoor terrace
+
+we have never been prevented to collect grapes from the outdoor terrace
+entails
+we have collected grapes from the outdoor terrace
+
+we have collected grapes from the outdoor terrace
+permits
+we have never been prevented to collect grapes from the outdoor terrace
+
+we have never been prevented to collect grapes from the outdoor terrace
+permits
+women have collected grapes from the outdoor terrace
+
+they have never prevented us to collect grapes from the outdoor terrace
+entails
+we have collected grapes from the outdoor terrace
+
+we have collected grapes from the outdoor terrace
+permits
+they have never prevented us to collect grapes from the outdoor terrace
+
+we were n't prevented to collect grapes from the outdoor terrace
+contradicts
+we did n't collect grapes from the outdoor terrace
+
+we did n't collect grapes from the outdoor terrace
+contradicts
+we were n't prevented to collect grapes from the outdoor terrace
+
+the boys did n't prevent us to collect grapes from the outdoor terrace
+contradicts
+we did n't collect grapes from the outdoor terrace
+
+we did n't collect grapes from the outdoor terrace
+contradicts
+the boys did n't prevent us to collect grapes from the outdoor terrace
+
+the boys did n't prevent us to collect grapes from the outdoor terrace
+permits
+we did n't come onto the premises
+
+the bars in the free ends of the flange had been prevented to buckle
+entails
+the bars in the free ends of the flange had not buckled
+
+the bars in the free ends of the flange had not buckled
+permits
+the bars in the free ends of the flange had been prevented to buckle
+
+we had prevented the bars in the free ends of the flange to buckle
+entails
+the bars in the free ends of the flange had not buckled
+
+the bars in the free ends of the flange had not buckled
+permits
+we had prevented the bars in the free ends of the flange to buckle
+
+the bars in the free ends of the flange have been prevented to buckle
+contradicts
+the bars in the free ends of the flange have buckled
+
+the bars in the free ends of the flange have buckled
+contradicts
+the bars in the free ends of the flange have been prevented to buckle
+
+the bars in the free ends of the flange have been prevented to buckle
+permits
+the bars in the free ends of the flange have proceeded with further enquiry
+
+hot air balloons have prevented the bars in the free ends of the flange to buckle
+contradicts
+the bars in the free ends of the flange have buckled
+
+the bars in the free ends of the flange have buckled
+contradicts
+hot air balloons have prevented the bars in the free ends of the flange to buckle
+
+the bars in the free ends of the flange had almost been prevented to buckle
+permits
+the bars in the free ends of the flange had buckled
+
+participants had almost prevented the bars in the free ends of the flange to buckle
+permits
+the bars in the free ends of the flange had buckled
+
+the bars in the free ends of the flange had n't been prevented to buckle
+permits
+the bars in the free ends of the flange had n't buckled
+
+the bars in the free ends of the flange had n't buckled
+permits
+the bars in the free ends of the flange had n't been prevented to buckle
+
+children and teachers had n't prevented the bars in the free ends of the flange to buckle
+permits
+the bars in the free ends of the flange had n't buckled
+
+the bars in the free ends of the flange had n't buckled
+permits
+children and teachers had n't prevented the bars in the free ends of the flange to buckle
+
+the blacks had been prevented to become a ballerina
+entails
+the blacks had not become a ballerina
+
+the blacks had not become a ballerina
+permits
+the blacks had been prevented to become a ballerina
+
+women had prevented the blacks to become a ballerina
+entails
+the blacks had not become a ballerina
+
+the blacks had not become a ballerina
+permits
+women had prevented the blacks to become a ballerina
+
+the blacks had been prevented to become a ballerina
+contradicts
+the blacks had become a ballerina
+
+the blacks had become a ballerina
+contradicts
+the blacks had been prevented to become a ballerina
+
+children and teachers had prevented the blacks to become a ballerina
+contradicts
+the blacks had become a ballerina
+
+the blacks had become a ballerina
+contradicts
+children and teachers had prevented the blacks to become a ballerina
+
+the blacks have never been prevented to become a ballerina
+entails
+the blacks have become a ballerina
+
+the blacks have become a ballerina
+permits
+the blacks have never been prevented to become a ballerina
+
+the blacks have never been prevented to become a ballerina
+permits
+the blacks have gone to their office
+
+women have never prevented the blacks to become a ballerina
+entails
+the blacks have become a ballerina
+
+the blacks have become a ballerina
+permits
+women have never prevented the blacks to become a ballerina
+
+women have never prevented the blacks to become a ballerina
+permits
+participants have become a ballerina
+
+the blacks have never been prevented to become a ballerina
+contradicts
+the blacks have not become a ballerina
+
+the blacks have not become a ballerina
+contradicts
+the blacks have never been prevented to become a ballerina
+
+Murle men and women have never prevented the blacks to become a ballerina
+contradicts
+the blacks have not become a ballerina
+
+the blacks have not become a ballerina
+contradicts
+Murle men and women have never prevented the blacks to become a ballerina
+
+the extreme leftwing people have been prevented to speak
+entails
+the extreme leftwing people have not spoken
+
+the extreme leftwing people have not spoken
+permits
+the extreme leftwing people have been prevented to speak
+
+hot air balloons have prevented the extreme leftwing people to speak
+entails
+the extreme leftwing people have not spoken
+
+the extreme leftwing people have not spoken
+permits
+hot air balloons have prevented the extreme leftwing people to speak
+
+hot air balloons have prevented the extreme leftwing people to speak
+permits
+Murle men and women have not spoken
+
+the extreme leftwing people were prevented to speak
+contradicts
+the extreme leftwing people spoke
+
+the extreme leftwing people spoke
+contradicts
+the extreme leftwing people were prevented to speak
+
+Murle men and women prevented the extreme leftwing people to speak
+contradicts
+the extreme leftwing people spoke
+
+the extreme leftwing people spoke
+contradicts
+Murle men and women prevented the extreme leftwing people to speak
+
+the extreme leftwing people had not been prevented to speak
+entails
+the extreme leftwing people had spoken
+
+the extreme leftwing people had spoken
+permits
+the extreme leftwing people had not been prevented to speak
+
+the extreme leftwing people had not been prevented to speak
+permits
+the extreme leftwing people had done it because of their short size
+
+women had not prevented the extreme leftwing people to speak
+entails
+the extreme leftwing people had spoken
+
+the extreme leftwing people had spoken
+permits
+women had not prevented the extreme leftwing people to speak
+
+the extreme leftwing people had never been prevented to speak
+contradicts
+the extreme leftwing people had not spoken
+
+the extreme leftwing people had not spoken
+contradicts
+the extreme leftwing people had never been prevented to speak
+
+the extreme leftwing people had never been prevented to speak
+permits
+the extreme leftwing people had n't been politically active abroad
+
+Murle men and women had never prevented the extreme leftwing people to speak
+contradicts
+the extreme leftwing people had not spoken
+
+the extreme leftwing people had not spoken
+contradicts
+Murle men and women had never prevented the extreme leftwing people to speak
+
+Murle men and women had never prevented the extreme leftwing people to speak
+permits
+we had never spoken
+
+we were prevented to hang out with my Protestant grandparents
+entails
+we did not hang out with my Protestant grandparents
+
+we did not hang out with my Protestant grandparents
+permits
+we were prevented to hang out with my Protestant grandparents
+
+we were prevented to hang out with my Protestant grandparents
+permits
+we did n't make submissions as interveners
+
+the people prevented us to hang out with my Protestant grandparents
+entails
+we did not hang out with my Protestant grandparents
+
+we did not hang out with my Protestant grandparents
+permits
+the people prevented us to hang out with my Protestant grandparents
+
+the people prevented us to hang out with my Protestant grandparents
+permits
+we did n't come backstage
+
+we had been prevented to hang out with my Protestant grandparents
+contradicts
+we had hung out with my Protestant grandparents
+
+we had hung out with my Protestant grandparents
+contradicts
+we had been prevented to hang out with my Protestant grandparents
+
+women had prevented us to hang out with my Protestant grandparents
+contradicts
+we had hung out with my Protestant grandparents
+
+we had hung out with my Protestant grandparents
+contradicts
+women had prevented us to hang out with my Protestant grandparents
+
+women had prevented us to hang out with my Protestant grandparents
+permits
+we had done so by the partisans of the only truth
+
+we had almost been prevented to hang out with my Protestant grandparents
+entails
+we had hung out with my Protestant grandparents
+
+we had hung out with my Protestant grandparents
+permits
+we had almost been prevented to hang out with my Protestant grandparents
+
+hot air balloons had almost prevented us to hang out with my Protestant grandparents
+entails
+we had hung out with my Protestant grandparents
+
+we had hung out with my Protestant grandparents
+permits
+hot air balloons had almost prevented us to hang out with my Protestant grandparents
+
+hot air balloons had almost prevented us to hang out with my Protestant grandparents
+permits
+the British had hung out with my Protestant grandparents
+
+we have n't been prevented to hang out with my Protestant grandparents
+contradicts
+we have n't hung out with my Protestant grandparents
+
+we have n't hung out with my Protestant grandparents
+contradicts
+we have n't been prevented to hang out with my Protestant grandparents
+
+the counsels have n't prevented us to hang out with my Protestant grandparents
+contradicts
+we have n't hung out with my Protestant grandparents
+
+we have n't hung out with my Protestant grandparents
+contradicts
+the counsels have n't prevented us to hang out with my Protestant grandparents
+
+the counsels have n't prevented us to hang out with my Protestant grandparents
+permits
+participants have not hung out with my Protestant grandparents
+
+Muslims of the subcontinent had been prevented to practice their religion
+entails
+Muslims of the subcontinent had not practiced their religion
+
+Muslims of the subcontinent had not practiced their religion
+permits
+Muslims of the subcontinent had been prevented to practice their religion
+
+women had prevented Muslims of the subcontinent to practice their religion
+entails
+Muslims of the subcontinent had not practiced their religion
+
+Muslims of the subcontinent had not practiced their religion
+permits
+women had prevented Muslims of the subcontinent to practice their religion
+
+women had prevented Muslims of the subcontinent to practice their religion
+permits
+Murle men and women had n't practiced their religion
+
+Muslims of the subcontinent have been prevented to practice their religion
+contradicts
+Muslims of the subcontinent have practiced their religion
+
+Muslims of the subcontinent have practiced their religion
+contradicts
+Muslims of the subcontinent have been prevented to practice their religion
+
+children and teachers have prevented Muslims of the subcontinent to practice their religion
+contradicts
+Muslims of the subcontinent have practiced their religion
+
+Muslims of the subcontinent have practiced their religion
+contradicts
+children and teachers have prevented Muslims of the subcontinent to practice their religion
+
+Muslims of the subcontinent had not been prevented to practice their religion
+permits
+Muslims of the subcontinent had practiced their religion
+
+we had not prevented Muslims of the subcontinent to practice their religion
+permits
+Muslims of the subcontinent had practiced their religion
+
+Muslims of the subcontinent had almost been prevented to practice their religion
+permits
+Muslims of the subcontinent had almost practiced their religion
+
+Muslims of the subcontinent had almost practiced their religion
+permits
+Muslims of the subcontinent had almost been prevented to practice their religion
+
+women had almost prevented Muslims of the subcontinent to practice their religion
+permits
+Muslims of the subcontinent had almost practiced their religion
+
+Muslims of the subcontinent had almost practiced their religion
+permits
+women had almost prevented Muslims of the subcontinent to practice their religion
+
+Riek had been prevented to go to his office
+entails
+Riek had n't gone to his office
+
+Riek had n't gone to his office
+permits
+Riek had been prevented to go to his office
+
+Riek had been prevented to go to his office
+permits
+Russia had not gone to its office
+
+Girija had prevented Riek to go to his office
+entails
+Riek had n't gone to his office
+
+Riek had n't gone to his office
+permits
+Girija had prevented Riek to go to his office
+
+Girija had prevented Riek to go to his office
+permits
+Riek had not returned to the destination country in the future
+
+Riek had been prevented to go to his office
+contradicts
+Riek had gone to his office
+
+Riek had gone to his office
+contradicts
+Riek had been prevented to go to his office
+
+Russia had prevented Riek to go to his office
+contradicts
+Riek had gone to his office
+
+Riek had gone to his office
+contradicts
+Russia had prevented Riek to go to his office
+
+Russia had prevented Riek to go to his office
+permits
+the company had gone to its office
+
+Riek has not been prevented to go to his office
+entails
+Riek has gone to his office
+
+Riek has gone to his office
+permits
+Riek has not been prevented to go to his office
+
+I has not prevented Riek to go to his office
+entails
+Riek has gone to his office
+
+Riek has gone to his office
+permits
+I has not prevented Riek to go to his office
+
+I has not prevented Riek to go to his office
+permits
+the Vendean army has gone to its office
+
+Riek has never been prevented to go to his office
+contradicts
+Riek has n't gone to his office
+
+Riek has n't gone to his office
+contradicts
+Riek has never been prevented to go to his office
+
+you has never prevented Riek to go to his office
+contradicts
+Riek has n't gone to his office
+
+Riek has n't gone to his office
+contradicts
+you has never prevented Riek to go to his office
+
+you has never prevented Riek to go to his office
+permits
+Babul Supriya has never gone to his office
+
+Girija has been prevented to ride the plane to Bhairawa
+entails
+Girija has n't ridden the plane to Bhairawa
+
+Girija has n't ridden the plane to Bhairawa
+permits
+Girija has been prevented to ride the plane to Bhairawa
+
+I has prevented Girija to ride the plane to Bhairawa
+entails
+Girija has n't ridden the plane to Bhairawa
+
+Girija has n't ridden the plane to Bhairawa
+permits
+I has prevented Girija to ride the plane to Bhairawa
+
+I has prevented Girija to ride the plane to Bhairawa
+permits
+Girija has n't left Chile
+
+Girija was prevented to ride the plane to Bhairawa
+contradicts
+Girija rode the plane to Bhairawa
+
+Girija rode the plane to Bhairawa
+contradicts
+Girija was prevented to ride the plane to Bhairawa
+
+Chris Brown prevented Girija to ride the plane to Bhairawa
+contradicts
+Girija rode the plane to Bhairawa
+
+Girija rode the plane to Bhairawa
+contradicts
+Chris Brown prevented Girija to ride the plane to Bhairawa
+
+Chris Brown prevented Girija to ride the plane to Bhairawa
+permits
+Girija marched further by police near Sishu Bhawan square
+
+Girija has never been prevented to ride the plane to Bhairawa
+entails
+Girija has ridden the plane to Bhairawa
+
+Girija has ridden the plane to Bhairawa
+permits
+Girija has never been prevented to ride the plane to Bhairawa
+
+Girija has never been prevented to ride the plane to Bhairawa
+permits
+the Vendean army has ridden the plane to Bhairawa
+
+Russia has never prevented Girija to ride the plane to Bhairawa
+entails
+Girija has ridden the plane to Bhairawa
+
+Girija has ridden the plane to Bhairawa
+permits
+Russia has never prevented Girija to ride the plane to Bhairawa
+
+Girija had not been prevented to ride the plane to Bhairawa
+contradicts
+Girija had not ridden the plane to Bhairawa
+
+Girija had not ridden the plane to Bhairawa
+contradicts
+Girija had not been prevented to ride the plane to Bhairawa
+
+Chris Brown had not prevented Girija to ride the plane to Bhairawa
+contradicts
+Girija had not ridden the plane to Bhairawa
+
+Girija had not ridden the plane to Bhairawa
+contradicts
+Chris Brown had not prevented Girija to ride the plane to Bhairawa
+
+I had been prevented to enter by the North Koreans
+entails
+I had n't entered by the North Koreans
+
+I had n't entered by the North Koreans
+permits
+I had been prevented to enter by the North Koreans
+
+Turkish Cypriot expat had prevented me to enter by the North Koreans
+entails
+I had n't entered by the North Koreans
+
+I had n't entered by the North Koreans
+permits
+Turkish Cypriot expat had prevented me to enter by the North Koreans
+
+I have been prevented to enter by the North Koreans
+contradicts
+I have entered by the North Koreans
+
+I have entered by the North Koreans
+contradicts
+I have been prevented to enter by the North Koreans
+
+I have been prevented to enter by the North Koreans
+permits
+my server has entered by the North Koreans
+
+his former mistress have prevented me to enter by the North Koreans
+contradicts
+I have entered by the North Koreans
+
+I have entered by the North Koreans
+contradicts
+his former mistress have prevented me to enter by the North Koreans
+
+I have not been prevented to enter by the North Koreans
+entails
+I have entered by the North Koreans
+
+I have entered by the North Koreans
+permits
+I have not been prevented to enter by the North Koreans
+
+my server have not prevented me to enter by the North Koreans
+entails
+I have entered by the North Koreans
+
+I have entered by the North Koreans
+permits
+my server have not prevented me to enter by the North Koreans
+
+my server have not prevented me to enter by the North Koreans
+permits
+my server has entered by the North Koreans
+
+I had almost been prevented to enter by the North Koreans
+contradicts
+I had almost entered by the North Koreans
+
+I had almost entered by the North Koreans
+contradicts
+I had almost been prevented to enter by the North Koreans
+
+I had almost been prevented to enter by the North Koreans
+permits
+Mr K.A had almost entered by the North Koreans
+
+his former mistress had almost prevented me to enter by the North Koreans
+contradicts
+I had almost entered by the North Koreans
+
+I had almost entered by the North Koreans
+contradicts
+his former mistress had almost prevented me to enter by the North Koreans
+
+she had been prevented to leave Chile
+entails
+she had not left Chile
+
+she had not left Chile
+permits
+she had been prevented to leave Chile
+
+she had been prevented to leave Chile
+permits
+she had n't realized her dreams or patents about free energy
+
+the Vendean army had prevented her to leave Chile
+entails
+she had not left Chile
+
+she had not left Chile
+permits
+the Vendean army had prevented her to leave Chile
+
+the Vendean army had prevented her to leave Chile
+permits
+Josep Borrell had n't left Chile
+
+she had been prevented to leave Chile
+contradicts
+she had left Chile
+
+she had left Chile
+contradicts
+she had been prevented to leave Chile
+
+Mr K.A had prevented her to leave Chile
+contradicts
+she had left Chile
+
+she had left Chile
+contradicts
+Mr K.A had prevented her to leave Chile
+
+Mr K.A had prevented her to leave Chile
+permits
+Wintershall had left Chile
+
+she had almost been prevented to leave Chile
+entails
+she had left Chile
+
+she had left Chile
+permits
+she had almost been prevented to leave Chile
+
+he had almost prevented her to leave Chile
+entails
+she had left Chile
+
+she had left Chile
+permits
+he had almost prevented her to leave Chile
+
+she has not been prevented to leave Chile
+contradicts
+she has n't left Chile
+
+she has n't left Chile
+contradicts
+she has not been prevented to leave Chile
+
+she has not been prevented to leave Chile
+permits
+she has not accessed her facebook account
+
+you has not prevented her to leave Chile
+contradicts
+she has n't left Chile
+
+she has n't left Chile
+contradicts
+you has not prevented her to leave Chile
+
+Josep Borrell was prevented to challenge Joaquin Almunia
+entails
+Josep Borrell did n't challenge Joaquin Almunia
+
+Josep Borrell did n't challenge Joaquin Almunia
+permits
+Josep Borrell was prevented to challenge Joaquin Almunia
+
+the Vendean army prevented Josep Borrell to challenge Joaquin Almunia
+entails
+Josep Borrell did n't challenge Joaquin Almunia
+
+Josep Borrell did n't challenge Joaquin Almunia
+permits
+the Vendean army prevented Josep Borrell to challenge Joaquin Almunia
+
+Josep Borrell was prevented to challenge Joaquin Almunia
+contradicts
+Josep Borrell challenged Joaquin Almunia
+
+Josep Borrell challenged Joaquin Almunia
+contradicts
+Josep Borrell was prevented to challenge Joaquin Almunia
+
+Josep Borrell was prevented to challenge Joaquin Almunia
+permits
+Josep Borrell penetrated into an apple with up to 5,000 mg/l Citral
+
+I prevented Josep Borrell to challenge Joaquin Almunia
+contradicts
+Josep Borrell challenged Joaquin Almunia
+
+Josep Borrell challenged Joaquin Almunia
+contradicts
+I prevented Josep Borrell to challenge Joaquin Almunia
+
+Josep Borrell was never prevented to challenge Joaquin Almunia
+entails
+Josep Borrell challenged Joaquin Almunia
+
+Josep Borrell challenged Joaquin Almunia
+permits
+Josep Borrell was never prevented to challenge Joaquin Almunia
+
+Josep Borrell was never prevented to challenge Joaquin Almunia
+permits
+Josep Borrell chose his own lawyer
+
+she never prevented Josep Borrell to challenge Joaquin Almunia
+entails
+Josep Borrell challenged Joaquin Almunia
+
+Josep Borrell challenged Joaquin Almunia
+permits
+she never prevented Josep Borrell to challenge Joaquin Almunia
+
+she never prevented Josep Borrell to challenge Joaquin Almunia
+permits
+Josep Borrell automatically shutdown
+
+Josep Borrell had almost been prevented to challenge Joaquin Almunia
+contradicts
+Josep Borrell had n't challenged Joaquin Almunia
+
+Josep Borrell had n't challenged Joaquin Almunia
+contradicts
+Josep Borrell had almost been prevented to challenge Joaquin Almunia
+
+Mr K.A had almost prevented Josep Borrell to challenge Joaquin Almunia
+contradicts
+Josep Borrell had n't challenged Joaquin Almunia
+
+Josep Borrell had n't challenged Joaquin Almunia
+contradicts
+Mr K.A had almost prevented Josep Borrell to challenge Joaquin Almunia
+
+Mr K.A had almost prevented Josep Borrell to challenge Joaquin Almunia
+permits
+she had almost challenged Joaquin Almunia
+
+my server was prevented to automatically shutdown
+entails
+my server automatically shutdown
+
+my server automatically shutdown
+permits
+my server was prevented to automatically shutdown
+
+my server was prevented to automatically shutdown
+permits
+my server did not go to its airplane by four officers
+
+the company prevented my server to automatically shutdown
+entails
+my server automatically shutdown
+
+my server automatically shutdown
+permits
+the company prevented my server to automatically shutdown
+
+my server was prevented to automatically shutdown
+contradicts
+my server automatically shutdown
+
+my server automatically shutdown
+contradicts
+my server was prevented to automatically shutdown
+
+my server was prevented to automatically shutdown
+permits
+my server visited its grandmother in occupied Louroudjina
+
+Russia prevented my server to automatically shutdown
+contradicts
+my server automatically shutdown
+
+my server automatically shutdown
+contradicts
+Russia prevented my server to automatically shutdown
+
+Russia prevented my server to automatically shutdown
+permits
+the light automatically shutdown
+
+my server had never been prevented to automatically shutdown
+entails
+my server automatically shutdown
+
+my server automatically shutdown
+permits
+my server had never been prevented to automatically shutdown
+
+Babul Supriya had never prevented my server to automatically shutdown
+entails
+my server automatically shutdown
+
+my server automatically shutdown
+permits
+Babul Supriya had never prevented my server to automatically shutdown
+
+Babul Supriya had never prevented my server to automatically shutdown
+permits
+my server had come to my table
+
+my server was not prevented to automatically shutdown
+contradicts
+my server automatically shutdown
+
+my server automatically shutdown
+contradicts
+my server was not prevented to automatically shutdown
+
+my server was not prevented to automatically shutdown
+permits
+Girija automatically shutdown
+
+his former mistress did not prevent my server to automatically shutdown
+contradicts
+my server automatically shutdown
+
+my server automatically shutdown
+contradicts
+his former mistress did not prevent my server to automatically shutdown
+
+he had been prevented to realize his dreams and patents about free energy
+entails
+he had n't realized his dreams or patents about free energy
+
+he had n't realized his dreams or patents about free energy
+permits
+he had been prevented to realize his dreams and patents about free energy
+
+he had been prevented to realize his dreams and patents about free energy
+permits
+the light had n't realized its dreams or patents about free energy
+
+the company had prevented him to realize his dreams and patents about free energy
+entails
+he had n't realized his dreams or patents about free energy
+
+he had n't realized his dreams or patents about free energy
+permits
+the company had prevented him to realize his dreams and patents about free energy
+
+he had been prevented to realize his dreams and patents about free energy
+contradicts
+he had realized his dreams and patents about free energy
+
+he had realized his dreams and patents about free energy
+contradicts
+he had been prevented to realize his dreams and patents about free energy
+
+Chris Brown had prevented him to realize his dreams and patents about free energy
+contradicts
+he had realized his dreams and patents about free energy
+
+he had realized his dreams and patents about free energy
+contradicts
+Chris Brown had prevented him to realize his dreams and patents about free energy
+
+he has not been prevented to realize his dreams or patents about free energy
+entails
+he has realized his dreams and patents about free energy
+
+he has realized his dreams and patents about free energy
+permits
+he has not been prevented to realize his dreams or patents about free energy
+
+you has not prevented him to realize his dreams or patents about free energy
+entails
+he has realized his dreams and patents about free energy
+
+he has realized his dreams and patents about free energy
+permits
+you has not prevented him to realize his dreams or patents about free energy
+
+he had n't been prevented to realize his dreams or patents about free energy
+contradicts
+he had n't realized his dreams or patents about free energy
+
+he had n't realized his dreams or patents about free energy
+contradicts
+he had n't been prevented to realize his dreams or patents about free energy
+
+my server had n't prevented him to realize his dreams or patents about free energy
+contradicts
+he had n't realized his dreams or patents about free energy
+
+he had n't realized his dreams or patents about free energy
+contradicts
+my server had n't prevented him to realize his dreams or patents about free energy
+

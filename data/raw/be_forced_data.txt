@@ -1,0 +1,4312 @@
+we were forced to accelerate our schedules
+entails
+we accelerated our schedules
+
+we accelerated our schedules
+permits
+we were forced to accelerate our schedules
+
+we were forced to accelerate our schedules
+permits
+we stayed in an unhappy marriage
+
+the dead forced us to accelerate our schedules
+entails
+we accelerated our schedules
+
+we accelerated our schedules
+permits
+the dead forced us to accelerate our schedules
+
+we had been forced to accelerate our schedules
+contradicts
+we had not accelerated our schedules
+
+we had not accelerated our schedules
+contradicts
+we had been forced to accelerate our schedules
+
+we had been forced to accelerate our schedules
+permits
+we had n't worked in poorhouses
+
+the New England men had forced us to accelerate our schedules
+contradicts
+we had not accelerated our schedules
+
+we had not accelerated our schedules
+contradicts
+the New England men had forced us to accelerate our schedules
+
+we had never been forced to accelerate our schedules
+entails
+we had n't accelerated our schedules
+
+we had n't accelerated our schedules
+permits
+we had never been forced to accelerate our schedules
+
+Haganah and IDF commanders had never forced us to accelerate our schedules
+entails
+we had n't accelerated our schedules
+
+we had n't accelerated our schedules
+permits
+Haganah and IDF commanders had never forced us to accelerate our schedules
+
+Haganah and IDF commanders had never forced us to accelerate our schedules
+permits
+the Scots had not accelerated their schedules
+
+we have not been forced to accelerate our schedules
+contradicts
+we have accelerated our schedules
+
+we have accelerated our schedules
+contradicts
+we have not been forced to accelerate our schedules
+
+the Scots have not forced us to accelerate our schedules
+contradicts
+we have accelerated our schedules
+
+we have accelerated our schedules
+contradicts
+the Scots have not forced us to accelerate our schedules
+
+I have been forced to have my rapist's baby
+entails
+I have had my rapist's baby
+
+I have had my rapist's baby
+permits
+I have been forced to have my rapist's baby
+
+I have been forced to have my rapist's baby
+permits
+I have borrowed tools from each other
+
+the mother have forced me to have my rapist's baby
+entails
+I have had my rapist's baby
+
+I have had my rapist's baby
+permits
+the mother have forced me to have my rapist's baby
+
+I was forced to have my rapist's baby
+contradicts
+I did n't have my rapist's baby
+
+I did n't have my rapist's baby
+contradicts
+I was forced to have my rapist's baby
+
+Mr Odinga forced me to have my rapist's baby
+contradicts
+I did n't have my rapist's baby
+
+I did n't have my rapist's baby
+contradicts
+Mr Odinga forced me to have my rapist's baby
+
+I almost had been forced to have my rapist's baby
+entails
+I had not had my rapist's baby
+
+I had not had my rapist's baby
+permits
+I almost had been forced to have my rapist's baby
+
+I almost had been forced to have my rapist's baby
+permits
+Shaun Jurgens had n't had his rapist's baby
+
+she almost had forced me to have my rapist's baby
+entails
+I had not had my rapist's baby
+
+I had not had my rapist's baby
+permits
+she almost had forced me to have my rapist's baby
+
+she almost had forced me to have my rapist's baby
+permits
+I had n't drunk liberty tea
+
+I had not been forced to have my rapist's baby
+contradicts
+I had had my rapist's baby
+
+I had had my rapist's baby
+contradicts
+I had not been forced to have my rapist's baby
+
+I had not been forced to have my rapist's baby
+permits
+I had stepped down
+
+he had not forced me to have my rapist's baby
+contradicts
+I had had my rapist's baby
+
+I had had my rapist's baby
+contradicts
+he had not forced me to have my rapist's baby
+
+he had not forced me to have my rapist's baby
+permits
+the heavily pregnant mum had had her rapist's baby
+
+she has been forced to cook for the man
+entails
+she has cooked for the man
+
+she has cooked for the man
+permits
+she has been forced to cook for the man
+
+Sir Michael Caine has forced her to cook for the man
+entails
+she has cooked for the man
+
+she has cooked for the man
+permits
+Sir Michael Caine has forced her to cook for the man
+
+Sir Michael Caine has forced her to cook for the man
+permits
+you have cooked for the man
+
+she was forced to cook for the man
+contradicts
+she did n't cook for the man
+
+she did n't cook for the man
+contradicts
+she was forced to cook for the man
+
+she was forced to cook for the man
+permits
+she did n't confront the moral dilemma posed by expulsion
+
+the mother forced her to cook for the man
+contradicts
+she did n't cook for the man
+
+she did n't cook for the man
+contradicts
+the mother forced her to cook for the man
+
+she was not forced to cook for the man
+entails
+she did n't cook for the man
+
+she did n't cook for the man
+permits
+she was not forced to cook for the man
+
+she was not forced to cook for the man
+permits
+she did not make the journey under terrible conditions
+
+State Department did not force her to cook for the man
+entails
+she did n't cook for the man
+
+she did n't cook for the man
+permits
+State Department did not force her to cook for the man
+
+she has never been forced to cook for the man
+contradicts
+she has cooked for the man
+
+she has cooked for the man
+contradicts
+she has never been forced to cook for the man
+
+she has never been forced to cook for the man
+permits
+Liberté Chan has cooked for the man
+
+Mr Odinga has never forced her to cook for the man
+contradicts
+she has cooked for the man
+
+she has cooked for the man
+contradicts
+Mr Odinga has never forced her to cook for the man
+
+his son has been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+entails
+his son has hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son has hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+his son has been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son has been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+Sir Michael Caine has hit Dalits to prove that Muslims too were with cow vigilantes
+
+State Department has forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+entails
+his son has hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son has hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+State Department has forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son was forced to hit Dalits to prove that Muslims too were with cow vigilantes
+contradicts
+his son did not hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son did not hit Dalits to prove that Muslims too were with cow vigilantes
+contradicts
+his son was forced to hit Dalits to prove that Muslims too were with cow vigilantes
+
+State Department forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+contradicts
+his son did not hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son did not hit Dalits to prove that Muslims too were with cow vigilantes
+contradicts
+State Department forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son had never been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+entails
+his son had not hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son had not hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+his son had never been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son had never been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+Mr Odinga had n't hit Dalits to prove that Muslims too were with cow vigilantes
+
+the child had never forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+entails
+his son had not hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son had not hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+the child had never forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+
+the child had never forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+the mother had not hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son had almost been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+contradicts
+his son had hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son had hit Dalits to prove that Muslims too were with cow vigilantes
+contradicts
+his son had almost been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son had almost been forced to hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+you had hit Dalits to prove that Muslims too were with cow vigilantes
+
+the heavily pregnant mum had almost forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+contradicts
+his son had hit Dalits to prove that Muslims too were with cow vigilantes
+
+his son had hit Dalits to prove that Muslims too were with cow vigilantes
+contradicts
+the heavily pregnant mum had almost forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+
+the heavily pregnant mum had almost forced his son to hit Dalits to prove that Muslims too were with cow vigilantes
+permits
+his son had left everything behind
+
+I was forced to live for days on nothing but food and water
+entails
+I lived for days on nothing but food and water
+
+I lived for days on nothing but food and water
+permits
+I was forced to live for days on nothing but food and water
+
+I was forced to live for days on nothing but food and water
+permits
+the flight to Heraklion lived for days on nothing but food and water
+
+Sir Michael Caine forced me to live for days on nothing but food and water
+entails
+I lived for days on nothing but food and water
+
+I lived for days on nothing but food and water
+permits
+Sir Michael Caine forced me to live for days on nothing but food and water
+
+I have been forced to live for days on nothing but food and water
+contradicts
+I have n't lived for days on nothing but food and water
+
+I have n't lived for days on nothing but food and water
+contradicts
+I have been forced to live for days on nothing but food and water
+
+I have been forced to live for days on nothing but food and water
+permits
+Sir Michael Caine has not lived for days on nothing but food and water
+
+Alabama's chief justice have forced me to live for days on nothing but food and water
+contradicts
+I have n't lived for days on nothing but food and water
+
+I have n't lived for days on nothing but food and water
+contradicts
+Alabama's chief justice have forced me to live for days on nothing but food and water
+
+Alabama's chief justice have forced me to live for days on nothing but food and water
+permits
+Tom Dumoulin has not lived for days on nothing but food and water
+
+I have never been forced to live for days on nothing but food and water
+permits
+I have n't lived for days on nothing but food and water
+
+the flight to Heraklion have never forced me to live for days on nothing but food and water
+permits
+I have n't lived for days on nothing but food and water
+
+I was almost forced to live for days on nothing but food and water
+permits
+I lived for days on nothing but food and water
+
+I lived for days on nothing but food and water
+permits
+I was almost forced to live for days on nothing but food and water
+
+Alabama's chief justice almost forced me to live for days on nothing but food and water
+permits
+I lived for days on nothing but food and water
+
+I lived for days on nothing but food and water
+permits
+Alabama's chief justice almost forced me to live for days on nothing but food and water
+
+he had been forced to come out publicly in 1997
+entails
+he had come out publicly in 1997
+
+he had come out publicly in 1997
+permits
+he had been forced to come out publicly in 1997
+
+he had been forced to come out publicly in 1997
+permits
+he had converted into Islam
+
+Liberté Chan had forced him to come out publicly in 1997
+entails
+he had come out publicly in 1997
+
+he had come out publicly in 1997
+permits
+Liberté Chan had forced him to come out publicly in 1997
+
+Liberté Chan had forced him to come out publicly in 1997
+permits
+he had fallen back
+
+he was forced to come out publicly in 1997
+contradicts
+he did not come out publicly in 1997
+
+he did not come out publicly in 1997
+contradicts
+he was forced to come out publicly in 1997
+
+Mr Odinga forced him to come out publicly in 1997
+contradicts
+he did not come out publicly in 1997
+
+he did not come out publicly in 1997
+contradicts
+Mr Odinga forced him to come out publicly in 1997
+
+he had n't been forced to come out publicly in 1997
+entails
+he had not come out publicly in 1997
+
+he had not come out publicly in 1997
+permits
+he had n't been forced to come out publicly in 1997
+
+he had n't been forced to come out publicly in 1997
+permits
+he had not gone to the fields to pick cotton
+
+I had n't forced him to come out publicly in 1997
+entails
+he had not come out publicly in 1997
+
+he had not come out publicly in 1997
+permits
+I had n't forced him to come out publicly in 1997
+
+he has almost been forced to come out publicly in 1997
+contradicts
+he has come out publicly in 1997
+
+he has come out publicly in 1997
+contradicts
+he has almost been forced to come out publicly in 1997
+
+he has almost been forced to come out publicly in 1997
+permits
+the mother has come out publicly in 1997
+
+Tom Dumoulin has almost forced him to come out publicly in 1997
+contradicts
+he has come out publicly in 1997
+
+he has come out publicly in 1997
+contradicts
+Tom Dumoulin has almost forced him to come out publicly in 1997
+
+Shaun Jurgens has been forced to resign after using a Taser and pepper spray
+entails
+Shaun Jurgens has resigned after using a Taser and pepper spray
+
+Shaun Jurgens has resigned after using a Taser and pepper spray
+permits
+Shaun Jurgens has been forced to resign after using a Taser and pepper spray
+
+Shaun Jurgens has been forced to resign after using a Taser and pepper spray
+permits
+Shaun Jurgens has used heroin as well
+
+I has forced Shaun Jurgens to resign after using a Taser and pepper spray
+entails
+Shaun Jurgens has resigned after using a Taser and pepper spray
+
+Shaun Jurgens has resigned after using a Taser and pepper spray
+permits
+I has forced Shaun Jurgens to resign after using a Taser and pepper spray
+
+I has forced Shaun Jurgens to resign after using a Taser and pepper spray
+permits
+State Department has resigned after using a Taser and pepper spray
+
+Shaun Jurgens was forced to resign after using a Taser and pepper spray
+contradicts
+Shaun Jurgens did n't resign after using a Taser and pepper spray
+
+Shaun Jurgens did n't resign after using a Taser and pepper spray
+contradicts
+Shaun Jurgens was forced to resign after using a Taser and pepper spray
+
+Shaun Jurgens was forced to resign after using a Taser and pepper spray
+permits
+Shaun Jurgens did n't learn to write a simple declarative sentence
+
+Sir Michael Caine forced Shaun Jurgens to resign after using a Taser and pepper spray
+contradicts
+Shaun Jurgens did n't resign after using a Taser and pepper spray
+
+Shaun Jurgens did n't resign after using a Taser and pepper spray
+contradicts
+Sir Michael Caine forced Shaun Jurgens to resign after using a Taser and pepper spray
+
+Shaun Jurgens has not been forced to resign after using a Taser and pepper spray
+entails
+Shaun Jurgens has not resigned after using a Taser and pepper spray
+
+Shaun Jurgens has not resigned after using a Taser and pepper spray
+permits
+Shaun Jurgens has not been forced to resign after using a Taser and pepper spray
+
+you has not forced Shaun Jurgens to resign after using a Taser and pepper spray
+entails
+Shaun Jurgens has not resigned after using a Taser and pepper spray
+
+Shaun Jurgens has not resigned after using a Taser and pepper spray
+permits
+you has not forced Shaun Jurgens to resign after using a Taser and pepper spray
+
+Shaun Jurgens had n't been forced to resign after using a Taser and pepper spray
+contradicts
+Shaun Jurgens had resigned after using a Taser and pepper spray
+
+Shaun Jurgens had resigned after using a Taser and pepper spray
+contradicts
+Shaun Jurgens had n't been forced to resign after using a Taser and pepper spray
+
+Shaun Jurgens had n't been forced to resign after using a Taser and pepper spray
+permits
+I had resigned after using a Taser and pepper spray
+
+Tom Dumoulin had n't forced Shaun Jurgens to resign after using a Taser and pepper spray
+contradicts
+Shaun Jurgens had resigned after using a Taser and pepper spray
+
+Shaun Jurgens had resigned after using a Taser and pepper spray
+contradicts
+Tom Dumoulin had n't forced Shaun Jurgens to resign after using a Taser and pepper spray
+
+Tom Dumoulin had n't forced Shaun Jurgens to resign after using a Taser and pepper spray
+permits
+Shaun Jurgens had gone to the fields to pick cotton
+
+she was forced to breastfeed her baby in a bathroom
+entails
+she breastfed her baby in a bathroom
+
+she breastfed her baby in a bathroom
+permits
+she was forced to breastfeed her baby in a bathroom
+
+she was forced to breastfeed her baby in a bathroom
+permits
+it breastfed its baby in a bathroom
+
+Alabama's chief justice forced her to breastfeed her baby in a bathroom
+entails
+she breastfed her baby in a bathroom
+
+she breastfed her baby in a bathroom
+permits
+Alabama's chief justice forced her to breastfeed her baby in a bathroom
+
+she was forced to breastfeed her baby in a bathroom
+contradicts
+she did n't breastfeed her baby in a bathroom
+
+she did n't breastfeed her baby in a bathroom
+contradicts
+she was forced to breastfeed her baby in a bathroom
+
+she was forced to breastfeed her baby in a bathroom
+permits
+Tom Dumoulin did not breastfeed his baby in a bathroom
+
+I forced her to breastfeed her baby in a bathroom
+contradicts
+she did n't breastfeed her baby in a bathroom
+
+she did n't breastfeed her baby in a bathroom
+contradicts
+I forced her to breastfeed her baby in a bathroom
+
+she was almost forced to breastfeed her baby in a bathroom
+entails
+she almost breastfed her baby in a bathroom
+
+she almost breastfed her baby in a bathroom
+permits
+she was almost forced to breastfeed her baby in a bathroom
+
+she was almost forced to breastfeed her baby in a bathroom
+permits
+she did not change her votes in a Dallas County child sex trial
+
+Shaun Jurgens almost forced her to breastfeed her baby in a bathroom
+entails
+she almost breastfed her baby in a bathroom
+
+she almost breastfed her baby in a bathroom
+permits
+Shaun Jurgens almost forced her to breastfeed her baby in a bathroom
+
+she has never been forced to breastfeed her baby in a bathroom
+contradicts
+she has breastfed her baby in a bathroom
+
+she has breastfed her baby in a bathroom
+contradicts
+she has never been forced to breastfeed her baby in a bathroom
+
+she has never been forced to breastfeed her baby in a bathroom
+permits
+she has watched beheading of her son
+
+it has never forced her to breastfeed her baby in a bathroom
+contradicts
+she has breastfed her baby in a bathroom
+
+she has breastfed her baby in a bathroom
+contradicts
+it has never forced her to breastfeed her baby in a bathroom
+
+Tom Dumoulin was forced to abandon Tour de France after a crash
+entails
+Tom Dumoulin abandoned Tour de France after a crash
+
+Tom Dumoulin abandoned Tour de France after a crash
+permits
+Tom Dumoulin was forced to abandon Tour de France after a crash
+
+Tom Dumoulin was forced to abandon Tour de France after a crash
+permits
+Liberté Chan abandoned Tour de France after a crash
+
+I forced Tom Dumoulin to abandon Tour de France after a crash
+entails
+Tom Dumoulin abandoned Tour de France after a crash
+
+Tom Dumoulin abandoned Tour de France after a crash
+permits
+I forced Tom Dumoulin to abandon Tour de France after a crash
+
+I forced Tom Dumoulin to abandon Tour de France after a crash
+permits
+Tom Dumoulin changed his name because of ISIS
+
+Tom Dumoulin was forced to abandon Tour de France after a crash
+contradicts
+Tom Dumoulin did n't abandon Tour de France after a crash
+
+Tom Dumoulin did n't abandon Tour de France after a crash
+contradicts
+Tom Dumoulin was forced to abandon Tour de France after a crash
+
+Shaun Jurgens forced Tom Dumoulin to abandon Tour de France after a crash
+contradicts
+Tom Dumoulin did n't abandon Tour de France after a crash
+
+Tom Dumoulin did n't abandon Tour de France after a crash
+contradicts
+Shaun Jurgens forced Tom Dumoulin to abandon Tour de France after a crash
+
+Tom Dumoulin was not forced to abandon Tour de France after a crash
+permits
+Tom Dumoulin did not abandon Tour de France after a crash
+
+it did not force Tom Dumoulin to abandon Tour de France after a crash
+permits
+Tom Dumoulin did not abandon Tour de France after a crash
+
+Tom Dumoulin had never been forced to abandon Tour de France after a crash
+permits
+Tom Dumoulin had abandoned Tour de France after a crash
+
+Tom Dumoulin had abandoned Tour de France after a crash
+permits
+Tom Dumoulin had never been forced to abandon Tour de France after a crash
+
+Alabama's chief justice had never forced Tom Dumoulin to abandon Tour de France after a crash
+permits
+Tom Dumoulin had abandoned Tour de France after a crash
+
+Tom Dumoulin had abandoned Tour de France after a crash
+permits
+Alabama's chief justice had never forced Tom Dumoulin to abandon Tour de France after a crash
+
+State Department was forced to disable security features to receive messages
+entails
+State Department disabled security features to receive messages
+
+State Department disabled security features to receive messages
+permits
+State Department was forced to disable security features to receive messages
+
+State Department was forced to disable security features to receive messages
+permits
+you disabled security features to receive messages
+
+Shaun Jurgens forced State Department to disable security features to receive messages
+entails
+State Department disabled security features to receive messages
+
+State Department disabled security features to receive messages
+permits
+Shaun Jurgens forced State Department to disable security features to receive messages
+
+State Department was forced to disable security features to receive messages
+contradicts
+State Department did n't disable security features to receive messages
+
+State Department did n't disable security features to receive messages
+contradicts
+State Department was forced to disable security features to receive messages
+
+State Department was forced to disable security features to receive messages
+permits
+this mother did n't disable security features to receive messages
+
+this mother forced State Department to disable security features to receive messages
+contradicts
+State Department did n't disable security features to receive messages
+
+State Department did n't disable security features to receive messages
+contradicts
+this mother forced State Department to disable security features to receive messages
+
+State Department had not been forced to disable security features to receive messages
+permits
+State Department had not disabled security features to receive messages
+
+Liberté Chan had not forced State Department to disable security features to receive messages
+permits
+State Department had not disabled security features to receive messages
+
+State Department has n't been forced to disable security features to receive messages
+permits
+State Department has disabled security features to receive messages
+
+State Department has disabled security features to receive messages
+permits
+State Department has n't been forced to disable security features to receive messages
+
+the flight to Heraklion has n't forced State Department to disable security features to receive messages
+permits
+State Department has disabled security features to receive messages
+
+State Department has disabled security features to receive messages
+permits
+the flight to Heraklion has n't forced State Department to disable security features to receive messages
+
+she has been forced to walk around the house on her hands and knees
+entails
+she has walked around the house on her hands and knees
+
+she has walked around the house on her hands and knees
+permits
+she has been forced to walk around the house on her hands and knees
+
+she has been forced to walk around the house on her hands and knees
+permits
+she has accommodated the holding of government bonds
+
+Mr Odinga has forced her to walk around the house on her hands and knees
+entails
+she has walked around the house on her hands and knees
+
+she has walked around the house on her hands and knees
+permits
+Mr Odinga has forced her to walk around the house on her hands and knees
+
+Mr Odinga has forced her to walk around the house on her hands and knees
+permits
+she has changed her votes in a Dallas County child sex trial
+
+she has been forced to walk around the house on her hands and knees
+contradicts
+she has not walked around the house on her hands and knees
+
+she has not walked around the house on her hands and knees
+contradicts
+she has been forced to walk around the house on her hands and knees
+
+she has been forced to walk around the house on her hands and knees
+permits
+she has not hit Dalits to prove that Muslims too were with cow vigilantes
+
+he has forced her to walk around the house on her hands and knees
+contradicts
+she has not walked around the house on her hands and knees
+
+she has not walked around the house on her hands and knees
+contradicts
+he has forced her to walk around the house on her hands and knees
+
+she had never been forced to walk around the house on her hands and knees
+permits
+she had not walked around the house on her hands and knees
+
+it had never forced her to walk around the house on her hands and knees
+permits
+she had not walked around the house on her hands and knees
+
+she was n't forced to walk around the house on her hands and knees
+permits
+she walked around the house on her hands and knees
+
+she walked around the house on her hands and knees
+permits
+she was n't forced to walk around the house on her hands and knees
+
+this mother did n't force her to walk around the house on her hands and knees
+permits
+she walked around the house on her hands and knees
+
+she walked around the house on her hands and knees
+permits
+this mother did n't force her to walk around the house on her hands and knees
+
+Sir Michael Caine had been forced to change his name because of ISIS
+entails
+Sir Michael Caine had changed his name because of ISIS
+
+Sir Michael Caine had changed his name because of ISIS
+permits
+Sir Michael Caine had been forced to change his name because of ISIS
+
+Sir Michael Caine had been forced to change his name because of ISIS
+permits
+the mother had changed her name because of ISIS
+
+you had forced Sir Michael Caine to change his name because of ISIS
+entails
+Sir Michael Caine had changed his name because of ISIS
+
+Sir Michael Caine had changed his name because of ISIS
+permits
+you had forced Sir Michael Caine to change his name because of ISIS
+
+Sir Michael Caine has been forced to change his name because of ISIS
+contradicts
+Sir Michael Caine has not changed his name because of ISIS
+
+Sir Michael Caine has not changed his name because of ISIS
+contradicts
+Sir Michael Caine has been forced to change his name because of ISIS
+
+Sir Michael Caine has been forced to change his name because of ISIS
+permits
+State Department has n't changed its name because of ISIS
+
+Liberté Chan has forced Sir Michael Caine to change his name because of ISIS
+contradicts
+Sir Michael Caine has not changed his name because of ISIS
+
+Sir Michael Caine has not changed his name because of ISIS
+contradicts
+Liberté Chan has forced Sir Michael Caine to change his name because of ISIS
+
+Sir Michael Caine has not been forced to change his name because of ISIS
+permits
+Sir Michael Caine has n't changed his name because of ISIS
+
+Tom Dumoulin has not forced Sir Michael Caine to change his name because of ISIS
+permits
+Sir Michael Caine has n't changed his name because of ISIS
+
+Sir Michael Caine had not been forced to change his name because of ISIS
+permits
+Sir Michael Caine had changed his name because of ISIS
+
+Sir Michael Caine had changed his name because of ISIS
+permits
+Sir Michael Caine had not been forced to change his name because of ISIS
+
+this mother had not forced Sir Michael Caine to change his name because of ISIS
+permits
+Sir Michael Caine had changed his name because of ISIS
+
+Sir Michael Caine had changed his name because of ISIS
+permits
+this mother had not forced Sir Michael Caine to change his name because of ISIS
+
+we had been forced to accelerate our schedules
+entails
+we had accelerated our schedules
+
+we had accelerated our schedules
+permits
+we had been forced to accelerate our schedules
+
+the people of the area had forced us to accelerate our schedules
+entails
+we had accelerated our schedules
+
+we had accelerated our schedules
+permits
+the people of the area had forced us to accelerate our schedules
+
+we had been forced to accelerate our schedules
+contradicts
+we had n't accelerated our schedules
+
+we had n't accelerated our schedules
+contradicts
+we had been forced to accelerate our schedules
+
+we had been forced to accelerate our schedules
+permits
+the Clintons had not accelerated their schedules
+
+the people of the area had forced us to accelerate our schedules
+contradicts
+we had n't accelerated our schedules
+
+we had n't accelerated our schedules
+contradicts
+the people of the area had forced us to accelerate our schedules
+
+we have n't been forced to accelerate our schedules
+permits
+we have not accelerated our schedules
+
+the Clintons have n't forced us to accelerate our schedules
+permits
+we have not accelerated our schedules
+
+we had never been forced to accelerate our schedules
+permits
+we had accelerated our schedules
+
+we had accelerated our schedules
+permits
+we had never been forced to accelerate our schedules
+
+the commercial banks had never forced us to accelerate our schedules
+permits
+we had accelerated our schedules
+
+we had accelerated our schedules
+permits
+the commercial banks had never forced us to accelerate our schedules
+
+they had been forced to cut a major battle sequence from the show
+entails
+they had cut a major battle sequence from the show
+
+they had cut a major battle sequence from the show
+permits
+they had been forced to cut a major battle sequence from the show
+
+they had been forced to cut a major battle sequence from the show
+permits
+they had stepped down
+
+the dead had forced them to cut a major battle sequence from the show
+entails
+they had cut a major battle sequence from the show
+
+they had cut a major battle sequence from the show
+permits
+the dead had forced them to cut a major battle sequence from the show
+
+the dead had forced them to cut a major battle sequence from the show
+permits
+they had resigned after using a Taser and pepper spray
+
+they have been forced to cut a major battle sequence from the show
+contradicts
+they have not cut a major battle sequence from the show
+
+they have not cut a major battle sequence from the show
+contradicts
+they have been forced to cut a major battle sequence from the show
+
+they have been forced to cut a major battle sequence from the show
+permits
+they have n't done it
+
+these businesses have forced them to cut a major battle sequence from the show
+contradicts
+they have not cut a major battle sequence from the show
+
+they have not cut a major battle sequence from the show
+contradicts
+these businesses have forced them to cut a major battle sequence from the show
+
+they have never been forced to cut a major battle sequence from the show
+permits
+they have n't cut a major battle sequence from the show
+
+German doctors have never forced them to cut a major battle sequence from the show
+permits
+they have n't cut a major battle sequence from the show
+
+they have n't been forced to cut a major battle sequence from the show
+permits
+they have cut a major battle sequence from the show
+
+they have cut a major battle sequence from the show
+permits
+they have n't been forced to cut a major battle sequence from the show
+
+the commercial banks have n't forced them to cut a major battle sequence from the show
+permits
+they have cut a major battle sequence from the show
+
+they have cut a major battle sequence from the show
+permits
+the commercial banks have n't forced them to cut a major battle sequence from the show
+
+they were forced to change their votes in a Dallas County child sex trial
+entails
+they changed their votes in a Dallas County child sex trial
+
+they changed their votes in a Dallas County child sex trial
+permits
+they were forced to change their votes in a Dallas County child sex trial
+
+they were forced to change their votes in a Dallas County child sex trial
+permits
+Coal Miners in Romney TV ads changed their votes in a Dallas County child sex trial
+
+children forced them to change their votes in a Dallas County child sex trial
+entails
+they changed their votes in a Dallas County child sex trial
+
+they changed their votes in a Dallas County child sex trial
+permits
+children forced them to change their votes in a Dallas County child sex trial
+
+children forced them to change their votes in a Dallas County child sex trial
+permits
+they left everything behind
+
+they had been forced to change their votes in a Dallas County child sex trial
+contradicts
+they had not changed their votes in a Dallas County child sex trial
+
+they had not changed their votes in a Dallas County child sex trial
+contradicts
+they had been forced to change their votes in a Dallas County child sex trial
+
+they had been forced to change their votes in a Dallas County child sex trial
+permits
+they had n't fallen back
+
+the people of the area had forced them to change their votes in a Dallas County child sex trial
+contradicts
+they had not changed their votes in a Dallas County child sex trial
+
+they had not changed their votes in a Dallas County child sex trial
+contradicts
+the people of the area had forced them to change their votes in a Dallas County child sex trial
+
+the people of the area had forced them to change their votes in a Dallas County child sex trial
+permits
+they had n't lived for days on nothing but food and water
+
+they were n't forced to change their votes in a Dallas County child sex trial
+permits
+they did n't change their votes in a Dallas County child sex trial
+
+the Bosnians did n't force them to change their votes in a Dallas County child sex trial
+permits
+they did n't change their votes in a Dallas County child sex trial
+
+they have n't been forced to change their votes in a Dallas County child sex trial
+permits
+they have changed their votes in a Dallas County child sex trial
+
+they have changed their votes in a Dallas County child sex trial
+permits
+they have n't been forced to change their votes in a Dallas County child sex trial
+
+the dead have n't forced them to change their votes in a Dallas County child sex trial
+permits
+they have changed their votes in a Dallas County child sex trial
+
+they have changed their votes in a Dallas County child sex trial
+permits
+the dead have n't forced them to change their votes in a Dallas County child sex trial
+
+prisoners were forced to march long distances in bitter cold
+entails
+prisoners marched long distances in bitter cold
+
+prisoners marched long distances in bitter cold
+permits
+prisoners were forced to march long distances in bitter cold
+
+prisoners were forced to march long distances in bitter cold
+permits
+prisoners worked in poorhouses
+
+Christians and Jews forced prisoners to march long distances in bitter cold
+entails
+prisoners marched long distances in bitter cold
+
+prisoners marched long distances in bitter cold
+permits
+Christians and Jews forced prisoners to march long distances in bitter cold
+
+prisoners had been forced to march long distances in bitter cold
+contradicts
+prisoners had not marched long distances in bitter cold
+
+prisoners had not marched long distances in bitter cold
+contradicts
+prisoners had been forced to march long distances in bitter cold
+
+the New England men had forced prisoners to march long distances in bitter cold
+contradicts
+prisoners had not marched long distances in bitter cold
+
+prisoners had not marched long distances in bitter cold
+contradicts
+the New England men had forced prisoners to march long distances in bitter cold
+
+prisoners had not been forced to march long distances in bitter cold
+entails
+prisoners had n't marched long distances in bitter cold
+
+prisoners had n't marched long distances in bitter cold
+permits
+prisoners had not been forced to march long distances in bitter cold
+
+the dead had not forced prisoners to march long distances in bitter cold
+entails
+prisoners had n't marched long distances in bitter cold
+
+prisoners had n't marched long distances in bitter cold
+permits
+the dead had not forced prisoners to march long distances in bitter cold
+
+prisoners had not been forced to march long distances in bitter cold
+contradicts
+prisoners had marched long distances in bitter cold
+
+prisoners had marched long distances in bitter cold
+contradicts
+prisoners had not been forced to march long distances in bitter cold
+
+the Clintons had not forced prisoners to march long distances in bitter cold
+contradicts
+prisoners had marched long distances in bitter cold
+
+prisoners had marched long distances in bitter cold
+contradicts
+the Clintons had not forced prisoners to march long distances in bitter cold
+
+the Clintons had not forced prisoners to march long distances in bitter cold
+permits
+female students had marched long distances in bitter cold
+
+we have been forced to close last June after the lease expired
+entails
+we have closed last June after the lease expired
+
+we have closed last June after the lease expired
+permits
+we have been forced to close last June after the lease expired
+
+we have been forced to close last June after the lease expired
+permits
+we have moved to the free speech zone
+
+Haganah and IDF commanders have forced us to close last June after the lease expired
+entails
+we have closed last June after the lease expired
+
+we have closed last June after the lease expired
+permits
+Haganah and IDF commanders have forced us to close last June after the lease expired
+
+Haganah and IDF commanders have forced us to close last June after the lease expired
+permits
+the New England men have closed last June after the lease expired
+
+we were forced to close last June after the lease expired
+contradicts
+we did not close last June after the lease expired
+
+we did not close last June after the lease expired
+contradicts
+we were forced to close last June after the lease expired
+
+we were forced to close last June after the lease expired
+permits
+they did n't close last June after the lease expired
+
+Haganah and IDF commanders forced us to close last June after the lease expired
+contradicts
+we did not close last June after the lease expired
+
+we did not close last June after the lease expired
+contradicts
+Haganah and IDF commanders forced us to close last June after the lease expired
+
+Haganah and IDF commanders forced us to close last June after the lease expired
+permits
+we did not leave everything behind
+
+we had never been forced to close last June after the lease expired
+entails
+we never had closed last June after the lease expired
+
+we never had closed last June after the lease expired
+permits
+we had never been forced to close last June after the lease expired
+
+we had never been forced to close last June after the lease expired
+permits
+Jews had n't closed last June after the lease expired
+
+Haganah and IDF commanders had never forced us to close last June after the lease expired
+entails
+we never had closed last June after the lease expired
+
+we never had closed last June after the lease expired
+permits
+Haganah and IDF commanders had never forced us to close last June after the lease expired
+
+Haganah and IDF commanders had never forced us to close last June after the lease expired
+permits
+we had not changed our corporate tax system
+
+we had never been forced to close last June after the lease expired
+contradicts
+we had closed last June after the lease expired
+
+we had closed last June after the lease expired
+contradicts
+we had never been forced to close last June after the lease expired
+
+we had never been forced to close last June after the lease expired
+permits
+Bay Area communities had closed last June after the lease expired
+
+these businesses had never forced us to close last June after the lease expired
+contradicts
+we had closed last June after the lease expired
+
+we had closed last June after the lease expired
+contradicts
+these businesses had never forced us to close last June after the lease expired
+
+these businesses had never forced us to close last June after the lease expired
+permits
+Christians and Jews had closed last June after the lease expired
+
+Coal Miners in Romney TV ads have been forced to attend rally
+entails
+Coal Miners in Romney TV ads have attended rally
+
+Coal Miners in Romney TV ads have attended rally
+permits
+Coal Miners in Romney TV ads have been forced to attend rally
+
+Christians and Jews have forced Coal Miners in Romney TV ads to attend rally
+entails
+Coal Miners in Romney TV ads have attended rally
+
+Coal Miners in Romney TV ads have attended rally
+permits
+Christians and Jews have forced Coal Miners in Romney TV ads to attend rally
+
+Coal Miners in Romney TV ads were forced to attend rally
+contradicts
+Coal Miners in Romney TV ads did not attend rally
+
+Coal Miners in Romney TV ads did not attend rally
+contradicts
+Coal Miners in Romney TV ads were forced to attend rally
+
+Coal Miners in Romney TV ads were forced to attend rally
+permits
+Coal Miners in Romney TV ads did not march long distances in bitter cold
+
+the Clintons forced Coal Miners in Romney TV ads to attend rally
+contradicts
+Coal Miners in Romney TV ads did not attend rally
+
+Coal Miners in Romney TV ads did not attend rally
+contradicts
+the Clintons forced Coal Miners in Romney TV ads to attend rally
+
+the Clintons forced Coal Miners in Romney TV ads to attend rally
+permits
+Coal Miners in Romney TV ads did n't abandon Tour de France after a crash
+
+Coal Miners in Romney TV ads were never forced to attend rally
+entails
+Coal Miners in Romney TV ads did not attend rally
+
+Coal Miners in Romney TV ads did not attend rally
+permits
+Coal Miners in Romney TV ads were never forced to attend rally
+
+Coal Miners in Romney TV ads were never forced to attend rally
+permits
+Coal Miners in Romney TV ads never kept paying off their son's student loans
+
+children never forced Coal Miners in Romney TV ads to attend rally
+entails
+Coal Miners in Romney TV ads did not attend rally
+
+Coal Miners in Romney TV ads did not attend rally
+permits
+children never forced Coal Miners in Romney TV ads to attend rally
+
+children never forced Coal Miners in Romney TV ads to attend rally
+permits
+Coal Miners in Romney TV ads did n't make the journey under terrible conditions
+
+Coal Miners in Romney TV ads were n't forced to attend rally
+contradicts
+Coal Miners in Romney TV ads attended rally
+
+Coal Miners in Romney TV ads attended rally
+contradicts
+Coal Miners in Romney TV ads were n't forced to attend rally
+
+Coal Miners in Romney TV ads were n't forced to attend rally
+permits
+Jews attended rally
+
+inmates did n't force Coal Miners in Romney TV ads to attend rally
+contradicts
+Coal Miners in Romney TV ads attended rally
+
+Coal Miners in Romney TV ads attended rally
+contradicts
+inmates did n't force Coal Miners in Romney TV ads to attend rally
+
+inmates did n't force Coal Miners in Romney TV ads to attend rally
+permits
+the Bosnians attended rally
+
+he and others were forced to create HIV virus as a secret weapon to wipe out Africans
+entails
+he and others created HIV virus as a secret weapon to wipe out Africans
+
+he and others created HIV virus as a secret weapon to wipe out Africans
+permits
+he and others were forced to create HIV virus as a secret weapon to wipe out Africans
+
+he and others were forced to create HIV virus as a secret weapon to wipe out Africans
+permits
+he and others resigned after using a Taser and pepper spray
+
+Africans forced he and others to create HIV virus as a secret weapon to wipe out Africans
+entails
+he and others created HIV virus as a secret weapon to wipe out Africans
+
+he and others created HIV virus as a secret weapon to wipe out Africans
+permits
+Africans forced he and others to create HIV virus as a secret weapon to wipe out Africans
+
+Africans forced he and others to create HIV virus as a secret weapon to wipe out Africans
+permits
+the Scots created HIV virus as a secret weapon to wipe out Africans
+
+he and others have been forced to create HIV virus as a secret weapon to wipe out Africans
+contradicts
+he and others have n't created HIV virus as a secret weapon to wipe out Africans
+
+he and others have n't created HIV virus as a secret weapon to wipe out Africans
+contradicts
+he and others have been forced to create HIV virus as a secret weapon to wipe out Africans
+
+Africans have forced he and others to create HIV virus as a secret weapon to wipe out Africans
+contradicts
+he and others have n't created HIV virus as a secret weapon to wipe out Africans
+
+he and others have n't created HIV virus as a secret weapon to wipe out Africans
+contradicts
+Africans have forced he and others to create HIV virus as a secret weapon to wipe out Africans
+
+Africans have forced he and others to create HIV virus as a secret weapon to wipe out Africans
+permits
+the commercial banks have not created HIV virus as a secret weapon to wipe out Africans
+
+he and others have not been forced to create HIV virus as a secret weapon to wipe out Africans
+permits
+he and others have not created HIV virus as a secret weapon to wipe out Africans
+
+inmates have not forced he and others to create HIV virus as a secret weapon to wipe out Africans
+permits
+he and others have not created HIV virus as a secret weapon to wipe out Africans
+
+he and others have not been forced to create HIV virus as a secret weapon to wipe out Africans
+permits
+he and others have created HIV virus as a secret weapon to wipe out Africans
+
+he and others have created HIV virus as a secret weapon to wipe out Africans
+permits
+he and others have not been forced to create HIV virus as a secret weapon to wipe out Africans
+
+Jews have not forced he and others to create HIV virus as a secret weapon to wipe out Africans
+permits
+he and others have created HIV virus as a secret weapon to wipe out Africans
+
+he and others have created HIV virus as a secret weapon to wipe out Africans
+permits
+Jews have not forced he and others to create HIV virus as a secret weapon to wipe out Africans
+
+Africans have been forced to make the journey under terrible conditions
+entails
+Africans have made the journey under terrible conditions
+
+Africans have made the journey under terrible conditions
+permits
+Africans have been forced to make the journey under terrible conditions
+
+the Scots have forced Africans to make the journey under terrible conditions
+entails
+Africans have made the journey under terrible conditions
+
+Africans have made the journey under terrible conditions
+permits
+the Scots have forced Africans to make the journey under terrible conditions
+
+Africans were forced to make the journey under terrible conditions
+contradicts
+Africans did not make the journey under terrible conditions
+
+Africans did not make the journey under terrible conditions
+contradicts
+Africans were forced to make the journey under terrible conditions
+
+Christians and Jews forced Africans to make the journey under terrible conditions
+contradicts
+Africans did not make the journey under terrible conditions
+
+Africans did not make the journey under terrible conditions
+contradicts
+Christians and Jews forced Africans to make the journey under terrible conditions
+
+Africans were not forced to make the journey under terrible conditions
+entails
+Africans did not make the journey under terrible conditions
+
+Africans did not make the journey under terrible conditions
+permits
+Africans were not forced to make the journey under terrible conditions
+
+Africans were not forced to make the journey under terrible conditions
+permits
+Africans did not believe in Islam
+
+inmates did not force Africans to make the journey under terrible conditions
+entails
+Africans did not make the journey under terrible conditions
+
+Africans did not make the journey under terrible conditions
+permits
+inmates did not force Africans to make the journey under terrible conditions
+
+Africans had n't been forced to make the journey under terrible conditions
+contradicts
+Africans had made the journey under terrible conditions
+
+Africans had made the journey under terrible conditions
+contradicts
+Africans had n't been forced to make the journey under terrible conditions
+
+Africans had n't been forced to make the journey under terrible conditions
+permits
+we had made the journey under terrible conditions
+
+we had n't forced Africans to make the journey under terrible conditions
+contradicts
+Africans had made the journey under terrible conditions
+
+Africans had made the journey under terrible conditions
+contradicts
+we had n't forced Africans to make the journey under terrible conditions
+
+we had n't forced Africans to make the journey under terrible conditions
+permits
+we had made the journey under terrible conditions
+
+Jews have been forced to wear a badge in the form of a Yellow Star
+entails
+Jews have worn a badge in the form of a Yellow Star
+
+Jews have worn a badge in the form of a Yellow Star
+permits
+Jews have been forced to wear a badge in the form of a Yellow Star
+
+Jews have been forced to wear a badge in the form of a Yellow Star
+permits
+the Clintons have worn a badge in the form of a Yellow Star
+
+German doctors have forced Jews to wear a badge in the form of a Yellow Star
+entails
+Jews have worn a badge in the form of a Yellow Star
+
+Jews have worn a badge in the form of a Yellow Star
+permits
+German doctors have forced Jews to wear a badge in the form of a Yellow Star
+
+Jews had been forced to wear a badge in the form of a Yellow Star
+contradicts
+Jews had n't worn a badge in the form of a Yellow Star
+
+Jews had n't worn a badge in the form of a Yellow Star
+contradicts
+Jews had been forced to wear a badge in the form of a Yellow Star
+
+the people of the area had forced Jews to wear a badge in the form of a Yellow Star
+contradicts
+Jews had n't worn a badge in the form of a Yellow Star
+
+Jews had n't worn a badge in the form of a Yellow Star
+contradicts
+the people of the area had forced Jews to wear a badge in the form of a Yellow Star
+
+Jews had n't been forced to wear a badge in the form of a Yellow Star
+entails
+Jews had n't worn a badge in the form of a Yellow Star
+
+Jews had n't worn a badge in the form of a Yellow Star
+permits
+Jews had n't been forced to wear a badge in the form of a Yellow Star
+
+German doctors had n't forced Jews to wear a badge in the form of a Yellow Star
+entails
+Jews had n't worn a badge in the form of a Yellow Star
+
+Jews had n't worn a badge in the form of a Yellow Star
+permits
+German doctors had n't forced Jews to wear a badge in the form of a Yellow Star
+
+Jews had n't been forced to wear a badge in the form of a Yellow Star
+contradicts
+Jews had worn a badge in the form of a Yellow Star
+
+Jews had worn a badge in the form of a Yellow Star
+contradicts
+Jews had n't been forced to wear a badge in the form of a Yellow Star
+
+prisoners had n't forced Jews to wear a badge in the form of a Yellow Star
+contradicts
+Jews had worn a badge in the form of a Yellow Star
+
+Jews had worn a badge in the form of a Yellow Star
+contradicts
+prisoners had n't forced Jews to wear a badge in the form of a Yellow Star
+
+prisoners had n't forced Jews to wear a badge in the form of a Yellow Star
+permits
+the dead had worn a badge in the form of a Yellow Star
+
+the child has been forced to use heroin as well
+entails
+the child has used heroin as well
+
+the child has used heroin as well
+permits
+the child has been forced to use heroin as well
+
+the child has been forced to use heroin as well
+permits
+Liberté Chan has used heroin as well
+
+I has forced the child to use heroin as well
+entails
+the child has used heroin as well
+
+the child has used heroin as well
+permits
+I has forced the child to use heroin as well
+
+I has forced the child to use heroin as well
+permits
+the child has come out publicly in 1997
+
+the child was forced to use heroin as well
+contradicts
+the child did n't use heroin as well
+
+the child did n't use heroin as well
+contradicts
+the child was forced to use heroin as well
+
+Mr Odinga forced the child to use heroin as well
+contradicts
+the child did n't use heroin as well
+
+the child did n't use heroin as well
+contradicts
+Mr Odinga forced the child to use heroin as well
+
+the child was not forced to use heroin as well
+entails
+the child did not use heroin as well
+
+the child did not use heroin as well
+permits
+the child was not forced to use heroin as well
+
+the child was not forced to use heroin as well
+permits
+the child did not alter his rules
+
+his son did not force the child to use heroin as well
+entails
+the child did not use heroin as well
+
+the child did not use heroin as well
+permits
+his son did not force the child to use heroin as well
+
+his son did not force the child to use heroin as well
+permits
+the child did n't cover up mid-forecast
+
+the child was n't forced to use heroin as well
+contradicts
+the child used heroin as well
+
+the child used heroin as well
+contradicts
+the child was n't forced to use heroin as well
+
+Shaun Jurgens did n't force the child to use heroin as well
+contradicts
+the child used heroin as well
+
+the child used heroin as well
+contradicts
+Shaun Jurgens did n't force the child to use heroin as well
+
+the flight to Heraklion had been forced to turn around and fly back on Thursday morning
+entails
+the flight to Heraklion had turned around and fly back on Thursday morning
+
+the flight to Heraklion had turned around and fly back on Thursday morning
+permits
+the flight to Heraklion had been forced to turn around and fly back on Thursday morning
+
+the flight to Heraklion had been forced to turn around and fly back on Thursday morning
+permits
+he had turned around and fly back on Thursday morning
+
+you had forced the flight to Heraklion to turn around and fly back on Thursday morning
+entails
+the flight to Heraklion had turned around and fly back on Thursday morning
+
+the flight to Heraklion had turned around and fly back on Thursday morning
+permits
+you had forced the flight to Heraklion to turn around and fly back on Thursday morning
+
+you had forced the flight to Heraklion to turn around and fly back on Thursday morning
+permits
+the flight to Heraklion had had its rapist's baby
+
+the flight to Heraklion had been forced to turn around and fly back on Thursday morning
+contradicts
+the flight to Heraklion had n't turned around and fly back on Thursday morning
+
+the flight to Heraklion had n't turned around and fly back on Thursday morning
+contradicts
+the flight to Heraklion had been forced to turn around and fly back on Thursday morning
+
+the flight to Heraklion had been forced to turn around and fly back on Thursday morning
+permits
+you had not turned around and fly back on Thursday morning
+
+I had forced the flight to Heraklion to turn around and fly back on Thursday morning
+contradicts
+the flight to Heraklion had n't turned around and fly back on Thursday morning
+
+the flight to Heraklion had n't turned around and fly back on Thursday morning
+contradicts
+I had forced the flight to Heraklion to turn around and fly back on Thursday morning
+
+the flight to Heraklion has almost been forced to turn around and fly back on Thursday morning
+permits
+the flight to Heraklion has almost turned around and fly back on Thursday morning
+
+Tom Dumoulin has almost forced the flight to Heraklion to turn around and fly back on Thursday morning
+permits
+the flight to Heraklion has almost turned around and fly back on Thursday morning
+
+the flight to Heraklion had never been forced to turn around and fly back on Thursday morning
+permits
+the flight to Heraklion had turned around and fly back on Thursday morning
+
+the flight to Heraklion had turned around and fly back on Thursday morning
+permits
+the flight to Heraklion had never been forced to turn around and fly back on Thursday morning
+
+I had never forced the flight to Heraklion to turn around and fly back on Thursday morning
+permits
+the flight to Heraklion had turned around and fly back on Thursday morning
+
+the flight to Heraklion had turned around and fly back on Thursday morning
+permits
+I had never forced the flight to Heraklion to turn around and fly back on Thursday morning
+
+Mr Odinga was forced to change his plans
+entails
+Mr Odinga changed his plans
+
+Mr Odinga changed his plans
+permits
+Mr Odinga was forced to change his plans
+
+Mr Odinga was forced to change his plans
+permits
+Mr Odinga endured such indignities
+
+the flight to Heraklion forced Mr Odinga to change his plans
+entails
+Mr Odinga changed his plans
+
+Mr Odinga changed his plans
+permits
+the flight to Heraklion forced Mr Odinga to change his plans
+
+Mr Odinga was forced to change his plans
+contradicts
+Mr Odinga did n't change his plans
+
+Mr Odinga did n't change his plans
+contradicts
+Mr Odinga was forced to change his plans
+
+Mr Odinga was forced to change his plans
+permits
+Alabama's chief justice did not change his plans
+
+this mother forced Mr Odinga to change his plans
+contradicts
+Mr Odinga did n't change his plans
+
+Mr Odinga did n't change his plans
+contradicts
+this mother forced Mr Odinga to change his plans
+
+Mr Odinga was never forced to change his plans
+permits
+Mr Odinga did not change his plans
+
+you never forced Mr Odinga to change his plans
+permits
+Mr Odinga did not change his plans
+
+Mr Odinga has n't been forced to change his plans
+permits
+Mr Odinga has changed his plans
+
+Mr Odinga has changed his plans
+permits
+Mr Odinga has n't been forced to change his plans
+
+Tom Dumoulin has n't forced Mr Odinga to change his plans
+permits
+Mr Odinga has changed his plans
+
+Mr Odinga has changed his plans
+permits
+Tom Dumoulin has n't forced Mr Odinga to change his plans
+
+the mother has been forced to watch beheading of her son
+entails
+the mother has watched beheading of her son
+
+the mother has watched beheading of her son
+permits
+the mother has been forced to watch beheading of her son
+
+the mother has been forced to watch beheading of her son
+permits
+the mother has accepted half salaries
+
+State Department has forced the mother to watch beheading of her son
+entails
+the mother has watched beheading of her son
+
+the mother has watched beheading of her son
+permits
+State Department has forced the mother to watch beheading of her son
+
+State Department has forced the mother to watch beheading of her son
+permits
+Shaun Jurgens has watched beheading of his son
+
+the mother has been forced to watch beheading of her son
+contradicts
+the mother has not watched beheading of her son
+
+the mother has not watched beheading of her son
+contradicts
+the mother has been forced to watch beheading of her son
+
+the mother has been forced to watch beheading of her son
+permits
+the mother has not worn a badge in the form of a Yellow Star
+
+his son has forced the mother to watch beheading of her son
+contradicts
+the mother has not watched beheading of her son
+
+the mother has not watched beheading of her son
+contradicts
+his son has forced the mother to watch beheading of her son
+
+his son has forced the mother to watch beheading of her son
+permits
+Tom Dumoulin has not watched beheading of his son
+
+the mother has almost been forced to watch beheading of her son
+entails
+the mother has n't watched beheading of her son
+
+the mother has n't watched beheading of her son
+permits
+the mother has almost been forced to watch beheading of her son
+
+the mother has almost been forced to watch beheading of her son
+permits
+his son has n't watched beheading of his son
+
+his son has almost forced the mother to watch beheading of her son
+entails
+the mother has n't watched beheading of her son
+
+the mother has n't watched beheading of her son
+permits
+his son has almost forced the mother to watch beheading of her son
+
+his son has almost forced the mother to watch beheading of her son
+permits
+the mother has not made that choice
+
+the mother has not been forced to watch beheading of her son
+contradicts
+the mother has watched beheading of her son
+
+the mother has watched beheading of her son
+contradicts
+the mother has not been forced to watch beheading of her son
+
+the mother has not been forced to watch beheading of her son
+permits
+the mother has participated in the sterilization
+
+Liberté Chan has not forced the mother to watch beheading of her son
+contradicts
+the mother has watched beheading of her son
+
+the mother has watched beheading of her son
+contradicts
+Liberté Chan has not forced the mother to watch beheading of her son
+
+Liberté Chan has not forced the mother to watch beheading of her son
+permits
+the mother has closed last June after the lease expired
+
+the heavily pregnant mum was forced to sit on the waiting room floor
+entails
+the heavily pregnant mum sat on the waiting room floor
+
+the heavily pregnant mum sat on the waiting room floor
+permits
+the heavily pregnant mum was forced to sit on the waiting room floor
+
+the heavily pregnant mum was forced to sit on the waiting room floor
+permits
+Mr Odinga sat on the waiting room floor
+
+Sir Michael Caine forced the heavily pregnant mum to sit on the waiting room floor
+entails
+the heavily pregnant mum sat on the waiting room floor
+
+the heavily pregnant mum sat on the waiting room floor
+permits
+Sir Michael Caine forced the heavily pregnant mum to sit on the waiting room floor
+
+the heavily pregnant mum was forced to sit on the waiting room floor
+contradicts
+the heavily pregnant mum did not sit on the waiting room floor
+
+the heavily pregnant mum did not sit on the waiting room floor
+contradicts
+the heavily pregnant mum was forced to sit on the waiting room floor
+
+the heavily pregnant mum was forced to sit on the waiting room floor
+permits
+Tom Dumoulin did not sit on the waiting room floor
+
+this mother forced the heavily pregnant mum to sit on the waiting room floor
+contradicts
+the heavily pregnant mum did not sit on the waiting room floor
+
+the heavily pregnant mum did not sit on the waiting room floor
+contradicts
+this mother forced the heavily pregnant mum to sit on the waiting room floor
+
+the heavily pregnant mum was n't forced to sit on the waiting room floor
+permits
+the heavily pregnant mum did n't sit on the waiting room floor
+
+this mother did n't force the heavily pregnant mum to sit on the waiting room floor
+permits
+the heavily pregnant mum did n't sit on the waiting room floor
+
+the heavily pregnant mum has not been forced to sit on the waiting room floor
+permits
+the heavily pregnant mum has sat on the waiting room floor
+
+the heavily pregnant mum has sat on the waiting room floor
+permits
+the heavily pregnant mum has not been forced to sit on the waiting room floor
+
+Alabama's chief justice has not forced the heavily pregnant mum to sit on the waiting room floor
+permits
+the heavily pregnant mum has sat on the waiting room floor
+
+the heavily pregnant mum has sat on the waiting room floor
+permits
+Alabama's chief justice has not forced the heavily pregnant mum to sit on the waiting room floor
+
+you had been forced to learn to write a simple declarative sentence
+entails
+you had learnt to write a simple declarative sentence
+
+you had learnt to write a simple declarative sentence
+permits
+you had been forced to learn to write a simple declarative sentence
+
+you had been forced to learn to write a simple declarative sentence
+permits
+you had done it
+
+Mr Odinga had forced you to learn to write a simple declarative sentence
+entails
+you had learnt to write a simple declarative sentence
+
+you had learnt to write a simple declarative sentence
+permits
+Mr Odinga had forced you to learn to write a simple declarative sentence
+
+Mr Odinga had forced you to learn to write a simple declarative sentence
+permits
+you had moved to the free speech zone
+
+you had been forced to learn to write a simple declarative sentence
+contradicts
+you had not learnt to write a simple declarative sentence
+
+you had not learnt to write a simple declarative sentence
+contradicts
+you had been forced to learn to write a simple declarative sentence
+
+you had been forced to learn to write a simple declarative sentence
+permits
+you had n't converted into Islam
+
+this mother had forced you to learn to write a simple declarative sentence
+contradicts
+you had not learnt to write a simple declarative sentence
+
+you had not learnt to write a simple declarative sentence
+contradicts
+this mother had forced you to learn to write a simple declarative sentence
+
+you were almost forced to learn to write a simple declarative sentence
+permits
+you almost learnt to write a simple declarative sentence
+
+the mother almost forced you to learn to write a simple declarative sentence
+permits
+you almost learnt to write a simple declarative sentence
+
+you were almost forced to learn to write a simple declarative sentence
+permits
+you learnt to write a simple declarative sentence
+
+you learnt to write a simple declarative sentence
+permits
+you were almost forced to learn to write a simple declarative sentence
+
+his son almost forced you to learn to write a simple declarative sentence
+permits
+you learnt to write a simple declarative sentence
+
+you learnt to write a simple declarative sentence
+permits
+his son almost forced you to learn to write a simple declarative sentence
+
+you had been forced to make an unpopular decision
+entails
+you had made an unpopular decision
+
+you had made an unpopular decision
+permits
+you had been forced to make an unpopular decision
+
+you had been forced to make an unpopular decision
+permits
+she had made an unpopular decision
+
+Liberté Chan had forced you to make an unpopular decision
+entails
+you had made an unpopular decision
+
+you had made an unpopular decision
+permits
+Liberté Chan had forced you to make an unpopular decision
+
+you have been forced to make an unpopular decision
+contradicts
+you have n't made an unpopular decision
+
+you have n't made an unpopular decision
+contradicts
+you have been forced to make an unpopular decision
+
+Liberté Chan have forced you to make an unpopular decision
+contradicts
+you have n't made an unpopular decision
+
+you have n't made an unpopular decision
+contradicts
+Liberté Chan have forced you to make an unpopular decision
+
+Liberté Chan have forced you to make an unpopular decision
+permits
+you have not closed last June after the lease expired
+
+you had almost been forced to make an unpopular decision
+permits
+you had not made an unpopular decision
+
+his son had almost forced you to make an unpopular decision
+permits
+you had not made an unpopular decision
+
+you had never been forced to make an unpopular decision
+permits
+you had made an unpopular decision
+
+you had made an unpopular decision
+permits
+you had never been forced to make an unpopular decision
+
+it had never forced you to make an unpopular decision
+permits
+you had made an unpopular decision
+
+you had made an unpopular decision
+permits
+it had never forced you to make an unpopular decision
+
+this mother had been forced to keep paying off her son's student loans
+entails
+this mother had kept paying off her son's student loans
+
+this mother had kept paying off her son's student loans
+permits
+this mother had been forced to keep paying off her son's student loans
+
+his son had forced this mother to keep paying off her son's student loans
+entails
+this mother had kept paying off her son's student loans
+
+this mother had kept paying off her son's student loans
+permits
+his son had forced this mother to keep paying off her son's student loans
+
+his son had forced this mother to keep paying off her son's student loans
+permits
+this mother had stayed in an unhappy marriage
+
+this mother has been forced to keep paying off her son's student loans
+contradicts
+this mother has n't kept paying off her son's student loans
+
+this mother has n't kept paying off her son's student loans
+contradicts
+this mother has been forced to keep paying off her son's student loans
+
+it has forced this mother to keep paying off her son's student loans
+contradicts
+this mother has n't kept paying off her son's student loans
+
+this mother has n't kept paying off her son's student loans
+contradicts
+it has forced this mother to keep paying off her son's student loans
+
+it has forced this mother to keep paying off her son's student loans
+permits
+Tom Dumoulin has not kept paying off his son's student loans
+
+this mother had not been forced to keep paying off her son's student loans
+entails
+this mother had not kept paying off her son's student loans
+
+this mother had not kept paying off her son's student loans
+permits
+this mother had not been forced to keep paying off her son's student loans
+
+you had not forced this mother to keep paying off her son's student loans
+entails
+this mother had not kept paying off her son's student loans
+
+this mother had not kept paying off her son's student loans
+permits
+you had not forced this mother to keep paying off her son's student loans
+
+you had not forced this mother to keep paying off her son's student loans
+permits
+this mother had not stayed in an unhappy marriage
+
+this mother has almost been forced to keep paying off her son's student loans
+contradicts
+this mother has kept paying off her son's student loans
+
+this mother has kept paying off her son's student loans
+contradicts
+this mother has almost been forced to keep paying off her son's student loans
+
+State Department has almost forced this mother to keep paying off her son's student loans
+contradicts
+this mother has kept paying off her son's student loans
+
+this mother has kept paying off her son's student loans
+contradicts
+State Department has almost forced this mother to keep paying off her son's student loans
+
+Alabama's chief justice was forced to step down
+entails
+Alabama's chief justice stepped down
+
+Alabama's chief justice stepped down
+permits
+Alabama's chief justice was forced to step down
+
+Alabama's chief justice was forced to step down
+permits
+Alabama's chief justice returned the gifts
+
+his son forced Alabama's chief justice to step down
+entails
+Alabama's chief justice stepped down
+
+Alabama's chief justice stepped down
+permits
+his son forced Alabama's chief justice to step down
+
+his son forced Alabama's chief justice to step down
+permits
+Alabama's chief justice did it
+
+Alabama's chief justice had been forced to step down
+contradicts
+Alabama's chief justice had not stepped down
+
+Alabama's chief justice had not stepped down
+contradicts
+Alabama's chief justice had been forced to step down
+
+I had forced Alabama's chief justice to step down
+contradicts
+Alabama's chief justice had not stepped down
+
+Alabama's chief justice had not stepped down
+contradicts
+I had forced Alabama's chief justice to step down
+
+I had forced Alabama's chief justice to step down
+permits
+Alabama's chief justice had not accelerated his schedules
+
+Alabama's chief justice had never been forced to step down
+entails
+Alabama's chief justice had not stepped down
+
+Alabama's chief justice had not stepped down
+permits
+Alabama's chief justice had never been forced to step down
+
+Alabama's chief justice had never been forced to step down
+permits
+you had not stepped down
+
+Mr Odinga had never forced Alabama's chief justice to step down
+entails
+Alabama's chief justice had not stepped down
+
+Alabama's chief justice had not stepped down
+permits
+Mr Odinga had never forced Alabama's chief justice to step down
+
+Mr Odinga had never forced Alabama's chief justice to step down
+permits
+Alabama's chief justice had not used heroin as well
+
+Alabama's chief justice was n't forced to step down
+contradicts
+Alabama's chief justice stepped down
+
+Alabama's chief justice stepped down
+contradicts
+Alabama's chief justice was n't forced to step down
+
+the flight to Heraklion did n't force Alabama's chief justice to step down
+contradicts
+Alabama's chief justice stepped down
+
+Alabama's chief justice stepped down
+contradicts
+the flight to Heraklion did n't force Alabama's chief justice to step down
+
+the flight to Heraklion did n't force Alabama's chief justice to step down
+permits
+Alabama's chief justice kept paying off his son's student loans
+
+Liberté Chan had been forced to cover up mid-forecast
+entails
+Liberté Chan had covered up mid-forecast
+
+Liberté Chan had covered up mid-forecast
+permits
+Liberté Chan had been forced to cover up mid-forecast
+
+the heavily pregnant mum had forced Liberté Chan to cover up mid-forecast
+entails
+Liberté Chan had covered up mid-forecast
+
+Liberté Chan had covered up mid-forecast
+permits
+the heavily pregnant mum had forced Liberté Chan to cover up mid-forecast
+
+Liberté Chan had been forced to cover up mid-forecast
+contradicts
+Liberté Chan had n't covered up mid-forecast
+
+Liberté Chan had n't covered up mid-forecast
+contradicts
+Liberté Chan had been forced to cover up mid-forecast
+
+this mother had forced Liberté Chan to cover up mid-forecast
+contradicts
+Liberté Chan had n't covered up mid-forecast
+
+Liberté Chan had n't covered up mid-forecast
+contradicts
+this mother had forced Liberté Chan to cover up mid-forecast
+
+Liberté Chan has never been forced to cover up mid-forecast
+entails
+Liberté Chan has n't covered up mid-forecast
+
+Liberté Chan has n't covered up mid-forecast
+permits
+Liberté Chan has never been forced to cover up mid-forecast
+
+Liberté Chan has never been forced to cover up mid-forecast
+permits
+Liberté Chan has never learnt to write a simple declarative sentence
+
+it has never forced Liberté Chan to cover up mid-forecast
+entails
+Liberté Chan has n't covered up mid-forecast
+
+Liberté Chan has n't covered up mid-forecast
+permits
+it has never forced Liberté Chan to cover up mid-forecast
+
+it has never forced Liberté Chan to cover up mid-forecast
+permits
+Liberté Chan has never changed her votes in a Dallas County child sex trial
+
+Liberté Chan was almost forced to cover up mid-forecast
+contradicts
+Liberté Chan covered up mid-forecast
+
+Liberté Chan covered up mid-forecast
+contradicts
+Liberté Chan was almost forced to cover up mid-forecast
+
+Tom Dumoulin almost forced Liberté Chan to cover up mid-forecast
+contradicts
+Liberté Chan covered up mid-forecast
+
+Liberté Chan covered up mid-forecast
+contradicts
+Tom Dumoulin almost forced Liberté Chan to cover up mid-forecast
+
+we were forced to accept half salaries
+entails
+we accepted half salaries
+
+we accepted half salaries
+permits
+we were forced to accept half salaries
+
+the New England men forced us to accept half salaries
+entails
+we accepted half salaries
+
+we accepted half salaries
+permits
+the New England men forced us to accept half salaries
+
+the New England men forced us to accept half salaries
+permits
+the Scots accepted half salaries
+
+we were forced to accept half salaries
+contradicts
+we did not accept half salaries
+
+we did not accept half salaries
+contradicts
+we were forced to accept half salaries
+
+Bay Area communities forced us to accept half salaries
+contradicts
+we did not accept half salaries
+
+we did not accept half salaries
+contradicts
+Bay Area communities forced us to accept half salaries
+
+Bay Area communities forced us to accept half salaries
+permits
+Coal Miners in Romney TV ads did n't accept half salaries
+
+we had almost been forced to accept half salaries
+entails
+we had n't accepted half salaries
+
+we had n't accepted half salaries
+permits
+we had almost been forced to accept half salaries
+
+we had almost been forced to accept half salaries
+permits
+we had almost changed our plans
+
+Haganah and IDF commanders had almost forced us to accept half salaries
+entails
+we had n't accepted half salaries
+
+we had n't accepted half salaries
+permits
+Haganah and IDF commanders had almost forced us to accept half salaries
+
+we have not been forced to accept half salaries
+contradicts
+we have accepted half salaries
+
+we have accepted half salaries
+contradicts
+we have not been forced to accept half salaries
+
+we have not been forced to accept half salaries
+permits
+they have accepted half salaries
+
+the people of the area have not forced us to accept half salaries
+contradicts
+we have accepted half salaries
+
+we have accepted half salaries
+contradicts
+the people of the area have not forced us to accept half salaries
+
+the people of the area have not forced us to accept half salaries
+permits
+we have accepted Islam at the point of a sword
+
+the dead were forced to endure such indignities
+entails
+the dead endured such indignities
+
+the dead endured such indignities
+permits
+the dead were forced to endure such indignities
+
+Africans forced the dead to endure such indignities
+entails
+the dead endured such indignities
+
+the dead endured such indignities
+permits
+Africans forced the dead to endure such indignities
+
+the dead were forced to endure such indignities
+contradicts
+the dead did n't endure such indignities
+
+the dead did n't endure such indignities
+contradicts
+the dead were forced to endure such indignities
+
+these businesses forced the dead to endure such indignities
+contradicts
+the dead did n't endure such indignities
+
+the dead did n't endure such indignities
+contradicts
+these businesses forced the dead to endure such indignities
+
+these businesses forced the dead to endure such indignities
+permits
+the dead did not resign after using a Taser and pepper spray
+
+the dead were never forced to endure such indignities
+permits
+the dead did not endure such indignities
+
+Jews never forced the dead to endure such indignities
+permits
+the dead did not endure such indignities
+
+the dead were not forced to endure such indignities
+permits
+the dead endured such indignities
+
+the dead endured such indignities
+permits
+the dead were not forced to endure such indignities
+
+prisoners did not force the dead to endure such indignities
+permits
+the dead endured such indignities
+
+the dead endured such indignities
+permits
+prisoners did not force the dead to endure such indignities
+
+they have been forced to provide sexual favors to a husband
+entails
+they have provided sexual favors to a husband
+
+they have provided sexual favors to a husband
+permits
+they have been forced to provide sexual favors to a husband
+
+they have been forced to provide sexual favors to a husband
+permits
+German doctors have provided sexual favors to a husband
+
+the dead have forced them to provide sexual favors to a husband
+entails
+they have provided sexual favors to a husband
+
+they have provided sexual favors to a husband
+permits
+the dead have forced them to provide sexual favors to a husband
+
+they had been forced to provide sexual favors to a husband
+contradicts
+they had n't provided sexual favors to a husband
+
+they had n't provided sexual favors to a husband
+contradicts
+they had been forced to provide sexual favors to a husband
+
+Bay Area communities had forced them to provide sexual favors to a husband
+contradicts
+they had n't provided sexual favors to a husband
+
+they had n't provided sexual favors to a husband
+contradicts
+Bay Area communities had forced them to provide sexual favors to a husband
+
+they have n't been forced to provide sexual favors to a husband
+entails
+they have not provided sexual favors to a husband
+
+they have not provided sexual favors to a husband
+permits
+they have n't been forced to provide sexual favors to a husband
+
+they have n't been forced to provide sexual favors to a husband
+permits
+Haganah and IDF commanders have n't provided sexual favors to a husband
+
+the New England men have n't forced them to provide sexual favors to a husband
+entails
+they have not provided sexual favors to a husband
+
+they have not provided sexual favors to a husband
+permits
+the New England men have n't forced them to provide sexual favors to a husband
+
+they have n't been forced to provide sexual favors to a husband
+contradicts
+they have provided sexual favors to a husband
+
+they have provided sexual favors to a husband
+contradicts
+they have n't been forced to provide sexual favors to a husband
+
+the people of the area have n't forced them to provide sexual favors to a husband
+contradicts
+they have provided sexual favors to a husband
+
+they have provided sexual favors to a husband
+contradicts
+the people of the area have n't forced them to provide sexual favors to a husband
+
+the people of the area have n't forced them to provide sexual favors to a husband
+permits
+the dead have provided sexual favors to a husband
+
+the commercial banks have been forced to accommodate the holding of government bonds
+entails
+the commercial banks have accommodated the holding of government bonds
+
+the commercial banks have accommodated the holding of government bonds
+permits
+the commercial banks have been forced to accommodate the holding of government bonds
+
+Africans have forced the commercial banks to accommodate the holding of government bonds
+entails
+the commercial banks have accommodated the holding of government bonds
+
+the commercial banks have accommodated the holding of government bonds
+permits
+Africans have forced the commercial banks to accommodate the holding of government bonds
+
+the commercial banks had been forced to accommodate the holding of government bonds
+contradicts
+the commercial banks had n't accommodated the holding of government bonds
+
+the commercial banks had n't accommodated the holding of government bonds
+contradicts
+the commercial banks had been forced to accommodate the holding of government bonds
+
+Haganah and IDF commanders had forced the commercial banks to accommodate the holding of government bonds
+contradicts
+the commercial banks had n't accommodated the holding of government bonds
+
+the commercial banks had n't accommodated the holding of government bonds
+contradicts
+Haganah and IDF commanders had forced the commercial banks to accommodate the holding of government bonds
+
+Haganah and IDF commanders had forced the commercial banks to accommodate the holding of government bonds
+permits
+the commercial banks had n't abandoned Tour de France after a crash
+
+the commercial banks have almost been forced to accommodate the holding of government bonds
+permits
+the commercial banks have almost accommodated the holding of government bonds
+
+Haganah and IDF commanders have almost forced the commercial banks to accommodate the holding of government bonds
+permits
+the commercial banks have almost accommodated the holding of government bonds
+
+the commercial banks were not forced to accommodate the holding of government bonds
+permits
+the commercial banks accommodated the holding of government bonds
+
+the commercial banks accommodated the holding of government bonds
+permits
+the commercial banks were not forced to accommodate the holding of government bonds
+
+German doctors did not force the commercial banks to accommodate the holding of government bonds
+permits
+the commercial banks accommodated the holding of government bonds
+
+the commercial banks accommodated the holding of government bonds
+permits
+German doctors did not force the commercial banks to accommodate the holding of government bonds
+
+Bay Area communities had been forced to become absorbed into San Francisco
+entails
+Bay Area communities had become absorbed into San Francisco
+
+Bay Area communities had become absorbed into San Francisco
+permits
+Bay Area communities had been forced to become absorbed into San Francisco
+
+children had forced Bay Area communities to become absorbed into San Francisco
+entails
+Bay Area communities had become absorbed into San Francisco
+
+Bay Area communities had become absorbed into San Francisco
+permits
+children had forced Bay Area communities to become absorbed into San Francisco
+
+Bay Area communities have been forced to become absorbed into San Francisco
+contradicts
+Bay Area communities have not become absorbed into San Francisco
+
+Bay Area communities have not become absorbed into San Francisco
+contradicts
+Bay Area communities have been forced to become absorbed into San Francisco
+
+Bay Area communities have been forced to become absorbed into San Francisco
+permits
+Bay Area communities have not covered up mid-forecast
+
+he and others have forced Bay Area communities to become absorbed into San Francisco
+contradicts
+Bay Area communities have not become absorbed into San Francisco
+
+Bay Area communities have not become absorbed into San Francisco
+contradicts
+he and others have forced Bay Area communities to become absorbed into San Francisco
+
+he and others have forced Bay Area communities to become absorbed into San Francisco
+permits
+Bay Area communities have not turned around and fly back on Thursday morning
+
+Bay Area communities had never been forced to become absorbed into San Francisco
+entails
+Bay Area communities had never become absorbed into San Francisco
+
+Bay Area communities had never become absorbed into San Francisco
+permits
+Bay Area communities had never been forced to become absorbed into San Francisco
+
+the people of the area had never forced Bay Area communities to become absorbed into San Francisco
+entails
+Bay Area communities had never become absorbed into San Francisco
+
+Bay Area communities had never become absorbed into San Francisco
+permits
+the people of the area had never forced Bay Area communities to become absorbed into San Francisco
+
+the people of the area had never forced Bay Area communities to become absorbed into San Francisco
+permits
+female students had n't become absorbed into San Francisco
+
+Bay Area communities were never forced to become absorbed into San Francisco
+contradicts
+Bay Area communities became absorbed into San Francisco
+
+Bay Area communities became absorbed into San Francisco
+contradicts
+Bay Area communities were never forced to become absorbed into San Francisco
+
+Bay Area communities were never forced to become absorbed into San Francisco
+permits
+Bay Area communities participated in the sterilization
+
+female students never forced Bay Area communities to become absorbed into San Francisco
+contradicts
+Bay Area communities became absorbed into San Francisco
+
+Bay Area communities became absorbed into San Francisco
+contradicts
+female students never forced Bay Area communities to become absorbed into San Francisco
+
+Haganah and IDF commanders had been forced to confront the moral dilemma posed by expulsion
+entails
+Haganah and IDF commanders had confronted the moral dilemma posed by expulsion
+
+Haganah and IDF commanders had confronted the moral dilemma posed by expulsion
+permits
+Haganah and IDF commanders had been forced to confront the moral dilemma posed by expulsion
+
+the Scots had forced Haganah and IDF commanders to confront the moral dilemma posed by expulsion
+entails
+Haganah and IDF commanders had confronted the moral dilemma posed by expulsion
+
+Haganah and IDF commanders had confronted the moral dilemma posed by expulsion
+permits
+the Scots had forced Haganah and IDF commanders to confront the moral dilemma posed by expulsion
+
+Haganah and IDF commanders have been forced to confront the moral dilemma posed by expulsion
+contradicts
+Haganah and IDF commanders have n't confronted the moral dilemma posed by expulsion
+
+Haganah and IDF commanders have n't confronted the moral dilemma posed by expulsion
+contradicts
+Haganah and IDF commanders have been forced to confront the moral dilemma posed by expulsion
+
+Haganah and IDF commanders have been forced to confront the moral dilemma posed by expulsion
+permits
+Haganah and IDF commanders have not worked in poorhouses
+
+the Bosnians have forced Haganah and IDF commanders to confront the moral dilemma posed by expulsion
+contradicts
+Haganah and IDF commanders have n't confronted the moral dilemma posed by expulsion
+
+Haganah and IDF commanders have n't confronted the moral dilemma posed by expulsion
+contradicts
+the Bosnians have forced Haganah and IDF commanders to confront the moral dilemma posed by expulsion
+
+the Bosnians have forced Haganah and IDF commanders to confront the moral dilemma posed by expulsion
+permits
+Africans have not confronted the moral dilemma posed by expulsion
+
+Haganah and IDF commanders have never been forced to confront the moral dilemma posed by expulsion
+permits
+Haganah and IDF commanders have n't confronted the moral dilemma posed by expulsion
+
+the Scots have never forced Haganah and IDF commanders to confront the moral dilemma posed by expulsion
+permits
+Haganah and IDF commanders have n't confronted the moral dilemma posed by expulsion
+
+Haganah and IDF commanders were n't forced to confront the moral dilemma posed by expulsion
+permits
+Haganah and IDF commanders confronted the moral dilemma posed by expulsion
+
+Haganah and IDF commanders confronted the moral dilemma posed by expulsion
+permits
+Haganah and IDF commanders were n't forced to confront the moral dilemma posed by expulsion
+
+the New England men did n't force Haganah and IDF commanders to confront the moral dilemma posed by expulsion
+permits
+Haganah and IDF commanders confronted the moral dilemma posed by expulsion
+
+Haganah and IDF commanders confronted the moral dilemma posed by expulsion
+permits
+the New England men did n't force Haganah and IDF commanders to confront the moral dilemma posed by expulsion
+
+the Clintons have been forced to return the gifts
+entails
+the Clintons have returned the gifts
+
+the Clintons have returned the gifts
+permits
+the Clintons have been forced to return the gifts
+
+the Clintons have been forced to return the gifts
+permits
+these businesses have returned the gifts
+
+inmates have forced the Clintons to return the gifts
+entails
+the Clintons have returned the gifts
+
+the Clintons have returned the gifts
+permits
+inmates have forced the Clintons to return the gifts
+
+the Clintons had been forced to return the gifts
+contradicts
+the Clintons had not returned the gifts
+
+the Clintons had not returned the gifts
+contradicts
+the Clintons had been forced to return the gifts
+
+Coal Miners in Romney TV ads had forced the Clintons to return the gifts
+contradicts
+the Clintons had not returned the gifts
+
+the Clintons had not returned the gifts
+contradicts
+Coal Miners in Romney TV ads had forced the Clintons to return the gifts
+
+Coal Miners in Romney TV ads had forced the Clintons to return the gifts
+permits
+the Clintons had not converted into Islam
+
+the Clintons never were forced to return the gifts
+permits
+the Clintons never returned the gifts
+
+Bay Area communities never forced the Clintons to return the gifts
+permits
+the Clintons never returned the gifts
+
+the Clintons had not been forced to return the gifts
+permits
+the Clintons had returned the gifts
+
+the Clintons had returned the gifts
+permits
+the Clintons had not been forced to return the gifts
+
+Bay Area communities had not forced the Clintons to return the gifts
+permits
+the Clintons had returned the gifts
+
+the Clintons had returned the gifts
+permits
+Bay Area communities had not forced the Clintons to return the gifts
+
+the Bosnians had been forced to convert into Islam
+entails
+the Bosnians had converted into Islam
+
+the Bosnians had converted into Islam
+permits
+the Bosnians had been forced to convert into Islam
+
+the Bosnians had been forced to convert into Islam
+permits
+the Bosnians had watched beheading of their son
+
+children had forced the Bosnians to convert into Islam
+entails
+the Bosnians had converted into Islam
+
+the Bosnians had converted into Islam
+permits
+children had forced the Bosnians to convert into Islam
+
+the Bosnians were forced to convert into Islam
+contradicts
+the Bosnians did n't convert into Islam
+
+the Bosnians did n't convert into Islam
+contradicts
+the Bosnians were forced to convert into Islam
+
+the Bosnians were forced to convert into Islam
+permits
+the Bosnians did not participate in the wedding ceremony
+
+Jews forced the Bosnians to convert into Islam
+contradicts
+the Bosnians did n't convert into Islam
+
+the Bosnians did n't convert into Islam
+contradicts
+Jews forced the Bosnians to convert into Islam
+
+the Bosnians were almost forced to convert into Islam
+permits
+the Bosnians almost converted into Islam
+
+we almost forced the Bosnians to convert into Islam
+permits
+the Bosnians almost converted into Islam
+
+the Bosnians had not been forced to convert into Islam
+permits
+the Bosnians had converted into Islam
+
+the Bosnians had converted into Islam
+permits
+the Bosnians had not been forced to convert into Islam
+
+Haganah and IDF commanders had not forced the Bosnians to convert into Islam
+permits
+the Bosnians had converted into Islam
+
+the Bosnians had converted into Islam
+permits
+Haganah and IDF commanders had not forced the Bosnians to convert into Islam
+
+the New England men had been forced to drink liberty tea
+entails
+the New England men had drunk liberty tea
+
+the New England men had drunk liberty tea
+permits
+the New England men had been forced to drink liberty tea
+
+the New England men had been forced to drink liberty tea
+permits
+the New England men had moved to the free speech zone
+
+female students had forced the New England men to drink liberty tea
+entails
+the New England men had drunk liberty tea
+
+the New England men had drunk liberty tea
+permits
+female students had forced the New England men to drink liberty tea
+
+female students had forced the New England men to drink liberty tea
+permits
+Coal Miners in Romney TV ads had drunk liberty tea
+
+the New England men had been forced to drink liberty tea
+contradicts
+the New England men had not drunk liberty tea
+
+the New England men had not drunk liberty tea
+contradicts
+the New England men had been forced to drink liberty tea
+
+Coal Miners in Romney TV ads had forced the New England men to drink liberty tea
+contradicts
+the New England men had not drunk liberty tea
+
+the New England men had not drunk liberty tea
+contradicts
+Coal Miners in Romney TV ads had forced the New England men to drink liberty tea
+
+Coal Miners in Romney TV ads had forced the New England men to drink liberty tea
+permits
+the New England men had not used heroin as well
+
+the New England men were never forced to drink liberty tea
+entails
+the New England men never drank liberty tea
+
+the New England men never drank liberty tea
+permits
+the New England men were never forced to drink liberty tea
+
+the New England men were never forced to drink liberty tea
+permits
+Haganah and IDF commanders did not drink liberty tea
+
+Africans never forced the New England men to drink liberty tea
+entails
+the New England men never drank liberty tea
+
+the New England men never drank liberty tea
+permits
+Africans never forced the New England men to drink liberty tea
+
+the New England men had almost been forced to drink liberty tea
+contradicts
+the New England men had drunk liberty tea
+
+the New England men had drunk liberty tea
+contradicts
+the New England men had almost been forced to drink liberty tea
+
+Africans had almost forced the New England men to drink liberty tea
+contradicts
+the New England men had drunk liberty tea
+
+the New England men had drunk liberty tea
+contradicts
+Africans had almost forced the New England men to drink liberty tea
+
+the people of the area had been forced to believe in Islam
+entails
+the people of the area had believed in Islam
+
+the people of the area had believed in Islam
+permits
+the people of the area had been forced to believe in Islam
+
+the people of the area had been forced to believe in Islam
+permits
+the people of the area had kept paying off their son's student loans
+
+Africans had forced the people of the area to believe in Islam
+entails
+the people of the area had believed in Islam
+
+the people of the area had believed in Islam
+permits
+Africans had forced the people of the area to believe in Islam
+
+the people of the area have been forced to believe in Islam
+contradicts
+the people of the area have not believed in Islam
+
+the people of the area have not believed in Islam
+contradicts
+the people of the area have been forced to believe in Islam
+
+the people of the area have been forced to believe in Islam
+permits
+the people of the area have n't returned the gifts
+
+he and others have forced the people of the area to believe in Islam
+contradicts
+the people of the area have not believed in Islam
+
+the people of the area have not believed in Islam
+contradicts
+he and others have forced the people of the area to believe in Islam
+
+the people of the area had never been forced to believe in Islam
+permits
+the people of the area had never believed in Islam
+
+Africans had never forced the people of the area to believe in Islam
+permits
+the people of the area had never believed in Islam
+
+the people of the area were n't forced to believe in Islam
+permits
+the people of the area believed in Islam
+
+the people of the area believed in Islam
+permits
+the people of the area were n't forced to believe in Islam
+
+inmates did n't force the people of the area to believe in Islam
+permits
+the people of the area believed in Islam
+
+the people of the area believed in Islam
+permits
+inmates did n't force the people of the area to believe in Islam
+
+these businesses were forced to participate in the wedding ceremony
+entails
+these businesses participated in the wedding ceremony
+
+these businesses participated in the wedding ceremony
+permits
+these businesses were forced to participate in the wedding ceremony
+
+these businesses were forced to participate in the wedding ceremony
+permits
+prisoners participated in the wedding ceremony
+
+children forced these businesses to participate in the wedding ceremony
+entails
+these businesses participated in the wedding ceremony
+
+these businesses participated in the wedding ceremony
+permits
+children forced these businesses to participate in the wedding ceremony
+
+these businesses have been forced to participate in the wedding ceremony
+contradicts
+these businesses have not participated in the wedding ceremony
+
+these businesses have not participated in the wedding ceremony
+contradicts
+these businesses have been forced to participate in the wedding ceremony
+
+these businesses have been forced to participate in the wedding ceremony
+permits
+the dead have not participated in the wedding ceremony
+
+Jews have forced these businesses to participate in the wedding ceremony
+contradicts
+these businesses have not participated in the wedding ceremony
+
+these businesses have not participated in the wedding ceremony
+contradicts
+Jews have forced these businesses to participate in the wedding ceremony
+
+these businesses have almost been forced to participate in the wedding ceremony
+permits
+these businesses have not participated in the wedding ceremony
+
+the Jews have almost forced these businesses to participate in the wedding ceremony
+permits
+these businesses have not participated in the wedding ceremony
+
+these businesses were almost forced to participate in the wedding ceremony
+permits
+these businesses participated in the wedding ceremony
+
+these businesses participated in the wedding ceremony
+permits
+these businesses were almost forced to participate in the wedding ceremony
+
+German doctors almost forced these businesses to participate in the wedding ceremony
+permits
+these businesses participated in the wedding ceremony
+
+these businesses participated in the wedding ceremony
+permits
+German doctors almost forced these businesses to participate in the wedding ceremony
+
+inmates have been forced to work in poorhouses
+entails
+inmates have worked in poorhouses
+
+inmates have worked in poorhouses
+permits
+inmates have been forced to work in poorhouses
+
+the Jews have forced inmates to work in poorhouses
+entails
+inmates have worked in poorhouses
+
+inmates have worked in poorhouses
+permits
+the Jews have forced inmates to work in poorhouses
+
+inmates had been forced to work in poorhouses
+contradicts
+inmates had n't worked in poorhouses
+
+inmates had n't worked in poorhouses
+contradicts
+inmates had been forced to work in poorhouses
+
+inmates had been forced to work in poorhouses
+permits
+inmates had not made the journey under terrible conditions
+
+the students had forced inmates to work in poorhouses
+contradicts
+inmates had n't worked in poorhouses
+
+inmates had n't worked in poorhouses
+contradicts
+the students had forced inmates to work in poorhouses
+
+inmates were not forced to work in poorhouses
+permits
+inmates did not work in poorhouses
+
+the commercial banks did not force inmates to work in poorhouses
+permits
+inmates did not work in poorhouses
+
+inmates had never been forced to work in poorhouses
+permits
+inmates had worked in poorhouses
+
+inmates had worked in poorhouses
+permits
+inmates had never been forced to work in poorhouses
+
+the commercial banks had never forced inmates to work in poorhouses
+permits
+inmates had worked in poorhouses
+
+inmates had worked in poorhouses
+permits
+the commercial banks had never forced inmates to work in poorhouses
+
+they were forced to make that choice
+entails
+they made that choice
+
+they made that choice
+permits
+they were forced to make that choice
+
+the dead forced them to make that choice
+entails
+they made that choice
+
+they made that choice
+permits
+the dead forced them to make that choice
+
+the dead forced them to make that choice
+permits
+Haganah and IDF commanders made that choice
+
+they were forced to make that choice
+contradicts
+they did n't make that choice
+
+they did n't make that choice
+contradicts
+they were forced to make that choice
+
+Coal Miners in Romney TV ads forced them to make that choice
+contradicts
+they did n't make that choice
+
+they did n't make that choice
+contradicts
+Coal Miners in Romney TV ads forced them to make that choice
+
+Coal Miners in Romney TV ads forced them to make that choice
+permits
+the New England men did n't make that choice
+
+they were not forced to make that choice
+entails
+they did n't make that choice
+
+they did n't make that choice
+permits
+they were not forced to make that choice
+
+they were not forced to make that choice
+permits
+these businesses did n't make that choice
+
+children did not force them to make that choice
+entails
+they did n't make that choice
+
+they did n't make that choice
+permits
+children did not force them to make that choice
+
+children did not force them to make that choice
+permits
+he and others did n't make that choice
+
+they almost have been forced to make that choice
+contradicts
+they have made that choice
+
+they have made that choice
+contradicts
+they almost have been forced to make that choice
+
+these businesses almost have forced them to make that choice
+contradicts
+they have made that choice
+
+they have made that choice
+contradicts
+these businesses almost have forced them to make that choice
+
+these businesses almost have forced them to make that choice
+permits
+they have had their rapist's baby
+
+female students have been forced to engage in "lesbian kissing"
+entails
+female students have engaged in "lesbian kissing"
+
+female students have engaged in "lesbian kissing"
+permits
+female students have been forced to engage in "lesbian kissing"
+
+female students have been forced to engage in "lesbian kissing"
+permits
+female students have disabled security features to receive messages
+
+the Jews have forced female students to engage in "lesbian kissing"
+entails
+female students have engaged in "lesbian kissing"
+
+female students have engaged in "lesbian kissing"
+permits
+the Jews have forced female students to engage in "lesbian kissing"
+
+female students had been forced to engage in "lesbian kissing"
+contradicts
+female students had not engaged in "lesbian kissing"
+
+female students had not engaged in "lesbian kissing"
+contradicts
+female students had been forced to engage in "lesbian kissing"
+
+female students had been forced to engage in "lesbian kissing"
+permits
+female students had n't participated in the sterilization
+
+these businesses had forced female students to engage in "lesbian kissing"
+contradicts
+female students had not engaged in "lesbian kissing"
+
+female students had not engaged in "lesbian kissing"
+contradicts
+these businesses had forced female students to engage in "lesbian kissing"
+
+these businesses had forced female students to engage in "lesbian kissing"
+permits
+Haganah and IDF commanders had n't engaged in "lesbian kissing"
+
+female students had almost been forced to engage in "lesbian kissing"
+permits
+female students had not engaged in "lesbian kissing"
+
+the Bosnians had almost forced female students to engage in "lesbian kissing"
+permits
+female students had not engaged in "lesbian kissing"
+
+female students had not been forced to engage in "lesbian kissing"
+permits
+female students had engaged in "lesbian kissing"
+
+female students had engaged in "lesbian kissing"
+permits
+female students had not been forced to engage in "lesbian kissing"
+
+children had not forced female students to engage in "lesbian kissing"
+permits
+female students had engaged in "lesbian kissing"
+
+female students had engaged in "lesbian kissing"
+permits
+children had not forced female students to engage in "lesbian kissing"
+
+children were forced to go to the fields to pick cotton
+entails
+children went to the fields to pick cotton
+
+children went to the fields to pick cotton
+permits
+children were forced to go to the fields to pick cotton
+
+Jews forced children to go to the fields to pick cotton
+entails
+children went to the fields to pick cotton
+
+children went to the fields to pick cotton
+permits
+Jews forced children to go to the fields to pick cotton
+
+Jews forced children to go to the fields to pick cotton
+permits
+Haganah and IDF commanders went to the fields to pick cotton
+
+children had been forced to go to the fields to pick cotton
+contradicts
+children had n't gone to the fields to pick cotton
+
+children had n't gone to the fields to pick cotton
+contradicts
+children had been forced to go to the fields to pick cotton
+
+prisoners had forced children to go to the fields to pick cotton
+contradicts
+children had n't gone to the fields to pick cotton
+
+children had n't gone to the fields to pick cotton
+contradicts
+prisoners had forced children to go to the fields to pick cotton
+
+prisoners had forced children to go to the fields to pick cotton
+permits
+the Clintons had n't gone to the fields to pick cotton
+
+children have never been forced to go to the fields to pick cotton
+permits
+children have not gone to the fields to pick cotton
+
+Haganah and IDF commanders have never forced children to go to the fields to pick cotton
+permits
+children have not gone to the fields to pick cotton
+
+children have n't been forced to go to the fields to pick cotton
+permits
+children have gone to the fields to pick cotton
+
+children have gone to the fields to pick cotton
+permits
+children have n't been forced to go to the fields to pick cotton
+
+these businesses have n't forced children to go to the fields to pick cotton
+permits
+children have gone to the fields to pick cotton
+
+children have gone to the fields to pick cotton
+permits
+these businesses have n't forced children to go to the fields to pick cotton
+
+we have been forced to accept Jesus at the point of a gun
+entails
+we have accepted Jesus at the point of a gun
+
+we have accepted Jesus at the point of a gun
+permits
+we have been forced to accept Jesus at the point of a gun
+
+we have been forced to accept Jesus at the point of a gun
+permits
+Haganah and IDF commanders have accepted Jesus at the point of a gun
+
+they have forced us to accept Jesus at the point of a gun
+entails
+we have accepted Jesus at the point of a gun
+
+we have accepted Jesus at the point of a gun
+permits
+they have forced us to accept Jesus at the point of a gun
+
+we had been forced to accept Jesus at the point of a gun
+contradicts
+we had not accepted Jesus at the point of a gun
+
+we had not accepted Jesus at the point of a gun
+contradicts
+we had been forced to accept Jesus at the point of a gun
+
+the Jews had forced us to accept Jesus at the point of a gun
+contradicts
+we had not accepted Jesus at the point of a gun
+
+we had not accepted Jesus at the point of a gun
+contradicts
+the Jews had forced us to accept Jesus at the point of a gun
+
+we almost have been forced to accept Jesus at the point of a gun
+permits
+we have n't accepted Jesus at the point of a gun
+
+the Bosnians almost have forced us to accept Jesus at the point of a gun
+permits
+we have n't accepted Jesus at the point of a gun
+
+we have n't been forced to accept Jesus at the point of a gun
+permits
+we have accepted Jesus at the point of a gun
+
+we have accepted Jesus at the point of a gun
+permits
+we have n't been forced to accept Jesus at the point of a gun
+
+the people of the area have n't forced us to accept Jesus at the point of a gun
+permits
+we have accepted Jesus at the point of a gun
+
+we have accepted Jesus at the point of a gun
+permits
+the people of the area have n't forced us to accept Jesus at the point of a gun
+
+we were forced to fall back
+entails
+we fell back
+
+we fell back
+permits
+we were forced to fall back
+
+we were forced to fall back
+permits
+these businesses fell back
+
+inmates forced us to fall back
+entails
+we fell back
+
+we fell back
+permits
+inmates forced us to fall back
+
+we were forced to fall back
+contradicts
+we did not fall back
+
+we did not fall back
+contradicts
+we were forced to fall back
+
+we were forced to fall back
+permits
+these businesses did n't fall back
+
+the students forced us to fall back
+contradicts
+we did not fall back
+
+we did not fall back
+contradicts
+the students forced us to fall back
+
+the students forced us to fall back
+permits
+we did n't borrow tools from each other
+
+we had n't been forced to fall back
+permits
+we had n't fallen back
+
+Haganah and IDF commanders had n't forced us to fall back
+permits
+we had n't fallen back
+
+we have not been forced to fall back
+permits
+we have fallen back
+
+we have fallen back
+permits
+we have not been forced to fall back
+
+the Scots have not forced us to fall back
+permits
+we have fallen back
+
+we have fallen back
+permits
+the Scots have not forced us to fall back
+
+you were forced to do it
+entails
+you did it
+
+you did it
+permits
+you were forced to do it
+
+you were forced to do it
+permits
+you left everything behind
+
+the mother forced you to do it
+entails
+you did it
+
+you did it
+permits
+the mother forced you to do it
+
+the mother forced you to do it
+permits
+this mother did it
+
+you had been forced to do it
+contradicts
+you had not done it
+
+you had not done it
+contradicts
+you had been forced to do it
+
+you had been forced to do it
+permits
+you had not converted into Islam
+
+the heavily pregnant mum had forced you to do it
+contradicts
+you had not done it
+
+you had not done it
+contradicts
+the heavily pregnant mum had forced you to do it
+
+you had almost been forced to do it
+permits
+you had n't done it
+
+Shaun Jurgens had almost forced you to do it
+permits
+you had n't done it
+
+you were almost forced to do it
+permits
+you did it
+
+you did it
+permits
+you were almost forced to do it
+
+I almost forced you to do it
+permits
+you did it
+
+you did it
+permits
+I almost forced you to do it
+
+it had been forced to change its corporate tax system
+entails
+it had changed its corporate tax system
+
+it had changed its corporate tax system
+permits
+it had been forced to change its corporate tax system
+
+it had been forced to change its corporate tax system
+permits
+it had participated in the sterilization
+
+the heavily pregnant mum had forced it to change its corporate tax system
+entails
+it had changed its corporate tax system
+
+it had changed its corporate tax system
+permits
+the heavily pregnant mum had forced it to change its corporate tax system
+
+it was forced to change its corporate tax system
+contradicts
+it did n't change its corporate tax system
+
+it did n't change its corporate tax system
+contradicts
+it was forced to change its corporate tax system
+
+Sir Michael Caine forced it to change its corporate tax system
+contradicts
+it did n't change its corporate tax system
+
+it did n't change its corporate tax system
+contradicts
+Sir Michael Caine forced it to change its corporate tax system
+
+it was not forced to change its corporate tax system
+entails
+it did n't change its corporate tax system
+
+it did n't change its corporate tax system
+permits
+it was not forced to change its corporate tax system
+
+it was not forced to change its corporate tax system
+permits
+it did not cook for the man
+
+his son did not force it to change its corporate tax system
+entails
+it did n't change its corporate tax system
+
+it did n't change its corporate tax system
+permits
+his son did not force it to change its corporate tax system
+
+his son did not force it to change its corporate tax system
+permits
+it did n't change its name because of ISIS
+
+it has almost been forced to change its corporate tax system
+contradicts
+it has changed its corporate tax system
+
+it has changed its corporate tax system
+contradicts
+it has almost been forced to change its corporate tax system
+
+it has almost been forced to change its corporate tax system
+permits
+it has hit Dalits to prove that Muslims too were with cow vigilantes
+
+the heavily pregnant mum has almost forced it to change its corporate tax system
+contradicts
+it has changed its corporate tax system
+
+it has changed its corporate tax system
+contradicts
+the heavily pregnant mum has almost forced it to change its corporate tax system
+
+it has been forced to put these insights together into a formal theory
+entails
+it has put these insights together into a formal theory
+
+it has put these insights together into a formal theory
+permits
+it has been forced to put these insights together into a formal theory
+
+it has been forced to put these insights together into a formal theory
+permits
+Sir Michael Caine has put these insights together into a formal theory
+
+I has forced it to put these insights together into a formal theory
+entails
+it has put these insights together into a formal theory
+
+it has put these insights together into a formal theory
+permits
+I has forced it to put these insights together into a formal theory
+
+it was forced to put these insights together into a formal theory
+contradicts
+it did n't put these insights together into a formal theory
+
+it did n't put these insights together into a formal theory
+contradicts
+it was forced to put these insights together into a formal theory
+
+it was forced to put these insights together into a formal theory
+permits
+Liberté Chan did not put these insights together into a formal theory
+
+Liberté Chan forced it to put these insights together into a formal theory
+contradicts
+it did n't put these insights together into a formal theory
+
+it did n't put these insights together into a formal theory
+contradicts
+Liberté Chan forced it to put these insights together into a formal theory
+
+it had n't been forced to put these insights together into a formal theory
+entails
+it had not put these insights together into a formal theory
+
+it had not put these insights together into a formal theory
+permits
+it had n't been forced to put these insights together into a formal theory
+
+it had n't been forced to put these insights together into a formal theory
+permits
+Alabama's chief justice had n't put these insights together into a formal theory
+
+this mother had n't forced it to put these insights together into a formal theory
+entails
+it had not put these insights together into a formal theory
+
+it had not put these insights together into a formal theory
+permits
+this mother had n't forced it to put these insights together into a formal theory
+
+this mother had n't forced it to put these insights together into a formal theory
+permits
+it had not breastfed its baby in a bathroom
+
+it was never forced to put these insights together into a formal theory
+contradicts
+it put these insights together into a formal theory
+
+it put these insights together into a formal theory
+contradicts
+it was never forced to put these insights together into a formal theory
+
+it was never forced to put these insights together into a formal theory
+permits
+Shaun Jurgens put these insights together into a formal theory
+
+State Department never forced it to put these insights together into a formal theory
+contradicts
+it put these insights together into a formal theory
+
+it put these insights together into a formal theory
+contradicts
+State Department never forced it to put these insights together into a formal theory
+
+State Department never forced it to put these insights together into a formal theory
+permits
+it disabled security features to receive messages
+
+it had been forced to alter its rules
+entails
+it had altered its rules
+
+it had altered its rules
+permits
+it had been forced to alter its rules
+
+the heavily pregnant mum had forced it to alter its rules
+entails
+it had altered its rules
+
+it had altered its rules
+permits
+the heavily pregnant mum had forced it to alter its rules
+
+the heavily pregnant mum had forced it to alter its rules
+permits
+it had engaged in "lesbian kissing"
+
+it had been forced to alter its rules
+contradicts
+it had not altered its rules
+
+it had not altered its rules
+contradicts
+it had been forced to alter its rules
+
+the child had forced it to alter its rules
+contradicts
+it had not altered its rules
+
+it had not altered its rules
+contradicts
+the child had forced it to alter its rules
+
+it was never forced to alter its rules
+permits
+it did not alter its rules
+
+his son never forced it to alter its rules
+permits
+it did not alter its rules
+
+it was not forced to alter its rules
+permits
+it altered its rules
+
+it altered its rules
+permits
+it was not forced to alter its rules
+
+Liberté Chan did not force it to alter its rules
+permits
+it altered its rules
+
+it altered its rules
+permits
+Liberté Chan did not force it to alter its rules
+
+they were forced to borrow tools from each other
+entails
+they borrowed tools from each other
+
+they borrowed tools from each other
+permits
+they were forced to borrow tools from each other
+
+they were forced to borrow tools from each other
+permits
+they became absorbed into San Francisco
+
+the people of the area forced them to borrow tools from each other
+entails
+they borrowed tools from each other
+
+they borrowed tools from each other
+permits
+the people of the area forced them to borrow tools from each other
+
+the people of the area forced them to borrow tools from each other
+permits
+the Scots borrowed tools from each other
+
+they had been forced to borrow tools from each other
+contradicts
+they had not borrowed tools from each other
+
+they had not borrowed tools from each other
+contradicts
+they had been forced to borrow tools from each other
+
+prisoners had forced them to borrow tools from each other
+contradicts
+they had not borrowed tools from each other
+
+they had not borrowed tools from each other
+contradicts
+prisoners had forced them to borrow tools from each other
+
+they had almost been forced to borrow tools from each other
+permits
+they had n't borrowed tools from each other
+
+Africans had almost forced them to borrow tools from each other
+permits
+they had n't borrowed tools from each other
+
+they were n't forced to borrow tools from each other
+permits
+they borrowed tools from each other
+
+they borrowed tools from each other
+permits
+they were n't forced to borrow tools from each other
+
+female students did n't force them to borrow tools from each other
+permits
+they borrowed tools from each other
+
+they borrowed tools from each other
+permits
+female students did n't force them to borrow tools from each other
+
+they had been forced to leave everything behind
+entails
+they had left everything behind
+
+they had left everything behind
+permits
+they had been forced to leave everything behind
+
+we had forced them to leave everything behind
+entails
+they had left everything behind
+
+they had left everything behind
+permits
+we had forced them to leave everything behind
+
+we had forced them to leave everything behind
+permits
+they had lived for days on nothing but food and water
+
+they had been forced to leave everything behind
+contradicts
+they had not left everything behind
+
+they had not left everything behind
+contradicts
+they had been forced to leave everything behind
+
+they had been forced to leave everything behind
+permits
+they had n't accepted half salaries
+
+the Jews had forced them to leave everything behind
+contradicts
+they had not left everything behind
+
+they had not left everything behind
+contradicts
+the Jews had forced them to leave everything behind
+
+they have not been forced to leave everything behind
+entails
+they have not left everything behind
+
+they have not left everything behind
+permits
+they have not been forced to leave everything behind
+
+they have not been forced to leave everything behind
+permits
+they have not turned around and fly back on Thursday morning
+
+the commercial banks have not forced them to leave everything behind
+entails
+they have not left everything behind
+
+they have not left everything behind
+permits
+the commercial banks have not forced them to leave everything behind
+
+the commercial banks have not forced them to leave everything behind
+permits
+they have n't abandoned Tour de France after a crash
+
+they had n't been forced to leave everything behind
+contradicts
+they had left everything behind
+
+they had left everything behind
+contradicts
+they had n't been forced to leave everything behind
+
+these businesses had n't forced them to leave everything behind
+contradicts
+they had left everything behind
+
+they had left everything behind
+contradicts
+these businesses had n't forced them to leave everything behind
+
+these businesses had n't forced them to leave everything behind
+permits
+they had put these insights together into a formal theory
+
+Christians and Jews had been forced to accept Islam at the point of a sword
+entails
+Christians and Jews had accepted Islam at the point of a sword
+
+Christians and Jews had accepted Islam at the point of a sword
+permits
+Christians and Jews had been forced to accept Islam at the point of a sword
+
+Christians and Jews had been forced to accept Islam at the point of a sword
+permits
+Christians and Jews had stayed in an unhappy marriage
+
+prisoners had forced Christians and Jews to accept Islam at the point of a sword
+entails
+Christians and Jews had accepted Islam at the point of a sword
+
+Christians and Jews had accepted Islam at the point of a sword
+permits
+prisoners had forced Christians and Jews to accept Islam at the point of a sword
+
+Christians and Jews have been forced to accept Islam at the point of a sword
+contradicts
+Christians and Jews have not accepted Islam at the point of a sword
+
+Christians and Jews have not accepted Islam at the point of a sword
+contradicts
+Christians and Jews have been forced to accept Islam at the point of a sword
+
+Christians and Jews have been forced to accept Islam at the point of a sword
+permits
+we have not accepted Islam at the point of a sword
+
+prisoners have forced Christians and Jews to accept Islam at the point of a sword
+contradicts
+Christians and Jews have not accepted Islam at the point of a sword
+
+Christians and Jews have not accepted Islam at the point of a sword
+contradicts
+prisoners have forced Christians and Jews to accept Islam at the point of a sword
+
+prisoners have forced Christians and Jews to accept Islam at the point of a sword
+permits
+these businesses have n't accepted Islam at the point of a sword
+
+Christians and Jews have n't been forced to accept Islam at the point of a sword
+permits
+Christians and Jews have n't accepted Islam at the point of a sword
+
+the New England men have n't forced Christians and Jews to accept Islam at the point of a sword
+permits
+Christians and Jews have n't accepted Islam at the point of a sword
+
+Christians and Jews have n't been forced to accept Islam at the point of a sword
+permits
+Christians and Jews have accepted Islam at the point of a sword
+
+Christians and Jews have accepted Islam at the point of a sword
+permits
+Christians and Jews have n't been forced to accept Islam at the point of a sword
+
+the people of the area have n't forced Christians and Jews to accept Islam at the point of a sword
+permits
+Christians and Jews have accepted Islam at the point of a sword
+
+Christians and Jews have accepted Islam at the point of a sword
+permits
+the people of the area have n't forced Christians and Jews to accept Islam at the point of a sword
+
+the Jews had been forced to wear the "Star of David"
+entails
+the Jews had worn the "Star of David"
+
+the Jews had worn the "Star of David"
+permits
+the Jews had been forced to wear the "Star of David"
+
+we had forced the Jews to wear the "Star of David"
+entails
+the Jews had worn the "Star of David"
+
+the Jews had worn the "Star of David"
+permits
+we had forced the Jews to wear the "Star of David"
+
+the Jews have been forced to wear the "Star of David"
+contradicts
+the Jews have n't worn the "Star of David"
+
+the Jews have n't worn the "Star of David"
+contradicts
+the Jews have been forced to wear the "Star of David"
+
+Bay Area communities have forced the Jews to wear the "Star of David"
+contradicts
+the Jews have n't worn the "Star of David"
+
+the Jews have n't worn the "Star of David"
+contradicts
+Bay Area communities have forced the Jews to wear the "Star of David"
+
+Bay Area communities have forced the Jews to wear the "Star of David"
+permits
+Bay Area communities have not worn the "Star of David"
+
+the Jews were almost forced to wear the "Star of David"
+permits
+the Jews almost wore the "Star of David"
+
+Coal Miners in Romney TV ads almost forced the Jews to wear the "Star of David"
+permits
+the Jews almost wore the "Star of David"
+
+the Jews were almost forced to wear the "Star of David"
+permits
+the Jews wore the "Star of David"
+
+the Jews wore the "Star of David"
+permits
+the Jews were almost forced to wear the "Star of David"
+
+female students almost forced the Jews to wear the "Star of David"
+permits
+the Jews wore the "Star of David"
+
+the Jews wore the "Star of David"
+permits
+female students almost forced the Jews to wear the "Star of David"
+
+German doctors have been forced to participate in the sterilization
+entails
+German doctors have participated in the sterilization
+
+German doctors have participated in the sterilization
+permits
+German doctors have been forced to participate in the sterilization
+
+German doctors have been forced to participate in the sterilization
+permits
+inmates have participated in the sterilization
+
+the Clintons have forced German doctors to participate in the sterilization
+entails
+German doctors have participated in the sterilization
+
+German doctors have participated in the sterilization
+permits
+the Clintons have forced German doctors to participate in the sterilization
+
+German doctors have been forced to participate in the sterilization
+contradicts
+German doctors have n't participated in the sterilization
+
+German doctors have n't participated in the sterilization
+contradicts
+German doctors have been forced to participate in the sterilization
+
+prisoners have forced German doctors to participate in the sterilization
+contradicts
+German doctors have n't participated in the sterilization
+
+German doctors have n't participated in the sterilization
+contradicts
+prisoners have forced German doctors to participate in the sterilization
+
+prisoners have forced German doctors to participate in the sterilization
+permits
+German doctors have n't resigned after using a Taser and pepper spray
+
+German doctors had almost been forced to participate in the sterilization
+permits
+German doctors had n't participated in the sterilization
+
+the Scots had almost forced German doctors to participate in the sterilization
+permits
+German doctors had n't participated in the sterilization
+
+German doctors had not been forced to participate in the sterilization
+permits
+German doctors had participated in the sterilization
+
+German doctors had participated in the sterilization
+permits
+German doctors had not been forced to participate in the sterilization
+
+he and others had not forced German doctors to participate in the sterilization
+permits
+German doctors had participated in the sterilization
+
+German doctors had participated in the sterilization
+permits
+he and others had not forced German doctors to participate in the sterilization
+
+you had been forced to take this step
+entails
+you had taken this step
+
+you had taken this step
+permits
+you had been forced to take this step
+
+his son had forced you to take this step
+entails
+you had taken this step
+
+you had taken this step
+permits
+his son had forced you to take this step
+
+his son had forced you to take this step
+permits
+you had walked around the house on your hands and knees
+
+you had been forced to take this step
+contradicts
+you had not taken this step
+
+you had not taken this step
+contradicts
+you had been forced to take this step
+
+you had been forced to take this step
+permits
+this mother had n't taken this step
+
+Liberté Chan had forced you to take this step
+contradicts
+you had not taken this step
+
+you had not taken this step
+contradicts
+Liberté Chan had forced you to take this step
+
+you have n't been forced to take this step
+permits
+you have not taken this step
+
+Liberté Chan have n't forced you to take this step
+permits
+you have not taken this step
+
+you had n't been forced to take this step
+permits
+you had taken this step
+
+you had taken this step
+permits
+you had n't been forced to take this step
+
+the child had n't forced you to take this step
+permits
+you had taken this step
+
+you had taken this step
+permits
+the child had n't forced you to take this step
+
+the students had been forced to move to the free speech zone
+entails
+the students had moved to the free speech zone
+
+the students had moved to the free speech zone
+permits
+the students had been forced to move to the free speech zone
+
+the students had been forced to move to the free speech zone
+permits
+the students had confronted the moral dilemma posed by expulsion
+
+German doctors had forced the students to move to the free speech zone
+entails
+the students had moved to the free speech zone
+
+the students had moved to the free speech zone
+permits
+German doctors had forced the students to move to the free speech zone
+
+German doctors had forced the students to move to the free speech zone
+permits
+Christians and Jews had moved to the free speech zone
+
+the students have been forced to move to the free speech zone
+contradicts
+the students have n't moved to the free speech zone
+
+the students have n't moved to the free speech zone
+contradicts
+the students have been forced to move to the free speech zone
+
+the students have been forced to move to the free speech zone
+permits
+the students have n't confronted the moral dilemma posed by expulsion
+
+Christians and Jews have forced the students to move to the free speech zone
+contradicts
+the students have n't moved to the free speech zone
+
+the students have n't moved to the free speech zone
+contradicts
+Christians and Jews have forced the students to move to the free speech zone
+
+the students had almost been forced to move to the free speech zone
+permits
+the students had n't moved to the free speech zone
+
+Haganah and IDF commanders had almost forced the students to move to the free speech zone
+permits
+the students had n't moved to the free speech zone
+
+the students had not been forced to move to the free speech zone
+permits
+the students had moved to the free speech zone
+
+the students had moved to the free speech zone
+permits
+the students had not been forced to move to the free speech zone
+
+Coal Miners in Romney TV ads had not forced the students to move to the free speech zone
+permits
+the students had moved to the free speech zone
+
+the students had moved to the free speech zone
+permits
+Coal Miners in Romney TV ads had not forced the students to move to the free speech zone
+
+the Scots have been forced to stay in an unhappy marriage
+entails
+the Scots have stayed in an unhappy marriage
+
+the Scots have stayed in an unhappy marriage
+permits
+the Scots have been forced to stay in an unhappy marriage
+
+the Scots have been forced to stay in an unhappy marriage
+permits
+the Scots have learnt to write a simple declarative sentence
+
+prisoners have forced the Scots to stay in an unhappy marriage
+entails
+the Scots have stayed in an unhappy marriage
+
+the Scots have stayed in an unhappy marriage
+permits
+prisoners have forced the Scots to stay in an unhappy marriage
+
+prisoners have forced the Scots to stay in an unhappy marriage
+permits
+Africans have stayed in an unhappy marriage
+
+the Scots were forced to stay in an unhappy marriage
+contradicts
+the Scots did not stay in an unhappy marriage
+
+the Scots did not stay in an unhappy marriage
+contradicts
+the Scots were forced to stay in an unhappy marriage
+
+the Scots were forced to stay in an unhappy marriage
+permits
+the Scots did not accelerate their schedules
+
+Christians and Jews forced the Scots to stay in an unhappy marriage
+contradicts
+the Scots did not stay in an unhappy marriage
+
+the Scots did not stay in an unhappy marriage
+contradicts
+Christians and Jews forced the Scots to stay in an unhappy marriage
+
+Christians and Jews forced the Scots to stay in an unhappy marriage
+permits
+the Scots did not attend rally
+
+the Scots had n't been forced to stay in an unhappy marriage
+permits
+the Scots had n't stayed in an unhappy marriage
+
+Haganah and IDF commanders had n't forced the Scots to stay in an unhappy marriage
+permits
+the Scots had n't stayed in an unhappy marriage
+
+the Scots never were forced to stay in an unhappy marriage
+permits
+the Scots stayed in an unhappy marriage
+
+the Scots stayed in an unhappy marriage
+permits
+the Scots never were forced to stay in an unhappy marriage
+
+we never forced the Scots to stay in an unhappy marriage
+permits
+the Scots stayed in an unhappy marriage
+
+the Scots stayed in an unhappy marriage
+permits
+we never forced the Scots to stay in an unhappy marriage
+

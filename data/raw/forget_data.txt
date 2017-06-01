@@ -1,0 +1,2476 @@
+I had forgotten to shut the windows when i left
+entails
+I had not shut the windows when i left
+
+I had not shut the windows when i left
+permits
+I had forgotten to shut the windows when i left
+
+I had forgotten to shut the windows when i left
+permits
+I had n't blamed me again
+
+I forgot to shut the windows when i left
+contradicts
+I shut the windows when i left
+
+I shut the windows when i left
+contradicts
+I forgot to shut the windows when i left
+
+I had almost forgotten to shut the windows when i left
+entails
+I had shut the windows when i left
+
+I had shut the windows when i left
+permits
+I had almost forgotten to shut the windows when i left
+
+I had never forgotten to shut the windows when i left
+contradicts
+I had not shut the windows when i left
+
+I had not shut the windows when i left
+contradicts
+I had never forgotten to shut the windows when i left
+
+highest-earning Tory MP had forgotten to declare £400,000 income
+entails
+highest-earning Tory MP had not declared £400,000 income
+
+highest-earning Tory MP had not declared £400,000 income
+permits
+highest-earning Tory MP had forgotten to declare £400,000 income
+
+highest-earning Tory MP has forgotten to declare £400,000 income
+contradicts
+highest-earning Tory MP has declared £400,000 income
+
+highest-earning Tory MP has declared £400,000 income
+contradicts
+highest-earning Tory MP has forgotten to declare £400,000 income
+
+highest-earning Tory MP has forgotten to declare £400,000 income
+permits
+highest-earning Tory MP has paid America's water infrastructure bill
+
+highest-earning Tory MP had never forgotten to declare £400,000 income
+entails
+highest-earning Tory MP had declared £400,000 income
+
+highest-earning Tory MP had declared £400,000 income
+permits
+highest-earning Tory MP had never forgotten to declare £400,000 income
+
+highest-earning Tory MP almost forgot to declare £400,000 income
+contradicts
+highest-earning Tory MP did not declare £400,000 income
+
+highest-earning Tory MP did not declare £400,000 income
+contradicts
+highest-earning Tory MP almost forgot to declare £400,000 income
+
+I had forgotten to remember to forget
+entails
+I had n't remembered to forget
+
+I had n't remembered to forget
+permits
+I had forgotten to remember to forget
+
+I forgot to remember to forget
+contradicts
+I remembered to forget
+
+I remembered to forget
+contradicts
+I forgot to remember to forget
+
+I forgot to remember to forget
+permits
+the actor-director remembered to forget
+
+I had never forgotten to remember to forget
+entails
+I had remembered to forget
+
+I had remembered to forget
+permits
+I had never forgotten to remember to forget
+
+I had never forgotten to remember to forget
+permits
+I had blamed me again
+
+I have not forgotten to remember to forget
+contradicts
+I have n't remembered to forget
+
+I have n't remembered to forget
+contradicts
+I have not forgotten to remember to forget
+
+I have not forgotten to remember to forget
+permits
+I have n't made a trough around our tree
+
+I have forgotten to turn in my I-94 when i left the U.S.
+entails
+I have not turned in my I-94 when i left the U.S.
+
+I have not turned in my I-94 when i left the U.S.
+permits
+I have forgotten to turn in my I-94 when i left the U.S.
+
+I have forgotten to turn in my I-94 when i left the U.S.
+permits
+I have n't put the key under the mat
+
+I forgot to turn in my I-94 when i left the U.S.
+contradicts
+I turned in my I-94 when i left the U.S.
+
+I turned in my I-94 when i left the U.S.
+contradicts
+I forgot to turn in my I-94 when i left the U.S.
+
+I almost forgot to turn in my I-94 when i left the U.S.
+entails
+I turned in my I-94 when i left the U.S.
+
+I turned in my I-94 when i left the U.S.
+permits
+I almost forgot to turn in my I-94 when i left the U.S.
+
+I almost forgot to turn in my I-94 when i left the U.S.
+permits
+Chackochan turned in his I-94 when he left the U.S.
+
+I almost forgot to turn in my I-94 when i left the U.S.
+contradicts
+I did not turn in my I-94 when i left the U.S.
+
+I did not turn in my I-94 when i left the U.S.
+contradicts
+I almost forgot to turn in my I-94 when i left the U.S.
+
+I almost forgot to turn in my I-94 when i left the U.S.
+permits
+I did not visit us and our red balloon at booth
+
+Jeb forgot to renew the rights to his domain name for his website
+entails
+Jeb did n't renew the rights to his domain name for his website
+
+Jeb did n't renew the rights to his domain name for his website
+permits
+Jeb forgot to renew the rights to his domain name for his website
+
+Jeb forgot to renew the rights to his domain name for his website
+permits
+Lenina did not renew the rights to her domain name for her website
+
+Jeb has forgotten to renew the rights to his domain name for his website
+contradicts
+Jeb has renewed the rights to his domain name for his website
+
+Jeb has renewed the rights to his domain name for his website
+contradicts
+Jeb has forgotten to renew the rights to his domain name for his website
+
+Jeb has n't forgotten to renew the rights to his domain name for his website
+entails
+Jeb has renewed the rights to his domain name for his website
+
+Jeb has renewed the rights to his domain name for his website
+permits
+Jeb has n't forgotten to renew the rights to his domain name for his website
+
+Jeb has n't forgotten to renew the rights to his domain name for his website
+permits
+Jeb has protested Moslem protest
+
+Jeb never forgot to renew the rights to his domain name for his website
+contradicts
+Jeb did n't renew the rights to his domain name for his website
+
+Jeb did n't renew the rights to his domain name for his website
+contradicts
+Jeb never forgot to renew the rights to his domain name for his website
+
+Jeb never forgot to renew the rights to his domain name for his website
+permits
+Jeb never criticized Imran Khan in Washington,DC
+
+my friend forgot to give you my account number
+entails
+my friend did n't give you my account number
+
+my friend did n't give you my account number
+permits
+my friend forgot to give you my account number
+
+my friend forgot to give you my account number
+contradicts
+my friend gave you my account number
+
+my friend gave you my account number
+contradicts
+my friend forgot to give you my account number
+
+my friend forgot to give you my account number
+permits
+my friend backed up her iphone 3G into her iTunes
+
+my friend has never forgotten to give you my account number
+entails
+my friend has given you my account number
+
+my friend has given you my account number
+permits
+my friend has never forgotten to give you my account number
+
+my friend did not forget to give you my account number
+contradicts
+my friend did n't give you my account number
+
+my friend did n't give you my account number
+contradicts
+my friend did not forget to give you my account number
+
+my friend did not forget to give you my account number
+permits
+my friend was n't awesome
+
+we have forgotten to pay America's water infrastructure bill
+entails
+we have not paid America's water infrastructure bill
+
+we have not paid America's water infrastructure bill
+permits
+we have forgotten to pay America's water infrastructure bill
+
+we have forgotten to pay America's water infrastructure bill
+permits
+we have n't given some praise for Pixelmator for iPad
+
+we have forgotten to pay America's water infrastructure bill
+contradicts
+we have paid America's water infrastructure bill
+
+we have paid America's water infrastructure bill
+contradicts
+we have forgotten to pay America's water infrastructure bill
+
+we have forgotten to pay America's water infrastructure bill
+permits
+we have put the money out on good interest
+
+we never forgot to pay America's water infrastructure bill
+entails
+we paid America's water infrastructure bill
+
+we paid America's water infrastructure bill
+permits
+we never forgot to pay America's water infrastructure bill
+
+we have never forgotten to pay America's water infrastructure bill
+contradicts
+we have never paid America's water infrastructure bill
+
+we have never paid America's water infrastructure bill
+contradicts
+we have never forgotten to pay America's water infrastructure bill
+
+Mike Webb had forgotten to close the tabs to porn sites before taking a screenshot
+entails
+Mike Webb had not closed the tabs to porn sites before taking a screenshot
+
+Mike Webb had not closed the tabs to porn sites before taking a screenshot
+permits
+Mike Webb had forgotten to close the tabs to porn sites before taking a screenshot
+
+Mike Webb had forgotten to close the tabs to porn sites before taking a screenshot
+contradicts
+Mike Webb had closed the tabs to porn sites before taking a screenshot
+
+Mike Webb had closed the tabs to porn sites before taking a screenshot
+contradicts
+Mike Webb had forgotten to close the tabs to porn sites before taking a screenshot
+
+Mike Webb had forgotten to close the tabs to porn sites before taking a screenshot
+permits
+the press had closed the tabs to porn sites before taking a screenshot
+
+Mike Webb had almost forgotten to close the tabs to porn sites before taking a screenshot
+entails
+Mike Webb had closed the tabs to porn sites before taking a screenshot
+
+Mike Webb had closed the tabs to porn sites before taking a screenshot
+permits
+Mike Webb had almost forgotten to close the tabs to porn sites before taking a screenshot
+
+Mike Webb had almost forgotten to close the tabs to porn sites before taking a screenshot
+permits
+the team had closed the tabs to porn sites before taking a screenshot
+
+Mike Webb has n't forgotten to close the tabs to porn sites before taking a screenshot
+contradicts
+Mike Webb has not closed the tabs to porn sites before taking a screenshot
+
+Mike Webb has not closed the tabs to porn sites before taking a screenshot
+contradicts
+Mike Webb has n't forgotten to close the tabs to porn sites before taking a screenshot
+
+Mike Webb has n't forgotten to close the tabs to porn sites before taking a screenshot
+permits
+Mike Webb has n't had fun while at work
+
+Anna Farid has forgotten to warn her mother about the the tragic death on 'Mom'
+entails
+Anna Farid has n't warned her mother about the the tragic death on 'Mom'
+
+Anna Farid has n't warned her mother about the the tragic death on 'Mom'
+permits
+Anna Farid has forgotten to warn her mother about the the tragic death on 'Mom'
+
+Anna Farid had forgotten to warn her mother about the the tragic death on 'Mom'
+contradicts
+Anna Farid had warned her mother about the the tragic death on 'Mom'
+
+Anna Farid had warned her mother about the the tragic death on 'Mom'
+contradicts
+Anna Farid had forgotten to warn her mother about the the tragic death on 'Mom'
+
+Anna Farid has n't forgotten to warn her mother about the the tragic death on 'Mom'
+entails
+Anna Farid has warned her mother about the the tragic death on 'Mom'
+
+Anna Farid has warned her mother about the the tragic death on 'Mom'
+permits
+Anna Farid has n't forgotten to warn her mother about the the tragic death on 'Mom'
+
+Anna Farid has n't forgotten to warn her mother about the the tragic death on 'Mom'
+permits
+Leo DiCaprio has warned his mother about the the tragic death on 'Mom'
+
+Anna Farid had n't forgotten to warn her mother about the the tragic death on 'Mom'
+contradicts
+Anna Farid had n't warned her mother about the the tragic death on 'Mom'
+
+Anna Farid had n't warned her mother about the the tragic death on 'Mom'
+contradicts
+Anna Farid had n't forgotten to warn her mother about the the tragic death on 'Mom'
+
+Anna Farid had n't forgotten to warn her mother about the the tragic death on 'Mom'
+permits
+Anna Farid had n't closed the tabs to porn sites before taking a screenshot
+
+the GOP has forgotten to include Trump on the homepage of its website
+entails
+the GOP has n't included Trump on the homepage of its website
+
+the GOP has n't included Trump on the homepage of its website
+permits
+the GOP has forgotten to include Trump on the homepage of its website
+
+the GOP has forgotten to include Trump on the homepage of its website
+permits
+Sylvester Stallone has n't included Trump on the homepage of his website
+
+the GOP had forgotten to include Trump on the homepage of its website
+contradicts
+the GOP had included Trump on the homepage of its website
+
+the GOP had included Trump on the homepage of its website
+contradicts
+the GOP had forgotten to include Trump on the homepage of its website
+
+the GOP had forgotten to include Trump on the homepage of its website
+permits
+she had included Trump on the homepage of her website
+
+the GOP almost forgot to include Trump on the homepage of its website
+entails
+the GOP included Trump on the homepage of its website
+
+the GOP included Trump on the homepage of its website
+permits
+the GOP almost forgot to include Trump on the homepage of its website
+
+the GOP almost forgot to include Trump on the homepage of its website
+permits
+Sylvester Stallone included Trump on the homepage of his website
+
+the GOP did not forget to include Trump on the homepage of its website
+contradicts
+the GOP did n't include Trump on the homepage of its website
+
+the GOP did n't include Trump on the homepage of its website
+contradicts
+the GOP did not forget to include Trump on the homepage of its website
+
+the GOP did not forget to include Trump on the homepage of its website
+permits
+the GOP did not wish you a happy weekend
+
+Sam’s Club had forgotten to tell some employees about their clever Costco promotion
+entails
+Sam’s Club had not told some employees about their clever Costco promotion
+
+Sam’s Club had not told some employees about their clever Costco promotion
+permits
+Sam’s Club had forgotten to tell some employees about their clever Costco promotion
+
+Sam’s Club had forgotten to tell some employees about their clever Costco promotion
+permits
+Applebee's had n't told some employees about their clever Costco promotion
+
+Sam’s Club forgot to tell some employees about their clever Costco promotion
+contradicts
+Sam’s Club told some employees about their clever Costco promotion
+
+Sam’s Club told some employees about their clever Costco promotion
+contradicts
+Sam’s Club forgot to tell some employees about their clever Costco promotion
+
+Sam’s Club forgot to tell some employees about their clever Costco promotion
+permits
+Sam’s Club put the key under the mat
+
+Sam’s Club did not forget to tell some employees about their clever Costco promotion
+entails
+Sam’s Club told some employees about their clever Costco promotion
+
+Sam’s Club told some employees about their clever Costco promotion
+permits
+Sam’s Club did not forget to tell some employees about their clever Costco promotion
+
+Sam’s Club had not forgotten to tell some employees about their clever Costco promotion
+contradicts
+Sam’s Club had n't told some employees about their clever Costco promotion
+
+Sam’s Club had n't told some employees about their clever Costco promotion
+contradicts
+Sam’s Club had not forgotten to tell some employees about their clever Costco promotion
+
+you had forgotten to wear green today
+entails
+you had not worn green today
+
+you had not worn green today
+permits
+you had forgotten to wear green today
+
+you had forgotten to wear green today
+permits
+you had n't bought milk for that jumbo box of cereal
+
+you have forgotten to wear green today
+contradicts
+you have worn green today
+
+you have worn green today
+contradicts
+you have forgotten to wear green today
+
+you have forgotten to wear green today
+permits
+you have wished you a happy weekend
+
+you almost forgot to wear green today
+entails
+you wore green today
+
+you wore green today
+permits
+you almost forgot to wear green today
+
+you almost forgot to wear green today
+permits
+you declared £400,000 income
+
+you had never forgotten to wear green today
+contradicts
+you had n't worn green today
+
+you had n't worn green today
+contradicts
+you had never forgotten to wear green today
+
+you had forgotten to blame me again
+entails
+you had n't blamed me again
+
+you had n't blamed me again
+permits
+you had forgotten to blame me again
+
+you had forgotten to blame me again
+permits
+whoever designed that office had n't blamed me again
+
+you have forgotten to blame me again
+contradicts
+you have blamed me again
+
+you have blamed me again
+contradicts
+you have forgotten to blame me again
+
+you have forgotten to blame me again
+permits
+you have protested Moslem protest
+
+you did n't forget to blame me again
+entails
+you blamed me again
+
+you blamed me again
+permits
+you did n't forget to blame me again
+
+you did n't forget to blame me again
+permits
+my Secret Santa blamed me again
+
+you have not forgotten to blame me again
+contradicts
+you have n't blamed me again
+
+you have n't blamed me again
+contradicts
+you have not forgotten to blame me again
+
+you have not forgotten to blame me again
+permits
+you have n't made a trough around our tree
+
+she has forgotten to frown thoughtfully and to wrinkle her nose
+entails
+she has not frowned thoughtfully or to wrinkle her nose
+
+she has not frowned thoughtfully or to wrinkle her nose
+permits
+she has forgotten to frown thoughtfully and to wrinkle her nose
+
+she has forgotten to frown thoughtfully and to wrinkle her nose
+permits
+she has n't put the money out on good interest
+
+she had forgotten to frown thoughtfully and to wrinkle her nose
+contradicts
+she had frowned thoughtfully and to wrinkle her nose
+
+she had frowned thoughtfully and to wrinkle her nose
+contradicts
+she had forgotten to frown thoughtfully and to wrinkle her nose
+
+she had almost forgotten to frown thoughtfully or to wrinkle her nose
+entails
+she had frowned thoughtfully and to wrinkle her nose
+
+she had frowned thoughtfully and to wrinkle her nose
+permits
+she had almost forgotten to frown thoughtfully or to wrinkle her nose
+
+she never forgot to frown thoughtfully or to wrinkle her nose
+contradicts
+she did not frown thoughtfully or to wrinkle her nose
+
+she did not frown thoughtfully or to wrinkle her nose
+contradicts
+she never forgot to frown thoughtfully or to wrinkle her nose
+
+she had forgotten to dab herself liberally with holy water
+entails
+she had not dabbed herself liberally with holy water
+
+she had not dabbed herself liberally with holy water
+permits
+she had forgotten to dab herself liberally with holy water
+
+she had forgotten to dab herself liberally with holy water
+contradicts
+she had dabbed herself liberally with holy water
+
+she had dabbed herself liberally with holy water
+contradicts
+she had forgotten to dab herself liberally with holy water
+
+she had forgotten to dab herself liberally with holy water
+permits
+she had prayed for you
+
+she had n't forgotten to dab herself liberally with holy water
+entails
+she had dabbed herself liberally with holy water
+
+she had dabbed herself liberally with holy water
+permits
+she had n't forgotten to dab herself liberally with holy water
+
+she almost forgot to dab herself liberally with holy water
+contradicts
+she did not dab herself liberally with holy water
+
+she did not dab herself liberally with holy water
+contradicts
+she almost forgot to dab herself liberally with holy water
+
+she almost forgot to dab herself liberally with holy water
+permits
+she almost protested Moslem protest
+
+he forgot to feel sorry for himself
+entails
+he did not feel sorry for himself
+
+he did not feel sorry for himself
+permits
+he forgot to feel sorry for himself
+
+he forgot to feel sorry for himself
+permits
+he did n't remind the mother
+
+he has forgotten to feel sorry for himself
+contradicts
+he has felt sorry for himself
+
+he has felt sorry for himself
+contradicts
+he has forgotten to feel sorry for himself
+
+he has forgotten to feel sorry for himself
+permits
+Canada has felt sorry for itself
+
+he did n't forget to feel sorry for himself
+entails
+he felt sorry for himself
+
+he felt sorry for himself
+permits
+he did n't forget to feel sorry for himself
+
+he had never forgotten to feel sorry for himself
+contradicts
+he had never felt sorry for himself
+
+he had never felt sorry for himself
+contradicts
+he had never forgotten to feel sorry for himself
+
+he had forgotten to pick up a local paper as he left
+entails
+he had n't picked up a local paper as he left
+
+he had n't picked up a local paper as he left
+permits
+he had forgotten to pick up a local paper as he left
+
+he has forgotten to pick up a local paper as he left
+contradicts
+he has picked up a local paper as he left
+
+he has picked up a local paper as he left
+contradicts
+he has forgotten to pick up a local paper as he left
+
+he has forgotten to pick up a local paper as he left
+permits
+you have picked up a local paper as you left
+
+he had never forgotten to pick up a local paper as he left
+entails
+he had picked up a local paper as he left
+
+he had picked up a local paper as he left
+permits
+he had never forgotten to pick up a local paper as he left
+
+he had never forgotten to pick up a local paper as he left
+permits
+she had picked up a local paper as she left
+
+he has not forgotten to pick up a local paper as he left
+contradicts
+he has n't picked up a local paper as he left
+
+he has n't picked up a local paper as he left
+contradicts
+he has not forgotten to pick up a local paper as he left
+
+we forgot to wish you a happy weekend
+entails
+we did n't wish you a happy weekend
+
+we did n't wish you a happy weekend
+permits
+we forgot to wish you a happy weekend
+
+we forgot to wish you a happy weekend
+contradicts
+we wished you a happy weekend
+
+we wished you a happy weekend
+contradicts
+we forgot to wish you a happy weekend
+
+we forgot to wish you a happy weekend
+permits
+we featured the soft drink in two of its own ads
+
+we never forgot to wish you a happy weekend
+entails
+we wished you a happy weekend
+
+we wished you a happy weekend
+permits
+we never forgot to wish you a happy weekend
+
+we never forgot to wish you a happy weekend
+permits
+Applebee's wished you a happy weekend
+
+we have n't forgotten to wish you a happy weekend
+contradicts
+we have not wished you a happy weekend
+
+we have not wished you a happy weekend
+contradicts
+we have n't forgotten to wish you a happy weekend
+
+we have n't forgotten to wish you a happy weekend
+permits
+Jews have not wished you a happy weekend
+
+they forgot to put the oil back in after draining it
+entails
+they did not put the oil back in after draining it
+
+they did not put the oil back in after draining it
+permits
+they forgot to put the oil back in after draining it
+
+they forgot to put the oil back in after draining it
+contradicts
+they put the oil back in after draining it
+
+they put the oil back in after draining it
+contradicts
+they forgot to put the oil back in after draining it
+
+they never have forgotten to put the oil back in after draining it
+entails
+they have put the oil back in after draining it
+
+they have put the oil back in after draining it
+permits
+they never have forgotten to put the oil back in after draining it
+
+they never forgot to put the oil back in after draining it
+contradicts
+they did n't put the oil back in after draining it
+
+they did n't put the oil back in after draining it
+contradicts
+they never forgot to put the oil back in after draining it
+
+they never forgot to put the oil back in after draining it
+permits
+they did n't remind the mother
+
+they had forgotten to be thankful for what they had
+entails
+they had n't been thankful for what they had
+
+they had n't been thankful for what they had
+permits
+they had forgotten to be thankful for what they had
+
+they forgot to be thankful for what they had
+contradicts
+they were thankful for what they had
+
+they were thankful for what they had
+contradicts
+they forgot to be thankful for what they had
+
+they forgot to be thankful for what they had
+permits
+Sam’s Club were thankful for what they had
+
+they had n't forgotten to be thankful for what they had
+entails
+they had been thankful for what they had
+
+they had been thankful for what they had
+permits
+they had n't forgotten to be thankful for what they had
+
+they had not forgotten to be thankful for what they had
+contradicts
+they had not been thankful for what they had
+
+they had not been thankful for what they had
+contradicts
+they had not forgotten to be thankful for what they had
+
+they had not forgotten to be thankful for what they had
+permits
+they had n't put the oil back in after draining it
+
+the actor-director forgot to mention his now-estranged wife, Jennifer Garner
+entails
+the actor-director did n't mention his now-estranged wife, Jennifer Garner
+
+the actor-director did n't mention his now-estranged wife, Jennifer Garner
+permits
+the actor-director forgot to mention his now-estranged wife, Jennifer Garner
+
+the actor-director has forgotten to mention his now-estranged wife, Jennifer Garner
+contradicts
+the actor-director has mentioned his now-estranged wife, Jennifer Garner
+
+the actor-director has mentioned his now-estranged wife, Jennifer Garner
+contradicts
+the actor-director has forgotten to mention his now-estranged wife, Jennifer Garner
+
+the actor-director did n't forget to mention his now-estranged wife, Jennifer Garner
+entails
+the actor-director mentioned his now-estranged wife, Jennifer Garner
+
+the actor-director mentioned his now-estranged wife, Jennifer Garner
+permits
+the actor-director did n't forget to mention his now-estranged wife, Jennifer Garner
+
+the actor-director never forgot to mention his now-estranged wife, Jennifer Garner
+contradicts
+the actor-director did not mention his now-estranged wife, Jennifer Garner
+
+the actor-director did not mention his now-estranged wife, Jennifer Garner
+contradicts
+the actor-director never forgot to mention his now-estranged wife, Jennifer Garner
+
+Jews have forgotten to protest Moslem protest
+entails
+Jews have not protested Moslem protest
+
+Jews have not protested Moslem protest
+permits
+Jews have forgotten to protest Moslem protest
+
+Jews had forgotten to protest Moslem protest
+contradicts
+Jews had protested Moslem protest
+
+Jews had protested Moslem protest
+contradicts
+Jews had forgotten to protest Moslem protest
+
+Jews had forgotten to protest Moslem protest
+permits
+Applebee's had protested Moslem protest
+
+Jews have not forgotten to protest Moslem protest
+entails
+Jews have protested Moslem protest
+
+Jews have protested Moslem protest
+permits
+Jews have not forgotten to protest Moslem protest
+
+Jews never forgot to protest Moslem protest
+contradicts
+Jews did n't protest Moslem protest
+
+Jews did n't protest Moslem protest
+contradicts
+Jews never forgot to protest Moslem protest
+
+Jews never forgot to protest Moslem protest
+permits
+Jews did not add the yeast to my cinnamon roll dough
+
+Nawaz Sharif forgot to criticize Imran Khan in Washington,DC
+entails
+Nawaz Sharif did n't criticize Imran Khan in Washington,DC
+
+Nawaz Sharif did n't criticize Imran Khan in Washington,DC
+permits
+Nawaz Sharif forgot to criticize Imran Khan in Washington,DC
+
+Nawaz Sharif forgot to criticize Imran Khan in Washington,DC
+permits
+Nawaz Sharif did not keep Burke away
+
+Nawaz Sharif has forgotten to criticize Imran Khan in Washington,DC
+contradicts
+Nawaz Sharif has criticized Imran Khan in Washington,DC
+
+Nawaz Sharif has criticized Imran Khan in Washington,DC
+contradicts
+Nawaz Sharif has forgotten to criticize Imran Khan in Washington,DC
+
+Nawaz Sharif had almost forgotten to criticize Imran Khan in Washington,DC
+entails
+Nawaz Sharif had criticized Imran Khan in Washington,DC
+
+Nawaz Sharif had criticized Imran Khan in Washington,DC
+permits
+Nawaz Sharif had almost forgotten to criticize Imran Khan in Washington,DC
+
+Nawaz Sharif had almost forgotten to criticize Imran Khan in Washington,DC
+permits
+Nawaz Sharif had been thankful for what he had
+
+Nawaz Sharif never forgot to criticize Imran Khan in Washington,DC
+contradicts
+Nawaz Sharif did n't criticize Imran Khan in Washington,DC
+
+Nawaz Sharif did n't criticize Imran Khan in Washington,DC
+contradicts
+Nawaz Sharif never forgot to criticize Imran Khan in Washington,DC
+
+my Secret Santa forgot to be awesome
+entails
+my Secret Santa was n't awesome
+
+my Secret Santa was n't awesome
+permits
+my Secret Santa forgot to be awesome
+
+my Secret Santa forgot to be awesome
+permits
+my Secret Santa did not plan for its future by leaning on oil and the loonie
+
+my Secret Santa has forgotten to be awesome
+contradicts
+my Secret Santa has been awesome
+
+my Secret Santa has been awesome
+contradicts
+my Secret Santa has forgotten to be awesome
+
+my Secret Santa has forgotten to be awesome
+permits
+FSR Magazine has been awesome
+
+my Secret Santa almost has forgotten to be awesome
+entails
+my Secret Santa has been awesome
+
+my Secret Santa has been awesome
+permits
+my Secret Santa almost has forgotten to be awesome
+
+my Secret Santa almost has forgotten to be awesome
+permits
+it has been awesome
+
+my Secret Santa never forgot to be awesome
+contradicts
+my Secret Santa was never awesome
+
+my Secret Santa was never awesome
+contradicts
+my Secret Santa never forgot to be awesome
+
+Applebee's had forgotten to add selections for their guests' sweet tooth
+entails
+Applebee's had n't added selections for their guests' sweet tooth
+
+Applebee's had n't added selections for their guests' sweet tooth
+permits
+Applebee's had forgotten to add selections for their guests' sweet tooth
+
+Applebee's had forgotten to add selections for their guests' sweet tooth
+permits
+Applebee's had not planned for its future by leaning on oil and the loonie
+
+Applebee's had forgotten to add selections for their guests' sweet tooth
+contradicts
+Applebee's had added selections for their guests' sweet tooth
+
+Applebee's had added selections for their guests' sweet tooth
+contradicts
+Applebee's had forgotten to add selections for their guests' sweet tooth
+
+Applebee's had never forgotten to add selections for their guests' sweet tooth
+entails
+Applebee's had added selections for their guests' sweet tooth
+
+Applebee's had added selections for their guests' sweet tooth
+permits
+Applebee's had never forgotten to add selections for their guests' sweet tooth
+
+Applebee's had never forgotten to add selections for their guests' sweet tooth
+permits
+Applebee's had attached a file to the message
+
+Applebee's have almost forgotten to add selections for their guests' sweet tooth
+contradicts
+Applebee's have n't added selections for their guests' sweet tooth
+
+Applebee's have n't added selections for their guests' sweet tooth
+contradicts
+Applebee's have almost forgotten to add selections for their guests' sweet tooth
+
+whoever designed that office has forgotten to arrange her collection for all to see and respect
+entails
+whoever designed that office has not arranged her collection for all to see and respect
+
+whoever designed that office has not arranged her collection for all to see and respect
+permits
+whoever designed that office has forgotten to arrange her collection for all to see and respect
+
+whoever designed that office has forgotten to arrange her collection for all to see and respect
+contradicts
+whoever designed that office has arranged her collection for all to see and respect
+
+whoever designed that office has arranged her collection for all to see and respect
+contradicts
+whoever designed that office has forgotten to arrange her collection for all to see and respect
+
+whoever designed that office has forgotten to arrange her collection for all to see and respect
+permits
+Leo DiCaprio has arranged his collection for all to see and respect
+
+whoever designed that office has never forgotten to arrange her collection for all to see and respect
+entails
+whoever designed that office has arranged her collection for all to see and respect
+
+whoever designed that office has arranged her collection for all to see and respect
+permits
+whoever designed that office has never forgotten to arrange her collection for all to see and respect
+
+whoever designed that office has never forgotten to arrange her collection for all to see and respect
+permits
+whoever designed that office has taken me to the elephant tree
+
+whoever designed that office had almost forgotten to arrange her collection for all to see and respect
+contradicts
+whoever designed that office had almost arranged her collection for all to see and respect
+
+whoever designed that office had almost arranged her collection for all to see and respect
+contradicts
+whoever designed that office had almost forgotten to arrange her collection for all to see and respect
+
+Obama has forgotten to poke fun at himself and the First Lady
+entails
+Obama has not poked fun at himself and the First Lady
+
+Obama has not poked fun at himself and the First Lady
+permits
+Obama has forgotten to poke fun at himself and the First Lady
+
+Obama has forgotten to poke fun at himself and the First Lady
+permits
+Obama has n't been thankful for what he had
+
+Obama has forgotten to poke fun at himself and the First Lady
+permits
+Obama has not watered the flowers
+
+Obama has forgotten to also poke fun at himself and the First Lady
+entails
+Obama has n't also poked fun at himself and the First Lady
+
+Obama has n't also poked fun at himself and the First Lady
+permits
+Obama has forgotten to also poke fun at himself and the First Lady
+
+Obama has forgotten to also poke fun at himself and the First Lady
+permits
+my Secret Santa has not poked fun at himself and the First Lady
+
+Obama has forgotten to also poke fun at himself and the First Lady
+permits
+the GOP has n't also poked fun at itself and the First Lady
+
+Obama forgot to poke fun at himself and the First Lady
+contradicts
+Obama poked fun at himself and the First Lady
+
+Obama poked fun at himself and the First Lady
+contradicts
+Obama forgot to poke fun at himself and the First Lady
+
+Obama forgot to also poke fun at himself and the First Lady
+contradicts
+Obama also poked fun at himself and the First Lady
+
+Obama also poked fun at himself and the First Lady
+contradicts
+Obama forgot to also poke fun at himself and the First Lady
+
+Obama had never forgotten to poke fun at himself and the First Lady
+entails
+Obama had poked fun at himself and the First Lady
+
+Obama had poked fun at himself and the First Lady
+permits
+Obama had never forgotten to poke fun at himself and the First Lady
+
+Obama had almost forgotten to also poke fun at himself and the First Lady
+entails
+Obama had also poked fun at himself and the First Lady
+
+Obama had also poked fun at himself and the First Lady
+permits
+Obama had almost forgotten to also poke fun at himself and the First Lady
+
+Obama had almost forgotten to also poke fun at himself and the First Lady
+permits
+Leo DiCaprio had poked fun at himself and the First Lady
+
+Obama had almost forgotten to also poke fun at himself and the First Lady
+permits
+Chackochan had also poked fun at himself and the First Lady
+
+Obama had almost forgotten to poke fun at himself and the First Lady
+contradicts
+Obama had not poked fun at himself and the First Lady
+
+Obama had not poked fun at himself and the First Lady
+contradicts
+Obama had almost forgotten to poke fun at himself and the First Lady
+
+Obama had almost forgotten to poke fun at himself and the First Lady
+permits
+Alicia Vikander had n't poked fun at herself and the First Lady
+
+Obama had almost forgotten to poke fun at himself and the First Lady
+permits
+whoever designed that office had not also poked fun at herself and the First Lady
+
+Obama had n't forgotten to also poke fun at himself and the First Lady
+contradicts
+Obama had n't also poked fun at himself and the First Lady
+
+Obama had n't also poked fun at himself and the First Lady
+contradicts
+Obama had n't forgotten to also poke fun at himself and the First Lady
+
+FSR Magazine forgot to mention Rockit's updated Brunch menu
+entails
+FSR Magazine did not mention Rockit's updated Brunch menu
+
+FSR Magazine did not mention Rockit's updated Brunch menu
+permits
+FSR Magazine forgot to mention Rockit's updated Brunch menu
+
+FSR Magazine forgot to mention Rockit's updated Brunch menu
+contradicts
+FSR Magazine mentioned Rockit's updated Brunch menu
+
+FSR Magazine mentioned Rockit's updated Brunch menu
+contradicts
+FSR Magazine forgot to mention Rockit's updated Brunch menu
+
+FSR Magazine has not forgotten to mention Rockit's updated Brunch menu
+entails
+FSR Magazine has mentioned Rockit's updated Brunch menu
+
+FSR Magazine has mentioned Rockit's updated Brunch menu
+permits
+FSR Magazine has not forgotten to mention Rockit's updated Brunch menu
+
+FSR Magazine has not forgotten to mention Rockit's updated Brunch menu
+contradicts
+FSR Magazine has not mentioned Rockit's updated Brunch menu
+
+FSR Magazine has not mentioned Rockit's updated Brunch menu
+contradicts
+FSR Magazine has not forgotten to mention Rockit's updated Brunch menu
+
+a few sites had forgotten to include the funny bits
+entails
+a few sites had n't included the funny bits
+
+a few sites had n't included the funny bits
+permits
+a few sites had forgotten to include the funny bits
+
+a few sites have forgotten to include the funny bits
+contradicts
+a few sites have included the funny bits
+
+a few sites have included the funny bits
+contradicts
+a few sites have forgotten to include the funny bits
+
+a few sites had n't forgotten to include the funny bits
+entails
+a few sites had included the funny bits
+
+a few sites had included the funny bits
+permits
+a few sites had n't forgotten to include the funny bits
+
+a few sites have n't forgotten to include the funny bits
+contradicts
+a few sites have not included the funny bits
+
+a few sites have not included the funny bits
+contradicts
+a few sites have n't forgotten to include the funny bits
+
+the press forgot to give some praise for Pixelmator for iPad
+entails
+the press did not give some praise for Pixelmator for iPad
+
+the press did not give some praise for Pixelmator for iPad
+permits
+the press forgot to give some praise for Pixelmator for iPad
+
+the press forgot to give some praise for Pixelmator for iPad
+contradicts
+the press gave some praise for Pixelmator for iPad
+
+the press gave some praise for Pixelmator for iPad
+contradicts
+the press forgot to give some praise for Pixelmator for iPad
+
+the press almost forgot to give some praise for Pixelmator for iPad
+entails
+the press gave some praise for Pixelmator for iPad
+
+the press gave some praise for Pixelmator for iPad
+permits
+the press almost forgot to give some praise for Pixelmator for iPad
+
+the press almost forgot to give some praise for Pixelmator for iPad
+permits
+she gave some praise for Pixelmator for iPad
+
+the press has n't forgotten to give some praise for Pixelmator for iPad
+contradicts
+the press has n't given some praise for Pixelmator for iPad
+
+the press has n't given some praise for Pixelmator for iPad
+contradicts
+the press has n't forgotten to give some praise for Pixelmator for iPad
+
+the press has n't forgotten to give some praise for Pixelmator for iPad
+permits
+the press has not mentioned his nice deep voice
+
+Sylvester Stallone has forgotten to thank Ryan Coogler at the Golden Globe awards
+entails
+Sylvester Stallone has n't thanked Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone has n't thanked Ryan Coogler at the Golden Globe awards
+permits
+Sylvester Stallone has forgotten to thank Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone has forgotten to thank Ryan Coogler at the Golden Globe awards
+permits
+Anna Farid has n't thanked Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone had forgotten to thank Ryan Coogler at the Golden Globe awards
+contradicts
+Sylvester Stallone had thanked Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone had thanked Ryan Coogler at the Golden Globe awards
+contradicts
+Sylvester Stallone had forgotten to thank Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone had forgotten to thank Ryan Coogler at the Golden Globe awards
+permits
+Sylvester Stallone had had fun while at work
+
+Sylvester Stallone has n't forgotten to thank Ryan Coogler at the Golden Globe awards
+entails
+Sylvester Stallone has thanked Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone has thanked Ryan Coogler at the Golden Globe awards
+permits
+Sylvester Stallone has n't forgotten to thank Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone has n't forgotten to thank Ryan Coogler at the Golden Globe awards
+permits
+Anselm has thanked Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone never forgot to thank Ryan Coogler at the Golden Globe awards
+contradicts
+Sylvester Stallone did n't thank Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone did n't thank Ryan Coogler at the Golden Globe awards
+contradicts
+Sylvester Stallone never forgot to thank Ryan Coogler at the Golden Globe awards
+
+Sylvester Stallone never forgot to thank Ryan Coogler at the Golden Globe awards
+permits
+my friend never thanked Ryan Coogler at the Golden Globe awards
+
+we had forgotten to make a trough around our tree
+entails
+we had n't made a trough around our tree
+
+we had n't made a trough around our tree
+permits
+we had forgotten to make a trough around our tree
+
+we have forgotten to make a trough around our tree
+contradicts
+we have made a trough around our tree
+
+we have made a trough around our tree
+contradicts
+we have forgotten to make a trough around our tree
+
+we have n't forgotten to make a trough around our tree
+entails
+we have made a trough around our tree
+
+we have made a trough around our tree
+permits
+we have n't forgotten to make a trough around our tree
+
+we have n't forgotten to make a trough around our tree
+permits
+we have included two critical constraints
+
+we did n't forget to make a trough around our tree
+contradicts
+we did not make a trough around our tree
+
+we did not make a trough around our tree
+contradicts
+we did n't forget to make a trough around our tree
+
+he has forgotten to keep Burke away
+entails
+he has n't kept Burke away
+
+he has n't kept Burke away
+permits
+he has forgotten to keep Burke away
+
+he had forgotten to keep Burke away
+contradicts
+he had kept Burke away
+
+he had kept Burke away
+contradicts
+he had forgotten to keep Burke away
+
+he has almost forgotten to keep Burke away
+entails
+he has kept Burke away
+
+he has kept Burke away
+permits
+he has almost forgotten to keep Burke away
+
+he has almost forgotten to keep Burke away
+permits
+Anselm has kept Burke away
+
+he has never forgotten to keep Burke away
+contradicts
+he has never kept Burke away
+
+he has never kept Burke away
+contradicts
+he has never forgotten to keep Burke away
+
+I forgot to pray for you
+entails
+I did n't pray for you
+
+I did n't pray for you
+permits
+I forgot to pray for you
+
+I forgot to pray for you
+contradicts
+I prayed for you
+
+I prayed for you
+contradicts
+I forgot to pray for you
+
+I forgot to pray for you
+permits
+I paid America's water infrastructure bill
+
+I have not forgotten to pray for you
+entails
+I have prayed for you
+
+I have prayed for you
+permits
+I have not forgotten to pray for you
+
+I have not forgotten to pray for you
+permits
+I have turned in my I-94 when i left the U.S.
+
+I had not forgotten to pray for you
+contradicts
+I had not prayed for you
+
+I had not prayed for you
+contradicts
+I had not forgotten to pray for you
+
+I had not forgotten to pray for you
+permits
+she had not prayed for you
+
+she had forgotten to take me to the elephant tree
+entails
+she had n't taken me to the elephant tree
+
+she had n't taken me to the elephant tree
+permits
+she had forgotten to take me to the elephant tree
+
+she had forgotten to take me to the elephant tree
+permits
+she had not prayed for you
+
+she has forgotten to take me to the elephant tree
+contradicts
+she has taken me to the elephant tree
+
+she has taken me to the elephant tree
+contradicts
+she has forgotten to take me to the elephant tree
+
+she has almost forgotten to take me to the elephant tree
+entails
+she has taken me to the elephant tree
+
+she has taken me to the elephant tree
+permits
+she has almost forgotten to take me to the elephant tree
+
+she has almost forgotten to take me to the elephant tree
+permits
+Sylvester Stallone has taken me to the elephant tree
+
+she has n't forgotten to take me to the elephant tree
+contradicts
+she has n't taken me to the elephant tree
+
+she has n't taken me to the elephant tree
+contradicts
+she has n't forgotten to take me to the elephant tree
+
+she has n't forgotten to take me to the elephant tree
+permits
+she has not wished you a happy weekend
+
+I have finally forgotten to buy milk for that jumbo box of cereal
+entails
+I have n't bought milk for that jumbo box of cereal
+
+I have n't bought milk for that jumbo box of cereal
+permits
+I have finally forgotten to buy milk for that jumbo box of cereal
+
+I finally forgot to buy milk for that jumbo box of cereal
+contradicts
+I bought milk for that jumbo box of cereal
+
+I bought milk for that jumbo box of cereal
+contradicts
+I finally forgot to buy milk for that jumbo box of cereal
+
+I finally forgot to buy milk for that jumbo box of cereal
+permits
+you bought milk for that jumbo box of cereal
+
+I never have finally forgotten to buy milk for that jumbo box of cereal
+entails
+I have bought milk for that jumbo box of cereal
+
+I have bought milk for that jumbo box of cereal
+permits
+I never have finally forgotten to buy milk for that jumbo box of cereal
+
+I had never finally forgotten to buy milk for that jumbo box of cereal
+contradicts
+I had never bought milk for that jumbo box of cereal
+
+I had never bought milk for that jumbo box of cereal
+contradicts
+I had never finally forgotten to buy milk for that jumbo box of cereal
+
+I had never finally forgotten to buy milk for that jumbo box of cereal
+permits
+Canada had n't bought milk for that jumbo box of cereal
+
+you have forgotten to write a column
+entails
+you have n't written a column
+
+you have n't written a column
+permits
+you have forgotten to write a column
+
+you have forgotten to write a column
+permits
+you have not visited us and our red balloon at booth
+
+you forgot to write a column
+contradicts
+you wrote a column
+
+you wrote a column
+contradicts
+you forgot to write a column
+
+you have not forgotten to write a column
+entails
+you have written a column
+
+you have written a column
+permits
+you have not forgotten to write a column
+
+you have not forgotten to write a column
+contradicts
+you have n't written a column
+
+you have n't written a column
+contradicts
+you have not forgotten to write a column
+
+Lenina had forgotten to take all the contraceptive precautions prescribed by the regulations
+entails
+Lenina had not taken all the contraceptive precautions prescribed by the regulations
+
+Lenina had not taken all the contraceptive precautions prescribed by the regulations
+permits
+Lenina had forgotten to take all the contraceptive precautions prescribed by the regulations
+
+Lenina had forgotten to take all the contraceptive precautions prescribed by the regulations
+permits
+Chackochan had not taken all the contraceptive precautions prescribed by the regulations
+
+Lenina had forgotten to take all the contraceptive precautions prescribed by the regulations
+contradicts
+Lenina had taken all the contraceptive precautions prescribed by the regulations
+
+Lenina had taken all the contraceptive precautions prescribed by the regulations
+contradicts
+Lenina had forgotten to take all the contraceptive precautions prescribed by the regulations
+
+Lenina had forgotten to take all the contraceptive precautions prescribed by the regulations
+permits
+Lenina had been thankful for what she had
+
+Lenina had n't forgotten to take all the contraceptive precautions prescribed by the regulations
+entails
+Lenina had taken all the contraceptive precautions prescribed by the regulations
+
+Lenina had taken all the contraceptive precautions prescribed by the regulations
+permits
+Lenina had n't forgotten to take all the contraceptive precautions prescribed by the regulations
+
+Lenina had n't forgotten to take all the contraceptive precautions prescribed by the regulations
+contradicts
+Lenina had not taken all the contraceptive precautions prescribed by the regulations
+
+Lenina had not taken all the contraceptive precautions prescribed by the regulations
+contradicts
+Lenina had n't forgotten to take all the contraceptive precautions prescribed by the regulations
+
+they have forgotten to water the flowers
+entails
+they have not watered the flowers
+
+they have not watered the flowers
+permits
+they have forgotten to water the flowers
+
+they have forgotten to water the flowers
+permits
+we have n't watered the flowers
+
+they have forgotten to water the flowers
+contradicts
+they have watered the flowers
+
+they have watered the flowers
+contradicts
+they have forgotten to water the flowers
+
+they have not forgotten to water the flowers
+entails
+they have watered the flowers
+
+they have watered the flowers
+permits
+they have not forgotten to water the flowers
+
+they have not forgotten to water the flowers
+permits
+Sam’s Club have watered the flowers
+
+they never forgot to water the flowers
+contradicts
+they did n't water the flowers
+
+they did n't water the flowers
+contradicts
+they never forgot to water the flowers
+
+they never forgot to water the flowers
+permits
+they did n't declare £400,000 income
+
+Linda forgot to remind the mother
+entails
+Linda did not remind the mother
+
+Linda did not remind the mother
+permits
+Linda forgot to remind the mother
+
+Linda has forgotten to remind the mother
+contradicts
+Linda has reminded the mother
+
+Linda has reminded the mother
+contradicts
+Linda has forgotten to remind the mother
+
+Linda has forgotten to remind the mother
+permits
+highest-earning Tory MP has reminded the mother
+
+Linda had n't forgotten to remind the mother
+entails
+Linda had reminded the mother
+
+Linda had reminded the mother
+permits
+Linda had n't forgotten to remind the mother
+
+Linda had n't forgotten to remind the mother
+permits
+Carly Fiorina had reminded the mother
+
+Linda has not forgotten to remind the mother
+contradicts
+Linda has not reminded the mother
+
+Linda has not reminded the mother
+contradicts
+Linda has not forgotten to remind the mother
+
+I have forgotten to back up my iphone 3G into my iTunes
+entails
+I have n't backed up my iphone 3G into my iTunes
+
+I have n't backed up my iphone 3G into my iTunes
+permits
+I have forgotten to back up my iphone 3G into my iTunes
+
+I had forgotten to back up my iphone 3G into my iTunes
+contradicts
+I had backed up my iphone 3G into my iTunes
+
+I had backed up my iphone 3G into my iTunes
+contradicts
+I had forgotten to back up my iphone 3G into my iTunes
+
+I never forgot to back up my iphone 3G into my iTunes
+entails
+I backed up my iphone 3G into my iTunes
+
+I backed up my iphone 3G into my iTunes
+permits
+I never forgot to back up my iphone 3G into my iTunes
+
+I have almost forgotten to back up my iphone 3G into my iTunes
+contradicts
+I have almost backed up my iphone 3G into my iTunes
+
+I have almost backed up my iphone 3G into my iTunes
+contradicts
+I have almost forgotten to back up my iphone 3G into my iTunes
+
+I have almost forgotten to back up my iphone 3G into my iTunes
+permits
+I have n't visited us and our red balloon at booth
+
+you have forgotten to visit us and our red balloon at booth
+entails
+you have n't visited us and our red balloon at booth
+
+you have n't visited us and our red balloon at booth
+permits
+you have forgotten to visit us and our red balloon at booth
+
+you have forgotten to visit us and our red balloon at booth
+permits
+you have not put the oil back in after draining it
+
+you forgot to visit us and our red balloon at booth
+contradicts
+you visited us and our red balloon at booth
+
+you visited us and our red balloon at booth
+contradicts
+you forgot to visit us and our red balloon at booth
+
+you had n't forgotten to visit us and our red balloon at booth
+entails
+you had visited us and our red balloon at booth
+
+you had visited us and our red balloon at booth
+permits
+you had n't forgotten to visit us and our red balloon at booth
+
+you had n't forgotten to visit us and our red balloon at booth
+contradicts
+you had n't visited us and our red balloon at booth
+
+you had n't visited us and our red balloon at booth
+contradicts
+you had n't forgotten to visit us and our red balloon at booth
+
+you had n't forgotten to visit us and our red balloon at booth
+permits
+you had not remembered to forget
+
+you had forgotten to attach a file to the message
+entails
+you had not attached a file to the message
+
+you had not attached a file to the message
+permits
+you had forgotten to attach a file to the message
+
+you had forgotten to attach a file to the message
+permits
+Anna Farid had n't attached a file to the message
+
+you have forgotten to attach a file to the message
+contradicts
+you have attached a file to the message
+
+you have attached a file to the message
+contradicts
+you have forgotten to attach a file to the message
+
+you have forgotten to attach a file to the message
+permits
+you have told some employees about your clever Costco promotion
+
+you did n't forget to attach a file to the message
+entails
+you attached a file to the message
+
+you attached a file to the message
+permits
+you did n't forget to attach a file to the message
+
+you did n't forget to attach a file to the message
+permits
+the globalization project attached a file to the message
+
+you had n't forgotten to attach a file to the message
+contradicts
+you had n't attached a file to the message
+
+you had n't attached a file to the message
+contradicts
+you had n't forgotten to attach a file to the message
+
+you had n't forgotten to attach a file to the message
+permits
+you had not featured the soft drink in two of its own ads
+
+the team had forgotten to have fun while at work
+entails
+the team had not had fun while at work
+
+the team had not had fun while at work
+permits
+the team had forgotten to have fun while at work
+
+the team had forgotten to have fun while at work
+permits
+you had not had fun while at work
+
+the team forgot to have fun while at work
+contradicts
+the team had fun while at work
+
+the team had fun while at work
+contradicts
+the team forgot to have fun while at work
+
+the team had never forgotten to have fun while at work
+entails
+the team had had fun while at work
+
+the team had had fun while at work
+permits
+the team had never forgotten to have fun while at work
+
+the team had never forgotten to have fun while at work
+permits
+the team had watered the flowers
+
+the team did n't forget to have fun while at work
+contradicts
+the team did not have fun while at work
+
+the team did not have fun while at work
+contradicts
+the team did n't forget to have fun while at work
+
+Anselm had forgotten to put the money out on good interest
+entails
+Anselm had n't put the money out on good interest
+
+Anselm had n't put the money out on good interest
+permits
+Anselm had forgotten to put the money out on good interest
+
+Anselm had forgotten to put the money out on good interest
+permits
+Anselm had not worn green today
+
+Anselm had forgotten to put the money out on good interest
+contradicts
+Anselm had put the money out on good interest
+
+Anselm had put the money out on good interest
+contradicts
+Anselm had forgotten to put the money out on good interest
+
+Anselm has never forgotten to put the money out on good interest
+entails
+Anselm has put the money out on good interest
+
+Anselm has put the money out on good interest
+permits
+Anselm has never forgotten to put the money out on good interest
+
+Anselm has never forgotten to put the money out on good interest
+permits
+she has put the money out on good interest
+
+Anselm had not forgotten to put the money out on good interest
+contradicts
+Anselm had not put the money out on good interest
+
+Anselm had not put the money out on good interest
+contradicts
+Anselm had not forgotten to put the money out on good interest
+
+Anselm had not forgotten to put the money out on good interest
+permits
+Anselm had not planned for its future by leaning on oil and the loonie
+
+we have forgotten to pray for the activities that go on in the C-Building
+entails
+we have not prayed for the activities that go on in the C-Building
+
+we have not prayed for the activities that go on in the C-Building
+permits
+we have forgotten to pray for the activities that go on in the C-Building
+
+we have forgotten to pray for the activities that go on in the C-Building
+permits
+Applebee's have n't prayed for the activities that go on in the C-Building
+
+we have forgotten to pray for the activities that go on in the C-Building
+contradicts
+we have prayed for the activities that go on in the C-Building
+
+we have prayed for the activities that go on in the C-Building
+contradicts
+we have forgotten to pray for the activities that go on in the C-Building
+
+we had never forgotten to pray for the activities that go on in the C-Building
+entails
+we had prayed for the activities that go on in the C-Building
+
+we had prayed for the activities that go on in the C-Building
+permits
+we had never forgotten to pray for the activities that go on in the C-Building
+
+we had never forgotten to pray for the activities that go on in the C-Building
+permits
+Applebee's had prayed for the activities that go on in the C-Building
+
+we almost forgot to pray for the activities that go on in the C-Building
+contradicts
+we did n't pray for the activities that go on in the C-Building
+
+we did n't pray for the activities that go on in the C-Building
+contradicts
+we almost forgot to pray for the activities that go on in the C-Building
+
+Chackochan has forgotten to do his bit for the less fortunate on his special day
+entails
+Chackochan has n't done his bit for the less fortunate on his special day
+
+Chackochan has n't done his bit for the less fortunate on his special day
+permits
+Chackochan has forgotten to do his bit for the less fortunate on his special day
+
+Chackochan forgot to do his bit for the less fortunate on his special day
+contradicts
+Chackochan did his bit for the less fortunate on his special day
+
+Chackochan did his bit for the less fortunate on his special day
+contradicts
+Chackochan forgot to do his bit for the less fortunate on his special day
+
+Chackochan has never forgotten to do his bit for the less fortunate on his special day
+entails
+Chackochan has done his bit for the less fortunate on his special day
+
+Chackochan has done his bit for the less fortunate on his special day
+permits
+Chackochan has never forgotten to do his bit for the less fortunate on his special day
+
+Chackochan has never forgotten to do his bit for the less fortunate on his special day
+permits
+Linda has done her bit for the less fortunate on her special day
+
+Chackochan has n't forgotten to do his bit for the less fortunate on his special day
+contradicts
+Chackochan has n't done his bit for the less fortunate on his special day
+
+Chackochan has n't done his bit for the less fortunate on his special day
+contradicts
+Chackochan has n't forgotten to do his bit for the less fortunate on his special day
+
+she has forgotten to put the key under the mat
+entails
+she has not put the key under the mat
+
+she has not put the key under the mat
+permits
+she has forgotten to put the key under the mat
+
+she has forgotten to put the key under the mat
+permits
+she has not wished you a happy weekend
+
+she had forgotten to put the key under the mat
+contradicts
+she had put the key under the mat
+
+she had put the key under the mat
+contradicts
+she had forgotten to put the key under the mat
+
+she had n't forgotten to put the key under the mat
+entails
+she had put the key under the mat
+
+she had put the key under the mat
+permits
+she had n't forgotten to put the key under the mat
+
+she has n't forgotten to put the key under the mat
+contradicts
+she has not put the key under the mat
+
+she has not put the key under the mat
+contradicts
+she has n't forgotten to put the key under the mat
+
+she has n't forgotten to put the key under the mat
+permits
+the Jeb campaign has not put the key under the mat
+
+it had forgotten to mention his nice deep voice
+entails
+it had n't mentioned his nice deep voice
+
+it had n't mentioned his nice deep voice
+permits
+it had forgotten to mention his nice deep voice
+
+it had forgotten to mention his nice deep voice
+permits
+it had not thanked the bear though during his speech
+
+it forgot to mention his nice deep voice
+contradicts
+it mentioned his nice deep voice
+
+it mentioned his nice deep voice
+contradicts
+it forgot to mention his nice deep voice
+
+it had n't forgotten to mention his nice deep voice
+entails
+it had mentioned his nice deep voice
+
+it had mentioned his nice deep voice
+permits
+it had n't forgotten to mention his nice deep voice
+
+it had not forgotten to mention his nice deep voice
+contradicts
+it had not mentioned his nice deep voice
+
+it had not mentioned his nice deep voice
+contradicts
+it had not forgotten to mention his nice deep voice
+
+it had forgotten to include two critical constraints
+entails
+it had not included two critical constraints
+
+it had not included two critical constraints
+permits
+it had forgotten to include two critical constraints
+
+it had forgotten to include two critical constraints
+permits
+it had not mentioned its now-estranged wife, Jennifer Garner
+
+it has forgotten to include two critical constraints
+contradicts
+it has included two critical constraints
+
+it has included two critical constraints
+contradicts
+it has forgotten to include two critical constraints
+
+it has forgotten to include two critical constraints
+permits
+the globalization project has included two critical constraints
+
+it had almost forgotten to include two critical constraints
+entails
+it had included two critical constraints
+
+it had included two critical constraints
+permits
+it had almost forgotten to include two critical constraints
+
+it had almost forgotten to include two critical constraints
+permits
+the actor-director had included two critical constraints
+
+it has almost forgotten to include two critical constraints
+contradicts
+it has not included two critical constraints
+
+it has not included two critical constraints
+contradicts
+it has almost forgotten to include two critical constraints
+
+it has forgotten to feature the soft drink in two of its own ads
+entails
+it has n't featured the soft drink in two of its own ads
+
+it has n't featured the soft drink in two of its own ads
+permits
+it has forgotten to feature the soft drink in two of its own ads
+
+it has forgotten to feature the soft drink in two of its own ads
+permits
+it has not shut the windows when it left
+
+it has forgotten to feature the soft drink in two of its own ads
+contradicts
+it has featured the soft drink in two of its own ads
+
+it has featured the soft drink in two of its own ads
+contradicts
+it has forgotten to feature the soft drink in two of its own ads
+
+it has not forgotten to feature the soft drink in two of its own ads
+entails
+it has featured the soft drink in two of its own ads
+
+it has featured the soft drink in two of its own ads
+permits
+it has not forgotten to feature the soft drink in two of its own ads
+
+it has not forgotten to feature the soft drink in two of its own ads
+permits
+it has given you my account number
+
+it had n't forgotten to feature the soft drink in two of its own ads
+contradicts
+it had n't featured the soft drink in two of its own ads
+
+it had n't featured the soft drink in two of its own ads
+contradicts
+it had n't forgotten to feature the soft drink in two of its own ads
+
+it had n't forgotten to feature the soft drink in two of its own ads
+permits
+highest-earning Tory MP had not featured the soft drink in two of its own ads
+
+I have forgotten to add the yeast to my cinnamon roll dough
+entails
+I have not added the yeast to my cinnamon roll dough
+
+I have not added the yeast to my cinnamon roll dough
+permits
+I have forgotten to add the yeast to my cinnamon roll dough
+
+I have forgotten to add the yeast to my cinnamon roll dough
+permits
+I have n't shut the windows when i left
+
+I had forgotten to add the yeast to my cinnamon roll dough
+contradicts
+I had added the yeast to my cinnamon roll dough
+
+I had added the yeast to my cinnamon roll dough
+contradicts
+I had forgotten to add the yeast to my cinnamon roll dough
+
+I did not forget to add the yeast to my cinnamon roll dough
+entails
+I added the yeast to my cinnamon roll dough
+
+I added the yeast to my cinnamon roll dough
+permits
+I did not forget to add the yeast to my cinnamon roll dough
+
+I did not forget to add the yeast to my cinnamon roll dough
+permits
+you added the yeast to my cinnamon roll dough
+
+I never forgot to add the yeast to my cinnamon roll dough
+contradicts
+I did not add the yeast to my cinnamon roll dough
+
+I did not add the yeast to my cinnamon roll dough
+contradicts
+I never forgot to add the yeast to my cinnamon roll dough
+
+I never forgot to add the yeast to my cinnamon roll dough
+permits
+I was n't awesome
+
+Carly Fiorina has forgotten to register carlyfiorina.org
+entails
+Carly Fiorina has n't registered carlyfiorina.org
+
+Carly Fiorina has n't registered carlyfiorina.org
+permits
+Carly Fiorina has forgotten to register carlyfiorina.org
+
+Carly Fiorina has forgotten to register carlyfiorina.org
+contradicts
+Carly Fiorina has registered carlyfiorina.org
+
+Carly Fiorina has registered carlyfiorina.org
+contradicts
+Carly Fiorina has forgotten to register carlyfiorina.org
+
+Carly Fiorina has forgotten to register carlyfiorina.org
+permits
+Nawaz Sharif has registered carlyfiorina.org
+
+Carly Fiorina almost forgot to register carlyfiorina.org
+entails
+Carly Fiorina registered carlyfiorina.org
+
+Carly Fiorina registered carlyfiorina.org
+permits
+Carly Fiorina almost forgot to register carlyfiorina.org
+
+Carly Fiorina almost forgot to register carlyfiorina.org
+permits
+Carly Fiorina shut the windows when she left
+
+Carly Fiorina has n't forgotten to register carlyfiorina.org
+contradicts
+Carly Fiorina has n't registered carlyfiorina.org
+
+Carly Fiorina has n't registered carlyfiorina.org
+contradicts
+Carly Fiorina has n't forgotten to register carlyfiorina.org
+
+Canada forgot to plan for its future by leaning on oil and the loonie
+entails
+Canada did n't plan for its future by leaning on oil and the loonie
+
+Canada did n't plan for its future by leaning on oil and the loonie
+permits
+Canada forgot to plan for its future by leaning on oil and the loonie
+
+Canada forgot to plan for its future by leaning on oil and the loonie
+permits
+Canada did n't shut the windows when it left
+
+Canada had forgotten to plan for its future by leaning on oil and the loonie
+contradicts
+Canada had planned for its future by leaning on oil and the loonie
+
+Canada had planned for its future by leaning on oil and the loonie
+contradicts
+Canada had forgotten to plan for its future by leaning on oil and the loonie
+
+Canada had forgotten to plan for its future by leaning on oil and the loonie
+permits
+Mike Webb had planned for its future by leaning on oil and the loonie
+
+Canada has almost forgotten to plan for its future by leaning on oil and the loonie
+entails
+Canada has planned for its future by leaning on oil and the loonie
+
+Canada has planned for its future by leaning on oil and the loonie
+permits
+Canada has almost forgotten to plan for its future by leaning on oil and the loonie
+
+Canada had almost forgotten to plan for its future by leaning on oil and the loonie
+contradicts
+Canada had n't planned for its future by leaning on oil and the loonie
+
+Canada had n't planned for its future by leaning on oil and the loonie
+contradicts
+Canada had almost forgotten to plan for its future by leaning on oil and the loonie
+
+Canada had almost forgotten to plan for its future by leaning on oil and the loonie
+permits
+Canada had not criticized Imran Khan in Washington,DC
+
+Alicia Vikander forgot to tell her dad she had landed the Tomb Raider role
+entails
+Alicia Vikander did n't tell her dad she had landed the Tomb Raider role
+
+Alicia Vikander did n't tell her dad she had landed the Tomb Raider role
+permits
+Alicia Vikander forgot to tell her dad she had landed the Tomb Raider role
+
+Alicia Vikander forgot to tell her dad she had landed the Tomb Raider role
+permits
+the globalization project did n't tell its dad it had landed the Tomb Raider role
+
+Alicia Vikander had forgotten to tell her dad she had landed the Tomb Raider role
+contradicts
+Alicia Vikander had told her dad she had landed the Tomb Raider role
+
+Alicia Vikander had told her dad she had landed the Tomb Raider role
+contradicts
+Alicia Vikander had forgotten to tell her dad she had landed the Tomb Raider role
+
+Alicia Vikander never forgot to tell her dad she had landed the Tomb Raider role
+entails
+Alicia Vikander told her dad she had landed the Tomb Raider role
+
+Alicia Vikander told her dad she had landed the Tomb Raider role
+permits
+Alicia Vikander never forgot to tell her dad she had landed the Tomb Raider role
+
+Alicia Vikander never forgot to tell her dad she had landed the Tomb Raider role
+permits
+Sylvester Stallone told his dad he had landed the Tomb Raider role
+
+Alicia Vikander had n't forgotten to tell her dad she had landed the Tomb Raider role
+contradicts
+Alicia Vikander had n't told her dad she had landed the Tomb Raider role
+
+Alicia Vikander had n't told her dad she had landed the Tomb Raider role
+contradicts
+Alicia Vikander had n't forgotten to tell her dad she had landed the Tomb Raider role
+
+Alicia Vikander had n't forgotten to tell her dad she had landed the Tomb Raider role
+permits
+Alicia Vikander had not taken all the contraceptive precautions prescribed by the regulations
+
+Leo DiCaprio forgot to thank the bear though during his speech
+entails
+Leo DiCaprio did n't thank the bear though during his speech
+
+Leo DiCaprio did n't thank the bear though during his speech
+permits
+Leo DiCaprio forgot to thank the bear though during his speech
+
+Leo DiCaprio forgot to thank the bear though during his speech
+permits
+Leo DiCaprio did not tell some employees about his clever Costco promotion
+
+Leo DiCaprio had forgotten to thank the bear though during his speech
+contradicts
+Leo DiCaprio had thanked the bear though during his speech
+
+Leo DiCaprio had thanked the bear though during his speech
+contradicts
+Leo DiCaprio had forgotten to thank the bear though during his speech
+
+Leo DiCaprio has n't forgotten to thank the bear though during his speech
+entails
+Leo DiCaprio has thanked the bear though during his speech
+
+Leo DiCaprio has thanked the bear though during his speech
+permits
+Leo DiCaprio has n't forgotten to thank the bear though during his speech
+
+Leo DiCaprio has n't forgotten to thank the bear though during his speech
+permits
+Leo DiCaprio has renewed the domain – JebBush.com
+
+Leo DiCaprio had n't forgotten to thank the bear though during his speech
+contradicts
+Leo DiCaprio had n't thanked the bear though during his speech
+
+Leo DiCaprio had n't thanked the bear though during his speech
+contradicts
+Leo DiCaprio had n't forgotten to thank the bear though during his speech
+
+you have forgotten to specify a form to display
+entails
+you have not specified a form to display
+
+you have not specified a form to display
+permits
+you have forgotten to specify a form to display
+
+you forgot to specify a form to display
+contradicts
+you specified a form to display
+
+you specified a form to display
+contradicts
+you forgot to specify a form to display
+
+you have not forgotten to specify a form to display
+entails
+you have specified a form to display
+
+you have specified a form to display
+permits
+you have not forgotten to specify a form to display
+
+you have never forgotten to specify a form to display
+contradicts
+you have never specified a form to display
+
+you have never specified a form to display
+contradicts
+you have never forgotten to specify a form to display
+
+you have never forgotten to specify a form to display
+permits
+you have not reminded the mother
+
+they forgot to register as Republicans
+entails
+they did not register as Republicans
+
+they did not register as Republicans
+permits
+they forgot to register as Republicans
+
+they forgot to register as Republicans
+permits
+they did n't frown thoughtfully or to wrinkle their nose
+
+they had forgotten to register as Republicans
+contradicts
+they had registered as Republicans
+
+they had registered as Republicans
+contradicts
+they had forgotten to register as Republicans
+
+they have not forgotten to register as Republicans
+entails
+they have registered as Republicans
+
+they have registered as Republicans
+permits
+they have not forgotten to register as Republicans
+
+they almost forgot to register as Republicans
+contradicts
+they did not register as Republicans
+
+they did not register as Republicans
+contradicts
+they almost forgot to register as Republicans
+
+the Jeb campaign had forgotten to renew the domain – JebBush.com
+entails
+the Jeb campaign had not renewed the domain – JebBush.com
+
+the Jeb campaign had not renewed the domain – JebBush.com
+permits
+the Jeb campaign had forgotten to renew the domain – JebBush.com
+
+the Jeb campaign had forgotten to renew the domain – JebBush.com
+permits
+Lenina had not renewed the domain – JebBush.com
+
+the Jeb campaign has forgotten to renew the domain – JebBush.com
+contradicts
+the Jeb campaign has renewed the domain – JebBush.com
+
+the Jeb campaign has renewed the domain – JebBush.com
+contradicts
+the Jeb campaign has forgotten to renew the domain – JebBush.com
+
+the Jeb campaign has not forgotten to renew the domain – JebBush.com
+entails
+the Jeb campaign has renewed the domain – JebBush.com
+
+the Jeb campaign has renewed the domain – JebBush.com
+permits
+the Jeb campaign has not forgotten to renew the domain – JebBush.com
+
+the Jeb campaign has almost forgotten to renew the domain – JebBush.com
+contradicts
+the Jeb campaign has n't renewed the domain – JebBush.com
+
+the Jeb campaign has n't renewed the domain – JebBush.com
+contradicts
+the Jeb campaign has almost forgotten to renew the domain – JebBush.com
+
+the globalization project has forgotten to consult the little people
+entails
+the globalization project has not consulted the little people
+
+the globalization project has not consulted the little people
+permits
+the globalization project has forgotten to consult the little people
+
+the globalization project has forgotten to consult the little people
+contradicts
+the globalization project has consulted the little people
+
+the globalization project has consulted the little people
+contradicts
+the globalization project has forgotten to consult the little people
+
+the globalization project has never forgotten to consult the little people
+entails
+the globalization project has consulted the little people
+
+the globalization project has consulted the little people
+permits
+the globalization project has never forgotten to consult the little people
+
+the globalization project has never forgotten to consult the little people
+permits
+the globalization project has written a column
+
+the globalization project had almost forgotten to consult the little people
+contradicts
+the globalization project had n't consulted the little people
+
+the globalization project had n't consulted the little people
+contradicts
+the globalization project had almost forgotten to consult the little people
+
+the globalization project had almost forgotten to consult the little people
+permits
+he had not consulted the little people
+

@@ -1,0 +1,2384 @@
+Verizon met an obligation to bring FiOS service to all residents of the city
+entails
+Verizon brought FiOS service to all residents of the city
+
+Verizon brought FiOS service to all residents of the city
+permits
+Verizon met an obligation to bring FiOS service to all residents of the city
+
+Verizon had met an obligation to bring FiOS service to all residents of the city
+contradicts
+Verizon had not brought FiOS service to all residents of the city
+
+Verizon had not brought FiOS service to all residents of the city
+contradicts
+Verizon had met an obligation to bring FiOS service to all residents of the city
+
+Verizon had never met an obligation to bring FiOS service to all residents of the city
+entails
+Verizon had n't brought FiOS service to all residents of the city
+
+Verizon had n't brought FiOS service to all residents of the city
+permits
+Verizon had never met an obligation to bring FiOS service to all residents of the city
+
+Verizon never has met an obligation to bring FiOS service to all residents of the city
+contradicts
+Verizon has brought FiOS service to all residents of the city
+
+Verizon has brought FiOS service to all residents of the city
+contradicts
+Verizon never has met an obligation to bring FiOS service to all residents of the city
+
+Verizon has met its obligation to bring FiOS service to all residents of the city
+entails
+Verizon has brought FiOS service to all residents of the city
+
+Verizon has brought FiOS service to all residents of the city
+permits
+Verizon has met its obligation to bring FiOS service to all residents of the city
+
+Verizon has met its obligation to bring FiOS service to all residents of the city
+contradicts
+Verizon has not brought FiOS service to all residents of the city
+
+Verizon has not brought FiOS service to all residents of the city
+contradicts
+Verizon has met its obligation to bring FiOS service to all residents of the city
+
+Verizon had n't met its obligation to bring FiOS service to all residents of the city
+entails
+Verizon had not brought FiOS service to all residents of the city
+
+Verizon had not brought FiOS service to all residents of the city
+permits
+Verizon had n't met its obligation to bring FiOS service to all residents of the city
+
+Verizon never met its obligation to bring FiOS service to all residents of the city
+contradicts
+Verizon brought FiOS service to all residents of the city
+
+Verizon brought FiOS service to all residents of the city
+contradicts
+Verizon never met its obligation to bring FiOS service to all residents of the city
+
+Verizon never met its obligation to bring FiOS service to all residents of the city
+permits
+I brought FiOS service to all residents of the city
+
+the client has met an obligation to pay
+entails
+the client has paid
+
+the client has paid
+permits
+the client has met an obligation to pay
+
+the client has met an obligation to pay
+contradicts
+the client has n't paid
+
+the client has n't paid
+contradicts
+the client has met an obligation to pay
+
+the client has met an obligation to pay
+permits
+Euris Consult has n't paid
+
+the client had not met an obligation to pay
+entails
+the client had n't paid
+
+the client had n't paid
+permits
+the client had not met an obligation to pay
+
+the client did not meet an obligation to pay
+contradicts
+the client paid
+
+the client paid
+contradicts
+the client did not meet an obligation to pay
+
+the client has met her obligation to pay
+entails
+the client has paid
+
+the client has paid
+permits
+the client has met her obligation to pay
+
+the client has met her obligation to pay
+contradicts
+the client has not paid
+
+the client has not paid
+contradicts
+the client has met her obligation to pay
+
+the client has n't met her obligation to pay
+entails
+the client has n't paid
+
+the client has n't paid
+permits
+the client has n't met her obligation to pay
+
+the client has n't met her obligation to pay
+permits
+the client has n't provided
+
+the client has never met her obligation to pay
+contradicts
+the client has paid
+
+the client has paid
+contradicts
+the client has never met her obligation to pay
+
+you have met an obligation to make a monthly payment
+entails
+you have made a monthly payment
+
+you have made a monthly payment
+permits
+you have met an obligation to make a monthly payment
+
+you have met an obligation to make a monthly payment
+permits
+you have paid
+
+you have met an obligation to make a monthly payment
+contradicts
+you have n't made a monthly payment
+
+you have n't made a monthly payment
+contradicts
+you have met an obligation to make a monthly payment
+
+you have met an obligation to make a monthly payment
+permits
+the client has n't made a monthly payment
+
+you had never met an obligation to make a monthly payment
+entails
+you had not made a monthly payment
+
+you had not made a monthly payment
+permits
+you had never met an obligation to make a monthly payment
+
+you had never met an obligation to make a monthly payment
+permits
+you had never carried out such maintenance
+
+you did n't meet an obligation to make a monthly payment
+contradicts
+you made a monthly payment
+
+you made a monthly payment
+contradicts
+you did n't meet an obligation to make a monthly payment
+
+you had met your obligation to make a monthly payment
+entails
+you had made a monthly payment
+
+you had made a monthly payment
+permits
+you had met your obligation to make a monthly payment
+
+you met your obligation to make a monthly payment
+contradicts
+you did n't make a monthly payment
+
+you did n't make a monthly payment
+contradicts
+you met your obligation to make a monthly payment
+
+you have n't met your obligation to make a monthly payment
+entails
+you have not made a monthly payment
+
+you have not made a monthly payment
+permits
+you have n't met your obligation to make a monthly payment
+
+you almost met your obligation to make a monthly payment
+contradicts
+you made a monthly payment
+
+you made a monthly payment
+contradicts
+you almost met your obligation to make a monthly payment
+
+the SGX has met an obligation to maintain orderly markets
+entails
+the SGX has maintained orderly markets
+
+the SGX has maintained orderly markets
+permits
+the SGX has met an obligation to maintain orderly markets
+
+the SGX has met an obligation to maintain orderly markets
+contradicts
+the SGX has not maintained orderly markets
+
+the SGX has not maintained orderly markets
+contradicts
+the SGX has met an obligation to maintain orderly markets
+
+the SGX has met an obligation to maintain orderly markets
+permits
+the SGX has n't answered the summons
+
+the SGX has never met an obligation to maintain orderly markets
+entails
+the SGX has never maintained orderly markets
+
+the SGX has never maintained orderly markets
+permits
+the SGX has never met an obligation to maintain orderly markets
+
+the SGX has never met an obligation to maintain orderly markets
+permits
+the SGX has never appointed the BOI members in a timely manner
+
+the SGX almost met an obligation to maintain orderly markets
+contradicts
+the SGX maintained orderly markets
+
+the SGX maintained orderly markets
+contradicts
+the SGX almost met an obligation to maintain orderly markets
+
+the SGX has met its obligation to maintain orderly markets
+entails
+the SGX has maintained orderly markets
+
+the SGX has maintained orderly markets
+permits
+the SGX has met its obligation to maintain orderly markets
+
+the SGX has met its obligation to maintain orderly markets
+contradicts
+the SGX has n't maintained orderly markets
+
+the SGX has n't maintained orderly markets
+contradicts
+the SGX has met its obligation to maintain orderly markets
+
+the SGX had almost met its obligation to maintain orderly markets
+entails
+the SGX had n't maintained orderly markets
+
+the SGX had n't maintained orderly markets
+permits
+the SGX had almost met its obligation to maintain orderly markets
+
+the SGX has n't met its obligation to maintain orderly markets
+contradicts
+the SGX has maintained orderly markets
+
+the SGX has maintained orderly markets
+contradicts
+the SGX has n't met its obligation to maintain orderly markets
+
+the SGX has n't met its obligation to maintain orderly markets
+permits
+Ankara has maintained orderly markets
+
+they met an obligation to defend what they believed to be right
+entails
+they defended what they believed to be right
+
+they defended what they believed to be right
+permits
+they met an obligation to defend what they believed to be right
+
+they met an obligation to defend what they believed to be right
+permits
+they showed cause
+
+they met an obligation to defend what they believed to be right
+contradicts
+they did n't defend what they believed to be right
+
+they did n't defend what they believed to be right
+contradicts
+they met an obligation to defend what they believed to be right
+
+they met an obligation to defend what they believed to be right
+permits
+we did not defend what we believed to be right
+
+they had n't met an obligation to defend what they believed to be right
+entails
+they had n't defended what they believed to be right
+
+they had n't defended what they believed to be right
+permits
+they had n't met an obligation to defend what they believed to be right
+
+they had n't met an obligation to defend what they believed to be right
+permits
+they had n't opened ports to ships from Cyprus
+
+they had almost met an obligation to defend what they believed to be right
+contradicts
+they had defended what they believed to be right
+
+they had defended what they believed to be right
+contradicts
+they had almost met an obligation to defend what they believed to be right
+
+they had almost met an obligation to defend what they believed to be right
+permits
+they had submitted a certified RMP to the regulator
+
+they had met their obligation to defend what they believed to be right
+entails
+they had defended what they believed to be right
+
+they had defended what they believed to be right
+permits
+they had met their obligation to defend what they believed to be right
+
+they have met their obligation to defend what they believed to be right
+contradicts
+they have n't defended what they believed to be right
+
+they have n't defended what they believed to be right
+contradicts
+they have met their obligation to defend what they believed to be right
+
+they almost had met their obligation to defend what they believed to be right
+entails
+they had n't defended what they believed to be right
+
+they had n't defended what they believed to be right
+permits
+they almost had met their obligation to defend what they believed to be right
+
+they almost had met their obligation to defend what they believed to be right
+permits
+the parties had n't defended what they believed to be right
+
+they have not met their obligation to defend what they believed to be right
+contradicts
+they have defended what they believed to be right
+
+they have defended what they believed to be right
+contradicts
+they have not met their obligation to defend what they believed to be right
+
+Russia has met an obligation to withdraw its forces to positions held before the conflict
+entails
+Russia has withdrawn its forces to positions held before the conflict
+
+Russia has withdrawn its forces to positions held before the conflict
+permits
+Russia has met an obligation to withdraw its forces to positions held before the conflict
+
+Russia has met an obligation to withdraw its forces to positions held before the conflict
+permits
+the employer has withdrawn its forces to positions held before the conflict
+
+Russia met an obligation to withdraw its forces to positions held before the conflict
+contradicts
+Russia did n't withdraw its forces to positions held before the conflict
+
+Russia did n't withdraw its forces to positions held before the conflict
+contradicts
+Russia met an obligation to withdraw its forces to positions held before the conflict
+
+Russia has not met an obligation to withdraw its forces to positions held before the conflict
+entails
+Russia has not withdrawn its forces to positions held before the conflict
+
+Russia has not withdrawn its forces to positions held before the conflict
+permits
+Russia has not met an obligation to withdraw its forces to positions held before the conflict
+
+Russia has not met an obligation to withdraw its forces to positions held before the conflict
+permits
+Russia has n't provided a cleaning service for the service you paid for
+
+Russia has almost met an obligation to withdraw its forces to positions held before the conflict
+contradicts
+Russia has withdrawn its forces to positions held before the conflict
+
+Russia has withdrawn its forces to positions held before the conflict
+contradicts
+Russia has almost met an obligation to withdraw its forces to positions held before the conflict
+
+Russia has almost met an obligation to withdraw its forces to positions held before the conflict
+permits
+the applicant has withdrawn his forces to positions held before the conflict
+
+Russia met its obligation to withdraw its forces to positions held before the conflict
+entails
+Russia withdrew its forces to positions held before the conflict
+
+Russia withdrew its forces to positions held before the conflict
+permits
+Russia met its obligation to withdraw its forces to positions held before the conflict
+
+Russia had met its obligation to withdraw its forces to positions held before the conflict
+contradicts
+Russia had not withdrawn its forces to positions held before the conflict
+
+Russia had not withdrawn its forces to positions held before the conflict
+contradicts
+Russia had met its obligation to withdraw its forces to positions held before the conflict
+
+Russia had met its obligation to withdraw its forces to positions held before the conflict
+permits
+Russia had n't covered 90% of UK homes by June 2013
+
+Russia never met its obligation to withdraw its forces to positions held before the conflict
+entails
+Russia never withdrew its forces to positions held before the conflict
+
+Russia never withdrew its forces to positions held before the conflict
+permits
+Russia never met its obligation to withdraw its forces to positions held before the conflict
+
+Russia never met its obligation to withdraw its forces to positions held before the conflict
+permits
+the client never withdrew her forces to positions held before the conflict
+
+Russia has never met its obligation to withdraw its forces to positions held before the conflict
+contradicts
+Russia has withdrawn its forces to positions held before the conflict
+
+Russia has withdrawn its forces to positions held before the conflict
+contradicts
+Russia has never met its obligation to withdraw its forces to positions held before the conflict
+
+Russia has never met its obligation to withdraw its forces to positions held before the conflict
+permits
+Russia has shown cause
+
+EE, Three and O2 have met an obligation to cover 90% of UK homes by June 2013
+entails
+EE, Three and O2 have covered 90% of UK homes by June 2013
+
+EE, Three and O2 have covered 90% of UK homes by June 2013
+permits
+EE, Three and O2 have met an obligation to cover 90% of UK homes by June 2013
+
+EE, Three and O2 have met an obligation to cover 90% of UK homes by June 2013
+permits
+the parties have covered 90% of UK homes by June 2013
+
+EE, Three and O2 had met an obligation to cover 90% of UK homes by June 2013
+contradicts
+EE, Three and O2 had not covered 90% of UK homes by June 2013
+
+EE, Three and O2 had not covered 90% of UK homes by June 2013
+contradicts
+EE, Three and O2 had met an obligation to cover 90% of UK homes by June 2013
+
+EE, Three and O2 had almost met an obligation to cover 90% of UK homes by June 2013
+entails
+EE, Three and O2 had n't covered 90% of UK homes by June 2013
+
+EE, Three and O2 had n't covered 90% of UK homes by June 2013
+permits
+EE, Three and O2 had almost met an obligation to cover 90% of UK homes by June 2013
+
+EE, Three and O2 had almost met an obligation to cover 90% of UK homes by June 2013
+permits
+EE, Three and O2 had not addrest human rights
+
+EE, Three and O2 had not met an obligation to cover 90% of UK homes by June 2013
+contradicts
+EE, Three and O2 had covered 90% of UK homes by June 2013
+
+EE, Three and O2 had covered 90% of UK homes by June 2013
+contradicts
+EE, Three and O2 had not met an obligation to cover 90% of UK homes by June 2013
+
+EE, Three and O2 had not met an obligation to cover 90% of UK homes by June 2013
+permits
+EE, Three and O2 had repaid the loan
+
+EE, Three and O2 met their obligation to cover 90% of UK homes by June 2013
+entails
+EE, Three and O2 covered 90% of UK homes by June 2013
+
+EE, Three and O2 covered 90% of UK homes by June 2013
+permits
+EE, Three and O2 met their obligation to cover 90% of UK homes by June 2013
+
+EE, Three and O2 had met their obligation to cover 90% of UK homes by June 2013
+contradicts
+EE, Three and O2 had n't covered 90% of UK homes by June 2013
+
+EE, Three and O2 had n't covered 90% of UK homes by June 2013
+contradicts
+EE, Three and O2 had met their obligation to cover 90% of UK homes by June 2013
+
+EE, Three and O2 had never met their obligation to cover 90% of UK homes by June 2013
+entails
+EE, Three and O2 had never covered 90% of UK homes by June 2013
+
+EE, Three and O2 had never covered 90% of UK homes by June 2013
+permits
+EE, Three and O2 had never met their obligation to cover 90% of UK homes by June 2013
+
+EE, Three and O2 have not met their obligation to cover 90% of UK homes by June 2013
+contradicts
+EE, Three and O2 have covered 90% of UK homes by June 2013
+
+EE, Three and O2 have covered 90% of UK homes by June 2013
+contradicts
+EE, Three and O2 have not met their obligation to cover 90% of UK homes by June 2013
+
+Ankara had met an obligation to open ports to ships from Cyprus
+entails
+Ankara had opened ports to ships from Cyprus
+
+Ankara had opened ports to ships from Cyprus
+permits
+Ankara had met an obligation to open ports to ships from Cyprus
+
+Ankara has met an obligation to open ports to ships from Cyprus
+contradicts
+Ankara has n't opened ports to ships from Cyprus
+
+Ankara has n't opened ports to ships from Cyprus
+contradicts
+Ankara has met an obligation to open ports to ships from Cyprus
+
+Ankara has met an obligation to open ports to ships from Cyprus
+permits
+Ankara has n't covered 90% of UK homes by June 2013
+
+Ankara never met an obligation to open ports to ships from Cyprus
+entails
+Ankara did not open ports to ships from Cyprus
+
+Ankara did not open ports to ships from Cyprus
+permits
+Ankara never met an obligation to open ports to ships from Cyprus
+
+Ankara had never met an obligation to open ports to ships from Cyprus
+contradicts
+Ankara had opened ports to ships from Cyprus
+
+Ankara had opened ports to ships from Cyprus
+contradicts
+Ankara had never met an obligation to open ports to ships from Cyprus
+
+Ankara has met its obligation to open ports to ships from Cyprus
+entails
+Ankara has opened ports to ships from Cyprus
+
+Ankara has opened ports to ships from Cyprus
+permits
+Ankara has met its obligation to open ports to ships from Cyprus
+
+Ankara has met its obligation to open ports to ships from Cyprus
+contradicts
+Ankara has not opened ports to ships from Cyprus
+
+Ankara has not opened ports to ships from Cyprus
+contradicts
+Ankara has met its obligation to open ports to ships from Cyprus
+
+Ankara has met its obligation to open ports to ships from Cyprus
+permits
+you have not opened ports to ships from Cyprus
+
+Ankara has not met its obligation to open ports to ships from Cyprus
+entails
+Ankara has not opened ports to ships from Cyprus
+
+Ankara has not opened ports to ships from Cyprus
+permits
+Ankara has not met its obligation to open ports to ships from Cyprus
+
+Ankara never met its obligation to open ports to ships from Cyprus
+contradicts
+Ankara opened ports to ships from Cyprus
+
+Ankara opened ports to ships from Cyprus
+contradicts
+Ankara never met its obligation to open ports to ships from Cyprus
+
+Ankara never met its obligation to open ports to ships from Cyprus
+permits
+the student opened ports to ships from Cyprus
+
+the applicator met the obligation to provide a written notification
+entails
+the applicator provided a written notification
+
+the applicator provided a written notification
+permits
+the applicator met the obligation to provide a written notification
+
+the applicator met the obligation to provide a written notification
+contradicts
+the applicator did n't provide a written notification
+
+the applicator did n't provide a written notification
+contradicts
+the applicator met the obligation to provide a written notification
+
+the applicator had never met the obligation to provide a written notification
+entails
+the applicator had never provided a written notification
+
+the applicator had never provided a written notification
+permits
+the applicator had never met the obligation to provide a written notification
+
+the applicator had never met the obligation to provide a written notification
+contradicts
+the applicator had provided a written notification
+
+the applicator had provided a written notification
+contradicts
+the applicator had never met the obligation to provide a written notification
+
+the applicator had met his obligation to provide a written notification
+entails
+the applicator had provided a written notification
+
+the applicator had provided a written notification
+permits
+the applicator had met his obligation to provide a written notification
+
+the applicator had met his obligation to provide a written notification
+permits
+the applicator had maintained orderly markets
+
+the applicator had met his obligation to provide a written notification
+contradicts
+the applicator had n't provided a written notification
+
+the applicator had n't provided a written notification
+contradicts
+the applicator had met his obligation to provide a written notification
+
+the applicator had met his obligation to provide a written notification
+permits
+she had not provided a written notification
+
+the applicator has not met his obligation to provide a written notification
+entails
+the applicator has not provided a written notification
+
+the applicator has not provided a written notification
+permits
+the applicator has not met his obligation to provide a written notification
+
+the applicator had almost met his obligation to provide a written notification
+contradicts
+the applicator had provided a written notification
+
+the applicator had provided a written notification
+contradicts
+the applicator had almost met his obligation to provide a written notification
+
+the applicator had almost met his obligation to provide a written notification
+permits
+I had provided a written notification
+
+we had met the obligation to pass a balanced, on-time budget
+entails
+we had passed a balanced, on-time budget
+
+we had passed a balanced, on-time budget
+permits
+we had met the obligation to pass a balanced, on-time budget
+
+we had met the obligation to pass a balanced, on-time budget
+permits
+we had answered the summons
+
+we had met the obligation to pass a balanced, on-time budget
+contradicts
+we had n't passed a balanced, on-time budget
+
+we had n't passed a balanced, on-time budget
+contradicts
+we had met the obligation to pass a balanced, on-time budget
+
+we have n't met the obligation to pass a balanced, on-time budget
+entails
+we have not passed a balanced, on-time budget
+
+we have not passed a balanced, on-time budget
+permits
+we have n't met the obligation to pass a balanced, on-time budget
+
+we never have met the obligation to pass a balanced, on-time budget
+contradicts
+we have passed a balanced, on-time budget
+
+we have passed a balanced, on-time budget
+contradicts
+we never have met the obligation to pass a balanced, on-time budget
+
+we had met our obligation to pass a balanced, on-time budget
+entails
+we had passed a balanced, on-time budget
+
+we had passed a balanced, on-time budget
+permits
+we had met our obligation to pass a balanced, on-time budget
+
+we had met our obligation to pass a balanced, on-time budget
+permits
+we had addrest human rights
+
+we met our obligation to pass a balanced, on-time budget
+contradicts
+we did n't pass a balanced, on-time budget
+
+we did n't pass a balanced, on-time budget
+contradicts
+we met our obligation to pass a balanced, on-time budget
+
+we almost met our obligation to pass a balanced, on-time budget
+entails
+we did n't pass a balanced, on-time budget
+
+we did n't pass a balanced, on-time budget
+permits
+we almost met our obligation to pass a balanced, on-time budget
+
+we did not meet our obligation to pass a balanced, on-time budget
+contradicts
+we passed a balanced, on-time budget
+
+we passed a balanced, on-time budget
+contradicts
+we did not meet our obligation to pass a balanced, on-time budget
+
+Euris Consult met the obligation to submit the tender under double cover
+entails
+Euris Consult submitted the tender under double cover
+
+Euris Consult submitted the tender under double cover
+permits
+Euris Consult met the obligation to submit the tender under double cover
+
+Euris Consult had met the obligation to submit the tender under double cover
+contradicts
+Euris Consult had n't submitted the tender under double cover
+
+Euris Consult had n't submitted the tender under double cover
+contradicts
+Euris Consult had met the obligation to submit the tender under double cover
+
+Euris Consult never has met the obligation to submit the tender under double cover
+entails
+Euris Consult has n't submitted the tender under double cover
+
+Euris Consult has n't submitted the tender under double cover
+permits
+Euris Consult never has met the obligation to submit the tender under double cover
+
+Euris Consult has not met the obligation to submit the tender under double cover
+contradicts
+Euris Consult has submitted the tender under double cover
+
+Euris Consult has submitted the tender under double cover
+contradicts
+Euris Consult has not met the obligation to submit the tender under double cover
+
+Euris Consult has not met the obligation to submit the tender under double cover
+permits
+you have submitted the tender under double cover
+
+Euris Consult met its obligation to submit the tender under double cover
+entails
+Euris Consult submitted the tender under double cover
+
+Euris Consult submitted the tender under double cover
+permits
+Euris Consult met its obligation to submit the tender under double cover
+
+Euris Consult met its obligation to submit the tender under double cover
+permits
+the employer submitted the tender under double cover
+
+Euris Consult had met its obligation to submit the tender under double cover
+contradicts
+Euris Consult had n't submitted the tender under double cover
+
+Euris Consult had n't submitted the tender under double cover
+contradicts
+Euris Consult had met its obligation to submit the tender under double cover
+
+Euris Consult had met its obligation to submit the tender under double cover
+permits
+the applicant had n't submitted the tender under double cover
+
+Euris Consult never met its obligation to submit the tender under double cover
+entails
+Euris Consult did n't submit the tender under double cover
+
+Euris Consult did n't submit the tender under double cover
+permits
+Euris Consult never met its obligation to submit the tender under double cover
+
+Euris Consult never met its obligation to submit the tender under double cover
+permits
+I never submitted the tender under double cover
+
+Euris Consult had not met its obligation to submit the tender under double cover
+contradicts
+Euris Consult had submitted the tender under double cover
+
+Euris Consult had submitted the tender under double cover
+contradicts
+Euris Consult had not met its obligation to submit the tender under double cover
+
+Euris Consult had not met its obligation to submit the tender under double cover
+permits
+the applicant had submitted the tender under double cover
+
+ENRC met the obligation to address human rights
+entails
+ENRC addrest human rights
+
+ENRC addrest human rights
+permits
+ENRC met the obligation to address human rights
+
+ENRC had met the obligation to address human rights
+contradicts
+ENRC had n't addrest human rights
+
+ENRC had n't addrest human rights
+contradicts
+ENRC had met the obligation to address human rights
+
+ENRC had met the obligation to address human rights
+permits
+ENRC had not brought FiOS service to all residents of the city
+
+ENRC had n't met the obligation to address human rights
+entails
+ENRC had n't addrest human rights
+
+ENRC had n't addrest human rights
+permits
+ENRC had n't met the obligation to address human rights
+
+ENRC had n't met the obligation to address human rights
+permits
+ENRC had n't answered the summons
+
+ENRC had almost met the obligation to address human rights
+contradicts
+ENRC had addrest human rights
+
+ENRC had addrest human rights
+contradicts
+ENRC had almost met the obligation to address human rights
+
+ENRC had met its obligation to address human rights
+entails
+ENRC had addrest human rights
+
+ENRC had addrest human rights
+permits
+ENRC had met its obligation to address human rights
+
+ENRC had met its obligation to address human rights
+permits
+the applicant had addrest human rights
+
+ENRC met its obligation to address human rights
+contradicts
+ENRC did n't address human rights
+
+ENRC did n't address human rights
+contradicts
+ENRC met its obligation to address human rights
+
+ENRC did not meet its obligation to address human rights
+entails
+ENRC did n't address human rights
+
+ENRC did n't address human rights
+permits
+ENRC did not meet its obligation to address human rights
+
+ENRC had almost met its obligation to address human rights
+contradicts
+ENRC had addrest human rights
+
+ENRC had addrest human rights
+contradicts
+ENRC had almost met its obligation to address human rights
+
+the applicant has met the obligation to show cause
+entails
+the applicant has shown cause
+
+the applicant has shown cause
+permits
+the applicant has met the obligation to show cause
+
+the applicant has met the obligation to show cause
+contradicts
+the applicant has not shown cause
+
+the applicant has not shown cause
+contradicts
+the applicant has met the obligation to show cause
+
+the applicant has met the obligation to show cause
+permits
+the applicant has n't passed a balanced, on-time budget
+
+the applicant has n't met the obligation to show cause
+entails
+the applicant has n't shown cause
+
+the applicant has n't shown cause
+permits
+the applicant has n't met the obligation to show cause
+
+the applicant had almost met the obligation to show cause
+contradicts
+the applicant had shown cause
+
+the applicant had shown cause
+contradicts
+the applicant had almost met the obligation to show cause
+
+the applicant has met his obligation to show cause
+entails
+the applicant has shown cause
+
+the applicant has shown cause
+permits
+the applicant has met his obligation to show cause
+
+the applicant has met his obligation to show cause
+contradicts
+the applicant has not shown cause
+
+the applicant has not shown cause
+contradicts
+the applicant has met his obligation to show cause
+
+the applicant almost met his obligation to show cause
+entails
+the applicant did n't show cause
+
+the applicant did n't show cause
+permits
+the applicant almost met his obligation to show cause
+
+the applicant almost met his obligation to show cause
+permits
+she did n't show cause
+
+the applicant almost met his obligation to show cause
+contradicts
+the applicant showed cause
+
+the applicant showed cause
+contradicts
+the applicant almost met his obligation to show cause
+
+the employer has met the obligation to submit a certified RMP to the regulator
+entails
+the employer has submitted a certified RMP to the regulator
+
+the employer has submitted a certified RMP to the regulator
+permits
+the employer has met the obligation to submit a certified RMP to the regulator
+
+the employer met the obligation to submit a certified RMP to the regulator
+contradicts
+the employer did n't submit a certified RMP to the regulator
+
+the employer did n't submit a certified RMP to the regulator
+contradicts
+the employer met the obligation to submit a certified RMP to the regulator
+
+the employer met the obligation to submit a certified RMP to the regulator
+permits
+the employer did not enforce the law
+
+the employer almost met the obligation to submit a certified RMP to the regulator
+entails
+the employer did not submit a certified RMP to the regulator
+
+the employer did not submit a certified RMP to the regulator
+permits
+the employer almost met the obligation to submit a certified RMP to the regulator
+
+the employer almost met the obligation to submit a certified RMP to the regulator
+permits
+the employer did n't let people evolve on their own
+
+the employer has not met the obligation to submit a certified RMP to the regulator
+contradicts
+the employer has submitted a certified RMP to the regulator
+
+the employer has submitted a certified RMP to the regulator
+contradicts
+the employer has not met the obligation to submit a certified RMP to the regulator
+
+the employer had met its obligation to submit a certified RMP to the regulator
+entails
+the employer had submitted a certified RMP to the regulator
+
+the employer had submitted a certified RMP to the regulator
+permits
+the employer had met its obligation to submit a certified RMP to the regulator
+
+the employer has met its obligation to submit a certified RMP to the regulator
+contradicts
+the employer has not submitted a certified RMP to the regulator
+
+the employer has not submitted a certified RMP to the regulator
+contradicts
+the employer has met its obligation to submit a certified RMP to the regulator
+
+the employer had n't met its obligation to submit a certified RMP to the regulator
+entails
+the employer had n't submitted a certified RMP to the regulator
+
+the employer had n't submitted a certified RMP to the regulator
+permits
+the employer had n't met its obligation to submit a certified RMP to the regulator
+
+the employer did n't meet its obligation to submit a certified RMP to the regulator
+contradicts
+the employer submitted a certified RMP to the regulator
+
+the employer submitted a certified RMP to the regulator
+contradicts
+the employer did n't meet its obligation to submit a certified RMP to the regulator
+
+the employer did n't meet its obligation to submit a certified RMP to the regulator
+permits
+the employer followed the laws
+
+the parties have met the obligation to publish future reports of internal audits
+entails
+the parties have published future reports of internal audits
+
+the parties have published future reports of internal audits
+permits
+the parties have met the obligation to publish future reports of internal audits
+
+the parties met the obligation to publish future reports of internal audits
+contradicts
+the parties did n't publish future reports of internal audits
+
+the parties did n't publish future reports of internal audits
+contradicts
+the parties met the obligation to publish future reports of internal audits
+
+the parties met the obligation to publish future reports of internal audits
+permits
+the parties did not open ports to ships from Cyprus
+
+the parties never have met the obligation to publish future reports of internal audits
+entails
+the parties have not published future reports of internal audits
+
+the parties have not published future reports of internal audits
+permits
+the parties never have met the obligation to publish future reports of internal audits
+
+the parties had almost met the obligation to publish future reports of internal audits
+contradicts
+the parties had published future reports of internal audits
+
+the parties had published future reports of internal audits
+contradicts
+the parties had almost met the obligation to publish future reports of internal audits
+
+the parties had almost met the obligation to publish future reports of internal audits
+permits
+we had published future reports of internal audits
+
+the parties have met their obligation to publish future reports of internal audits
+entails
+the parties have published future reports of internal audits
+
+the parties have published future reports of internal audits
+permits
+the parties have met their obligation to publish future reports of internal audits
+
+the parties have met their obligation to publish future reports of internal audits
+permits
+the parties have provided
+
+the parties met their obligation to publish future reports of internal audits
+contradicts
+the parties did n't publish future reports of internal audits
+
+the parties did n't publish future reports of internal audits
+contradicts
+the parties met their obligation to publish future reports of internal audits
+
+the parties have never met their obligation to publish future reports of internal audits
+entails
+the parties have not published future reports of internal audits
+
+the parties have not published future reports of internal audits
+permits
+the parties have never met their obligation to publish future reports of internal audits
+
+the parties have never met their obligation to publish future reports of internal audits
+permits
+the parties have n't provided a written notification
+
+the parties almost met their obligation to publish future reports of internal audits
+contradicts
+the parties published future reports of internal audits
+
+the parties published future reports of internal audits
+contradicts
+the parties almost met their obligation to publish future reports of internal audits
+
+I have met the obligation to answer the summons
+entails
+I have answered the summons
+
+I have answered the summons
+permits
+I have met the obligation to answer the summons
+
+I met the obligation to answer the summons
+contradicts
+I did not answer the summons
+
+I did not answer the summons
+contradicts
+I met the obligation to answer the summons
+
+I have almost met the obligation to answer the summons
+entails
+I have almost answered the summons
+
+I have almost answered the summons
+permits
+I have almost met the obligation to answer the summons
+
+I have almost met the obligation to answer the summons
+permits
+Verizon has almost answered the summons
+
+I have almost met the obligation to answer the summons
+contradicts
+I have answered the summons
+
+I have answered the summons
+contradicts
+I have almost met the obligation to answer the summons
+
+I met my obligation to answer the summons
+entails
+I answered the summons
+
+I answered the summons
+permits
+I met my obligation to answer the summons
+
+I had met my obligation to answer the summons
+contradicts
+I had n't answered the summons
+
+I had n't answered the summons
+contradicts
+I had met my obligation to answer the summons
+
+I did not meet my obligation to answer the summons
+entails
+I did n't answer the summons
+
+I did n't answer the summons
+permits
+I did not meet my obligation to answer the summons
+
+I did not meet my obligation to answer the summons
+permits
+I did not maintain orderly markets
+
+I did not meet my obligation to answer the summons
+contradicts
+I answered the summons
+
+I answered the summons
+contradicts
+I did not meet my obligation to answer the summons
+
+I did not meet my obligation to answer the summons
+permits
+I withdrew my forces to positions held before the conflict
+
+you met the obligation to act as quickly as you can
+entails
+you acted as quickly as you can
+
+you acted as quickly as you can
+permits
+you met the obligation to act as quickly as you can
+
+you met the obligation to act as quickly as you can
+permits
+Euris Consult acted as quickly as it can
+
+you met the obligation to act as quickly as you can
+contradicts
+you did not act as quickly as you can
+
+you did not act as quickly as you can
+contradicts
+you met the obligation to act as quickly as you can
+
+you met the obligation to act as quickly as you can
+permits
+you did n't bring FiOS service to all residents of the city
+
+you have never met the obligation to act as quickly as you can
+entails
+you have not acted as quickly as you can
+
+you have not acted as quickly as you can
+permits
+you have never met the obligation to act as quickly as you can
+
+you have never met the obligation to act as quickly as you can
+permits
+you have not enforced the law
+
+you have almost met the obligation to act as quickly as you can
+contradicts
+you have acted as quickly as you can
+
+you have acted as quickly as you can
+contradicts
+you have almost met the obligation to act as quickly as you can
+
+you met your obligation to act as quickly as you can
+entails
+you acted as quickly as you can
+
+you acted as quickly as you can
+permits
+you met your obligation to act as quickly as you can
+
+you have met your obligation to act as quickly as you can
+contradicts
+you have not acted as quickly as you can
+
+you have not acted as quickly as you can
+contradicts
+you have met your obligation to act as quickly as you can
+
+you did n't meet your obligation to act as quickly as you can
+entails
+you did n't act as quickly as you can
+
+you did n't act as quickly as you can
+permits
+you did n't meet your obligation to act as quickly as you can
+
+you almost met your obligation to act as quickly as you can
+contradicts
+you acted as quickly as you can
+
+you acted as quickly as you can
+contradicts
+you almost met your obligation to act as quickly as you can
+
+you almost met your obligation to act as quickly as you can
+permits
+Verizon acted as quickly as it can
+
+he had met the obligation to follow the laws
+entails
+he had followed the laws
+
+he had followed the laws
+permits
+he had met the obligation to follow the laws
+
+he had met the obligation to follow the laws
+permits
+he had taught his pupils basic subjects
+
+he has met the obligation to follow the laws
+contradicts
+he has not followed the laws
+
+he has not followed the laws
+contradicts
+he has met the obligation to follow the laws
+
+he has met the obligation to follow the laws
+permits
+he has not answered the summons
+
+he did n't meet the obligation to follow the laws
+entails
+he did n't follow the laws
+
+he did n't follow the laws
+permits
+he did n't meet the obligation to follow the laws
+
+he has n't met the obligation to follow the laws
+contradicts
+he has followed the laws
+
+he has followed the laws
+contradicts
+he has n't met the obligation to follow the laws
+
+he had met his obligation to follow the laws
+entails
+he had followed the laws
+
+he had followed the laws
+permits
+he had met his obligation to follow the laws
+
+he had met his obligation to follow the laws
+permits
+he had taught his pupils basic subjects
+
+he had met his obligation to follow the laws
+contradicts
+he had n't followed the laws
+
+he had n't followed the laws
+contradicts
+he had met his obligation to follow the laws
+
+he had met his obligation to follow the laws
+permits
+he had not provided a cleaning service for the service you paid for
+
+he had n't met his obligation to follow the laws
+entails
+he had not followed the laws
+
+he had not followed the laws
+permits
+he had n't met his obligation to follow the laws
+
+he had n't met his obligation to follow the laws
+permits
+he had n't provided a cleaning service for the service you paid for
+
+he has almost met his obligation to follow the laws
+contradicts
+he has followed the laws
+
+he has followed the laws
+contradicts
+he has almost met his obligation to follow the laws
+
+he had met the obligation to obtain the required number of settlers
+entails
+he had obtained the required number of settlers
+
+he had obtained the required number of settlers
+permits
+he had met the obligation to obtain the required number of settlers
+
+he had met the obligation to obtain the required number of settlers
+permits
+Euris Consult had obtained the required number of settlers
+
+he had met the obligation to obtain the required number of settlers
+contradicts
+he had not obtained the required number of settlers
+
+he had not obtained the required number of settlers
+contradicts
+he had met the obligation to obtain the required number of settlers
+
+he had met the obligation to obtain the required number of settlers
+permits
+he had n't acted as quickly as he can
+
+he never met the obligation to obtain the required number of settlers
+entails
+he never obtained the required number of settlers
+
+he never obtained the required number of settlers
+permits
+he never met the obligation to obtain the required number of settlers
+
+he never met the obligation to obtain the required number of settlers
+permits
+he never submitted a certified RMP to the regulator
+
+he had not met the obligation to obtain the required number of settlers
+contradicts
+he had obtained the required number of settlers
+
+he had obtained the required number of settlers
+contradicts
+he had not met the obligation to obtain the required number of settlers
+
+he had not met the obligation to obtain the required number of settlers
+permits
+the document had obtained the required number of settlers
+
+he has met his obligation to obtain the required number of settlers
+entails
+he has obtained the required number of settlers
+
+he has obtained the required number of settlers
+permits
+he has met his obligation to obtain the required number of settlers
+
+he has met his obligation to obtain the required number of settlers
+permits
+Russia has obtained the required number of settlers
+
+he has met his obligation to obtain the required number of settlers
+contradicts
+he has not obtained the required number of settlers
+
+he has not obtained the required number of settlers
+contradicts
+he has met his obligation to obtain the required number of settlers
+
+he has never met his obligation to obtain the required number of settlers
+entails
+he has n't obtained the required number of settlers
+
+he has n't obtained the required number of settlers
+permits
+he has never met his obligation to obtain the required number of settlers
+
+he has never met his obligation to obtain the required number of settlers
+permits
+the student has never obtained the required number of settlers
+
+he almost met his obligation to obtain the required number of settlers
+contradicts
+he obtained the required number of settlers
+
+he obtained the required number of settlers
+contradicts
+he almost met his obligation to obtain the required number of settlers
+
+she has met the obligation to provide
+entails
+she has provided
+
+she has provided
+permits
+she has met the obligation to provide
+
+she met the obligation to provide
+contradicts
+she did not provide
+
+she did not provide
+contradicts
+she met the obligation to provide
+
+she met the obligation to provide
+permits
+she did not carry out such maintenance
+
+she has n't met the obligation to provide
+entails
+she has not provided
+
+she has not provided
+permits
+she has n't met the obligation to provide
+
+she did not meet the obligation to provide
+contradicts
+she provided
+
+she provided
+contradicts
+she did not meet the obligation to provide
+
+she has met her obligation to provide
+entails
+she has provided
+
+she has provided
+permits
+she has met her obligation to provide
+
+she has met her obligation to provide
+permits
+the Board has provided
+
+she had met her obligation to provide
+contradicts
+she had n't provided
+
+she had n't provided
+contradicts
+she had met her obligation to provide
+
+she has n't met her obligation to provide
+entails
+she has n't provided
+
+she has n't provided
+permits
+she has n't met her obligation to provide
+
+she has n't met her obligation to provide
+permits
+she has n't published future reports of internal audits
+
+she has never met her obligation to provide
+contradicts
+she has provided
+
+she has provided
+contradicts
+she has never met her obligation to provide
+
+she has never met her obligation to provide
+permits
+the SGX has provided
+
+she has met the obligation to pay the fine
+entails
+she has paid the fine
+
+she has paid the fine
+permits
+she has met the obligation to pay the fine
+
+she met the obligation to pay the fine
+contradicts
+she did not pay the fine
+
+she did not pay the fine
+contradicts
+she met the obligation to pay the fine
+
+she has almost met the obligation to pay the fine
+entails
+she almost has paid the fine
+
+she almost has paid the fine
+permits
+she has almost met the obligation to pay the fine
+
+she has almost met the obligation to pay the fine
+permits
+the employer has n't paid the fine
+
+she had not met the obligation to pay the fine
+contradicts
+she had paid the fine
+
+she had paid the fine
+contradicts
+she had not met the obligation to pay the fine
+
+she met her obligation to pay the fine
+entails
+she paid the fine
+
+she paid the fine
+permits
+she met her obligation to pay the fine
+
+she met her obligation to pay the fine
+permits
+she showed cause
+
+she had met her obligation to pay the fine
+contradicts
+she had not paid the fine
+
+she had not paid the fine
+contradicts
+she had met her obligation to pay the fine
+
+she never met her obligation to pay the fine
+entails
+she never payed the fine
+
+she never payed the fine
+permits
+she never met her obligation to pay the fine
+
+she has almost met her obligation to pay the fine
+contradicts
+she has paid the fine
+
+she has paid the fine
+contradicts
+she has almost met her obligation to pay the fine
+
+we had met the obligation to outrank other institutions fully
+entails
+we had outranked other institutions fully
+
+we had outranked other institutions fully
+permits
+we had met the obligation to outrank other institutions fully
+
+we had met the obligation to outrank other institutions fully
+permits
+the parties had outranked other institutions fully
+
+we have met the obligation to outrank other institutions fully
+contradicts
+we have not outranked other institutions fully
+
+we have not outranked other institutions fully
+contradicts
+we have met the obligation to outrank other institutions fully
+
+we had almost met the obligation to outrank other institutions fully
+entails
+we had not outranked other institutions fully
+
+we had not outranked other institutions fully
+permits
+we had almost met the obligation to outrank other institutions fully
+
+we have not met the obligation to outrank other institutions fully
+contradicts
+we have outranked other institutions fully
+
+we have outranked other institutions fully
+contradicts
+we have not met the obligation to outrank other institutions fully
+
+we have not met the obligation to outrank other institutions fully
+permits
+we have maintained orderly markets
+
+we had met our obligation to outrank other institutions fully
+entails
+we had outranked other institutions fully
+
+we had outranked other institutions fully
+permits
+we had met our obligation to outrank other institutions fully
+
+we had met our obligation to outrank other institutions fully
+permits
+EE, Three and O2 had outranked other institutions fully
+
+we had met our obligation to outrank other institutions fully
+contradicts
+we had not outranked other institutions fully
+
+we had not outranked other institutions fully
+contradicts
+we had met our obligation to outrank other institutions fully
+
+we have never met our obligation to outrank other institutions fully
+entails
+we have not outranked other institutions fully
+
+we have not outranked other institutions fully
+permits
+we have never met our obligation to outrank other institutions fully
+
+we have never met our obligation to outrank other institutions fully
+permits
+they have not outranked other institutions fully
+
+we had not met our obligation to outrank other institutions fully
+contradicts
+we had outranked other institutions fully
+
+we had outranked other institutions fully
+contradicts
+we had not met our obligation to outrank other institutions fully
+
+we have met the obligation to provide a cleaning service for the service you paid for
+entails
+we have provided a cleaning service for the service you paid for
+
+we have provided a cleaning service for the service you paid for
+permits
+we have met the obligation to provide a cleaning service for the service you paid for
+
+we have met the obligation to provide a cleaning service for the service you paid for
+contradicts
+we have n't provided a cleaning service for the service you paid for
+
+we have n't provided a cleaning service for the service you paid for
+contradicts
+we have met the obligation to provide a cleaning service for the service you paid for
+
+we had not met the obligation to provide a cleaning service for the service you paid for
+entails
+we had not provided a cleaning service for the service you paid for
+
+we had not provided a cleaning service for the service you paid for
+permits
+we had not met the obligation to provide a cleaning service for the service you paid for
+
+we had not met the obligation to provide a cleaning service for the service you paid for
+permits
+we had n't reported an assessment of such risks
+
+we almost had met the obligation to provide a cleaning service for the service you paid for
+contradicts
+we had provided a cleaning service for the service you paid for
+
+we had provided a cleaning service for the service you paid for
+contradicts
+we almost had met the obligation to provide a cleaning service for the service you paid for
+
+we almost had met the obligation to provide a cleaning service for the service you paid for
+permits
+they had provided a cleaning service for the service you paid for
+
+we met our obligation to provide a cleaning service for the service you paid for
+entails
+we provided a cleaning service for the service you paid for
+
+we provided a cleaning service for the service you paid for
+permits
+we met our obligation to provide a cleaning service for the service you paid for
+
+we had met our obligation to provide a cleaning service for the service you paid for
+contradicts
+we had not provided a cleaning service for the service you paid for
+
+we had not provided a cleaning service for the service you paid for
+contradicts
+we had met our obligation to provide a cleaning service for the service you paid for
+
+we had met our obligation to provide a cleaning service for the service you paid for
+permits
+the state organs had not provided a cleaning service for the service you paid for
+
+we had almost met our obligation to provide a cleaning service for the service you paid for
+entails
+we had n't provided a cleaning service for the service you paid for
+
+we had n't provided a cleaning service for the service you paid for
+permits
+we had almost met our obligation to provide a cleaning service for the service you paid for
+
+we had almost met our obligation to provide a cleaning service for the service you paid for
+contradicts
+we had provided a cleaning service for the service you paid for
+
+we had provided a cleaning service for the service you paid for
+contradicts
+we had almost met our obligation to provide a cleaning service for the service you paid for
+
+we had almost met our obligation to provide a cleaning service for the service you paid for
+permits
+we had obtained the required number of settlers
+
+they met the obligation to let people evolve on their own
+entails
+they let people evolve on their own
+
+they let people evolve on their own
+permits
+they met the obligation to let people evolve on their own
+
+they met the obligation to let people evolve on their own
+permits
+we let people evolve on their own
+
+they had met the obligation to let people evolve on their own
+contradicts
+they had n't let people evolve on their own
+
+they had n't let people evolve on their own
+contradicts
+they had met the obligation to let people evolve on their own
+
+they had met the obligation to let people evolve on their own
+permits
+they had n't defended what they believed to be right
+
+they had not met the obligation to let people evolve on their own
+entails
+they had not let people evolve on their own
+
+they had not let people evolve on their own
+permits
+they had not met the obligation to let people evolve on their own
+
+they did n't meet the obligation to let people evolve on their own
+contradicts
+they let people evolve on their own
+
+they let people evolve on their own
+contradicts
+they did n't meet the obligation to let people evolve on their own
+
+they did n't meet the obligation to let people evolve on their own
+permits
+they taught their pupils basic subjects
+
+they had met their obligation to let people evolve on their own
+entails
+they had let people evolve on their own
+
+they had let people evolve on their own
+permits
+they had met their obligation to let people evolve on their own
+
+they had met their obligation to let people evolve on their own
+permits
+we had let people evolve on their own
+
+they met their obligation to let people evolve on their own
+contradicts
+they did not let people evolve on their own
+
+they did not let people evolve on their own
+contradicts
+they met their obligation to let people evolve on their own
+
+they met their obligation to let people evolve on their own
+permits
+they did n't pay
+
+they did not meet their obligation to let people evolve on their own
+entails
+they did not let people evolve on their own
+
+they did not let people evolve on their own
+permits
+they did not meet their obligation to let people evolve on their own
+
+they did not meet their obligation to let people evolve on their own
+permits
+the state organs did not let people evolve on their own
+
+they have not met their obligation to let people evolve on their own
+contradicts
+they have let people evolve on their own
+
+they have let people evolve on their own
+contradicts
+they have not met their obligation to let people evolve on their own
+
+they have not met their obligation to let people evolve on their own
+permits
+the parties have let people evolve on their own
+
+they have met the obligation to teach their pupils basic subjects
+entails
+they have taught their pupils basic subjects
+
+they have taught their pupils basic subjects
+permits
+they have met the obligation to teach their pupils basic subjects
+
+they have met the obligation to teach their pupils basic subjects
+permits
+they have outranked other institutions fully
+
+they met the obligation to teach their pupils basic subjects
+contradicts
+they did not teach their pupils basic subjects
+
+they did not teach their pupils basic subjects
+contradicts
+they met the obligation to teach their pupils basic subjects
+
+they never had met the obligation to teach their pupils basic subjects
+entails
+they had never taught their pupils basic subjects
+
+they had never taught their pupils basic subjects
+permits
+they never had met the obligation to teach their pupils basic subjects
+
+they never had met the obligation to teach their pupils basic subjects
+permits
+the parties had not taught their pupils basic subjects
+
+they had never met the obligation to teach their pupils basic subjects
+contradicts
+they had taught their pupils basic subjects
+
+they had taught their pupils basic subjects
+contradicts
+they had never met the obligation to teach their pupils basic subjects
+
+they had never met the obligation to teach their pupils basic subjects
+permits
+the state organs had taught their pupils basic subjects
+
+they met their obligation to teach their pupils basic subjects
+entails
+they taught their pupils basic subjects
+
+they taught their pupils basic subjects
+permits
+they met their obligation to teach their pupils basic subjects
+
+they met their obligation to teach their pupils basic subjects
+permits
+the state organs taught their pupils basic subjects
+
+they met their obligation to teach their pupils basic subjects
+contradicts
+they did not teach their pupils basic subjects
+
+they did not teach their pupils basic subjects
+contradicts
+they met their obligation to teach their pupils basic subjects
+
+they met their obligation to teach their pupils basic subjects
+permits
+they did not outrank other institutions fully
+
+they have n't met their obligation to teach their pupils basic subjects
+entails
+they have n't taught their pupils basic subjects
+
+they have n't taught their pupils basic subjects
+permits
+they have n't met their obligation to teach their pupils basic subjects
+
+they have n't met their obligation to teach their pupils basic subjects
+permits
+they have n't carried out such maintenance
+
+they did not meet their obligation to teach their pupils basic subjects
+contradicts
+they taught their pupils basic subjects
+
+they taught their pupils basic subjects
+contradicts
+they did not meet their obligation to teach their pupils basic subjects
+
+they did not meet their obligation to teach their pupils basic subjects
+permits
+they showed cause
+
+the state organs met the obligation to enforce the law
+entails
+the state organs enforced the law
+
+the state organs enforced the law
+permits
+the state organs met the obligation to enforce the law
+
+the state organs met the obligation to enforce the law
+contradicts
+the state organs did n't enforce the law
+
+the state organs did n't enforce the law
+contradicts
+the state organs met the obligation to enforce the law
+
+the state organs had never met the obligation to enforce the law
+entails
+the state organs had never enforced the law
+
+the state organs had never enforced the law
+permits
+the state organs had never met the obligation to enforce the law
+
+the state organs have n't met the obligation to enforce the law
+contradicts
+the state organs have enforced the law
+
+the state organs have enforced the law
+contradicts
+the state organs have n't met the obligation to enforce the law
+
+the state organs met their obligation to enforce the law
+entails
+the state organs enforced the law
+
+the state organs enforced the law
+permits
+the state organs met their obligation to enforce the law
+
+the state organs met their obligation to enforce the law
+permits
+the state organs published future reports of internal audits
+
+the state organs met their obligation to enforce the law
+contradicts
+the state organs did not enforce the law
+
+the state organs did not enforce the law
+contradicts
+the state organs met their obligation to enforce the law
+
+the state organs met their obligation to enforce the law
+permits
+the state organs did not pay the fine
+
+the state organs had not met their obligation to enforce the law
+entails
+the state organs had n't enforced the law
+
+the state organs had n't enforced the law
+permits
+the state organs had not met their obligation to enforce the law
+
+the state organs had not met their obligation to enforce the law
+permits
+the state organs had not provided a written notification
+
+the state organs did n't meet their obligation to enforce the law
+contradicts
+the state organs enforced the law
+
+the state organs enforced the law
+contradicts
+the state organs did n't meet their obligation to enforce the law
+
+the state organs did n't meet their obligation to enforce the law
+permits
+the state organs opened ports to ships from Cyprus
+
+the Board has met the obligation to appoint the BOI members in a timely manner
+entails
+the Board has appointed the BOI members in a timely manner
+
+the Board has appointed the BOI members in a timely manner
+permits
+the Board has met the obligation to appoint the BOI members in a timely manner
+
+the Board has met the obligation to appoint the BOI members in a timely manner
+permits
+the Board has brought FiOS service to all residents of the city
+
+the Board met the obligation to appoint the BOI members in a timely manner
+contradicts
+the Board did n't appoint the BOI members in a timely manner
+
+the Board did n't appoint the BOI members in a timely manner
+contradicts
+the Board met the obligation to appoint the BOI members in a timely manner
+
+the Board has never met the obligation to appoint the BOI members in a timely manner
+entails
+the Board has never appointed the BOI members in a timely manner
+
+the Board has never appointed the BOI members in a timely manner
+permits
+the Board has never met the obligation to appoint the BOI members in a timely manner
+
+the Board did n't meet the obligation to appoint the BOI members in a timely manner
+contradicts
+the Board appointed the BOI members in a timely manner
+
+the Board appointed the BOI members in a timely manner
+contradicts
+the Board did n't meet the obligation to appoint the BOI members in a timely manner
+
+the Board did n't meet the obligation to appoint the BOI members in a timely manner
+permits
+she appointed the BOI members in a timely manner
+
+the Board has met its obligation to appoint the BOI members in a timely manner
+entails
+the Board has appointed the BOI members in a timely manner
+
+the Board has appointed the BOI members in a timely manner
+permits
+the Board has met its obligation to appoint the BOI members in a timely manner
+
+the Board has met its obligation to appoint the BOI members in a timely manner
+permits
+ENRC has appointed the BOI members in a timely manner
+
+the Board had met its obligation to appoint the BOI members in a timely manner
+contradicts
+the Board had n't appointed the BOI members in a timely manner
+
+the Board had n't appointed the BOI members in a timely manner
+contradicts
+the Board had met its obligation to appoint the BOI members in a timely manner
+
+the Board had met its obligation to appoint the BOI members in a timely manner
+permits
+Russia had n't appointed the BOI members in a timely manner
+
+the Board has never met its obligation to appoint the BOI members in a timely manner
+entails
+the Board has n't appointed the BOI members in a timely manner
+
+the Board has n't appointed the BOI members in a timely manner
+permits
+the Board has never met its obligation to appoint the BOI members in a timely manner
+
+the Board has never met its obligation to appoint the BOI members in a timely manner
+permits
+you have never appointed the BOI members in a timely manner
+
+the Board almost met its obligation to appoint the BOI members in a timely manner
+contradicts
+the Board appointed the BOI members in a timely manner
+
+the Board appointed the BOI members in a timely manner
+contradicts
+the Board almost met its obligation to appoint the BOI members in a timely manner
+
+the document has met the obligation to report an assessment of such risks
+entails
+the document has reported an assessment of such risks
+
+the document has reported an assessment of such risks
+permits
+the document has met the obligation to report an assessment of such risks
+
+the document has met the obligation to report an assessment of such risks
+permits
+he has reported an assessment of such risks
+
+the document has met the obligation to report an assessment of such risks
+contradicts
+the document has n't reported an assessment of such risks
+
+the document has n't reported an assessment of such risks
+contradicts
+the document has met the obligation to report an assessment of such risks
+
+the document has met the obligation to report an assessment of such risks
+permits
+you have not reported an assessment of such risks
+
+the document has never met the obligation to report an assessment of such risks
+entails
+the document has not reported an assessment of such risks
+
+the document has not reported an assessment of such risks
+permits
+the document has never met the obligation to report an assessment of such risks
+
+the document did n't meet the obligation to report an assessment of such risks
+contradicts
+the document reported an assessment of such risks
+
+the document reported an assessment of such risks
+contradicts
+the document did n't meet the obligation to report an assessment of such risks
+
+the document had met its obligation to report an assessment of such risks
+entails
+the document had reported an assessment of such risks
+
+the document had reported an assessment of such risks
+permits
+the document had met its obligation to report an assessment of such risks
+
+the document has met its obligation to report an assessment of such risks
+contradicts
+the document has n't reported an assessment of such risks
+
+the document has n't reported an assessment of such risks
+contradicts
+the document has met its obligation to report an assessment of such risks
+
+the document has met its obligation to report an assessment of such risks
+permits
+the document has not opened ports to ships from Cyprus
+
+the document never met its obligation to report an assessment of such risks
+entails
+the document did n't report an assessment of such risks
+
+the document did n't report an assessment of such risks
+permits
+the document never met its obligation to report an assessment of such risks
+
+the document has n't met its obligation to report an assessment of such risks
+contradicts
+the document has reported an assessment of such risks
+
+the document has reported an assessment of such risks
+contradicts
+the document has n't met its obligation to report an assessment of such risks
+
+the operator met the obligation to carry out such maintenance
+entails
+the operator carried out such maintenance
+
+the operator carried out such maintenance
+permits
+the operator met the obligation to carry out such maintenance
+
+the operator met the obligation to carry out such maintenance
+permits
+you carried out such maintenance
+
+the operator had met the obligation to carry out such maintenance
+contradicts
+the operator had not carried out such maintenance
+
+the operator had not carried out such maintenance
+contradicts
+the operator had met the obligation to carry out such maintenance
+
+the operator did n't meet the obligation to carry out such maintenance
+entails
+the operator did not carry out such maintenance
+
+the operator did not carry out such maintenance
+permits
+the operator did n't meet the obligation to carry out such maintenance
+
+the operator did n't meet the obligation to carry out such maintenance
+permits
+the operator did n't let people evolve on their own
+
+the operator has not met the obligation to carry out such maintenance
+contradicts
+the operator has carried out such maintenance
+
+the operator has carried out such maintenance
+contradicts
+the operator has not met the obligation to carry out such maintenance
+
+the operator had met its obligation to carry out such maintenance
+entails
+the operator had carried out such maintenance
+
+the operator had carried out such maintenance
+permits
+the operator had met its obligation to carry out such maintenance
+
+the operator had met its obligation to carry out such maintenance
+permits
+ENRC had carried out such maintenance
+
+the operator has met its obligation to carry out such maintenance
+contradicts
+the operator has not carried out such maintenance
+
+the operator has not carried out such maintenance
+contradicts
+the operator has met its obligation to carry out such maintenance
+
+the operator did not meet its obligation to carry out such maintenance
+entails
+the operator did not carry out such maintenance
+
+the operator did not carry out such maintenance
+permits
+the operator did not meet its obligation to carry out such maintenance
+
+the operator did n't meet its obligation to carry out such maintenance
+contradicts
+the operator carried out such maintenance
+
+the operator carried out such maintenance
+contradicts
+the operator did n't meet its obligation to carry out such maintenance
+
+the student had met the obligation to repay the loan
+entails
+the student had repaid the loan
+
+the student had repaid the loan
+permits
+the student had met the obligation to repay the loan
+
+the student had met the obligation to repay the loan
+permits
+he had repaid the loan
+
+the student had met the obligation to repay the loan
+contradicts
+the student had n't repaid the loan
+
+the student had n't repaid the loan
+contradicts
+the student had met the obligation to repay the loan
+
+the student had met the obligation to repay the loan
+permits
+you had n't repaid the loan
+
+the student did not meet the obligation to repay the loan
+entails
+the student did n't repay the loan
+
+the student did n't repay the loan
+permits
+the student did not meet the obligation to repay the loan
+
+the student did n't meet the obligation to repay the loan
+contradicts
+the student repaid the loan
+
+the student repaid the loan
+contradicts
+the student did n't meet the obligation to repay the loan
+
+the student did n't meet the obligation to repay the loan
+permits
+Ankara repaid the loan
+
+the student had met her obligation to repay the loan
+entails
+the student had repaid the loan
+
+the student had repaid the loan
+permits
+the student had met her obligation to repay the loan
+
+the student had met her obligation to repay the loan
+permits
+Russia had repaid the loan
+
+the student had met her obligation to repay the loan
+contradicts
+the student had not repaid the loan
+
+the student had not repaid the loan
+contradicts
+the student had met her obligation to repay the loan
+
+the student had met her obligation to repay the loan
+permits
+you had not repaid the loan
+
+the student did n't meet her obligation to repay the loan
+entails
+the student did not repay the loan
+
+the student did not repay the loan
+permits
+the student did n't meet her obligation to repay the loan
+
+the student did n't meet her obligation to repay the loan
+permits
+I did n't repay the loan
+
+the student almost met her obligation to repay the loan
+contradicts
+the student repaid the loan
+
+the student repaid the loan
+contradicts
+the student almost met her obligation to repay the loan
+
+the student almost met her obligation to repay the loan
+permits
+the student taught her pupils basic subjects
+

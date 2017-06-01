@@ -1,0 +1,5064 @@
+Microsoft had missed a chance to buy LinkedIn for billion
+entails
+Microsoft had n't bought LinkedIn for $1.5 billion
+
+Microsoft had n't bought LinkedIn for $1.5 billion
+permits
+Microsoft had missed a chance to buy LinkedIn for billion
+
+Microsoft has missed a chance to buy LinkedIn for billion
+contradicts
+Microsoft has bought LinkedIn for $1.5 billion
+
+Microsoft has bought LinkedIn for $1.5 billion
+contradicts
+Microsoft has missed a chance to buy LinkedIn for billion
+
+Microsoft did not miss a chance to buy LinkedIn for billion
+entails
+Microsoft bought LinkedIn for $1.5 billion
+
+Microsoft bought LinkedIn for $1.5 billion
+permits
+Microsoft did not miss a chance to buy LinkedIn for billion
+
+Microsoft did not miss a chance to buy LinkedIn for billion
+permits
+Microsoft stole a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+Microsoft had never missed a chance to buy LinkedIn for billion
+contradicts
+Microsoft had n't bought LinkedIn for $1.5 billion
+
+Microsoft had n't bought LinkedIn for $1.5 billion
+contradicts
+Microsoft had never missed a chance to buy LinkedIn for billion
+
+Microsoft missed its chance to buy LinkedIn for billion
+entails
+Microsoft did not buy LinkedIn for $1.5 billion
+
+Microsoft did not buy LinkedIn for $1.5 billion
+permits
+Microsoft missed its chance to buy LinkedIn for billion
+
+Microsoft missed its chance to buy LinkedIn for billion
+permits
+Microsoft did not put their view forth on the issue
+
+Microsoft had missed its chance to buy LinkedIn for billion
+contradicts
+Microsoft had bought LinkedIn for $1.5 billion
+
+Microsoft had bought LinkedIn for $1.5 billion
+contradicts
+Microsoft had missed its chance to buy LinkedIn for billion
+
+Microsoft had missed its chance to buy LinkedIn for billion
+permits
+you had bought LinkedIn for $1.5 billion
+
+Microsoft had almost missed its chance to buy LinkedIn for billion
+entails
+Microsoft had bought LinkedIn for $1.5 billion
+
+Microsoft had bought LinkedIn for $1.5 billion
+permits
+Microsoft had almost missed its chance to buy LinkedIn for billion
+
+Microsoft had almost missed its chance to buy LinkedIn for billion
+permits
+Venus Williams had bought LinkedIn for $1.5 billion
+
+Microsoft has n't missed its chance to buy LinkedIn for billion
+contradicts
+Microsoft has not bought LinkedIn for $1.5 billion
+
+Microsoft has not bought LinkedIn for $1.5 billion
+contradicts
+Microsoft has n't missed its chance to buy LinkedIn for billion
+
+the Obama administration has missed a chance to defend Americans’ freedom
+entails
+the Obama administration has not defended Americans’ freedom
+
+the Obama administration has not defended Americans’ freedom
+permits
+the Obama administration has missed a chance to defend Americans’ freedom
+
+the Obama administration has missed a chance to defend Americans’ freedom
+contradicts
+the Obama administration has defended Americans’ freedom
+
+the Obama administration has defended Americans’ freedom
+contradicts
+the Obama administration has missed a chance to defend Americans’ freedom
+
+the Obama administration has missed a chance to defend Americans’ freedom
+permits
+Apple has defended Americans’ freedom
+
+the Obama administration had almost missed a chance to defend Americans’ freedom
+entails
+the Obama administration had defended Americans’ freedom
+
+the Obama administration had defended Americans’ freedom
+permits
+the Obama administration had almost missed a chance to defend Americans’ freedom
+
+the Obama administration has not missed a chance to defend Americans’ freedom
+contradicts
+the Obama administration has n't defended Americans’ freedom
+
+the Obama administration has n't defended Americans’ freedom
+contradicts
+the Obama administration has not missed a chance to defend Americans’ freedom
+
+the Obama administration had missed its chance to defend Americans’ freedom
+entails
+the Obama administration had not defended Americans’ freedom
+
+the Obama administration had not defended Americans’ freedom
+permits
+the Obama administration had missed its chance to defend Americans’ freedom
+
+the Obama administration has missed its chance to defend Americans’ freedom
+contradicts
+the Obama administration has defended Americans’ freedom
+
+the Obama administration has defended Americans’ freedom
+contradicts
+the Obama administration has missed its chance to defend Americans’ freedom
+
+the Obama administration had never missed its chance to defend Americans’ freedom
+entails
+the Obama administration had defended Americans’ freedom
+
+the Obama administration had defended Americans’ freedom
+permits
+the Obama administration had never missed its chance to defend Americans’ freedom
+
+the Obama administration had never missed its chance to defend Americans’ freedom
+permits
+Microsoft had defended Americans’ freedom
+
+the Obama administration had never missed its chance to defend Americans’ freedom
+contradicts
+the Obama administration had not defended Americans’ freedom
+
+the Obama administration had not defended Americans’ freedom
+contradicts
+the Obama administration had never missed its chance to defend Americans’ freedom
+
+Yale missed a chance to pay tribute to local football legend
+entails
+Yale did n't pay tribute to local football legend
+
+Yale did n't pay tribute to local football legend
+permits
+Yale missed a chance to pay tribute to local football legend
+
+Yale had missed a chance to pay tribute to local football legend
+contradicts
+Yale had paid tribute to local football legend
+
+Yale had paid tribute to local football legend
+contradicts
+Yale had missed a chance to pay tribute to local football legend
+
+Yale had missed a chance to pay tribute to local football legend
+permits
+Yale had been a movie star
+
+Yale did not miss a chance to pay tribute to local football legend
+entails
+Yale paid tribute to local football legend
+
+Yale paid tribute to local football legend
+permits
+Yale did not miss a chance to pay tribute to local football legend
+
+Yale did not miss a chance to pay tribute to local football legend
+contradicts
+Yale did n't pay tribute to local football legend
+
+Yale did n't pay tribute to local football legend
+contradicts
+Yale did not miss a chance to pay tribute to local football legend
+
+Yale did not miss a chance to pay tribute to local football legend
+permits
+Hudson did not pay tribute to local football legend
+
+Yale had missed its chance to pay tribute to local football legend
+entails
+Yale had n't paid tribute to local football legend
+
+Yale had n't paid tribute to local football legend
+permits
+Yale had missed its chance to pay tribute to local football legend
+
+Yale had missed its chance to pay tribute to local football legend
+permits
+Hudson had not paid tribute to local football legend
+
+Yale missed its chance to pay tribute to local football legend
+contradicts
+Yale paid tribute to local football legend
+
+Yale paid tribute to local football legend
+contradicts
+Yale missed its chance to pay tribute to local football legend
+
+Yale missed its chance to pay tribute to local football legend
+permits
+the Obama administration paid tribute to local football legend
+
+Yale had not missed its chance to pay tribute to local football legend
+entails
+Yale had paid tribute to local football legend
+
+Yale had paid tribute to local football legend
+permits
+Yale had not missed its chance to pay tribute to local football legend
+
+Yale almost missed its chance to pay tribute to local football legend
+contradicts
+Yale did n't pay tribute to local football legend
+
+Yale did n't pay tribute to local football legend
+contradicts
+Yale almost missed its chance to pay tribute to local football legend
+
+Yale almost missed its chance to pay tribute to local football legend
+permits
+Sarah Piening almost payed tribute to local football legend
+
+Trump missed a chance to electrify voters by choosing Pence
+entails
+Trump did not electrify voters by choosing Pence
+
+Trump did not electrify voters by choosing Pence
+permits
+Trump missed a chance to electrify voters by choosing Pence
+
+Trump has missed a chance to electrify voters by choosing Pence
+contradicts
+Trump has electrified voters by choosing Pence
+
+Trump has electrified voters by choosing Pence
+contradicts
+Trump has missed a chance to electrify voters by choosing Pence
+
+Trump has missed a chance to electrify voters by choosing Pence
+permits
+Republic has electrified voters by choosing Pence
+
+Trump had almost missed a chance to electrify voters by choosing Pence
+entails
+Trump had electrified voters by choosing Pence
+
+Trump had electrified voters by choosing Pence
+permits
+Trump had almost missed a chance to electrify voters by choosing Pence
+
+Trump had almost missed a chance to electrify voters by choosing Pence
+contradicts
+Trump had n't electrified voters by choosing Pence
+
+Trump had n't electrified voters by choosing Pence
+contradicts
+Trump had almost missed a chance to electrify voters by choosing Pence
+
+Trump missed his chance to electrify voters by choosing Pence
+entails
+Trump did not electrify voters by choosing Pence
+
+Trump did not electrify voters by choosing Pence
+permits
+Trump missed his chance to electrify voters by choosing Pence
+
+Trump had missed his chance to electrify voters by choosing Pence
+contradicts
+Trump had electrified voters by choosing Pence
+
+Trump had electrified voters by choosing Pence
+contradicts
+Trump had missed his chance to electrify voters by choosing Pence
+
+Trump had missed his chance to electrify voters by choosing Pence
+permits
+Apple had electrified voters by choosing Pence
+
+Trump did n't miss his chance to electrify voters by choosing Pence
+entails
+Trump electrified voters by choosing Pence
+
+Trump electrified voters by choosing Pence
+permits
+Trump did n't miss his chance to electrify voters by choosing Pence
+
+Trump has n't missed his chance to electrify voters by choosing Pence
+contradicts
+Trump has not electrified voters by choosing Pence
+
+Trump has not electrified voters by choosing Pence
+contradicts
+Trump has n't missed his chance to electrify voters by choosing Pence
+
+Republic has missed a chance to be a ‘good neighbor’
+entails
+Republic has n't been a ‘good neighbor’
+
+Republic has n't been a ‘good neighbor’
+permits
+Republic has missed a chance to be a ‘good neighbor’
+
+Republic missed a chance to be a ‘good neighbor’
+contradicts
+Republic was a ‘good neighbor’
+
+Republic was a ‘good neighbor’
+contradicts
+Republic missed a chance to be a ‘good neighbor’
+
+Republic had not missed a chance to be a ‘good neighbor’
+entails
+Republic had been a ‘good neighbor’
+
+Republic had been a ‘good neighbor’
+permits
+Republic had not missed a chance to be a ‘good neighbor’
+
+Republic had not missed a chance to be a ‘good neighbor’
+permits
+Republic had met the legend
+
+Republic had almost missed a chance to be a ‘good neighbor’
+contradicts
+Republic had n't been a ‘good neighbor’
+
+Republic had n't been a ‘good neighbor’
+contradicts
+Republic had almost missed a chance to be a ‘good neighbor’
+
+Republic had almost missed a chance to be a ‘good neighbor’
+permits
+Republic had n't heard that band
+
+Republic had missed its chance to be a ‘good neighbor’
+entails
+Republic had n't been a ‘good neighbor’
+
+Republic had n't been a ‘good neighbor’
+permits
+Republic had missed its chance to be a ‘good neighbor’
+
+Republic had missed its chance to be a ‘good neighbor’
+contradicts
+Republic had been a ‘good neighbor’
+
+Republic had been a ‘good neighbor’
+contradicts
+Republic had missed its chance to be a ‘good neighbor’
+
+Republic has not missed its chance to be a ‘good neighbor’
+entails
+Republic has been a ‘good neighbor’
+
+Republic has been a ‘good neighbor’
+permits
+Republic has not missed its chance to be a ‘good neighbor’
+
+Republic never missed its chance to be a ‘good neighbor’
+contradicts
+Republic was not a ‘good neighbor’
+
+Republic was not a ‘good neighbor’
+contradicts
+Republic never missed its chance to be a ‘good neighbor’
+
+Republic never missed its chance to be a ‘good neighbor’
+permits
+Republic never got an RTX Sidequest ticket
+
+Red Hook schools missed chance to lower tax levy
+entails
+Red Hook schools did not lower tax levy
+
+Red Hook schools did not lower tax levy
+permits
+Red Hook schools missed chance to lower tax levy
+
+Red Hook schools missed chance to lower tax levy
+permits
+Red Hook schools did n't ask other powerful states to mediate the peace talks
+
+Red Hook schools missed chance to lower tax levy
+contradicts
+Red Hook schools lowered tax levy
+
+Red Hook schools lowered tax levy
+contradicts
+Red Hook schools missed chance to lower tax levy
+
+Red Hook schools missed chance to lower tax levy
+permits
+Red Hook schools edged closer to a top-four spot
+
+Red Hook schools had almost missed chance to lower tax levy
+entails
+Red Hook schools had lowered tax levy
+
+Red Hook schools had lowered tax levy
+permits
+Red Hook schools had almost missed chance to lower tax levy
+
+Red Hook schools had almost missed chance to lower tax levy
+permits
+the guys at Amul had lowered tax levy
+
+Red Hook schools had almost missed chance to lower tax levy
+contradicts
+Red Hook schools had n't lowered tax levy
+
+Red Hook schools had n't lowered tax levy
+contradicts
+Red Hook schools had almost missed chance to lower tax levy
+
+Red Hook schools had missed their chance to lower tax levy
+entails
+Red Hook schools had n't lowered tax levy
+
+Red Hook schools had n't lowered tax levy
+permits
+Red Hook schools had missed their chance to lower tax levy
+
+Red Hook schools had missed their chance to lower tax levy
+permits
+the Chiefs had not lowered tax levy
+
+Red Hook schools missed their chance to lower tax levy
+contradicts
+Red Hook schools lowered tax levy
+
+Red Hook schools lowered tax levy
+contradicts
+Red Hook schools missed their chance to lower tax levy
+
+Red Hook schools missed their chance to lower tax levy
+permits
+Red Hook schools expanded regionally within east Asia
+
+Red Hook schools have n't missed their chance to lower tax levy
+entails
+Red Hook schools have lowered tax levy
+
+Red Hook schools have lowered tax levy
+permits
+Red Hook schools have n't missed their chance to lower tax levy
+
+Red Hook schools have n't missed their chance to lower tax levy
+contradicts
+Red Hook schools have not lowered tax levy
+
+Red Hook schools have not lowered tax levy
+contradicts
+Red Hook schools have n't missed their chance to lower tax levy
+
+Red Hook schools have n't missed their chance to lower tax levy
+permits
+Red Hook schools have not loved me
+
+you had missed a chance to get an RTX Sidequest ticket
+entails
+you had n't gotten an RTX Sidequest ticket
+
+you had n't gotten an RTX Sidequest ticket
+permits
+you had missed a chance to get an RTX Sidequest ticket
+
+you had missed a chance to get an RTX Sidequest ticket
+permits
+you had not been a movie star
+
+you had missed a chance to get an RTX Sidequest ticket
+contradicts
+you had gotten an RTX Sidequest ticket
+
+you had gotten an RTX Sidequest ticket
+contradicts
+you had missed a chance to get an RTX Sidequest ticket
+
+you have n't missed a chance to get an RTX Sidequest ticket
+entails
+you have gotten an RTX Sidequest ticket
+
+you have gotten an RTX Sidequest ticket
+permits
+you have n't missed a chance to get an RTX Sidequest ticket
+
+you never missed a chance to get an RTX Sidequest ticket
+contradicts
+you never got an RTX Sidequest ticket
+
+you never got an RTX Sidequest ticket
+contradicts
+you never missed a chance to get an RTX Sidequest ticket
+
+you missed your chance to get an RTX Sidequest ticket
+entails
+you did n't get an RTX Sidequest ticket
+
+you did n't get an RTX Sidequest ticket
+permits
+you missed your chance to get an RTX Sidequest ticket
+
+you missed your chance to get an RTX Sidequest ticket
+permits
+Trump did n't get an RTX Sidequest ticket
+
+you missed your chance to get an RTX Sidequest ticket
+contradicts
+you got an RTX Sidequest ticket
+
+you got an RTX Sidequest ticket
+contradicts
+you missed your chance to get an RTX Sidequest ticket
+
+you did n't miss your chance to get an RTX Sidequest ticket
+entails
+you got an RTX Sidequest ticket
+
+you got an RTX Sidequest ticket
+permits
+you did n't miss your chance to get an RTX Sidequest ticket
+
+you never missed your chance to get an RTX Sidequest ticket
+contradicts
+you did n't get an RTX Sidequest ticket
+
+you did n't get an RTX Sidequest ticket
+contradicts
+you never missed your chance to get an RTX Sidequest ticket
+
+you never missed your chance to get an RTX Sidequest ticket
+permits
+Vinci did n't get an RTX Sidequest ticket
+
+I have missed a chance to help him last
+entails
+I have not helped him last
+
+I have not helped him last
+permits
+I have missed a chance to help him last
+
+I have missed a chance to help him last
+permits
+I have not treated the cholera outbreak sufficiently
+
+I had missed a chance to help him last
+contradicts
+I had helped him last
+
+I had helped him last
+contradicts
+I had missed a chance to help him last
+
+I had missed a chance to help him last
+permits
+he had helped him last
+
+I have n't missed a chance to help him last
+entails
+I have helped him last
+
+I have helped him last
+permits
+I have n't missed a chance to help him last
+
+I almost missed a chance to help him last
+contradicts
+I did n't help him last
+
+I did n't help him last
+contradicts
+I almost missed a chance to help him last
+
+I missed my chance to help him last
+entails
+I did not help him last
+
+I did not help him last
+permits
+I missed my chance to help him last
+
+I missed my chance to help him last
+permits
+Kawasaki Frontale did n't help him last
+
+I had missed my chance to help him last
+contradicts
+I had helped him last
+
+I had helped him last
+contradicts
+I had missed my chance to help him last
+
+I had missed my chance to help him last
+permits
+Stephen Colbert had helped him last
+
+I never missed my chance to help him last
+entails
+I helped him last
+
+I helped him last
+permits
+I never missed my chance to help him last
+
+I never missed my chance to help him last
+permits
+you helped him last
+
+I have never missed my chance to help him last
+contradicts
+I have never helped him last
+
+I have never helped him last
+contradicts
+I have never missed my chance to help him last
+
+I have never missed my chance to help him last
+permits
+Scotland has not helped him last
+
+the Chiefs have missed a chance to patch their differences
+entails
+the Chiefs have n't patched their differences
+
+the Chiefs have n't patched their differences
+permits
+the Chiefs have missed a chance to patch their differences
+
+the Chiefs have missed a chance to patch their differences
+contradicts
+the Chiefs have patched their differences
+
+the Chiefs have patched their differences
+contradicts
+the Chiefs have missed a chance to patch their differences
+
+the Chiefs have missed a chance to patch their differences
+permits
+Red Hook schools have patched their differences
+
+the Chiefs have never missed a chance to patch their differences
+entails
+the Chiefs have patched their differences
+
+the Chiefs have patched their differences
+permits
+the Chiefs have never missed a chance to patch their differences
+
+the Chiefs have never missed a chance to patch their differences
+permits
+the Chiefs have treated the cholera outbreak sufficiently
+
+the Chiefs have never missed a chance to patch their differences
+contradicts
+the Chiefs have not patched their differences
+
+the Chiefs have not patched their differences
+contradicts
+the Chiefs have never missed a chance to patch their differences
+
+the Chiefs have missed their chance to patch their differences
+entails
+the Chiefs have n't patched their differences
+
+the Chiefs have n't patched their differences
+permits
+the Chiefs have missed their chance to patch their differences
+
+the Chiefs have missed their chance to patch their differences
+permits
+the Chiefs have not stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the Chiefs missed their chance to patch their differences
+contradicts
+the Chiefs patched their differences
+
+the Chiefs patched their differences
+contradicts
+the Chiefs missed their chance to patch their differences
+
+the Chiefs almost missed their chance to patch their differences
+entails
+the Chiefs patched their differences
+
+the Chiefs patched their differences
+permits
+the Chiefs almost missed their chance to patch their differences
+
+the Chiefs have not missed their chance to patch their differences
+contradicts
+the Chiefs have not patched their differences
+
+the Chiefs have not patched their differences
+contradicts
+the Chiefs have not missed their chance to patch their differences
+
+I had missed a chance to stop a fight
+entails
+I had not stopped a fight
+
+I had not stopped a fight
+permits
+I had missed a chance to stop a fight
+
+I have missed a chance to stop a fight
+contradicts
+I have stopped a fight
+
+I have stopped a fight
+contradicts
+I have missed a chance to stop a fight
+
+I had not missed a chance to stop a fight
+entails
+I had stopped a fight
+
+I had stopped a fight
+permits
+I had not missed a chance to stop a fight
+
+I almost missed a chance to stop a fight
+contradicts
+I did not stop a fight
+
+I did not stop a fight
+contradicts
+I almost missed a chance to stop a fight
+
+I have missed my chance to stop a fight
+entails
+I have not stopped a fight
+
+I have not stopped a fight
+permits
+I have missed my chance to stop a fight
+
+I have missed my chance to stop a fight
+contradicts
+I have stopped a fight
+
+I have stopped a fight
+contradicts
+I have missed my chance to stop a fight
+
+I have missed my chance to stop a fight
+permits
+I have improved credit card safety
+
+I almost missed my chance to stop a fight
+entails
+I stopped a fight
+
+I stopped a fight
+permits
+I almost missed my chance to stop a fight
+
+I almost missed my chance to stop a fight
+permits
+Microsoft stopped a fight
+
+I have never missed my chance to stop a fight
+contradicts
+I have n't stopped a fight
+
+I have n't stopped a fight
+contradicts
+I have never missed my chance to stop a fight
+
+I have never missed my chance to stop a fight
+permits
+I have not helped him last
+
+they have missed a chance to see a Beauty by Lhem Dee on 500px
+entails
+they have not seen a Beauty by Lhem Dee on 500px
+
+they have not seen a Beauty by Lhem Dee on 500px
+permits
+they have missed a chance to see a Beauty by Lhem Dee on 500px
+
+they have missed a chance to see a Beauty by Lhem Dee on 500px
+contradicts
+they have seen a Beauty by Lhem Dee on 500px
+
+they have seen a Beauty by Lhem Dee on 500px
+contradicts
+they have missed a chance to see a Beauty by Lhem Dee on 500px
+
+they have not missed a chance to see a Beauty by Lhem Dee on 500px
+entails
+they have seen a Beauty by Lhem Dee on 500px
+
+they have seen a Beauty by Lhem Dee on 500px
+permits
+they have not missed a chance to see a Beauty by Lhem Dee on 500px
+
+they have not missed a chance to see a Beauty by Lhem Dee on 500px
+permits
+they have brought in a new audience
+
+they had almost missed a chance to see a Beauty by Lhem Dee on 500px
+contradicts
+they had not seen a Beauty by Lhem Dee on 500px
+
+they had not seen a Beauty by Lhem Dee on 500px
+contradicts
+they had almost missed a chance to see a Beauty by Lhem Dee on 500px
+
+they had missed their chance to see a Beauty by Lhem Dee on 500px
+entails
+they had not seen a Beauty by Lhem Dee on 500px
+
+they had not seen a Beauty by Lhem Dee on 500px
+permits
+they had missed their chance to see a Beauty by Lhem Dee on 500px
+
+they had missed their chance to see a Beauty by Lhem Dee on 500px
+permits
+the Lakers had not seen a Beauty by Lhem Dee on 500px
+
+they missed their chance to see a Beauty by Lhem Dee on 500px
+contradicts
+they saw a Beauty by Lhem Dee on 500px
+
+they saw a Beauty by Lhem Dee on 500px
+contradicts
+they missed their chance to see a Beauty by Lhem Dee on 500px
+
+they had n't missed their chance to see a Beauty by Lhem Dee on 500px
+entails
+they had seen a Beauty by Lhem Dee on 500px
+
+they had seen a Beauty by Lhem Dee on 500px
+permits
+they had n't missed their chance to see a Beauty by Lhem Dee on 500px
+
+they had n't missed their chance to see a Beauty by Lhem Dee on 500px
+permits
+they had entered the eerily-sounding Batcave meeting room
+
+they have not missed their chance to see a Beauty by Lhem Dee on 500px
+contradicts
+they have not seen a Beauty by Lhem Dee on 500px
+
+they have not seen a Beauty by Lhem Dee on 500px
+contradicts
+they have not missed their chance to see a Beauty by Lhem Dee on 500px
+
+they have not missed their chance to see a Beauty by Lhem Dee on 500px
+permits
+the Lakers have n't seen a Beauty by Lhem Dee on 500px
+
+Target missed a chance to improve credit card safety
+entails
+Target did n't improve credit card safety
+
+Target did n't improve credit card safety
+permits
+Target missed a chance to improve credit card safety
+
+Target missed a chance to improve credit card safety
+permits
+Target did not meet the legend
+
+Target had missed a chance to improve credit card safety
+contradicts
+Target had improved credit card safety
+
+Target had improved credit card safety
+contradicts
+Target had missed a chance to improve credit card safety
+
+Target had n't missed a chance to improve credit card safety
+entails
+Target had improved credit card safety
+
+Target had improved credit card safety
+permits
+Target had n't missed a chance to improve credit card safety
+
+Target never missed a chance to improve credit card safety
+contradicts
+Target did not improve credit card safety
+
+Target did not improve credit card safety
+contradicts
+Target never missed a chance to improve credit card safety
+
+Target never missed a chance to improve credit card safety
+permits
+Target did not insult and damage America's allies
+
+Target had missed its chance to improve credit card safety
+entails
+Target had not improved credit card safety
+
+Target had not improved credit card safety
+permits
+Target had missed its chance to improve credit card safety
+
+Target had missed its chance to improve credit card safety
+permits
+the UN had n't improved credit card safety
+
+Target missed its chance to improve credit card safety
+contradicts
+Target improved credit card safety
+
+Target improved credit card safety
+contradicts
+Target missed its chance to improve credit card safety
+
+Target had never missed its chance to improve credit card safety
+entails
+Target had improved credit card safety
+
+Target had improved credit card safety
+permits
+Target had never missed its chance to improve credit card safety
+
+Target had never missed its chance to improve credit card safety
+permits
+Target had picked up ground on the reeling Giants
+
+Target has almost missed its chance to improve credit card safety
+contradicts
+Target has n't improved credit card safety
+
+Target has n't improved credit card safety
+contradicts
+Target has almost missed its chance to improve credit card safety
+
+Crimes missed a chance to play at the London Games
+entails
+Crimes did n't play at the London Games
+
+Crimes did n't play at the London Games
+permits
+Crimes missed a chance to play at the London Games
+
+Crimes missed a chance to play at the London Games
+permits
+Tottenham did not play at the London Games
+
+Crimes missed a chance to play at the London Games
+permits
+Scotland did not play at the London Games
+
+Crimes narrowly missed a chance to play at the London Games
+entails
+Crimes did n't play at the London Games
+
+Crimes did n't play at the London Games
+permits
+Crimes narrowly missed a chance to play at the London Games
+
+Crimes had missed a chance to play at the London Games
+contradicts
+Crimes had played at the London Games
+
+Crimes had played at the London Games
+contradicts
+Crimes had missed a chance to play at the London Games
+
+Crimes had missed a chance to play at the London Games
+permits
+Crimes had led in near-field communications
+
+Crimes had missed a chance to play at the London Games
+permits
+Crimes had taken his own destiny in his hands
+
+Crimes had narrowly missed a chance to play at the London Games
+contradicts
+Crimes had played at the London Games
+
+Crimes had played at the London Games
+contradicts
+Crimes had narrowly missed a chance to play at the London Games
+
+Crimes has almost missed a chance to play at the London Games
+entails
+Crimes has played at the London Games
+
+Crimes has played at the London Games
+permits
+Crimes has almost missed a chance to play at the London Games
+
+Crimes has never narrowly missed a chance to play at the London Games
+entails
+Crimes has played at the London Games
+
+Crimes has played at the London Games
+permits
+Crimes has never narrowly missed a chance to play at the London Games
+
+Crimes never has missed a chance to play at the London Games
+contradicts
+Crimes has n't played at the London Games
+
+Crimes has n't played at the London Games
+contradicts
+Crimes never has missed a chance to play at the London Games
+
+Crimes never has missed a chance to play at the London Games
+permits
+Crimes has not seen Sanders' latest Oregon visit
+
+Crimes never has missed a chance to play at the London Games
+permits
+Crimes has n't picked up ground on the reeling Giants
+
+Crimes has not narrowly missed a chance to play at the London Games
+contradicts
+Crimes has not played at the London Games
+
+Crimes has not played at the London Games
+contradicts
+Crimes has not narrowly missed a chance to play at the London Games
+
+Crimes missed his chance to play at the London Games
+entails
+Crimes did not play at the London Games
+
+Crimes did not play at the London Games
+permits
+Crimes missed his chance to play at the London Games
+
+Crimes missed his chance to play at the London Games
+permits
+Monaco did n't play at the London Games
+
+Crimes missed his chance to play at the London Games
+permits
+Microsoft did n't play at the London Games
+
+Crimes narrowly missed his chance to play at the London Games
+entails
+Crimes did not play at the London Games
+
+Crimes did not play at the London Games
+permits
+Crimes narrowly missed his chance to play at the London Games
+
+Crimes missed his chance to play at the London Games
+contradicts
+Crimes played at the London Games
+
+Crimes played at the London Games
+contradicts
+Crimes missed his chance to play at the London Games
+
+Crimes missed his chance to play at the London Games
+permits
+Police played at the London Games
+
+Crimes missed his chance to play at the London Games
+permits
+Vinci played at the London Games
+
+Crimes narrowly missed his chance to play at the London Games
+contradicts
+Crimes played at the London Games
+
+Crimes played at the London Games
+contradicts
+Crimes narrowly missed his chance to play at the London Games
+
+Crimes narrowly missed his chance to play at the London Games
+permits
+Crimes curbed this violence
+
+Crimes narrowly missed his chance to play at the London Games
+permits
+Crimes grabbed the allegiance of the many first-time voters
+
+Crimes had never missed his chance to play at the London Games
+entails
+Crimes had played at the London Games
+
+Crimes had played at the London Games
+permits
+Crimes had never missed his chance to play at the London Games
+
+Crimes had n't narrowly missed his chance to play at the London Games
+entails
+Crimes had played at the London Games
+
+Crimes had played at the London Games
+permits
+Crimes had n't narrowly missed his chance to play at the London Games
+
+Crimes had n't narrowly missed his chance to play at the London Games
+permits
+Crimes had seen the remains of beasts from the Jurassic
+
+Crimes had n't narrowly missed his chance to play at the London Games
+permits
+Crimes had seen the remains of beasts from the Jurassic
+
+Crimes did n't miss his chance to play at the London Games
+contradicts
+Crimes did not play at the London Games
+
+Crimes did not play at the London Games
+contradicts
+Crimes did n't miss his chance to play at the London Games
+
+Crimes never narrowly missed his chance to play at the London Games
+contradicts
+Crimes did n't play at the London Games
+
+Crimes did n't play at the London Games
+contradicts
+Crimes never narrowly missed his chance to play at the London Games
+
+Sarah Piening missed a chance to play in the softball Tournament of Champions
+entails
+Sarah Piening did n't play in the softball Tournament of Champions
+
+Sarah Piening did n't play in the softball Tournament of Champions
+permits
+Sarah Piening missed a chance to play in the softball Tournament of Champions
+
+Sarah Piening just missed a chance to play in the softball Tournament of Champions
+entails
+Sarah Piening did not play in the softball Tournament of Champions
+
+Sarah Piening did not play in the softball Tournament of Champions
+permits
+Sarah Piening just missed a chance to play in the softball Tournament of Champions
+
+Sarah Piening missed a chance to play in the softball Tournament of Champions
+contradicts
+Sarah Piening played in the softball Tournament of Champions
+
+Sarah Piening played in the softball Tournament of Champions
+contradicts
+Sarah Piening missed a chance to play in the softball Tournament of Champions
+
+Sarah Piening just missed a chance to play in the softball Tournament of Champions
+contradicts
+Sarah Piening played in the softball Tournament of Champions
+
+Sarah Piening played in the softball Tournament of Champions
+contradicts
+Sarah Piening just missed a chance to play in the softball Tournament of Champions
+
+Sarah Piening just missed a chance to play in the softball Tournament of Champions
+permits
+he played in the softball Tournament of Champions
+
+Sarah Piening just missed a chance to play in the softball Tournament of Champions
+permits
+Mr. Obama played in the softball Tournament of Champions
+
+Sarah Piening has n't missed a chance to play in the softball Tournament of Champions
+entails
+Sarah Piening has played in the softball Tournament of Champions
+
+Sarah Piening has played in the softball Tournament of Champions
+permits
+Sarah Piening has n't missed a chance to play in the softball Tournament of Champions
+
+Sarah Piening has never just missed a chance to play in the softball Tournament of Champions
+entails
+Sarah Piening has played in the softball Tournament of Champions
+
+Sarah Piening has played in the softball Tournament of Champions
+permits
+Sarah Piening has never just missed a chance to play in the softball Tournament of Champions
+
+Sarah Piening has never missed a chance to play in the softball Tournament of Champions
+contradicts
+Sarah Piening has n't played in the softball Tournament of Champions
+
+Sarah Piening has n't played in the softball Tournament of Champions
+contradicts
+Sarah Piening has never missed a chance to play in the softball Tournament of Champions
+
+Sarah Piening has never just missed a chance to play in the softball Tournament of Champions
+contradicts
+Sarah Piening has not played in the softball Tournament of Champions
+
+Sarah Piening has not played in the softball Tournament of Champions
+contradicts
+Sarah Piening has never just missed a chance to play in the softball Tournament of Champions
+
+Sarah Piening missed her chance to play in the softball Tournament of Champions
+entails
+Sarah Piening did n't play in the softball Tournament of Champions
+
+Sarah Piening did n't play in the softball Tournament of Champions
+permits
+Sarah Piening missed her chance to play in the softball Tournament of Champions
+
+Sarah Piening just missed her chance to play in the softball Tournament of Champions
+entails
+Sarah Piening did n't play in the softball Tournament of Champions
+
+Sarah Piening did n't play in the softball Tournament of Champions
+permits
+Sarah Piening just missed her chance to play in the softball Tournament of Champions
+
+Sarah Piening just missed her chance to play in the softball Tournament of Champions
+permits
+Trump did n't play in the softball Tournament of Champions
+
+Sarah Piening just missed her chance to play in the softball Tournament of Champions
+permits
+Hudson did not play in the softball Tournament of Champions
+
+Sarah Piening has missed her chance to play in the softball Tournament of Champions
+contradicts
+Sarah Piening has played in the softball Tournament of Champions
+
+Sarah Piening has played in the softball Tournament of Champions
+contradicts
+Sarah Piening has missed her chance to play in the softball Tournament of Champions
+
+Sarah Piening has missed her chance to play in the softball Tournament of Champions
+permits
+the burglar has played in the softball Tournament of Champions
+
+Sarah Piening has missed her chance to play in the softball Tournament of Champions
+permits
+India has played in the softball Tournament of Champions
+
+Sarah Piening has just missed her chance to play in the softball Tournament of Champions
+contradicts
+Sarah Piening has played in the softball Tournament of Champions
+
+Sarah Piening has played in the softball Tournament of Champions
+contradicts
+Sarah Piening has just missed her chance to play in the softball Tournament of Champions
+
+Sarah Piening almost missed her chance to play in the softball Tournament of Champions
+entails
+Sarah Piening played in the softball Tournament of Champions
+
+Sarah Piening played in the softball Tournament of Champions
+permits
+Sarah Piening almost missed her chance to play in the softball Tournament of Champions
+
+Sarah Piening never just missed her chance to play in the softball Tournament of Champions
+entails
+Sarah Piening played in the softball Tournament of Champions
+
+Sarah Piening played in the softball Tournament of Champions
+permits
+Sarah Piening never just missed her chance to play in the softball Tournament of Champions
+
+Sarah Piening had never missed her chance to play in the softball Tournament of Champions
+contradicts
+Sarah Piening had n't played in the softball Tournament of Champions
+
+Sarah Piening had n't played in the softball Tournament of Champions
+contradicts
+Sarah Piening had never missed her chance to play in the softball Tournament of Champions
+
+Sarah Piening had never missed her chance to play in the softball Tournament of Champions
+permits
+Trump had not played in the softball Tournament of Champions
+
+Sarah Piening had never missed her chance to play in the softball Tournament of Champions
+permits
+the NYPD had not played in the softball Tournament of Champions
+
+Sarah Piening had n't just missed her chance to play in the softball Tournament of Champions
+contradicts
+Sarah Piening had not played in the softball Tournament of Champions
+
+Sarah Piening had not played in the softball Tournament of Champions
+contradicts
+Sarah Piening had n't just missed her chance to play in the softball Tournament of Champions
+
+people missed a chance to challenge property tax
+entails
+people did not challenge property tax
+
+people did not challenge property tax
+permits
+people missed a chance to challenge property tax
+
+people already missed a chance to challenge property tax
+entails
+people did not challenge property tax
+
+people did not challenge property tax
+permits
+people already missed a chance to challenge property tax
+
+people have missed a chance to challenge property tax
+contradicts
+people have challenged property tax
+
+people have challenged property tax
+contradicts
+people have missed a chance to challenge property tax
+
+people have already missed a chance to challenge property tax
+contradicts
+people have challenged property tax
+
+people have challenged property tax
+contradicts
+people have already missed a chance to challenge property tax
+
+people never missed a chance to challenge property tax
+entails
+people challenged property tax
+
+people challenged property tax
+permits
+people never missed a chance to challenge property tax
+
+people did not already miss a chance to challenge property tax
+entails
+people challenged property tax
+
+people challenged property tax
+permits
+people did not already miss a chance to challenge property tax
+
+people did not miss a chance to challenge property tax
+contradicts
+people did not challenge property tax
+
+people did not challenge property tax
+contradicts
+people did not miss a chance to challenge property tax
+
+people never already missed a chance to challenge property tax
+contradicts
+people never challenged property tax
+
+people never challenged property tax
+contradicts
+people never already missed a chance to challenge property tax
+
+people missed their chance to challenge property tax
+entails
+people did n't challenge property tax
+
+people did n't challenge property tax
+permits
+people missed their chance to challenge property tax
+
+people already missed their chance to challenge property tax
+entails
+people did not challenge property tax
+
+people did not challenge property tax
+permits
+people already missed their chance to challenge property tax
+
+people already missed their chance to challenge property tax
+permits
+bungling officials did not challenge property tax
+
+people already missed their chance to challenge property tax
+permits
+the Dodgers did n't challenge property tax
+
+people missed their chance to challenge property tax
+contradicts
+people challenged property tax
+
+people challenged property tax
+contradicts
+people missed their chance to challenge property tax
+
+people already missed their chance to challenge property tax
+contradicts
+people challenged property tax
+
+people challenged property tax
+contradicts
+people already missed their chance to challenge property tax
+
+people had never missed their chance to challenge property tax
+entails
+people had challenged property tax
+
+people had challenged property tax
+permits
+people had never missed their chance to challenge property tax
+
+people had never missed their chance to challenge property tax
+permits
+the newspapers had challenged property tax
+
+people had never missed their chance to challenge property tax
+permits
+the Dodgers had challenged property tax
+
+people had almost already missed their chance to challenge property tax
+entails
+people had challenged property tax
+
+people had challenged property tax
+permits
+people had almost already missed their chance to challenge property tax
+
+people had almost already missed their chance to challenge property tax
+permits
+the guys at Amul had challenged property tax
+
+people had almost already missed their chance to challenge property tax
+permits
+bungling officials had challenged property tax
+
+people almost missed their chance to challenge property tax
+contradicts
+people did not challenge property tax
+
+people did not challenge property tax
+contradicts
+people almost missed their chance to challenge property tax
+
+people never already missed their chance to challenge property tax
+contradicts
+people did n't challenge property tax
+
+people did n't challenge property tax
+contradicts
+people never already missed their chance to challenge property tax
+
+people never already missed their chance to challenge property tax
+permits
+the guys at Amul did not challenge property tax
+
+people never already missed their chance to challenge property tax
+permits
+the newspapers never challenged property tax
+
+Hudson has missed a chance to see the remains of beasts from the Jurassic
+entails
+Hudson has not seen the remains of beasts from the Jurassic
+
+Hudson has not seen the remains of beasts from the Jurassic
+permits
+Hudson has missed a chance to see the remains of beasts from the Jurassic
+
+Hudson has missed a chance to see the remains of beasts from the Jurassic
+permits
+you have not seen the remains of beasts from the Jurassic
+
+Hudson had missed a chance to see the remains of beasts from the Jurassic
+contradicts
+Hudson had seen the remains of beasts from the Jurassic
+
+Hudson had seen the remains of beasts from the Jurassic
+contradicts
+Hudson had missed a chance to see the remains of beasts from the Jurassic
+
+Hudson has almost missed a chance to see the remains of beasts from the Jurassic
+entails
+Hudson has seen the remains of beasts from the Jurassic
+
+Hudson has seen the remains of beasts from the Jurassic
+permits
+Hudson has almost missed a chance to see the remains of beasts from the Jurassic
+
+Hudson has almost missed a chance to see the remains of beasts from the Jurassic
+permits
+she has seen the remains of beasts from the Jurassic
+
+Hudson has not missed a chance to see the remains of beasts from the Jurassic
+contradicts
+Hudson has not seen the remains of beasts from the Jurassic
+
+Hudson has not seen the remains of beasts from the Jurassic
+contradicts
+Hudson has not missed a chance to see the remains of beasts from the Jurassic
+
+Hudson has not missed a chance to see the remains of beasts from the Jurassic
+permits
+Hudson has not stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+Hudson missed his chance to see the remains of beasts from the Jurassic
+entails
+Hudson did n't see the remains of beasts from the Jurassic
+
+Hudson did n't see the remains of beasts from the Jurassic
+permits
+Hudson missed his chance to see the remains of beasts from the Jurassic
+
+Hudson had missed his chance to see the remains of beasts from the Jurassic
+contradicts
+Hudson had seen the remains of beasts from the Jurassic
+
+Hudson had seen the remains of beasts from the Jurassic
+contradicts
+Hudson had missed his chance to see the remains of beasts from the Jurassic
+
+Hudson almost missed his chance to see the remains of beasts from the Jurassic
+entails
+Hudson saw the remains of beasts from the Jurassic
+
+Hudson saw the remains of beasts from the Jurassic
+permits
+Hudson almost missed his chance to see the remains of beasts from the Jurassic
+
+Hudson almost missed his chance to see the remains of beasts from the Jurassic
+permits
+Hudson resolved the Kashmir issue
+
+Hudson has not missed his chance to see the remains of beasts from the Jurassic
+contradicts
+Hudson has n't seen the remains of beasts from the Jurassic
+
+Hudson has n't seen the remains of beasts from the Jurassic
+contradicts
+Hudson has not missed his chance to see the remains of beasts from the Jurassic
+
+Fox missed a chance to be a movie star
+entails
+Fox was not a movie star
+
+Fox was not a movie star
+permits
+Fox missed a chance to be a movie star
+
+Fox has missed a chance to be a movie star
+contradicts
+Fox has been a movie star
+
+Fox has been a movie star
+contradicts
+Fox has missed a chance to be a movie star
+
+Fox never had missed a chance to be a movie star
+entails
+Fox had been a movie star
+
+Fox had been a movie star
+permits
+Fox never had missed a chance to be a movie star
+
+Fox never missed a chance to be a movie star
+contradicts
+Fox was n't a movie star
+
+Fox was n't a movie star
+contradicts
+Fox never missed a chance to be a movie star
+
+Fox never missed a chance to be a movie star
+permits
+Karzai never was a movie star
+
+Fox had missed his chance to be a movie star
+entails
+Fox had not been a movie star
+
+Fox had not been a movie star
+permits
+Fox had missed his chance to be a movie star
+
+Fox had missed his chance to be a movie star
+permits
+the UN had not been a movie star
+
+Fox had missed his chance to be a movie star
+contradicts
+Fox had been a movie star
+
+Fox had been a movie star
+contradicts
+Fox had missed his chance to be a movie star
+
+Fox had missed his chance to be a movie star
+permits
+Fox had treated the cholera outbreak sufficiently
+
+Fox has not missed his chance to be a movie star
+entails
+Fox has been a movie star
+
+Fox has been a movie star
+permits
+Fox has not missed his chance to be a movie star
+
+Fox had not missed his chance to be a movie star
+contradicts
+Fox had n't been a movie star
+
+Fox had n't been a movie star
+contradicts
+Fox had not missed his chance to be a movie star
+
+the Dodgers missed a chance to pick up ground on the reeling Giants
+entails
+the Dodgers did not pick up ground on the reeling Giants
+
+the Dodgers did not pick up ground on the reeling Giants
+permits
+the Dodgers missed a chance to pick up ground on the reeling Giants
+
+the Dodgers had missed a chance to pick up ground on the reeling Giants
+contradicts
+the Dodgers had picked up ground on the reeling Giants
+
+the Dodgers had picked up ground on the reeling Giants
+contradicts
+the Dodgers had missed a chance to pick up ground on the reeling Giants
+
+the Dodgers have n't missed a chance to pick up ground on the reeling Giants
+entails
+the Dodgers have picked up ground on the reeling Giants
+
+the Dodgers have picked up ground on the reeling Giants
+permits
+the Dodgers have n't missed a chance to pick up ground on the reeling Giants
+
+the Dodgers never missed a chance to pick up ground on the reeling Giants
+contradicts
+the Dodgers did n't pick up ground on the reeling Giants
+
+the Dodgers did n't pick up ground on the reeling Giants
+contradicts
+the Dodgers never missed a chance to pick up ground on the reeling Giants
+
+the Dodgers missed their chance to pick up ground on the reeling Giants
+entails
+the Dodgers did not pick up ground on the reeling Giants
+
+the Dodgers did not pick up ground on the reeling Giants
+permits
+the Dodgers missed their chance to pick up ground on the reeling Giants
+
+the Dodgers missed their chance to pick up ground on the reeling Giants
+contradicts
+the Dodgers picked up ground on the reeling Giants
+
+the Dodgers picked up ground on the reeling Giants
+contradicts
+the Dodgers missed their chance to pick up ground on the reeling Giants
+
+the Dodgers missed their chance to pick up ground on the reeling Giants
+permits
+the Dodgers lay the redded carpet before them
+
+the Dodgers have almost missed their chance to pick up ground on the reeling Giants
+entails
+the Dodgers have picked up ground on the reeling Giants
+
+the Dodgers have picked up ground on the reeling Giants
+permits
+the Dodgers have almost missed their chance to pick up ground on the reeling Giants
+
+the Dodgers had not missed their chance to pick up ground on the reeling Giants
+contradicts
+the Dodgers had not picked up ground on the reeling Giants
+
+the Dodgers had not picked up ground on the reeling Giants
+contradicts
+the Dodgers had not missed their chance to pick up ground on the reeling Giants
+
+Kawasaki Frontale has missed a chance to reclaim top spot from the idle Urawa Reds
+entails
+Kawasaki Frontale has not reclaimed top spot from the idle Urawa Reds
+
+Kawasaki Frontale has not reclaimed top spot from the idle Urawa Reds
+permits
+Kawasaki Frontale has missed a chance to reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale had missed a chance to reclaim top spot from the idle Urawa Reds
+contradicts
+Kawasaki Frontale had reclaimed top spot from the idle Urawa Reds
+
+Kawasaki Frontale had reclaimed top spot from the idle Urawa Reds
+contradicts
+Kawasaki Frontale had missed a chance to reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale has n't missed a chance to reclaim top spot from the idle Urawa Reds
+entails
+Kawasaki Frontale has reclaimed top spot from the idle Urawa Reds
+
+Kawasaki Frontale has reclaimed top spot from the idle Urawa Reds
+permits
+Kawasaki Frontale has n't missed a chance to reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale has never missed a chance to reclaim top spot from the idle Urawa Reds
+contradicts
+Kawasaki Frontale has n't reclaimed top spot from the idle Urawa Reds
+
+Kawasaki Frontale has n't reclaimed top spot from the idle Urawa Reds
+contradicts
+Kawasaki Frontale has never missed a chance to reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale had missed its chance to reclaim top spot from the idle Urawa Reds
+entails
+Kawasaki Frontale had n't reclaimed top spot from the idle Urawa Reds
+
+Kawasaki Frontale had n't reclaimed top spot from the idle Urawa Reds
+permits
+Kawasaki Frontale had missed its chance to reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale had missed its chance to reclaim top spot from the idle Urawa Reds
+permits
+Kawasaki Frontale had not played at the London Games
+
+Kawasaki Frontale missed its chance to reclaim top spot from the idle Urawa Reds
+contradicts
+Kawasaki Frontale reclaimed top spot from the idle Urawa Reds
+
+Kawasaki Frontale reclaimed top spot from the idle Urawa Reds
+contradicts
+Kawasaki Frontale missed its chance to reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale missed its chance to reclaim top spot from the idle Urawa Reds
+permits
+Kawasaki Frontale saw the remains of beasts from the Jurassic
+
+Kawasaki Frontale has never missed its chance to reclaim top spot from the idle Urawa Reds
+entails
+Kawasaki Frontale has reclaimed top spot from the idle Urawa Reds
+
+Kawasaki Frontale has reclaimed top spot from the idle Urawa Reds
+permits
+Kawasaki Frontale has never missed its chance to reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale has never missed its chance to reclaim top spot from the idle Urawa Reds
+permits
+Fox has reclaimed top spot from the idle Urawa Reds
+
+Kawasaki Frontale almost missed its chance to reclaim top spot from the idle Urawa Reds
+contradicts
+Kawasaki Frontale did n't reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale did n't reclaim top spot from the idle Urawa Reds
+contradicts
+Kawasaki Frontale almost missed its chance to reclaim top spot from the idle Urawa Reds
+
+Kawasaki Frontale almost missed its chance to reclaim top spot from the idle Urawa Reds
+permits
+Microsoft almost reclaimed top spot from the idle Urawa Reds
+
+he had missed a chance to launch some brickbats at the opposition
+entails
+he had n't launched some brickbats at the opposition
+
+he had n't launched some brickbats at the opposition
+permits
+he had missed a chance to launch some brickbats at the opposition
+
+he had missed a chance to launch some brickbats at the opposition
+permits
+Apple had not launched some brickbats at the opposition
+
+he has missed a chance to launch some brickbats at the opposition
+contradicts
+he has launched some brickbats at the opposition
+
+he has launched some brickbats at the opposition
+contradicts
+he has missed a chance to launch some brickbats at the opposition
+
+he never missed a chance to launch some brickbats at the opposition
+entails
+he launched some brickbats at the opposition
+
+he launched some brickbats at the opposition
+permits
+he never missed a chance to launch some brickbats at the opposition
+
+he almost had missed a chance to launch some brickbats at the opposition
+contradicts
+he had not launched some brickbats at the opposition
+
+he had not launched some brickbats at the opposition
+contradicts
+he almost had missed a chance to launch some brickbats at the opposition
+
+he missed his chance to launch some brickbats at the opposition
+entails
+he did not launch some brickbats at the opposition
+
+he did not launch some brickbats at the opposition
+permits
+he missed his chance to launch some brickbats at the opposition
+
+he has missed his chance to launch some brickbats at the opposition
+contradicts
+he has launched some brickbats at the opposition
+
+he has launched some brickbats at the opposition
+contradicts
+he has missed his chance to launch some brickbats at the opposition
+
+he has n't missed his chance to launch some brickbats at the opposition
+entails
+he has launched some brickbats at the opposition
+
+he has launched some brickbats at the opposition
+permits
+he has n't missed his chance to launch some brickbats at the opposition
+
+he has n't missed his chance to launch some brickbats at the opposition
+permits
+the UN has launched some brickbats at the opposition
+
+he had never missed his chance to launch some brickbats at the opposition
+contradicts
+he had not launched some brickbats at the opposition
+
+he had not launched some brickbats at the opposition
+contradicts
+he had never missed his chance to launch some brickbats at the opposition
+
+he had never missed his chance to launch some brickbats at the opposition
+permits
+he had n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+she missed a chance to get help with her luggage
+entails
+she did n't get help with her luggage
+
+she did n't get help with her luggage
+permits
+she missed a chance to get help with her luggage
+
+she has missed a chance to get help with her luggage
+contradicts
+she has gotten help with her luggage
+
+she has gotten help with her luggage
+contradicts
+she has missed a chance to get help with her luggage
+
+she has missed a chance to get help with her luggage
+permits
+she has treated the cholera outbreak sufficiently
+
+she has n't missed a chance to get help with her luggage
+entails
+she has gotten help with her luggage
+
+she has gotten help with her luggage
+permits
+she has n't missed a chance to get help with her luggage
+
+she has n't missed a chance to get help with her luggage
+permits
+she has saved her show
+
+she did not miss a chance to get help with her luggage
+contradicts
+she did n't get help with her luggage
+
+she did n't get help with her luggage
+contradicts
+she did not miss a chance to get help with her luggage
+
+she did not miss a chance to get help with her luggage
+permits
+Trump did not get help with his luggage
+
+she missed her chance to get help with her luggage
+entails
+she did not get help with her luggage
+
+she did not get help with her luggage
+permits
+she missed her chance to get help with her luggage
+
+she missed her chance to get help with her luggage
+permits
+she did n't take a 2-0 lead
+
+she has missed her chance to get help with her luggage
+contradicts
+she has gotten help with her luggage
+
+she has gotten help with her luggage
+contradicts
+she has missed her chance to get help with her luggage
+
+she did n't miss her chance to get help with her luggage
+entails
+she got help with her luggage
+
+she got help with her luggage
+permits
+she did n't miss her chance to get help with her luggage
+
+she did n't miss her chance to get help with her luggage
+permits
+she launched some brickbats at the opposition
+
+she has not missed her chance to get help with her luggage
+contradicts
+she has not gotten help with her luggage
+
+she has not gotten help with her luggage
+contradicts
+she has not missed her chance to get help with her luggage
+
+she has not missed her chance to get help with her luggage
+permits
+she has not fucked all night
+
+they had missed a chance to head off the disaster
+entails
+they had n't headed off the disaster
+
+they had n't headed off the disaster
+permits
+they had missed a chance to head off the disaster
+
+they had missed a chance to head off the disaster
+permits
+they had not improved credit card safety
+
+they missed a chance to head off the disaster
+contradicts
+they headed off the disaster
+
+they headed off the disaster
+contradicts
+they missed a chance to head off the disaster
+
+they missed a chance to head off the disaster
+permits
+Red Hook schools headed off the disaster
+
+they had never missed a chance to head off the disaster
+entails
+they had headed off the disaster
+
+they had headed off the disaster
+permits
+they had never missed a chance to head off the disaster
+
+they never had missed a chance to head off the disaster
+contradicts
+they had never headed off the disaster
+
+they had never headed off the disaster
+contradicts
+they never had missed a chance to head off the disaster
+
+they have missed their chance to head off the disaster
+entails
+they have n't headed off the disaster
+
+they have n't headed off the disaster
+permits
+they have missed their chance to head off the disaster
+
+they have missed their chance to head off the disaster
+permits
+people have not headed off the disaster
+
+they have missed their chance to head off the disaster
+contradicts
+they have headed off the disaster
+
+they have headed off the disaster
+contradicts
+they have missed their chance to head off the disaster
+
+they had never missed their chance to head off the disaster
+entails
+they had headed off the disaster
+
+they had headed off the disaster
+permits
+they had never missed their chance to head off the disaster
+
+they had never missed their chance to head off the disaster
+permits
+they had seen a Beauty by Lhem Dee on 500px
+
+they have almost missed their chance to head off the disaster
+contradicts
+they have almost headed off the disaster
+
+they have almost headed off the disaster
+contradicts
+they have almost missed their chance to head off the disaster
+
+they have almost missed their chance to head off the disaster
+permits
+they have n't cut Leicester's lead
+
+we missed a chance to take our own destiny in our hands
+entails
+we did not take our own destiny in our hands
+
+we did not take our own destiny in our hands
+permits
+we missed a chance to take our own destiny in our hands
+
+we missed a chance to take our own destiny in our hands
+contradicts
+we took our own destiny in our hands
+
+we took our own destiny in our hands
+contradicts
+we missed a chance to take our own destiny in our hands
+
+we missed a chance to take our own destiny in our hands
+permits
+we met Nelson Mandela
+
+we had never missed a chance to take our own destiny in our hands
+entails
+we had taken our own destiny in our hands
+
+we had taken our own destiny in our hands
+permits
+we had never missed a chance to take our own destiny in our hands
+
+we had never missed a chance to take our own destiny in our hands
+contradicts
+we had never taken our own destiny in our hands
+
+we had never taken our own destiny in our hands
+contradicts
+we had never missed a chance to take our own destiny in our hands
+
+we missed our chance to take our own destiny in our hands
+entails
+we did not take our own destiny in our hands
+
+we did not take our own destiny in our hands
+permits
+we missed our chance to take our own destiny in our hands
+
+we had missed our chance to take our own destiny in our hands
+contradicts
+we had taken our own destiny in our hands
+
+we had taken our own destiny in our hands
+contradicts
+we had missed our chance to take our own destiny in our hands
+
+we did n't miss our chance to take our own destiny in our hands
+entails
+we took our own destiny in our hands
+
+we took our own destiny in our hands
+permits
+we did n't miss our chance to take our own destiny in our hands
+
+we did n't miss our chance to take our own destiny in our hands
+permits
+the Lakers took their own destiny in their hands
+
+we did not miss our chance to take our own destiny in our hands
+contradicts
+we did n't take our own destiny in our hands
+
+we did n't take our own destiny in our hands
+contradicts
+we did not miss our chance to take our own destiny in our hands
+
+we did not miss our chance to take our own destiny in our hands
+permits
+we did n't compete in the 1980 Olympics
+
+it missed a chance to expand regionally within east Asia
+entails
+it did not expand regionally within east Asia
+
+it did not expand regionally within east Asia
+permits
+it missed a chance to expand regionally within east Asia
+
+it had missed a chance to expand regionally within east Asia
+contradicts
+it had expanded regionally within east Asia
+
+it had expanded regionally within east Asia
+contradicts
+it had missed a chance to expand regionally within east Asia
+
+it did n't miss a chance to expand regionally within east Asia
+entails
+it expanded regionally within east Asia
+
+it expanded regionally within east Asia
+permits
+it did n't miss a chance to expand regionally within east Asia
+
+it did n't miss a chance to expand regionally within east Asia
+permits
+Apple expanded regionally within east Asia
+
+it has n't missed a chance to expand regionally within east Asia
+contradicts
+it has n't expanded regionally within east Asia
+
+it has n't expanded regionally within east Asia
+contradicts
+it has n't missed a chance to expand regionally within east Asia
+
+it has missed its chance to expand regionally within east Asia
+entails
+it has n't expanded regionally within east Asia
+
+it has n't expanded regionally within east Asia
+permits
+it has missed its chance to expand regionally within east Asia
+
+it has missed its chance to expand regionally within east Asia
+contradicts
+it has expanded regionally within east Asia
+
+it has expanded regionally within east Asia
+contradicts
+it has missed its chance to expand regionally within east Asia
+
+it has missed its chance to expand regionally within east Asia
+permits
+Trump has expanded regionally within east Asia
+
+it did n't miss its chance to expand regionally within east Asia
+entails
+it expanded regionally within east Asia
+
+it expanded regionally within east Asia
+permits
+it did n't miss its chance to expand regionally within east Asia
+
+it almost missed its chance to expand regionally within east Asia
+contradicts
+it did n't expand regionally within east Asia
+
+it did n't expand regionally within east Asia
+contradicts
+it almost missed its chance to expand regionally within east Asia
+
+it missed the chance to grab the allegiance of the many first-time voters
+entails
+it did n't grab the allegiance of the many first-time voters
+
+it did n't grab the allegiance of the many first-time voters
+permits
+it missed the chance to grab the allegiance of the many first-time voters
+
+it has missed the chance to grab the allegiance of the many first-time voters
+contradicts
+it has grabbed the allegiance of the many first-time voters
+
+it has grabbed the allegiance of the many first-time voters
+contradicts
+it has missed the chance to grab the allegiance of the many first-time voters
+
+it has almost missed the chance to grab the allegiance of the many first-time voters
+entails
+it has grabbed the allegiance of the many first-time voters
+
+it has grabbed the allegiance of the many first-time voters
+permits
+it has almost missed the chance to grab the allegiance of the many first-time voters
+
+it did n't miss the chance to grab the allegiance of the many first-time voters
+contradicts
+it did n't grab the allegiance of the many first-time voters
+
+it did n't grab the allegiance of the many first-time voters
+contradicts
+it did n't miss the chance to grab the allegiance of the many first-time voters
+
+it did n't miss the chance to grab the allegiance of the many first-time voters
+permits
+it did n't return to second place in Ligue 1
+
+it missed its chance to grab the allegiance of the many first-time voters
+entails
+it did n't grab the allegiance of the many first-time voters
+
+it did n't grab the allegiance of the many first-time voters
+permits
+it missed its chance to grab the allegiance of the many first-time voters
+
+it missed its chance to grab the allegiance of the many first-time voters
+permits
+the NYPD did not grab the allegiance of the many first-time voters
+
+it missed its chance to grab the allegiance of the many first-time voters
+contradicts
+it grabbed the allegiance of the many first-time voters
+
+it grabbed the allegiance of the many first-time voters
+contradicts
+it missed its chance to grab the allegiance of the many first-time voters
+
+it missed its chance to grab the allegiance of the many first-time voters
+permits
+Republic grabbed the allegiance of the many first-time voters
+
+it did n't miss its chance to grab the allegiance of the many first-time voters
+entails
+it grabbed the allegiance of the many first-time voters
+
+it grabbed the allegiance of the many first-time voters
+permits
+it did n't miss its chance to grab the allegiance of the many first-time voters
+
+it did n't miss its chance to grab the allegiance of the many first-time voters
+permits
+it said goodbye to its dying dad
+
+it almost missed its chance to grab the allegiance of the many first-time voters
+contradicts
+it did n't grab the allegiance of the many first-time voters
+
+it did n't grab the allegiance of the many first-time voters
+contradicts
+it almost missed its chance to grab the allegiance of the many first-time voters
+
+it almost missed its chance to grab the allegiance of the many first-time voters
+permits
+it did not hear that band
+
+I missed the chance to hear that band
+entails
+I did not hear that band
+
+I did not hear that band
+permits
+I missed the chance to hear that band
+
+I missed the chance to hear that band
+contradicts
+I heard that band
+
+I heard that band
+contradicts
+I missed the chance to hear that band
+
+I missed the chance to hear that band
+permits
+Mr. Obama heard that band
+
+I did n't miss the chance to hear that band
+entails
+I heard that band
+
+I heard that band
+permits
+I did n't miss the chance to hear that band
+
+I did n't miss the chance to hear that band
+permits
+I took a 2-0 lead
+
+I did n't miss the chance to hear that band
+contradicts
+I did not hear that band
+
+I did not hear that band
+contradicts
+I did n't miss the chance to hear that band
+
+I have missed my chance to hear that band
+entails
+I have n't heard that band
+
+I have n't heard that band
+permits
+I have missed my chance to hear that band
+
+I have missed my chance to hear that band
+contradicts
+I have heard that band
+
+I have heard that band
+contradicts
+I have missed my chance to hear that band
+
+I had never missed my chance to hear that band
+entails
+I had heard that band
+
+I had heard that band
+permits
+I had never missed my chance to hear that band
+
+I had never missed my chance to hear that band
+permits
+Mr. Obama had heard that band
+
+I had not missed my chance to hear that band
+contradicts
+I had not heard that band
+
+I had not heard that band
+contradicts
+I had not missed my chance to hear that band
+
+Venus Williams missed the chance to win her 50th WTA title
+entails
+Venus Williams did n't win her 50th WTA title
+
+Venus Williams did n't win her 50th WTA title
+permits
+Venus Williams missed the chance to win her 50th WTA title
+
+Venus Williams missed the chance to win her 50th WTA title
+permits
+Venus Williams did n't see new sights
+
+Venus Williams missed the chance to win her 50th WTA title
+contradicts
+Venus Williams won her 50th WTA title
+
+Venus Williams won her 50th WTA title
+contradicts
+Venus Williams missed the chance to win her 50th WTA title
+
+Venus Williams missed the chance to win her 50th WTA title
+permits
+Venus Williams put their view forth on the issue
+
+Venus Williams has almost missed the chance to win her 50th WTA title
+entails
+Venus Williams has won her 50th WTA title
+
+Venus Williams has won her 50th WTA title
+permits
+Venus Williams has almost missed the chance to win her 50th WTA title
+
+Venus Williams almost missed the chance to win her 50th WTA title
+contradicts
+Venus Williams did n't win her 50th WTA title
+
+Venus Williams did n't win her 50th WTA title
+contradicts
+Venus Williams almost missed the chance to win her 50th WTA title
+
+Venus Williams almost missed the chance to win her 50th WTA title
+permits
+Venus Williams almost pressed Paris attacks suspect on the Brussels bombers
+
+Venus Williams missed her chance to win her 50th WTA title
+entails
+Venus Williams did not win her 50th WTA title
+
+Venus Williams did not win her 50th WTA title
+permits
+Venus Williams missed her chance to win her 50th WTA title
+
+Venus Williams missed her chance to win her 50th WTA title
+permits
+Venus Williams did not resolve the Kashmir issue
+
+Venus Williams had missed her chance to win her 50th WTA title
+contradicts
+Venus Williams had won her 50th WTA title
+
+Venus Williams had won her 50th WTA title
+contradicts
+Venus Williams had missed her chance to win her 50th WTA title
+
+Venus Williams had not missed her chance to win her 50th WTA title
+entails
+Venus Williams had won her 50th WTA title
+
+Venus Williams had won her 50th WTA title
+permits
+Venus Williams had not missed her chance to win her 50th WTA title
+
+Venus Williams had not missed her chance to win her 50th WTA title
+permits
+his side had won its 50th WTA title
+
+Venus Williams did n't miss her chance to win her 50th WTA title
+contradicts
+Venus Williams did not win her 50th WTA title
+
+Venus Williams did not win her 50th WTA title
+contradicts
+Venus Williams did n't miss her chance to win her 50th WTA title
+
+you had missed the chance to fuck all night
+entails
+you had not fucked all night
+
+you had not fucked all night
+permits
+you had missed the chance to fuck all night
+
+you have missed the chance to fuck all night
+contradicts
+you have fucked all night
+
+you have fucked all night
+contradicts
+you have missed the chance to fuck all night
+
+you have missed the chance to fuck all night
+permits
+the NYPD has fucked all night
+
+you had not missed the chance to fuck all night
+entails
+you had fucked all night
+
+you had fucked all night
+permits
+you had not missed the chance to fuck all night
+
+you had not missed the chance to fuck all night
+permits
+Sarah Piening had fucked all night
+
+you had n't missed the chance to fuck all night
+contradicts
+you had not fucked all night
+
+you had not fucked all night
+contradicts
+you had n't missed the chance to fuck all night
+
+you missed your chance to fuck all night
+entails
+you did n't fuck all night
+
+you did n't fuck all night
+permits
+you missed your chance to fuck all night
+
+you missed your chance to fuck all night
+permits
+you did n't challenge property tax
+
+you missed your chance to fuck all night
+contradicts
+you fucked all night
+
+you fucked all night
+contradicts
+you missed your chance to fuck all night
+
+you missed your chance to fuck all night
+permits
+you lay the redded carpet before them
+
+you have never missed your chance to fuck all night
+entails
+you have fucked all night
+
+you have fucked all night
+permits
+you have never missed your chance to fuck all night
+
+you had never missed your chance to fuck all night
+contradicts
+you had never fucked all night
+
+you had never fucked all night
+contradicts
+you had never missed your chance to fuck all night
+
+you had never missed your chance to fuck all night
+permits
+you had not picked up ground on the reeling Giants
+
+you already missed the chance to get a good night's sleep
+entails
+you did not get a good night's sleep
+
+you did not get a good night's sleep
+permits
+you already missed the chance to get a good night's sleep
+
+you already missed the chance to get a good night's sleep
+permits
+you did n't improve credit card safety
+
+you had already missed the chance to get a good night's sleep
+contradicts
+you had gotten a good night's sleep
+
+you had gotten a good night's sleep
+contradicts
+you had already missed the chance to get a good night's sleep
+
+you had already missed the chance to get a good night's sleep
+permits
+Leverkusen had gotten a good night's sleep
+
+you have n't already missed the chance to get a good night's sleep
+entails
+you have gotten a good night's sleep
+
+you have gotten a good night's sleep
+permits
+you have n't already missed the chance to get a good night's sleep
+
+you had almost already missed the chance to get a good night's sleep
+contradicts
+you had n't gotten a good night's sleep
+
+you had n't gotten a good night's sleep
+contradicts
+you had almost already missed the chance to get a good night's sleep
+
+you have already missed your chance to get a good night's sleep
+entails
+you have n't gotten a good night's sleep
+
+you have n't gotten a good night's sleep
+permits
+you have already missed your chance to get a good night's sleep
+
+you have already missed your chance to get a good night's sleep
+permits
+Leverkusen has not gotten a good night's sleep
+
+you already missed your chance to get a good night's sleep
+contradicts
+you got a good night's sleep
+
+you got a good night's sleep
+contradicts
+you already missed your chance to get a good night's sleep
+
+you already missed your chance to get a good night's sleep
+permits
+Venus Williams got a good night's sleep
+
+you never already missed your chance to get a good night's sleep
+entails
+you got a good night's sleep
+
+you got a good night's sleep
+permits
+you never already missed your chance to get a good night's sleep
+
+you never already missed your chance to get a good night's sleep
+permits
+Leverkusen got a good night's sleep
+
+you have not already missed your chance to get a good night's sleep
+contradicts
+you have n't gotten a good night's sleep
+
+you have n't gotten a good night's sleep
+contradicts
+you have not already missed your chance to get a good night's sleep
+
+you have not already missed your chance to get a good night's sleep
+permits
+she has not gotten a good night's sleep
+
+she has missed the chance to speak to him
+entails
+she has not spoken to him
+
+she has not spoken to him
+permits
+she has missed the chance to speak to him
+
+she has missed the chance to speak to him
+permits
+Target has n't spoken to him
+
+she has missed the chance to speak to him
+contradicts
+she has spoken to him
+
+she has spoken to him
+contradicts
+she has missed the chance to speak to him
+
+she almost missed the chance to speak to him
+entails
+she spoke to him
+
+she spoke to him
+permits
+she almost missed the chance to speak to him
+
+she had never missed the chance to speak to him
+contradicts
+she had never spoken to him
+
+she had never spoken to him
+contradicts
+she had never missed the chance to speak to him
+
+she missed her chance to speak to him
+entails
+she did n't speak to him
+
+she did n't speak to him
+permits
+she missed her chance to speak to him
+
+she has missed her chance to speak to him
+contradicts
+she has spoken to him
+
+she has spoken to him
+contradicts
+she has missed her chance to speak to him
+
+she has missed her chance to speak to him
+permits
+he has spoken to him
+
+she has not missed her chance to speak to him
+entails
+she has spoken to him
+
+she has spoken to him
+permits
+she has not missed her chance to speak to him
+
+she has never missed her chance to speak to him
+contradicts
+she has never spoken to him
+
+she has never spoken to him
+contradicts
+she has never missed her chance to speak to him
+
+Monaco missed the chance to return to second place in Ligue 1
+entails
+Monaco did n't return to second place in Ligue 1
+
+Monaco did n't return to second place in Ligue 1
+permits
+Monaco missed the chance to return to second place in Ligue 1
+
+Monaco missed the chance to return to second place in Ligue 1
+permits
+Monaco did not enter the eerily-sounding Batcave meeting room
+
+Monaco has missed the chance to return to second place in Ligue 1
+contradicts
+Monaco has returned to second place in Ligue 1
+
+Monaco has returned to second place in Ligue 1
+contradicts
+Monaco has missed the chance to return to second place in Ligue 1
+
+Monaco has missed the chance to return to second place in Ligue 1
+permits
+Monaco has reconfirm the quarterfinal she reached lasted year
+
+Monaco had never missed the chance to return to second place in Ligue 1
+entails
+Monaco had returned to second place in Ligue 1
+
+Monaco had returned to second place in Ligue 1
+permits
+Monaco had never missed the chance to return to second place in Ligue 1
+
+Monaco had never missed the chance to return to second place in Ligue 1
+permits
+the NYPD had returned to second place in Ligue 1
+
+Monaco had almost missed the chance to return to second place in Ligue 1
+contradicts
+Monaco had not returned to second place in Ligue 1
+
+Monaco had not returned to second place in Ligue 1
+contradicts
+Monaco had almost missed the chance to return to second place in Ligue 1
+
+Monaco had almost missed the chance to return to second place in Ligue 1
+permits
+Monaco had not met the legend
+
+Monaco has missed its chance to return to second place in Ligue 1
+entails
+Monaco has n't returned to second place in Ligue 1
+
+Monaco has n't returned to second place in Ligue 1
+permits
+Monaco has missed its chance to return to second place in Ligue 1
+
+Monaco had missed its chance to return to second place in Ligue 1
+contradicts
+Monaco had returned to second place in Ligue 1
+
+Monaco had returned to second place in Ligue 1
+contradicts
+Monaco had missed its chance to return to second place in Ligue 1
+
+Monaco had missed its chance to return to second place in Ligue 1
+permits
+I had returned to second place in Ligue 1
+
+Monaco has never missed its chance to return to second place in Ligue 1
+entails
+Monaco has returned to second place in Ligue 1
+
+Monaco has returned to second place in Ligue 1
+permits
+Monaco has never missed its chance to return to second place in Ligue 1
+
+Monaco has n't missed its chance to return to second place in Ligue 1
+contradicts
+Monaco has not returned to second place in Ligue 1
+
+Monaco has not returned to second place in Ligue 1
+contradicts
+Monaco has n't missed its chance to return to second place in Ligue 1
+
+the Lakers have missed the chance to recruit Thibodeau
+entails
+the Lakers have not recruited Thibodeau
+
+the Lakers have not recruited Thibodeau
+permits
+the Lakers have missed the chance to recruit Thibodeau
+
+the Lakers have missed the chance to recruit Thibodeau
+permits
+the Lakers have not defended Americans’ freedom
+
+the Lakers missed the chance to recruit Thibodeau
+contradicts
+the Lakers recruited Thibodeau
+
+the Lakers recruited Thibodeau
+contradicts
+the Lakers missed the chance to recruit Thibodeau
+
+the Lakers missed the chance to recruit Thibodeau
+permits
+people recruited Thibodeau
+
+the Lakers have not missed the chance to recruit Thibodeau
+entails
+the Lakers have recruited Thibodeau
+
+the Lakers have recruited Thibodeau
+permits
+the Lakers have not missed the chance to recruit Thibodeau
+
+the Lakers have not missed the chance to recruit Thibodeau
+permits
+we have recruited Thibodeau
+
+the Lakers have almost missed the chance to recruit Thibodeau
+contradicts
+the Lakers have not recruited Thibodeau
+
+the Lakers have not recruited Thibodeau
+contradicts
+the Lakers have almost missed the chance to recruit Thibodeau
+
+the Lakers have almost missed the chance to recruit Thibodeau
+permits
+we almost have recruited Thibodeau
+
+the Lakers missed their chance to recruit Thibodeau
+entails
+the Lakers did n't recruit Thibodeau
+
+the Lakers did n't recruit Thibodeau
+permits
+the Lakers missed their chance to recruit Thibodeau
+
+the Lakers missed their chance to recruit Thibodeau
+contradicts
+the Lakers recruited Thibodeau
+
+the Lakers recruited Thibodeau
+contradicts
+the Lakers missed their chance to recruit Thibodeau
+
+the Lakers did not miss their chance to recruit Thibodeau
+entails
+the Lakers recruited Thibodeau
+
+the Lakers recruited Thibodeau
+permits
+the Lakers did not miss their chance to recruit Thibodeau
+
+the Lakers did not miss their chance to recruit Thibodeau
+permits
+the Lakers edged closer to a top-four spot
+
+the Lakers almost missed their chance to recruit Thibodeau
+contradicts
+the Lakers almost recruited Thibodeau
+
+the Lakers almost recruited Thibodeau
+contradicts
+the Lakers almost missed their chance to recruit Thibodeau
+
+I missed the chance to meet the legend
+entails
+I did not meet the legend
+
+I did not meet the legend
+permits
+I missed the chance to meet the legend
+
+I had missed the chance to meet the legend
+contradicts
+I had met the legend
+
+I had met the legend
+contradicts
+I had missed the chance to meet the legend
+
+I had missed the chance to meet the legend
+permits
+I had improved credit card safety
+
+I have never missed the chance to meet the legend
+entails
+I have met the legend
+
+I have met the legend
+permits
+I have never missed the chance to meet the legend
+
+I had not missed the chance to meet the legend
+contradicts
+I had not met the legend
+
+I had not met the legend
+contradicts
+I had not missed the chance to meet the legend
+
+I had missed my chance to meet the legend
+entails
+I had n't met the legend
+
+I had n't met the legend
+permits
+I had missed my chance to meet the legend
+
+I had missed my chance to meet the legend
+permits
+Hudson had n't met the legend
+
+I have missed my chance to meet the legend
+contradicts
+I have met the legend
+
+I have met the legend
+contradicts
+I have missed my chance to meet the legend
+
+I have almost missed my chance to meet the legend
+entails
+I have met the legend
+
+I have met the legend
+permits
+I have almost missed my chance to meet the legend
+
+I have almost missed my chance to meet the legend
+permits
+I have pressed Paris attacks suspect on the Brussels bombers
+
+I had n't missed my chance to meet the legend
+contradicts
+I had n't met the legend
+
+I had n't met the legend
+contradicts
+I had n't missed my chance to meet the legend
+
+I had n't missed my chance to meet the legend
+permits
+I had not gotten help with my luggage
+
+Boston University rowing coach Holly Hatton has missed the chance to compete in the 1980 Olympics
+entails
+Boston University rowing coach Holly Hatton has not competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton has not competed in the 1980 Olympics
+permits
+Boston University rowing coach Holly Hatton has missed the chance to compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton missed the chance to compete in the 1980 Olympics
+contradicts
+Boston University rowing coach Holly Hatton competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton competed in the 1980 Olympics
+contradicts
+Boston University rowing coach Holly Hatton missed the chance to compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton missed the chance to compete in the 1980 Olympics
+permits
+Sarah Piening competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton almost missed the chance to compete in the 1980 Olympics
+entails
+Boston University rowing coach Holly Hatton competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton competed in the 1980 Olympics
+permits
+Boston University rowing coach Holly Hatton almost missed the chance to compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton almost missed the chance to compete in the 1980 Olympics
+permits
+Tottenham competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton has n't missed the chance to compete in the 1980 Olympics
+contradicts
+Boston University rowing coach Holly Hatton has n't competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton has n't competed in the 1980 Olympics
+contradicts
+Boston University rowing coach Holly Hatton has n't missed the chance to compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton missed her chance to compete in the 1980 Olympics
+entails
+Boston University rowing coach Holly Hatton did not compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton did not compete in the 1980 Olympics
+permits
+Boston University rowing coach Holly Hatton missed her chance to compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton missed her chance to compete in the 1980 Olympics
+contradicts
+Boston University rowing coach Holly Hatton competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton competed in the 1980 Olympics
+contradicts
+Boston University rowing coach Holly Hatton missed her chance to compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton missed her chance to compete in the 1980 Olympics
+permits
+Hudson competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton had not missed her chance to compete in the 1980 Olympics
+entails
+Boston University rowing coach Holly Hatton had competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton had competed in the 1980 Olympics
+permits
+Boston University rowing coach Holly Hatton had not missed her chance to compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton had not missed her chance to compete in the 1980 Olympics
+permits
+Leverkusen had competed in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton did n't miss her chance to compete in the 1980 Olympics
+contradicts
+Boston University rowing coach Holly Hatton did not compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton did not compete in the 1980 Olympics
+contradicts
+Boston University rowing coach Holly Hatton did n't miss her chance to compete in the 1980 Olympics
+
+Boston University rowing coach Holly Hatton did n't miss her chance to compete in the 1980 Olympics
+permits
+Fox did not compete in the 1980 Olympics
+
+Police has missed the chance to press Paris attacks suspect on the Brussels bombers
+entails
+Police has not pressed Paris attacks suspect on the Brussels bombers
+
+Police has not pressed Paris attacks suspect on the Brussels bombers
+permits
+Police has missed the chance to press Paris attacks suspect on the Brussels bombers
+
+Police had missed the chance to press Paris attacks suspect on the Brussels bombers
+contradicts
+Police had pressed Paris attacks suspect on the Brussels bombers
+
+Police had pressed Paris attacks suspect on the Brussels bombers
+contradicts
+Police had missed the chance to press Paris attacks suspect on the Brussels bombers
+
+Police had n't missed the chance to press Paris attacks suspect on the Brussels bombers
+entails
+Police had pressed Paris attacks suspect on the Brussels bombers
+
+Police had pressed Paris attacks suspect on the Brussels bombers
+permits
+Police had n't missed the chance to press Paris attacks suspect on the Brussels bombers
+
+Police had n't missed the chance to press Paris attacks suspect on the Brussels bombers
+permits
+Police had met the legend
+
+Police had not missed the chance to press Paris attacks suspect on the Brussels bombers
+contradicts
+Police had n't pressed Paris attacks suspect on the Brussels bombers
+
+Police had n't pressed Paris attacks suspect on the Brussels bombers
+contradicts
+Police had not missed the chance to press Paris attacks suspect on the Brussels bombers
+
+Police has missed its chance to press Paris attacks suspect on the Brussels bombers
+entails
+Police has not pressed Paris attacks suspect on the Brussels bombers
+
+Police has not pressed Paris attacks suspect on the Brussels bombers
+permits
+Police has missed its chance to press Paris attacks suspect on the Brussels bombers
+
+Police missed its chance to press Paris attacks suspect on the Brussels bombers
+contradicts
+Police pressed Paris attacks suspect on the Brussels bombers
+
+Police pressed Paris attacks suspect on the Brussels bombers
+contradicts
+Police missed its chance to press Paris attacks suspect on the Brussels bombers
+
+Police missed its chance to press Paris attacks suspect on the Brussels bombers
+permits
+Police spoke to him
+
+Police had never missed its chance to press Paris attacks suspect on the Brussels bombers
+entails
+Police had pressed Paris attacks suspect on the Brussels bombers
+
+Police had pressed Paris attacks suspect on the Brussels bombers
+permits
+Police had never missed its chance to press Paris attacks suspect on the Brussels bombers
+
+Police had never missed its chance to press Paris attacks suspect on the Brussels bombers
+permits
+Police had stopped a fight
+
+Police had n't missed its chance to press Paris attacks suspect on the Brussels bombers
+contradicts
+Police had not pressed Paris attacks suspect on the Brussels bombers
+
+Police had not pressed Paris attacks suspect on the Brussels bombers
+contradicts
+Police had n't missed its chance to press Paris attacks suspect on the Brussels bombers
+
+Police had n't missed its chance to press Paris attacks suspect on the Brussels bombers
+permits
+Apple had not pressed Paris attacks suspect on the Brussels bombers
+
+they had missed the chance to see Sanders' latest Oregon visit
+entails
+they had not seen Sanders' latest Oregon visit
+
+they had not seen Sanders' latest Oregon visit
+permits
+they had missed the chance to see Sanders' latest Oregon visit
+
+they had missed the chance to see Sanders' latest Oregon visit
+contradicts
+they had seen Sanders' latest Oregon visit
+
+they had seen Sanders' latest Oregon visit
+contradicts
+they had missed the chance to see Sanders' latest Oregon visit
+
+they had missed the chance to see Sanders' latest Oregon visit
+permits
+the Chiefs had seen Sanders' latest Oregon visit
+
+they have never missed the chance to see Sanders' latest Oregon visit
+entails
+they have seen Sanders' latest Oregon visit
+
+they have seen Sanders' latest Oregon visit
+permits
+they have never missed the chance to see Sanders' latest Oregon visit
+
+they have never missed the chance to see Sanders' latest Oregon visit
+permits
+they have electrified voters by choosing Pence
+
+they had almost missed the chance to see Sanders' latest Oregon visit
+contradicts
+they had almost seen Sanders' latest Oregon visit
+
+they had almost seen Sanders' latest Oregon visit
+contradicts
+they had almost missed the chance to see Sanders' latest Oregon visit
+
+they had missed their chance to see Sanders' latest Oregon visit
+entails
+they had not seen Sanders' latest Oregon visit
+
+they had not seen Sanders' latest Oregon visit
+permits
+they had missed their chance to see Sanders' latest Oregon visit
+
+they had missed their chance to see Sanders' latest Oregon visit
+permits
+they had n't grabbed the allegiance of the many first-time voters
+
+they missed their chance to see Sanders' latest Oregon visit
+contradicts
+they saw Sanders' latest Oregon visit
+
+they saw Sanders' latest Oregon visit
+contradicts
+they missed their chance to see Sanders' latest Oregon visit
+
+they missed their chance to see Sanders' latest Oregon visit
+permits
+they curbed this violence
+
+they never missed their chance to see Sanders' latest Oregon visit
+entails
+they saw Sanders' latest Oregon visit
+
+they saw Sanders' latest Oregon visit
+permits
+they never missed their chance to see Sanders' latest Oregon visit
+
+they never missed their chance to see Sanders' latest Oregon visit
+permits
+they were a ‘good neighbor’
+
+they have never missed their chance to see Sanders' latest Oregon visit
+contradicts
+they have never seen Sanders' latest Oregon visit
+
+they have never seen Sanders' latest Oregon visit
+contradicts
+they have never missed their chance to see Sanders' latest Oregon visit
+
+they have never missed their chance to see Sanders' latest Oregon visit
+permits
+they have n't pressed Paris attacks suspect on the Brussels bombers
+
+Stephen Colbert has missed the chance to save his show
+entails
+Stephen Colbert has n't saved his show
+
+Stephen Colbert has n't saved his show
+permits
+Stephen Colbert has missed the chance to save his show
+
+Stephen Colbert has missed the chance to save his show
+contradicts
+Stephen Colbert has saved his show
+
+Stephen Colbert has saved his show
+contradicts
+Stephen Colbert has missed the chance to save his show
+
+Stephen Colbert has missed the chance to save his show
+permits
+Sarah Piening has saved her show
+
+Stephen Colbert had never missed the chance to save his show
+entails
+Stephen Colbert had saved his show
+
+Stephen Colbert had saved his show
+permits
+Stephen Colbert had never missed the chance to save his show
+
+Stephen Colbert never has missed the chance to save his show
+contradicts
+Stephen Colbert has not saved his show
+
+Stephen Colbert has not saved his show
+contradicts
+Stephen Colbert never has missed the chance to save his show
+
+Stephen Colbert had missed his chance to save his show
+entails
+Stephen Colbert had not saved his show
+
+Stephen Colbert had not saved his show
+permits
+Stephen Colbert had missed his chance to save his show
+
+Stephen Colbert had missed his chance to save his show
+permits
+Stephen Colbert had n't played in the softball Tournament of Champions
+
+Stephen Colbert missed his chance to save his show
+contradicts
+Stephen Colbert saved his show
+
+Stephen Colbert saved his show
+contradicts
+Stephen Colbert missed his chance to save his show
+
+Stephen Colbert missed his chance to save his show
+permits
+Hudson saved his show
+
+Stephen Colbert did n't miss his chance to save his show
+entails
+Stephen Colbert saved his show
+
+Stephen Colbert saved his show
+permits
+Stephen Colbert did n't miss his chance to save his show
+
+Stephen Colbert did n't miss his chance to save his show
+permits
+Tottenham saved its show
+
+Stephen Colbert had never missed his chance to save his show
+contradicts
+Stephen Colbert had not saved his show
+
+Stephen Colbert had not saved his show
+contradicts
+Stephen Colbert had never missed his chance to save his show
+
+Stephen Colbert had never missed his chance to save his show
+permits
+Stephen Colbert had not grabbed the allegiance of the many first-time voters
+
+India has missed the chance to resolve the Kashmir issue
+entails
+India has not resolved the Kashmir issue
+
+India has not resolved the Kashmir issue
+permits
+India has missed the chance to resolve the Kashmir issue
+
+India has missed the chance to resolve the Kashmir issue
+permits
+India has not lowered tax levy
+
+India missed the chance to resolve the Kashmir issue
+contradicts
+India resolved the Kashmir issue
+
+India resolved the Kashmir issue
+contradicts
+India missed the chance to resolve the Kashmir issue
+
+India had never missed the chance to resolve the Kashmir issue
+entails
+India had resolved the Kashmir issue
+
+India had resolved the Kashmir issue
+permits
+India had never missed the chance to resolve the Kashmir issue
+
+India had never missed the chance to resolve the Kashmir issue
+contradicts
+India had never resolved the Kashmir issue
+
+India had never resolved the Kashmir issue
+contradicts
+India had never missed the chance to resolve the Kashmir issue
+
+India had missed its chance to resolve the Kashmir issue
+entails
+India had not resolved the Kashmir issue
+
+India had not resolved the Kashmir issue
+permits
+India had missed its chance to resolve the Kashmir issue
+
+India had missed its chance to resolve the Kashmir issue
+permits
+India had not picked up ground on the reeling Giants
+
+India had missed its chance to resolve the Kashmir issue
+contradicts
+India had resolved the Kashmir issue
+
+India had resolved the Kashmir issue
+contradicts
+India had missed its chance to resolve the Kashmir issue
+
+India had missed its chance to resolve the Kashmir issue
+permits
+India had brought in a new audience
+
+India did not miss its chance to resolve the Kashmir issue
+entails
+India resolved the Kashmir issue
+
+India resolved the Kashmir issue
+permits
+India did not miss its chance to resolve the Kashmir issue
+
+India did not miss its chance to resolve the Kashmir issue
+permits
+Sarah Piening resolved the Kashmir issue
+
+India never had missed its chance to resolve the Kashmir issue
+contradicts
+India had not resolved the Kashmir issue
+
+India had not resolved the Kashmir issue
+contradicts
+India never had missed its chance to resolve the Kashmir issue
+
+bungling officials had missed chance to prosecute Lord Janner on sex abuse claims
+entails
+bungling officials had not prosecuted Lord Janner on sex abuse claims
+
+bungling officials had not prosecuted Lord Janner on sex abuse claims
+permits
+bungling officials had missed chance to prosecute Lord Janner on sex abuse claims
+
+bungling officials had missed chance to prosecute Lord Janner on sex abuse claims
+permits
+the Chiefs had n't prosecuted Lord Janner on sex abuse claims
+
+bungling officials missed chance to prosecute Lord Janner on sex abuse claims
+contradicts
+bungling officials prosecuted Lord Janner on sex abuse claims
+
+bungling officials prosecuted Lord Janner on sex abuse claims
+contradicts
+bungling officials missed chance to prosecute Lord Janner on sex abuse claims
+
+bungling officials had never missed chance to prosecute Lord Janner on sex abuse claims
+entails
+bungling officials had prosecuted Lord Janner on sex abuse claims
+
+bungling officials had prosecuted Lord Janner on sex abuse claims
+permits
+bungling officials had never missed chance to prosecute Lord Janner on sex abuse claims
+
+bungling officials have never missed chance to prosecute Lord Janner on sex abuse claims
+contradicts
+bungling officials have never prosecuted Lord Janner on sex abuse claims
+
+bungling officials have never prosecuted Lord Janner on sex abuse claims
+contradicts
+bungling officials have never missed chance to prosecute Lord Janner on sex abuse claims
+
+bungling officials have never missed chance to prosecute Lord Janner on sex abuse claims
+permits
+bungling officials have never picked up ground on the reeling Giants
+
+bungling officials had missed chance to prosecute Lord Janner on sex abuse claims
+entails
+bungling officials had not prosecuted Lord Janner on sex abuse claims
+
+bungling officials had not prosecuted Lord Janner on sex abuse claims
+permits
+bungling officials had missed chance to prosecute Lord Janner on sex abuse claims
+
+bungling officials had missed chance to prosecute Lord Janner on sex abuse claims
+permits
+Red Hook schools had not prosecuted Lord Janner on sex abuse claims
+
+bungling officials missed chance to prosecute Lord Janner on sex abuse claims
+contradicts
+bungling officials prosecuted Lord Janner on sex abuse claims
+
+bungling officials prosecuted Lord Janner on sex abuse claims
+contradicts
+bungling officials missed chance to prosecute Lord Janner on sex abuse claims
+
+bungling officials missed chance to prosecute Lord Janner on sex abuse claims
+permits
+bungling officials got help with their luggage
+
+bungling officials had almost missed chance to prosecute Lord Janner on sex abuse claims
+entails
+bungling officials had prosecuted Lord Janner on sex abuse claims
+
+bungling officials had prosecuted Lord Janner on sex abuse claims
+permits
+bungling officials had almost missed chance to prosecute Lord Janner on sex abuse claims
+
+bungling officials had almost missed chance to prosecute Lord Janner on sex abuse claims
+permits
+the Chiefs had prosecuted Lord Janner on sex abuse claims
+
+bungling officials did not miss chance to prosecute Lord Janner on sex abuse claims
+contradicts
+bungling officials did not prosecute Lord Janner on sex abuse claims
+
+bungling officials did not prosecute Lord Janner on sex abuse claims
+contradicts
+bungling officials did not miss chance to prosecute Lord Janner on sex abuse claims
+
+he missed a chance to see new sights
+entails
+he did n't see new sights
+
+he did n't see new sights
+permits
+he missed a chance to see new sights
+
+he missed a chance to see new sights
+permits
+she did not see new sights
+
+he missed a chance to see new sights
+contradicts
+he saw new sights
+
+he saw new sights
+contradicts
+he missed a chance to see new sights
+
+he has missed no chance to see new sights
+entails
+he has seen new sights
+
+he has seen new sights
+permits
+he has missed no chance to see new sights
+
+he has missed no chance to see new sights
+contradicts
+he has not seen new sights
+
+he has not seen new sights
+contradicts
+he has missed no chance to see new sights
+
+he missed his chance to see new sights
+entails
+he did n't see new sights
+
+he did n't see new sights
+permits
+he missed his chance to see new sights
+
+he missed his chance to see new sights
+permits
+he did n't cut Leicester's lead
+
+he has missed his chance to see new sights
+contradicts
+he has seen new sights
+
+he has seen new sights
+contradicts
+he has missed his chance to see new sights
+
+he had never missed his chance to see new sights
+entails
+he had seen new sights
+
+he had seen new sights
+permits
+he had never missed his chance to see new sights
+
+he has n't missed his chance to see new sights
+contradicts
+he has n't seen new sights
+
+he has n't seen new sights
+contradicts
+he has n't missed his chance to see new sights
+
+he has n't missed his chance to see new sights
+permits
+Trump has n't seen new sights
+
+they had missed a chance to ask about my whereabouts
+entails
+they had not asked about my whereabouts
+
+they had not asked about my whereabouts
+permits
+they had missed a chance to ask about my whereabouts
+
+they have missed a chance to ask about my whereabouts
+contradicts
+they have asked about my whereabouts
+
+they have asked about my whereabouts
+contradicts
+they have missed a chance to ask about my whereabouts
+
+they have missed a chance to ask about my whereabouts
+permits
+they have recruited Thibodeau
+
+they have missed no chance to ask about my whereabouts
+entails
+they have asked about my whereabouts
+
+they have asked about my whereabouts
+permits
+they have missed no chance to ask about my whereabouts
+
+they had missed no chance to ask about my whereabouts
+contradicts
+they had n't asked about my whereabouts
+
+they had n't asked about my whereabouts
+contradicts
+they had missed no chance to ask about my whereabouts
+
+they had missed no chance to ask about my whereabouts
+permits
+the Chiefs had n't asked about my whereabouts
+
+they missed their chance to ask about my whereabouts
+entails
+they did not ask about my whereabouts
+
+they did not ask about my whereabouts
+permits
+they missed their chance to ask about my whereabouts
+
+they missed their chance to ask about my whereabouts
+contradicts
+they asked about my whereabouts
+
+they asked about my whereabouts
+contradicts
+they missed their chance to ask about my whereabouts
+
+they missed their chance to ask about my whereabouts
+permits
+they were a movie star
+
+they have n't missed their chance to ask about my whereabouts
+entails
+they have asked about my whereabouts
+
+they have asked about my whereabouts
+permits
+they have n't missed their chance to ask about my whereabouts
+
+they had almost missed their chance to ask about my whereabouts
+contradicts
+they had n't asked about my whereabouts
+
+they had n't asked about my whereabouts
+contradicts
+they had almost missed their chance to ask about my whereabouts
+
+they had almost missed their chance to ask about my whereabouts
+permits
+Red Hook schools had not asked about my whereabouts
+
+the newspapers have missed a chance to lay the red carpet before them
+entails
+the newspapers have not lay the redded carpet before them
+
+the newspapers have not lay the redded carpet before them
+permits
+the newspapers have missed a chance to lay the red carpet before them
+
+the newspapers had missed a chance to lay the red carpet before them
+contradicts
+the newspapers had lay the redded carpet before them
+
+the newspapers had lay the redded carpet before them
+contradicts
+the newspapers had missed a chance to lay the red carpet before them
+
+the newspapers had missed a chance to lay the red carpet before them
+permits
+the newspapers had helped him last
+
+the newspapers missed no chance to lay the red carpet before them
+entails
+the newspapers lay the redded carpet before them
+
+the newspapers lay the redded carpet before them
+permits
+the newspapers missed no chance to lay the red carpet before them
+
+the newspapers missed no chance to lay the red carpet before them
+contradicts
+the newspapers did not lay the red carpet before them
+
+the newspapers did not lay the red carpet before them
+contradicts
+the newspapers missed no chance to lay the red carpet before them
+
+the newspapers missed no chance to lay the red carpet before them
+permits
+the newspapers did not get an RTX Sidequest ticket
+
+the newspapers have missed their chance to lay the red carpet before them
+entails
+the newspapers have not lay the redded carpet before them
+
+the newspapers have not lay the redded carpet before them
+permits
+the newspapers have missed their chance to lay the red carpet before them
+
+the newspapers have missed their chance to lay the red carpet before them
+permits
+people have not lay the redded carpet before them
+
+the newspapers had missed their chance to lay the red carpet before them
+contradicts
+the newspapers had lay the redded carpet before them
+
+the newspapers had lay the redded carpet before them
+contradicts
+the newspapers had missed their chance to lay the red carpet before them
+
+the newspapers have not missed their chance to lay the red carpet before them
+entails
+the newspapers have lay the redded carpet before them
+
+the newspapers have lay the redded carpet before them
+permits
+the newspapers have not missed their chance to lay the red carpet before them
+
+the newspapers had n't missed their chance to lay the red carpet before them
+contradicts
+the newspapers had not lay the redded carpet before them
+
+the newspapers had not lay the redded carpet before them
+contradicts
+the newspapers had n't missed their chance to lay the red carpet before them
+
+the newspapers had n't missed their chance to lay the red carpet before them
+permits
+Red Hook schools had not lay the redded carpet before them
+
+Mr. Obama had missed a chance to insult and damage America's allies
+entails
+Mr. Obama had n't insulted and damaged America's allies
+
+Mr. Obama had n't insulted and damaged America's allies
+permits
+Mr. Obama had missed a chance to insult and damage America's allies
+
+Mr. Obama had missed a chance to insult and damage America's allies
+contradicts
+Mr. Obama had insulted and damaged America's allies
+
+Mr. Obama had insulted and damaged America's allies
+contradicts
+Mr. Obama had missed a chance to insult and damage America's allies
+
+Mr. Obama had missed no chance to insult and damage America's allies
+entails
+Mr. Obama had insulted and damaged America's allies
+
+Mr. Obama had insulted and damaged America's allies
+permits
+Mr. Obama had missed no chance to insult and damage America's allies
+
+Mr. Obama had missed no chance to insult and damage America's allies
+contradicts
+Mr. Obama had not insulted and damaged America's allies
+
+Mr. Obama had not insulted and damaged America's allies
+contradicts
+Mr. Obama had missed no chance to insult and damage America's allies
+
+Mr. Obama has missed his chance to insult and damage America's allies
+entails
+Mr. Obama has not insulted and damaged America's allies
+
+Mr. Obama has not insulted and damaged America's allies
+permits
+Mr. Obama has missed his chance to insult and damage America's allies
+
+Mr. Obama had missed his chance to insult and damage America's allies
+contradicts
+Mr. Obama had insulted and damaged America's allies
+
+Mr. Obama had insulted and damaged America's allies
+contradicts
+Mr. Obama had missed his chance to insult and damage America's allies
+
+Mr. Obama had missed his chance to insult and damage America's allies
+permits
+Sarah Piening had insulted and damaged America's allies
+
+Mr. Obama has n't missed his chance to insult and damage America's allies
+entails
+Mr. Obama has insulted and damaged America's allies
+
+Mr. Obama has insulted and damaged America's allies
+permits
+Mr. Obama has n't missed his chance to insult and damage America's allies
+
+Mr. Obama has never missed his chance to insult and damage America's allies
+contradicts
+Mr. Obama has n't insulted and damaged America's allies
+
+Mr. Obama has n't insulted and damaged America's allies
+contradicts
+Mr. Obama has never missed his chance to insult and damage America's allies
+
+Mr. Obama has never missed his chance to insult and damage America's allies
+permits
+Karzai has not insulted and damaged America's allies
+
+the guys at Amul had missed a chance to put their view forth on the issue
+entails
+the guys at Amul had n't put their view forth on the issue
+
+the guys at Amul had n't put their view forth on the issue
+permits
+the guys at Amul had missed a chance to put their view forth on the issue
+
+the guys at Amul had missed a chance to put their view forth on the issue
+permits
+the guys at Amul had n't gotten an RTX Sidequest ticket
+
+the guys at Amul had missed a chance to put their view forth on the issue
+contradicts
+the guys at Amul had put their view forth on the issue
+
+the guys at Amul had put their view forth on the issue
+contradicts
+the guys at Amul had missed a chance to put their view forth on the issue
+
+the guys at Amul have missed no chance to put their view forth on the issue
+entails
+the guys at Amul have put their view forth on the issue
+
+the guys at Amul have put their view forth on the issue
+permits
+the guys at Amul have missed no chance to put their view forth on the issue
+
+the guys at Amul had missed no chance to put their view forth on the issue
+contradicts
+the guys at Amul had n't put their view forth on the issue
+
+the guys at Amul had n't put their view forth on the issue
+contradicts
+the guys at Amul had missed no chance to put their view forth on the issue
+
+the guys at Amul missed their chance to put their view forth on the issue
+entails
+the guys at Amul did n't put their view forth on the issue
+
+the guys at Amul did n't put their view forth on the issue
+permits
+the guys at Amul missed their chance to put their view forth on the issue
+
+the guys at Amul missed their chance to put their view forth on the issue
+permits
+the guys at Amul did not meet the legend
+
+the guys at Amul have missed their chance to put their view forth on the issue
+contradicts
+the guys at Amul have put their view forth on the issue
+
+the guys at Amul have put their view forth on the issue
+contradicts
+the guys at Amul have missed their chance to put their view forth on the issue
+
+the guys at Amul have missed their chance to put their view forth on the issue
+permits
+Red Hook schools have put their view forth on the issue
+
+the guys at Amul had n't missed their chance to put their view forth on the issue
+entails
+the guys at Amul had put their view forth on the issue
+
+the guys at Amul had put their view forth on the issue
+permits
+the guys at Amul had n't missed their chance to put their view forth on the issue
+
+the guys at Amul had almost missed their chance to put their view forth on the issue
+contradicts
+the guys at Amul had not put their view forth on the issue
+
+the guys at Amul had not put their view forth on the issue
+contradicts
+the guys at Amul had almost missed their chance to put their view forth on the issue
+
+the guys at Amul had almost missed their chance to put their view forth on the issue
+permits
+people had not put their view forth on the issue
+
+Karzai had missed a chance to ask other powerful states to mediate the peace talks
+entails
+Karzai had n't asked other powerful states to mediate the peace talks
+
+Karzai had n't asked other powerful states to mediate the peace talks
+permits
+Karzai had missed a chance to ask other powerful states to mediate the peace talks
+
+Karzai had missed a chance to ask other powerful states to mediate the peace talks
+permits
+Karzai had not spoken to him
+
+Karzai has missed a chance to ask other powerful states to mediate the peace talks
+contradicts
+Karzai has asked other powerful states to mediate the peace talks
+
+Karzai has asked other powerful states to mediate the peace talks
+contradicts
+Karzai has missed a chance to ask other powerful states to mediate the peace talks
+
+Karzai missed no chance to ask other powerful states to mediate the peace talks
+entails
+Karzai asked other powerful states to mediate the peace talks
+
+Karzai asked other powerful states to mediate the peace talks
+permits
+Karzai missed no chance to ask other powerful states to mediate the peace talks
+
+Karzai has missed no chance to ask other powerful states to mediate the peace talks
+contradicts
+Karzai has n't asked other powerful states to mediate the peace talks
+
+Karzai has n't asked other powerful states to mediate the peace talks
+contradicts
+Karzai has missed no chance to ask other powerful states to mediate the peace talks
+
+Karzai had missed his chance to ask other powerful states to mediate the peace talks
+entails
+Karzai had not asked other powerful states to mediate the peace talks
+
+Karzai had not asked other powerful states to mediate the peace talks
+permits
+Karzai had missed his chance to ask other powerful states to mediate the peace talks
+
+Karzai had missed his chance to ask other powerful states to mediate the peace talks
+contradicts
+Karzai had asked other powerful states to mediate the peace talks
+
+Karzai had asked other powerful states to mediate the peace talks
+contradicts
+Karzai had missed his chance to ask other powerful states to mediate the peace talks
+
+Karzai had missed his chance to ask other powerful states to mediate the peace talks
+permits
+Leverkusen had asked other powerful states to mediate the peace talks
+
+Karzai had never missed his chance to ask other powerful states to mediate the peace talks
+entails
+Karzai had asked other powerful states to mediate the peace talks
+
+Karzai had asked other powerful states to mediate the peace talks
+permits
+Karzai had never missed his chance to ask other powerful states to mediate the peace talks
+
+Karzai never missed his chance to ask other powerful states to mediate the peace talks
+contradicts
+Karzai did not ask other powerful states to mediate the peace talks
+
+Karzai did not ask other powerful states to mediate the peace talks
+contradicts
+Karzai never missed his chance to ask other powerful states to mediate the peace talks
+
+Karzai never missed his chance to ask other powerful states to mediate the peace talks
+permits
+Karzai never saw new sights
+
+he had missed the chance to say goodbye to his dying dad
+entails
+he had n't said goodbye to his dying dad
+
+he had n't said goodbye to his dying dad
+permits
+he had missed the chance to say goodbye to his dying dad
+
+he had missed the chance to say goodbye to his dying dad
+contradicts
+he had said goodbye to his dying dad
+
+he had said goodbye to his dying dad
+contradicts
+he had missed the chance to say goodbye to his dying dad
+
+he had missed the chance to say goodbye to his dying dad
+permits
+Microsoft had said goodbye to its dying dad
+
+he has n't missed the chance to say goodbye to his dying dad
+entails
+he has said goodbye to his dying dad
+
+he has said goodbye to his dying dad
+permits
+he has n't missed the chance to say goodbye to his dying dad
+
+he did not miss the chance to say goodbye to his dying dad
+contradicts
+he did n't say goodbye to his dying dad
+
+he did n't say goodbye to his dying dad
+contradicts
+he did not miss the chance to say goodbye to his dying dad
+
+he did not miss the chance to say goodbye to his dying dad
+permits
+Police did n't say goodbye to its dying dad
+
+he has missed his chance to say goodbye to his dying dad
+entails
+he has not said goodbye to his dying dad
+
+he has not said goodbye to his dying dad
+permits
+he has missed his chance to say goodbye to his dying dad
+
+he missed his chance to say goodbye to his dying dad
+contradicts
+he said goodbye to his dying dad
+
+he said goodbye to his dying dad
+contradicts
+he missed his chance to say goodbye to his dying dad
+
+he missed his chance to say goodbye to his dying dad
+permits
+Scotland said goodbye to its dying dad
+
+he had not missed his chance to say goodbye to his dying dad
+entails
+he had said goodbye to his dying dad
+
+he had said goodbye to his dying dad
+permits
+he had not missed his chance to say goodbye to his dying dad
+
+he had not missed his chance to say goodbye to his dying dad
+permits
+he had saved his show
+
+he has n't missed his chance to say goodbye to his dying dad
+contradicts
+he has n't said goodbye to his dying dad
+
+he has n't said goodbye to his dying dad
+contradicts
+he has n't missed his chance to say goodbye to his dying dad
+
+he has n't missed his chance to say goodbye to his dying dad
+permits
+Police has not said goodbye to its dying dad
+
+you had missed the chance to love me
+entails
+you had not loved me
+
+you had not loved me
+permits
+you had missed the chance to love me
+
+you have missed the chance to love me
+contradicts
+you have loved me
+
+you have loved me
+contradicts
+you have missed the chance to love me
+
+you have missed the chance to love me
+permits
+the Obama administration has loved me
+
+you almost had missed the chance to love me
+entails
+you had loved me
+
+you had loved me
+permits
+you almost had missed the chance to love me
+
+you almost had missed the chance to love me
+permits
+Fox had loved me
+
+you never missed the chance to love me
+contradicts
+you never loved me
+
+you never loved me
+contradicts
+you never missed the chance to love me
+
+you missed your chance to love me
+entails
+you did n't love me
+
+you did n't love me
+permits
+you missed your chance to love me
+
+you missed your chance to love me
+contradicts
+you loved me
+
+you loved me
+contradicts
+you missed your chance to love me
+
+you missed your chance to love me
+permits
+you took your own destiny in your hands
+
+you did n't miss your chance to love me
+entails
+you loved me
+
+you loved me
+permits
+you did n't miss your chance to love me
+
+you did n't miss your chance to love me
+permits
+you fucked all night
+
+you almost missed your chance to love me
+contradicts
+you almost loved me
+
+you almost loved me
+contradicts
+you almost missed your chance to love me
+
+his side has missed the chance to take a 2-0 lead
+entails
+his side has not taken a 2-0 lead
+
+his side has not taken a 2-0 lead
+permits
+his side has missed the chance to take a 2-0 lead
+
+his side has missed the chance to take a 2-0 lead
+permits
+the NYPD has n't taken a 2-0 lead
+
+his side has missed the chance to take a 2-0 lead
+contradicts
+his side has taken a 2-0 lead
+
+his side has taken a 2-0 lead
+contradicts
+his side has missed the chance to take a 2-0 lead
+
+his side has missed the chance to take a 2-0 lead
+permits
+Leverkusen has taken a 2-0 lead
+
+his side never missed the chance to take a 2-0 lead
+entails
+his side took a 2-0 lead
+
+his side took a 2-0 lead
+permits
+his side never missed the chance to take a 2-0 lead
+
+his side has almost missed the chance to take a 2-0 lead
+contradicts
+his side has n't taken a 2-0 lead
+
+his side has n't taken a 2-0 lead
+contradicts
+his side has almost missed the chance to take a 2-0 lead
+
+his side has almost missed the chance to take a 2-0 lead
+permits
+Venus Williams has n't taken a 2-0 lead
+
+his side missed its chance to take a 2-0 lead
+entails
+his side did n't take a 2-0 lead
+
+his side did n't take a 2-0 lead
+permits
+his side missed its chance to take a 2-0 lead
+
+his side had missed its chance to take a 2-0 lead
+contradicts
+his side had taken a 2-0 lead
+
+his side had taken a 2-0 lead
+contradicts
+his side had missed its chance to take a 2-0 lead
+
+his side had missed its chance to take a 2-0 lead
+permits
+Mr. Obama had taken a 2-0 lead
+
+his side did n't miss its chance to take a 2-0 lead
+entails
+his side took a 2-0 lead
+
+his side took a 2-0 lead
+permits
+his side did n't miss its chance to take a 2-0 lead
+
+his side has never missed its chance to take a 2-0 lead
+contradicts
+his side has not taken a 2-0 lead
+
+his side has not taken a 2-0 lead
+contradicts
+his side has never missed its chance to take a 2-0 lead
+
+his side has never missed its chance to take a 2-0 lead
+permits
+his side has never reconfirm the quarterfinal she reached lasted year
+
+Leverkusen had missed the chance to edge closer to a top-four spot
+entails
+Leverkusen had not edged closer to a top-four spot
+
+Leverkusen had not edged closer to a top-four spot
+permits
+Leverkusen had missed the chance to edge closer to a top-four spot
+
+Leverkusen had missed the chance to edge closer to a top-four spot
+permits
+he had n't edged closer to a top-four spot
+
+Leverkusen has missed the chance to edge closer to a top-four spot
+contradicts
+Leverkusen has edged closer to a top-four spot
+
+Leverkusen has edged closer to a top-four spot
+contradicts
+Leverkusen has missed the chance to edge closer to a top-four spot
+
+Leverkusen has missed the chance to edge closer to a top-four spot
+permits
+Leverkusen has lowered tax levy
+
+Leverkusen has almost missed the chance to edge closer to a top-four spot
+entails
+Leverkusen has edged closer to a top-four spot
+
+Leverkusen has edged closer to a top-four spot
+permits
+Leverkusen has almost missed the chance to edge closer to a top-four spot
+
+Leverkusen has almost missed the chance to edge closer to a top-four spot
+permits
+Leverkusen has stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+Leverkusen did not miss the chance to edge closer to a top-four spot
+contradicts
+Leverkusen did n't edge closer to a top-four spot
+
+Leverkusen did n't edge closer to a top-four spot
+contradicts
+Leverkusen did not miss the chance to edge closer to a top-four spot
+
+Leverkusen had missed its chance to edge closer to a top-four spot
+entails
+Leverkusen had n't edged closer to a top-four spot
+
+Leverkusen had n't edged closer to a top-four spot
+permits
+Leverkusen had missed its chance to edge closer to a top-four spot
+
+Leverkusen had missed its chance to edge closer to a top-four spot
+contradicts
+Leverkusen had edged closer to a top-four spot
+
+Leverkusen had edged closer to a top-four spot
+contradicts
+Leverkusen had missed its chance to edge closer to a top-four spot
+
+Leverkusen has n't missed its chance to edge closer to a top-four spot
+entails
+Leverkusen has edged closer to a top-four spot
+
+Leverkusen has edged closer to a top-four spot
+permits
+Leverkusen has n't missed its chance to edge closer to a top-four spot
+
+Leverkusen has n't missed its chance to edge closer to a top-four spot
+permits
+Leverkusen has lay the redded carpet before them
+
+Leverkusen had almost missed its chance to edge closer to a top-four spot
+contradicts
+Leverkusen had n't edged closer to a top-four spot
+
+Leverkusen had n't edged closer to a top-four spot
+contradicts
+Leverkusen had almost missed its chance to edge closer to a top-four spot
+
+we had missed the chance to curb this violence
+entails
+we had not curbed this violence
+
+we had not curbed this violence
+permits
+we had missed the chance to curb this violence
+
+we had missed the chance to curb this violence
+permits
+the Dodgers had not curbed this violence
+
+we have missed the chance to curb this violence
+contradicts
+we have curbed this violence
+
+we have curbed this violence
+contradicts
+we have missed the chance to curb this violence
+
+we had not missed the chance to curb this violence
+entails
+we had curbed this violence
+
+we had curbed this violence
+permits
+we had not missed the chance to curb this violence
+
+we did n't miss the chance to curb this violence
+contradicts
+we did n't curb this violence
+
+we did n't curb this violence
+contradicts
+we did n't miss the chance to curb this violence
+
+we had missed our chance to curb this violence
+entails
+we had not curbed this violence
+
+we had not curbed this violence
+permits
+we had missed our chance to curb this violence
+
+we missed our chance to curb this violence
+contradicts
+we curbed this violence
+
+we curbed this violence
+contradicts
+we missed our chance to curb this violence
+
+we missed our chance to curb this violence
+permits
+we patched our differences
+
+we have not missed our chance to curb this violence
+entails
+we have curbed this violence
+
+we have curbed this violence
+permits
+we have not missed our chance to curb this violence
+
+we have not missed our chance to curb this violence
+permits
+the Chiefs have curbed this violence
+
+we had never missed our chance to curb this violence
+contradicts
+we had never curbed this violence
+
+we had never curbed this violence
+contradicts
+we had never missed our chance to curb this violence
+
+we had never missed our chance to curb this violence
+permits
+we had not seen new sights
+
+Apple has missed the chance to lead in near-field communications
+entails
+Apple has not led in near-field communications
+
+Apple has not led in near-field communications
+permits
+Apple has missed the chance to lead in near-field communications
+
+Apple had missed the chance to lead in near-field communications
+contradicts
+Apple had led in near-field communications
+
+Apple had led in near-field communications
+contradicts
+Apple had missed the chance to lead in near-field communications
+
+Apple has not missed the chance to lead in near-field communications
+entails
+Apple has led in near-field communications
+
+Apple has led in near-field communications
+permits
+Apple has not missed the chance to lead in near-field communications
+
+Apple has not missed the chance to lead in near-field communications
+permits
+Apple has resolved the Kashmir issue
+
+Apple had never missed the chance to lead in near-field communications
+contradicts
+Apple had n't led in near-field communications
+
+Apple had n't led in near-field communications
+contradicts
+Apple had never missed the chance to lead in near-field communications
+
+Apple missed its chance to lead in near-field communications
+entails
+Apple did n't lead in near-field communications
+
+Apple did n't lead in near-field communications
+permits
+Apple missed its chance to lead in near-field communications
+
+Apple missed its chance to lead in near-field communications
+permits
+Apple was not a ‘good neighbor’
+
+Apple had missed its chance to lead in near-field communications
+contradicts
+Apple had led in near-field communications
+
+Apple had led in near-field communications
+contradicts
+Apple had missed its chance to lead in near-field communications
+
+Apple had missed its chance to lead in near-field communications
+permits
+the Obama administration had led in near-field communications
+
+Apple almost missed its chance to lead in near-field communications
+entails
+Apple led in near-field communications
+
+Apple led in near-field communications
+permits
+Apple almost missed its chance to lead in near-field communications
+
+Apple did n't miss its chance to lead in near-field communications
+contradicts
+Apple did n't lead in near-field communications
+
+Apple did n't lead in near-field communications
+contradicts
+Apple did n't miss its chance to lead in near-field communications
+
+Apple did n't miss its chance to lead in near-field communications
+permits
+Apple did not grab the allegiance of the many first-time voters
+
+I missed the chance to meet Nelson Mandela
+entails
+I did not meet Nelson Mandela
+
+I did not meet Nelson Mandela
+permits
+I missed the chance to meet Nelson Mandela
+
+I had missed the chance to meet Nelson Mandela
+contradicts
+I had met Nelson Mandela
+
+I had met Nelson Mandela
+contradicts
+I had missed the chance to meet Nelson Mandela
+
+I have almost missed the chance to meet Nelson Mandela
+entails
+I have met Nelson Mandela
+
+I have met Nelson Mandela
+permits
+I have almost missed the chance to meet Nelson Mandela
+
+I have almost missed the chance to meet Nelson Mandela
+permits
+he has met Nelson Mandela
+
+I have not missed the chance to meet Nelson Mandela
+contradicts
+I have not met Nelson Mandela
+
+I have not met Nelson Mandela
+contradicts
+I have not missed the chance to meet Nelson Mandela
+
+I have not missed the chance to meet Nelson Mandela
+permits
+India has n't met Nelson Mandela
+
+I have missed my chance to meet Nelson Mandela
+entails
+I have n't met Nelson Mandela
+
+I have n't met Nelson Mandela
+permits
+I have missed my chance to meet Nelson Mandela
+
+I had missed my chance to meet Nelson Mandela
+contradicts
+I had met Nelson Mandela
+
+I had met Nelson Mandela
+contradicts
+I had missed my chance to meet Nelson Mandela
+
+I did n't miss my chance to meet Nelson Mandela
+entails
+I met Nelson Mandela
+
+I met Nelson Mandela
+permits
+I did n't miss my chance to meet Nelson Mandela
+
+I did n't miss my chance to meet Nelson Mandela
+permits
+Venus Williams met Nelson Mandela
+
+I had never missed my chance to meet Nelson Mandela
+contradicts
+I had never met Nelson Mandela
+
+I had never met Nelson Mandela
+contradicts
+I had never missed my chance to meet Nelson Mandela
+
+the NYPD had missed the chance to pursue accused child molester Steven Pappas
+entails
+the NYPD had n't pursued accused child molester Steven Pappas
+
+the NYPD had n't pursued accused child molester Steven Pappas
+permits
+the NYPD had missed the chance to pursue accused child molester Steven Pappas
+
+the NYPD has missed the chance to pursue accused child molester Steven Pappas
+contradicts
+the NYPD has pursued accused child molester Steven Pappas
+
+the NYPD has pursued accused child molester Steven Pappas
+contradicts
+the NYPD has missed the chance to pursue accused child molester Steven Pappas
+
+the NYPD has missed the chance to pursue accused child molester Steven Pappas
+permits
+I have pursued accused child molester Steven Pappas
+
+the NYPD has n't missed the chance to pursue accused child molester Steven Pappas
+entails
+the NYPD has pursued accused child molester Steven Pappas
+
+the NYPD has pursued accused child molester Steven Pappas
+permits
+the NYPD has n't missed the chance to pursue accused child molester Steven Pappas
+
+the NYPD had never missed the chance to pursue accused child molester Steven Pappas
+contradicts
+the NYPD had n't pursued accused child molester Steven Pappas
+
+the NYPD had n't pursued accused child molester Steven Pappas
+contradicts
+the NYPD had never missed the chance to pursue accused child molester Steven Pappas
+
+the NYPD had never missed the chance to pursue accused child molester Steven Pappas
+permits
+the NYPD had never reconfirm the quarterfinal she reached lasted year
+
+the NYPD has missed its chance to pursue accused child molester Steven Pappas
+entails
+the NYPD has not pursued accused child molester Steven Pappas
+
+the NYPD has not pursued accused child molester Steven Pappas
+permits
+the NYPD has missed its chance to pursue accused child molester Steven Pappas
+
+the NYPD missed its chance to pursue accused child molester Steven Pappas
+contradicts
+the NYPD pursued accused child molester Steven Pappas
+
+the NYPD pursued accused child molester Steven Pappas
+contradicts
+the NYPD missed its chance to pursue accused child molester Steven Pappas
+
+the NYPD had not missed its chance to pursue accused child molester Steven Pappas
+entails
+the NYPD had pursued accused child molester Steven Pappas
+
+the NYPD had pursued accused child molester Steven Pappas
+permits
+the NYPD had not missed its chance to pursue accused child molester Steven Pappas
+
+the NYPD had almost missed its chance to pursue accused child molester Steven Pappas
+contradicts
+the NYPD had almost pursued accused child molester Steven Pappas
+
+the NYPD had almost pursued accused child molester Steven Pappas
+contradicts
+the NYPD had almost missed its chance to pursue accused child molester Steven Pappas
+
+the NYPD had almost missed its chance to pursue accused child molester Steven Pappas
+permits
+the NYPD had not brought in a new audience
+
+it missed the chance to bring in a new audience
+entails
+it did not bring in a new audience
+
+it did not bring in a new audience
+permits
+it missed the chance to bring in a new audience
+
+it had missed the chance to bring in a new audience
+contradicts
+it had brought in a new audience
+
+it had brought in a new audience
+contradicts
+it had missed the chance to bring in a new audience
+
+it had almost missed the chance to bring in a new audience
+entails
+it had brought in a new audience
+
+it had brought in a new audience
+permits
+it had almost missed the chance to bring in a new audience
+
+it had almost missed the chance to bring in a new audience
+permits
+Stephen Colbert had brought in a new audience
+
+it had not missed the chance to bring in a new audience
+contradicts
+it had not brought in a new audience
+
+it had not brought in a new audience
+contradicts
+it had not missed the chance to bring in a new audience
+
+it has missed its chance to bring in a new audience
+entails
+it has n't brought in a new audience
+
+it has n't brought in a new audience
+permits
+it has missed its chance to bring in a new audience
+
+it missed its chance to bring in a new audience
+contradicts
+it brought in a new audience
+
+it brought in a new audience
+contradicts
+it missed its chance to bring in a new audience
+
+it had almost missed its chance to bring in a new audience
+entails
+it had brought in a new audience
+
+it had brought in a new audience
+permits
+it had almost missed its chance to bring in a new audience
+
+it had almost missed its chance to bring in a new audience
+contradicts
+it had almost brought in a new audience
+
+it had almost brought in a new audience
+contradicts
+it had almost missed its chance to bring in a new audience
+
+we have missed the chance to enter the eerily-sounding Batcave meeting room
+entails
+we have not entered the eerily-sounding Batcave meeting room
+
+we have not entered the eerily-sounding Batcave meeting room
+permits
+we have missed the chance to enter the eerily-sounding Batcave meeting room
+
+we have missed the chance to enter the eerily-sounding Batcave meeting room
+permits
+the Dodgers have n't entered the eerily-sounding Batcave meeting room
+
+we had missed the chance to enter the eerily-sounding Batcave meeting room
+contradicts
+we had entered the eerily-sounding Batcave meeting room
+
+we had entered the eerily-sounding Batcave meeting room
+contradicts
+we had missed the chance to enter the eerily-sounding Batcave meeting room
+
+we had missed the chance to enter the eerily-sounding Batcave meeting room
+permits
+we had recruited Thibodeau
+
+we almost had missed the chance to enter the eerily-sounding Batcave meeting room
+entails
+we had entered the eerily-sounding Batcave meeting room
+
+we had entered the eerily-sounding Batcave meeting room
+permits
+we almost had missed the chance to enter the eerily-sounding Batcave meeting room
+
+we almost had missed the chance to enter the eerily-sounding Batcave meeting room
+permits
+we had challenged property tax
+
+we have almost missed the chance to enter the eerily-sounding Batcave meeting room
+contradicts
+we have n't entered the eerily-sounding Batcave meeting room
+
+we have n't entered the eerily-sounding Batcave meeting room
+contradicts
+we have almost missed the chance to enter the eerily-sounding Batcave meeting room
+
+we have missed our chance to enter the eerily-sounding Batcave meeting room
+entails
+we have n't entered the eerily-sounding Batcave meeting room
+
+we have n't entered the eerily-sounding Batcave meeting room
+permits
+we have missed our chance to enter the eerily-sounding Batcave meeting room
+
+we have missed our chance to enter the eerily-sounding Batcave meeting room
+permits
+we have n't lowered tax levy
+
+we missed our chance to enter the eerily-sounding Batcave meeting room
+contradicts
+we entered the eerily-sounding Batcave meeting room
+
+we entered the eerily-sounding Batcave meeting room
+contradicts
+we missed our chance to enter the eerily-sounding Batcave meeting room
+
+we missed our chance to enter the eerily-sounding Batcave meeting room
+permits
+we lowered tax levy
+
+we never have missed our chance to enter the eerily-sounding Batcave meeting room
+entails
+we have entered the eerily-sounding Batcave meeting room
+
+we have entered the eerily-sounding Batcave meeting room
+permits
+we never have missed our chance to enter the eerily-sounding Batcave meeting room
+
+we had n't missed our chance to enter the eerily-sounding Batcave meeting room
+contradicts
+we had not entered the eerily-sounding Batcave meeting room
+
+we had not entered the eerily-sounding Batcave meeting room
+contradicts
+we had n't missed our chance to enter the eerily-sounding Batcave meeting room
+
+we had n't missed our chance to enter the eerily-sounding Batcave meeting room
+permits
+Red Hook schools had not entered the eerily-sounding Batcave meeting room
+
+Vinci has missed the chance to reconfirm the quarterfinal she reached last year
+entails
+Vinci has not reconfirm the quarterfinal she reached lasted year
+
+Vinci has not reconfirm the quarterfinal she reached lasted year
+permits
+Vinci has missed the chance to reconfirm the quarterfinal she reached last year
+
+Vinci has missed the chance to reconfirm the quarterfinal she reached last year
+permits
+Vinci has not said goodbye to her dying dad
+
+Vinci missed the chance to reconfirm the quarterfinal she reached last year
+contradicts
+Vinci reconfirm the quarterfinal she reached lasted year
+
+Vinci reconfirm the quarterfinal she reached lasted year
+contradicts
+Vinci missed the chance to reconfirm the quarterfinal she reached last year
+
+Vinci missed the chance to reconfirm the quarterfinal she reached last year
+permits
+Vinci met the legend
+
+Vinci almost missed the chance to reconfirm the quarterfinal she reached last year
+entails
+Vinci reconfirm the quarterfinal she reached lasted year
+
+Vinci reconfirm the quarterfinal she reached lasted year
+permits
+Vinci almost missed the chance to reconfirm the quarterfinal she reached last year
+
+Vinci almost missed the chance to reconfirm the quarterfinal she reached last year
+permits
+Vinci recruited Thibodeau
+
+Vinci had almost missed the chance to reconfirm the quarterfinal she reached last year
+contradicts
+Vinci had n't reconfirm the quarterfinal she reached lasted year
+
+Vinci had n't reconfirm the quarterfinal she reached lasted year
+contradicts
+Vinci had almost missed the chance to reconfirm the quarterfinal she reached last year
+
+Vinci had almost missed the chance to reconfirm the quarterfinal she reached last year
+permits
+Vinci had almost pressed Paris attacks suspect on the Brussels bombers
+
+Vinci had missed her chance to reconfirm the quarterfinal she reached last year
+entails
+Vinci had n't reconfirm the quarterfinal she reached lasted year
+
+Vinci had n't reconfirm the quarterfinal she reached lasted year
+permits
+Vinci had missed her chance to reconfirm the quarterfinal she reached last year
+
+Vinci has missed her chance to reconfirm the quarterfinal she reached last year
+contradicts
+Vinci has reconfirm the quarterfinal she reached lasted year
+
+Vinci has reconfirm the quarterfinal she reached lasted year
+contradicts
+Vinci has missed her chance to reconfirm the quarterfinal she reached last year
+
+Vinci had not missed her chance to reconfirm the quarterfinal she reached last year
+entails
+Vinci had reconfirm the quarterfinal she reached lasted year
+
+Vinci had reconfirm the quarterfinal she reached lasted year
+permits
+Vinci had not missed her chance to reconfirm the quarterfinal she reached last year
+
+Vinci did n't miss her chance to reconfirm the quarterfinal she reached last year
+contradicts
+Vinci did not reconfirm the quarterfinal she reached last year
+
+Vinci did not reconfirm the quarterfinal she reached last year
+contradicts
+Vinci did n't miss her chance to reconfirm the quarterfinal she reached last year
+
+Vinci did n't miss her chance to reconfirm the quarterfinal she reached last year
+permits
+Vinci did n't meet the legend
+
+Tottenham has missed the chance to cut Leicester's lead
+entails
+Tottenham has n't cut Leicester's lead
+
+Tottenham has n't cut Leicester's lead
+permits
+Tottenham has missed the chance to cut Leicester's lead
+
+Tottenham has missed the chance to cut Leicester's lead
+permits
+Tottenham has not pressed Paris attacks suspect on the Brussels bombers
+
+Tottenham has missed the chance to cut Leicester's lead
+contradicts
+Tottenham has cut Leicester's lead
+
+Tottenham has cut Leicester's lead
+contradicts
+Tottenham has missed the chance to cut Leicester's lead
+
+Tottenham has n't missed the chance to cut Leicester's lead
+entails
+Tottenham has cut Leicester's lead
+
+Tottenham has cut Leicester's lead
+permits
+Tottenham has n't missed the chance to cut Leicester's lead
+
+Tottenham has never missed the chance to cut Leicester's lead
+contradicts
+Tottenham never has cut Leicester's lead
+
+Tottenham never has cut Leicester's lead
+contradicts
+Tottenham has never missed the chance to cut Leicester's lead
+
+Tottenham has missed its chance to cut Leicester's lead
+entails
+Tottenham has not cut Leicester's lead
+
+Tottenham has not cut Leicester's lead
+permits
+Tottenham has missed its chance to cut Leicester's lead
+
+Tottenham has missed its chance to cut Leicester's lead
+permits
+Tottenham has not saved its show
+
+Tottenham has missed its chance to cut Leicester's lead
+contradicts
+Tottenham has cut Leicester's lead
+
+Tottenham has cut Leicester's lead
+contradicts
+Tottenham has missed its chance to cut Leicester's lead
+
+Tottenham has missed its chance to cut Leicester's lead
+permits
+Sarah Piening has cut Leicester's lead
+
+Tottenham has not missed its chance to cut Leicester's lead
+entails
+Tottenham has cut Leicester's lead
+
+Tottenham has cut Leicester's lead
+permits
+Tottenham has not missed its chance to cut Leicester's lead
+
+Tottenham has not missed its chance to cut Leicester's lead
+permits
+Tottenham has reconfirm the quarterfinal she reached lasted year
+
+Tottenham has never missed its chance to cut Leicester's lead
+contradicts
+Tottenham has n't cut Leicester's lead
+
+Tottenham has n't cut Leicester's lead
+contradicts
+Tottenham has never missed its chance to cut Leicester's lead
+
+Scotland missed the chance to record a initial victory
+entails
+Scotland did not record a initial victory
+
+Scotland did not record a initial victory
+permits
+Scotland missed the chance to record a initial victory
+
+Scotland missed the chance to record a initial victory
+permits
+Scotland did n't treat the cholera outbreak sufficiently
+
+Scotland had missed the chance to record a initial victory
+contradicts
+Scotland had recorded a initial victory
+
+Scotland had recorded a initial victory
+contradicts
+Scotland had missed the chance to record a initial victory
+
+Scotland had missed the chance to record a initial victory
+permits
+the NYPD had recorded a initial victory
+
+Scotland has almost missed the chance to record a initial victory
+entails
+Scotland has recorded a initial victory
+
+Scotland has recorded a initial victory
+permits
+Scotland has almost missed the chance to record a initial victory
+
+Scotland has almost missed the chance to record a initial victory
+permits
+Venus Williams has recorded a initial victory
+
+Scotland had almost missed the chance to record a initial victory
+contradicts
+Scotland had not recorded a initial victory
+
+Scotland had not recorded a initial victory
+contradicts
+Scotland had almost missed the chance to record a initial victory
+
+Scotland had almost missed the chance to record a initial victory
+permits
+Boston University rowing coach Holly Hatton had almost recorded a initial victory
+
+Scotland missed its chance to record a initial victory
+entails
+Scotland did n't record a initial victory
+
+Scotland did n't record a initial victory
+permits
+Scotland missed its chance to record a initial victory
+
+Scotland missed its chance to record a initial victory
+permits
+Scotland did n't get help with its luggage
+
+Scotland had missed its chance to record a initial victory
+contradicts
+Scotland had recorded a initial victory
+
+Scotland had recorded a initial victory
+contradicts
+Scotland had missed its chance to record a initial victory
+
+Scotland had not missed its chance to record a initial victory
+entails
+Scotland had recorded a initial victory
+
+Scotland had recorded a initial victory
+permits
+Scotland had not missed its chance to record a initial victory
+
+Scotland had not missed its chance to record a initial victory
+permits
+Trump had recorded a initial victory
+
+Scotland did n't miss its chance to record a initial victory
+contradicts
+Scotland did n't record a initial victory
+
+Scotland did n't record a initial victory
+contradicts
+Scotland did n't miss its chance to record a initial victory
+
+Scotland did n't miss its chance to record a initial victory
+permits
+Scotland did not see Sanders' latest Oregon visit
+
+the UN missed the chance to treat the cholera outbreak sufficiently
+entails
+the UN did not treat the cholera outbreak sufficiently
+
+the UN did not treat the cholera outbreak sufficiently
+permits
+the UN missed the chance to treat the cholera outbreak sufficiently
+
+the UN missed the chance to treat the cholera outbreak sufficiently
+permits
+Police did n't treat the cholera outbreak sufficiently
+
+the UN had missed the chance to treat the cholera outbreak sufficiently
+contradicts
+the UN had treated the cholera outbreak sufficiently
+
+the UN had treated the cholera outbreak sufficiently
+contradicts
+the UN had missed the chance to treat the cholera outbreak sufficiently
+
+the UN had missed the chance to treat the cholera outbreak sufficiently
+permits
+Stephen Colbert had treated the cholera outbreak sufficiently
+
+the UN almost missed the chance to treat the cholera outbreak sufficiently
+entails
+the UN treated the cholera outbreak sufficiently
+
+the UN treated the cholera outbreak sufficiently
+permits
+the UN almost missed the chance to treat the cholera outbreak sufficiently
+
+the UN almost missed the chance to treat the cholera outbreak sufficiently
+permits
+Scotland treated the cholera outbreak sufficiently
+
+the UN had n't missed the chance to treat the cholera outbreak sufficiently
+contradicts
+the UN had n't treated the cholera outbreak sufficiently
+
+the UN had n't treated the cholera outbreak sufficiently
+contradicts
+the UN had n't missed the chance to treat the cholera outbreak sufficiently
+
+the UN has missed its chance to treat the cholera outbreak sufficiently
+entails
+the UN has n't treated the cholera outbreak sufficiently
+
+the UN has n't treated the cholera outbreak sufficiently
+permits
+the UN has missed its chance to treat the cholera outbreak sufficiently
+
+the UN has missed its chance to treat the cholera outbreak sufficiently
+permits
+Venus Williams has n't treated the cholera outbreak sufficiently
+
+the UN missed its chance to treat the cholera outbreak sufficiently
+contradicts
+the UN treated the cholera outbreak sufficiently
+
+the UN treated the cholera outbreak sufficiently
+contradicts
+the UN missed its chance to treat the cholera outbreak sufficiently
+
+the UN did n't miss its chance to treat the cholera outbreak sufficiently
+entails
+the UN treated the cholera outbreak sufficiently
+
+the UN treated the cholera outbreak sufficiently
+permits
+the UN did n't miss its chance to treat the cholera outbreak sufficiently
+
+the UN had never missed its chance to treat the cholera outbreak sufficiently
+contradicts
+the UN had not treated the cholera outbreak sufficiently
+
+the UN had not treated the cholera outbreak sufficiently
+contradicts
+the UN had never missed its chance to treat the cholera outbreak sufficiently
+
+the burglar has missed the chance to steal a winning lottery ticket from the victim's vehicle.
+entails
+the burglar has n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the burglar has n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+permits
+the burglar has missed the chance to steal a winning lottery ticket from the victim's vehicle.
+
+the burglar had missed the chance to steal a winning lottery ticket from the victim's vehicle.
+contradicts
+the burglar had stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the burglar had stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+contradicts
+the burglar had missed the chance to steal a winning lottery ticket from the victim's vehicle.
+
+the burglar had not missed the chance to steal a winning lottery ticket from the victim's vehicle.
+entails
+the burglar had stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the burglar had stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+permits
+the burglar had not missed the chance to steal a winning lottery ticket from the victim's vehicle.
+
+the burglar had not missed the chance to steal a winning lottery ticket from the victim's vehicle.
+permits
+the burglar had seen the remains of beasts from the Jurassic
+
+the burglar has n't missed the chance to steal a winning lottery ticket from the victim's vehicle.
+contradicts
+the burglar has n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the burglar has n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+contradicts
+the burglar has n't missed the chance to steal a winning lottery ticket from the victim's vehicle.
+
+the burglar has n't missed the chance to steal a winning lottery ticket from the victim's vehicle.
+permits
+the burglar has n't competed in the 1980 Olympics
+
+the burglar had missed his chance to steal a winning lottery ticket from the victim's vehicle.
+entails
+the burglar had n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the burglar had n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+permits
+the burglar had missed his chance to steal a winning lottery ticket from the victim's vehicle.
+
+the burglar had missed his chance to steal a winning lottery ticket from the victim's vehicle.
+permits
+the burglar had n't brought in a new audience
+
+the burglar missed his chance to steal a winning lottery ticket from the victim's vehicle.
+contradicts
+the burglar stole a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the burglar stole a winning $1,000,000 lottery ticket from the victim's vehicle.
+contradicts
+the burglar missed his chance to steal a winning lottery ticket from the victim's vehicle.
+
+the burglar never had missed his chance to steal a winning lottery ticket from the victim's vehicle.
+entails
+the burglar had stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the burglar had stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+permits
+the burglar never had missed his chance to steal a winning lottery ticket from the victim's vehicle.
+
+the burglar never had missed his chance to steal a winning lottery ticket from the victim's vehicle.
+permits
+the burglar had curbed this violence
+
+the burglar had almost missed his chance to steal a winning lottery ticket from the victim's vehicle.
+contradicts
+the burglar had n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+
+the burglar had n't stolen a winning $1,000,000 lottery ticket from the victim's vehicle.
+contradicts
+the burglar had almost missed his chance to steal a winning lottery ticket from the victim's vehicle.
+

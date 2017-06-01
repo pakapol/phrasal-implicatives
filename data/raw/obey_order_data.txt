@@ -1,0 +1,4868 @@
+Colonel Bates and command had obeyed the order to retire
+entails
+Colonel Bates and command had retired
+
+Colonel Bates and command had retired
+permits
+Colonel Bates and command had obeyed the order to retire
+
+Colonel Bates and command had obeyed the order to retire
+contradicts
+Colonel Bates and command had not retired
+
+Colonel Bates and command had not retired
+contradicts
+Colonel Bates and command had obeyed the order to retire
+
+Colonel Bates and command had not obeyed the order to retire
+entails
+Colonel Bates and command had n't retired
+
+Colonel Bates and command had n't retired
+permits
+Colonel Bates and command had not obeyed the order to retire
+
+Colonel Bates and command had not obeyed the order to retire
+permits
+the men had not retired
+
+Colonel Bates and command had n't obeyed the order to retire
+contradicts
+Colonel Bates and command had retired
+
+Colonel Bates and command had retired
+contradicts
+Colonel Bates and command had n't obeyed the order to retire
+
+Colonel Bates and command had n't obeyed the order to retire
+permits
+Colonel Bates and command had testified
+
+Colonel Bates and command have obeyed their order to retire
+entails
+Colonel Bates and command have retired
+
+Colonel Bates and command have retired
+permits
+Colonel Bates and command have obeyed their order to retire
+
+Colonel Bates and command have obeyed their order to retire
+permits
+Colonel Bates and command have delivered shocks to other people
+
+Colonel Bates and command have obeyed their order to retire
+contradicts
+Colonel Bates and command have not retired
+
+Colonel Bates and command have not retired
+contradicts
+Colonel Bates and command have obeyed their order to retire
+
+Colonel Bates and command have obeyed their order to retire
+permits
+most FARC units have n't retired
+
+Colonel Bates and command have n't obeyed their order to retire
+entails
+Colonel Bates and command have n't retired
+
+Colonel Bates and command have n't retired
+permits
+Colonel Bates and command have n't obeyed their order to retire
+
+Colonel Bates and command have n't obeyed their order to retire
+permits
+most FARC units have n't retired
+
+Colonel Bates and command did not obey their order to retire
+contradicts
+Colonel Bates and command retired
+
+Colonel Bates and command retired
+contradicts
+Colonel Bates and command did not obey their order to retire
+
+Krummel obeyed the order to come out of the mine
+entails
+Krummel came out of the mine
+
+Krummel came out of the mine
+permits
+Krummel obeyed the order to come out of the mine
+
+Krummel has obeyed the order to come out of the mine
+contradicts
+Krummel has not come out of the mine
+
+Krummel has not come out of the mine
+contradicts
+Krummel has obeyed the order to come out of the mine
+
+Krummel did n't obey the order to come out of the mine
+entails
+Krummel did n't come out of the mine
+
+Krummel did n't come out of the mine
+permits
+Krummel did n't obey the order to come out of the mine
+
+Krummel did n't obey the order to come out of the mine
+permits
+Krummel did n't lie on the ground
+
+Krummel has never obeyed the order to come out of the mine
+contradicts
+Krummel has come out of the mine
+
+Krummel has come out of the mine
+contradicts
+Krummel has never obeyed the order to come out of the mine
+
+Krummel had obeyed his order to come out of the mine
+entails
+Krummel had come out of the mine
+
+Krummel had come out of the mine
+permits
+Krummel had obeyed his order to come out of the mine
+
+Krummel obeyed his order to come out of the mine
+contradicts
+Krummel did n't come out of the mine
+
+Krummel did n't come out of the mine
+contradicts
+Krummel obeyed his order to come out of the mine
+
+Krummel never obeyed his order to come out of the mine
+entails
+Krummel did not come out of the mine
+
+Krummel did not come out of the mine
+permits
+Krummel never obeyed his order to come out of the mine
+
+Krummel almost obeyed his order to come out of the mine
+contradicts
+Krummel came out of the mine
+
+Krummel came out of the mine
+contradicts
+Krummel almost obeyed his order to come out of the mine
+
+they had obeyed the order to disappear
+entails
+they had disappeared
+
+they had disappeared
+permits
+they had obeyed the order to disappear
+
+they have obeyed the order to disappear
+contradicts
+they have not disappeared
+
+they have not disappeared
+contradicts
+they have obeyed the order to disappear
+
+they did n't obey the order to disappear
+entails
+they did n't disappear
+
+they did n't disappear
+permits
+they did n't obey the order to disappear
+
+they almost had obeyed the order to disappear
+contradicts
+they had disappeared
+
+they had disappeared
+contradicts
+they almost had obeyed the order to disappear
+
+they have obeyed their order to disappear
+entails
+they have disappeared
+
+they have disappeared
+permits
+they have obeyed their order to disappear
+
+they had obeyed their order to disappear
+contradicts
+they had not disappeared
+
+they had not disappeared
+contradicts
+they had obeyed their order to disappear
+
+they had obeyed their order to disappear
+permits
+they had not stacked arms only with great difficulty
+
+they have never obeyed their order to disappear
+entails
+they have n't disappeared
+
+they have n't disappeared
+permits
+they have never obeyed their order to disappear
+
+they have almost obeyed their order to disappear
+contradicts
+they have disappeared
+
+they have disappeared
+contradicts
+they have almost obeyed their order to disappear
+
+her captain has obeyed the order to clear for action
+entails
+her captain has cleared for action
+
+her captain has cleared for action
+permits
+her captain has obeyed the order to clear for action
+
+her captain has obeyed the order to clear for action
+permits
+I have cleared for action
+
+her captain obeyed the order to clear for action
+contradicts
+her captain did not clear for action
+
+her captain did not clear for action
+contradicts
+her captain obeyed the order to clear for action
+
+her captain obeyed the order to clear for action
+permits
+Padri did not clear for action
+
+her captain had not obeyed the order to clear for action
+entails
+her captain had n't cleared for action
+
+her captain had n't cleared for action
+permits
+her captain had not obeyed the order to clear for action
+
+her captain did n't obey the order to clear for action
+contradicts
+her captain cleared for action
+
+her captain cleared for action
+contradicts
+her captain did n't obey the order to clear for action
+
+her captain did n't obey the order to clear for action
+permits
+the teen initially cleared for action
+
+her captain had obeyed his order to clear for action
+entails
+her captain had cleared for action
+
+her captain had cleared for action
+permits
+her captain had obeyed his order to clear for action
+
+her captain obeyed his order to clear for action
+contradicts
+her captain did n't clear for action
+
+her captain did n't clear for action
+contradicts
+her captain obeyed his order to clear for action
+
+her captain obeyed his order to clear for action
+permits
+her captain did n't seize territory
+
+her captain has n't obeyed his order to clear for action
+entails
+her captain has n't cleared for action
+
+her captain has n't cleared for action
+permits
+her captain has n't obeyed his order to clear for action
+
+her captain has n't obeyed his order to clear for action
+permits
+Krummel has n't cleared for action
+
+her captain did not obey his order to clear for action
+contradicts
+her captain cleared for action
+
+her captain cleared for action
+contradicts
+her captain did not obey his order to clear for action
+
+her captain did not obey his order to clear for action
+permits
+her captain appeared for the deposition
+
+the others have obeyed the order to cultivate only food crops and stayed on the land they occupied
+entails
+the others have cultivated only food crops and stayed on the land they occupied
+
+the others have cultivated only food crops and stayed on the land they occupied
+permits
+the others have obeyed the order to cultivate only food crops and stayed on the land they occupied
+
+the others have obeyed the order to cultivate only food crops and stayed on the land they occupied
+permits
+the others have murdered Jews without compunction
+
+the others have obeyed the order to cultivate only food crops and stayed on the land they occupied
+contradicts
+the others have not cultivated only food crops and stayed on the land they occupied
+
+the others have not cultivated only food crops and stayed on the land they occupied
+contradicts
+the others have obeyed the order to cultivate only food crops and stayed on the land they occupied
+
+the others did n't obey the order to cultivate only food crops and stayed on the land they occupied
+entails
+the others did not cultivate only food crops and stayed on the land they occupied
+
+the others did not cultivate only food crops and stayed on the land they occupied
+permits
+the others did n't obey the order to cultivate only food crops and stayed on the land they occupied
+
+the others have not obeyed the order to cultivate only food crops and stayed on the land they occupied
+contradicts
+the others have cultivated only food crops and stayed on the land they occupied
+
+the others have cultivated only food crops and stayed on the land they occupied
+contradicts
+the others have not obeyed the order to cultivate only food crops and stayed on the land they occupied
+
+the others have not obeyed the order to cultivate only food crops and stayed on the land they occupied
+permits
+the others have murdered Jews without compunction
+
+the others have obeyed their order to cultivate only food crops and stayed on the land they occupied
+entails
+the others have cultivated only food crops and stayed on the land they occupied
+
+the others have cultivated only food crops and stayed on the land they occupied
+permits
+the others have obeyed their order to cultivate only food crops and stayed on the land they occupied
+
+the others have obeyed their order to cultivate only food crops and stayed on the land they occupied
+permits
+the others have slaughtered innocent people at Mai Lai
+
+the others obeyed their order to cultivate only food crops and stayed on the land they occupied
+contradicts
+the others did n't cultivate only food crops and stayed on the land they occupied
+
+the others did n't cultivate only food crops and stayed on the land they occupied
+contradicts
+the others obeyed their order to cultivate only food crops and stayed on the land they occupied
+
+the others obeyed their order to cultivate only food crops and stayed on the land they occupied
+permits
+the others did n't leave the area outside the rally
+
+the others had almost obeyed their order to cultivate only food crops and stayed on the land they occupied
+entails
+the others had not cultivated only food crops and stayed on the land they occupied
+
+the others had not cultivated only food crops and stayed on the land they occupied
+permits
+the others had almost obeyed their order to cultivate only food crops and stayed on the land they occupied
+
+the others had almost obeyed their order to cultivate only food crops and stayed on the land they occupied
+permits
+Colonel Bates and command had not cultivated only food crops and stayed on the land they occupied
+
+the others never have obeyed their order to cultivate only food crops and stayed on the land they occupied
+contradicts
+the others have cultivated only food crops and stayed on the land they occupied
+
+the others have cultivated only food crops and stayed on the land they occupied
+contradicts
+the others never have obeyed their order to cultivate only food crops and stayed on the land they occupied
+
+Georges had obeyed the order to change from car to van
+entails
+Georges had changed from car to van
+
+Georges had changed from car to van
+permits
+Georges had obeyed the order to change from car to van
+
+Georges had promptly obeyed the order to change from car to van
+entails
+Georges had changed from car to van
+
+Georges had changed from car to van
+permits
+Georges had promptly obeyed the order to change from car to van
+
+Georges has obeyed the order to change from car to van
+contradicts
+Georges has not changed from car to van
+
+Georges has not changed from car to van
+contradicts
+Georges has obeyed the order to change from car to van
+
+Georges has promptly obeyed the order to change from car to van
+contradicts
+Georges has not changed from car to van
+
+Georges has not changed from car to van
+contradicts
+Georges has promptly obeyed the order to change from car to van
+
+Georges almost obeyed the order to change from car to van
+entails
+Georges almost changed from car to van
+
+Georges almost changed from car to van
+permits
+Georges almost obeyed the order to change from car to van
+
+Georges almost obeyed the order to change from car to van
+permits
+Georges did n't come out of the mine
+
+Georges almost obeyed the order to change from car to van
+permits
+Georges did n't lie down
+
+Georges almost promptly obeyed the order to change from car to van
+entails
+Georges did n't change from car to van
+
+Georges did n't change from car to van
+permits
+Georges almost promptly obeyed the order to change from car to van
+
+Georges almost obeyed the order to change from car to van
+contradicts
+Georges changed from car to van
+
+Georges changed from car to van
+contradicts
+Georges almost obeyed the order to change from car to van
+
+Georges almost obeyed the order to change from car to van
+permits
+the chaplain of the division changed from car to van
+
+Georges almost obeyed the order to change from car to van
+permits
+Joseph changed from car to van
+
+Georges did n't promptly obey the order to change from car to van
+contradicts
+Georges changed from car to van
+
+Georges changed from car to van
+contradicts
+Georges did n't promptly obey the order to change from car to van
+
+Georges obeyed his order to change from car to van
+entails
+Georges changed from car to van
+
+Georges changed from car to van
+permits
+Georges obeyed his order to change from car to van
+
+Georges obeyed his order to change from car to van
+permits
+Georges charged
+
+Georges obeyed his order to change from car to van
+permits
+Georges left his homes by 9a.m.
+
+Georges promptly obeyed his order to change from car to van
+entails
+Georges changed from car to van
+
+Georges changed from car to van
+permits
+Georges promptly obeyed his order to change from car to van
+
+Georges had obeyed his order to change from car to van
+contradicts
+Georges had n't changed from car to van
+
+Georges had n't changed from car to van
+contradicts
+Georges had obeyed his order to change from car to van
+
+Georges had promptly obeyed his order to change from car to van
+contradicts
+Georges had not changed from car to van
+
+Georges had not changed from car to van
+contradicts
+Georges had promptly obeyed his order to change from car to van
+
+Georges had promptly obeyed his order to change from car to van
+permits
+Joseph had n't changed from car to van
+
+Georges had promptly obeyed his order to change from car to van
+permits
+Jack had n't changed from car to van
+
+Georges had n't obeyed his order to change from car to van
+entails
+Georges had not changed from car to van
+
+Georges had not changed from car to van
+permits
+Georges had n't obeyed his order to change from car to van
+
+Georges had almost promptly obeyed his order to change from car to van
+entails
+Georges had n't changed from car to van
+
+Georges had n't changed from car to van
+permits
+Georges had almost promptly obeyed his order to change from car to van
+
+Georges almost had obeyed his order to change from car to van
+contradicts
+Georges had changed from car to van
+
+Georges had changed from car to van
+contradicts
+Georges almost had obeyed his order to change from car to van
+
+Georges had almost promptly obeyed his order to change from car to van
+contradicts
+Georges had changed from car to van
+
+Georges had changed from car to van
+contradicts
+Georges had almost promptly obeyed his order to change from car to van
+
+the chaplain of the division obeyed the order to charge
+entails
+the chaplain of the division charged
+
+the chaplain of the division charged
+permits
+the chaplain of the division obeyed the order to charge
+
+the chaplain of the division obeyed the order to charge
+permits
+the chaplain of the division came out of the mine
+
+the chaplain of the division obeyed the order to charge
+contradicts
+the chaplain of the division did n't charge
+
+the chaplain of the division did n't charge
+contradicts
+the chaplain of the division obeyed the order to charge
+
+the chaplain of the division obeyed the order to charge
+permits
+Jack did not charge
+
+the chaplain of the division has never obeyed the order to charge
+entails
+the chaplain of the division has never charged
+
+the chaplain of the division has never charged
+permits
+the chaplain of the division has never obeyed the order to charge
+
+the chaplain of the division had not obeyed the order to charge
+contradicts
+the chaplain of the division had charged
+
+the chaplain of the division had charged
+contradicts
+the chaplain of the division had not obeyed the order to charge
+
+the chaplain of the division had obeyed his order to charge
+entails
+the chaplain of the division had charged
+
+the chaplain of the division had charged
+permits
+the chaplain of the division had obeyed his order to charge
+
+the chaplain of the division obeyed his order to charge
+contradicts
+the chaplain of the division did n't charge
+
+the chaplain of the division did n't charge
+contradicts
+the chaplain of the division obeyed his order to charge
+
+the chaplain of the division did not obey his order to charge
+entails
+the chaplain of the division did not charge
+
+the chaplain of the division did not charge
+permits
+the chaplain of the division did not obey his order to charge
+
+the chaplain of the division did n't obey his order to charge
+contradicts
+the chaplain of the division charged
+
+the chaplain of the division charged
+contradicts
+the chaplain of the division did n't obey his order to charge
+
+the chaplain of the division did n't obey his order to charge
+permits
+the chaplain of the division slaughtered innocent people at Mai Lai
+
+the ragged men obeyed the order to stack arms only with great difficulty
+entails
+the ragged men stacked arms only with great difficulty
+
+the ragged men stacked arms only with great difficulty
+permits
+the ragged men obeyed the order to stack arms only with great difficulty
+
+the ragged men obeyed the order to stack arms only with great difficulty
+contradicts
+the ragged men did n't stack arms only with great difficulty
+
+the ragged men did n't stack arms only with great difficulty
+contradicts
+the ragged men obeyed the order to stack arms only with great difficulty
+
+the ragged men almost obeyed the order to stack arms only with great difficulty
+entails
+the ragged men did n't stack arms only with great difficulty
+
+the ragged men did n't stack arms only with great difficulty
+permits
+the ragged men almost obeyed the order to stack arms only with great difficulty
+
+the ragged men have never obeyed the order to stack arms only with great difficulty
+contradicts
+the ragged men have stacked arms only with great difficulty
+
+the ragged men have stacked arms only with great difficulty
+contradicts
+the ragged men have never obeyed the order to stack arms only with great difficulty
+
+the ragged men have obeyed their order to stack arms only with great difficulty
+entails
+the ragged men have stacked arms only with great difficulty
+
+the ragged men have stacked arms only with great difficulty
+permits
+the ragged men have obeyed their order to stack arms only with great difficulty
+
+the ragged men have obeyed their order to stack arms only with great difficulty
+permits
+the ragged men have worn the Juden logo
+
+the ragged men had obeyed their order to stack arms only with great difficulty
+contradicts
+the ragged men had not stacked arms only with great difficulty
+
+the ragged men had not stacked arms only with great difficulty
+contradicts
+the ragged men had obeyed their order to stack arms only with great difficulty
+
+the ragged men had obeyed their order to stack arms only with great difficulty
+permits
+the ragged men had not disappeared
+
+the ragged men did not obey their order to stack arms only with great difficulty
+entails
+the ragged men did n't stack arms only with great difficulty
+
+the ragged men did n't stack arms only with great difficulty
+permits
+the ragged men did not obey their order to stack arms only with great difficulty
+
+the ragged men have almost obeyed their order to stack arms only with great difficulty
+contradicts
+the ragged men have stacked arms only with great difficulty
+
+the ragged men have stacked arms only with great difficulty
+contradicts
+the ragged men have almost obeyed their order to stack arms only with great difficulty
+
+they had obeyed the order to advance
+entails
+they had advanced
+
+they had advanced
+permits
+they had obeyed the order to advance
+
+they have obeyed the order to advance
+contradicts
+they have n't advanced
+
+they have n't advanced
+contradicts
+they have obeyed the order to advance
+
+they have obeyed the order to advance
+permits
+they have n't seized territory
+
+they did not obey the order to advance
+entails
+they did n't advance
+
+they did n't advance
+permits
+they did not obey the order to advance
+
+they had n't obeyed the order to advance
+contradicts
+they had advanced
+
+they had advanced
+contradicts
+they had n't obeyed the order to advance
+
+they have obeyed their order to advance
+entails
+they have advanced
+
+they have advanced
+permits
+they have obeyed their order to advance
+
+they have obeyed their order to advance
+contradicts
+they have n't advanced
+
+they have n't advanced
+contradicts
+they have obeyed their order to advance
+
+they have obeyed their order to advance
+permits
+most FARC units have not advanced
+
+they almost obeyed their order to advance
+entails
+they almost advanced
+
+they almost advanced
+permits
+they almost obeyed their order to advance
+
+they almost obeyed their order to advance
+permits
+they did n't disappear
+
+they have not obeyed their order to advance
+contradicts
+they have advanced
+
+they have advanced
+contradicts
+they have not obeyed their order to advance
+
+they have not obeyed their order to advance
+permits
+they have shot and killed an elderly Vietnamese citizen
+
+the men have obeyed the order to quit at once
+entails
+the men have quitted at once
+
+the men have quitted at once
+permits
+the men have obeyed the order to quit at once
+
+the men had obeyed the order to quit at once
+contradicts
+the men had n't quitted at once
+
+the men had n't quitted at once
+contradicts
+the men had obeyed the order to quit at once
+
+the men had n't obeyed the order to quit at once
+entails
+the men had n't quitted at once
+
+the men had n't quitted at once
+permits
+the men had n't obeyed the order to quit at once
+
+the men almost obeyed the order to quit at once
+contradicts
+the men quitted at once
+
+the men quitted at once
+contradicts
+the men almost obeyed the order to quit at once
+
+the men almost obeyed the order to quit at once
+permits
+most FARC units quitted at once
+
+the men obeyed their order to quit at once
+entails
+the men quitted at once
+
+the men quitted at once
+permits
+the men obeyed their order to quit at once
+
+the men have obeyed their order to quit at once
+contradicts
+the men have n't quitted at once
+
+the men have n't quitted at once
+contradicts
+the men have obeyed their order to quit at once
+
+the men have obeyed their order to quit at once
+permits
+the men have n't gotten down
+
+the men had not obeyed their order to quit at once
+entails
+the men had not quitted at once
+
+the men had not quitted at once
+permits
+the men had not obeyed their order to quit at once
+
+the men had not obeyed their order to quit at once
+permits
+Colonel Bates and command had n't quitted at once
+
+the men have not obeyed their order to quit at once
+contradicts
+the men have quitted at once
+
+the men have quitted at once
+contradicts
+the men have not obeyed their order to quit at once
+
+only 189 men and officers obeyed the order to return
+entails
+only 189 men and officers returned
+
+only 189 men and officers returned
+permits
+only 189 men and officers obeyed the order to return
+
+only 189 men and officers had obeyed the order to return
+contradicts
+only 189 men and officers had not returned
+
+only 189 men and officers had not returned
+contradicts
+only 189 men and officers had obeyed the order to return
+
+only 189 men and officers have almost obeyed the order to return
+entails
+only 189 men and officers have not returned
+
+only 189 men and officers have not returned
+permits
+only 189 men and officers have almost obeyed the order to return
+
+only 189 men and officers have never obeyed the order to return
+contradicts
+only 189 men and officers have returned
+
+only 189 men and officers have returned
+contradicts
+only 189 men and officers have never obeyed the order to return
+
+only 189 men and officers have never obeyed the order to return
+permits
+the divisions have returned
+
+only 189 men and officers obeyed their order to return
+entails
+only 189 men and officers returned
+
+only 189 men and officers returned
+permits
+only 189 men and officers obeyed their order to return
+
+only 189 men and officers obeyed their order to return
+permits
+the others returned
+
+only 189 men and officers have obeyed their order to return
+contradicts
+only 189 men and officers have not returned
+
+only 189 men and officers have not returned
+contradicts
+only 189 men and officers have obeyed their order to return
+
+only 189 men and officers never obeyed their order to return
+entails
+only 189 men and officers did not return
+
+only 189 men and officers did not return
+permits
+only 189 men and officers never obeyed their order to return
+
+only 189 men and officers never obeyed their order to return
+contradicts
+only 189 men and officers returned
+
+only 189 men and officers returned
+contradicts
+only 189 men and officers never obeyed their order to return
+
+only 189 men and officers never obeyed their order to return
+permits
+only 189 men and officers charged
+
+he had obeyed the order to yield obedience to Thurstan
+entails
+he had yielded obedience to Thurstan
+
+he had yielded obedience to Thurstan
+permits
+he had obeyed the order to yield obedience to Thurstan
+
+he had obeyed the order to yield obedience to Thurstan
+permits
+the vessel had yielded obedience to Thurstan
+
+he has obeyed the order to yield obedience to Thurstan
+contradicts
+he has n't yielded obedience to Thurstan
+
+he has n't yielded obedience to Thurstan
+contradicts
+he has obeyed the order to yield obedience to Thurstan
+
+he has obeyed the order to yield obedience to Thurstan
+permits
+he has not put down the weapon
+
+he had never obeyed the order to yield obedience to Thurstan
+entails
+he had n't yielded obedience to Thurstan
+
+he had n't yielded obedience to Thurstan
+permits
+he had never obeyed the order to yield obedience to Thurstan
+
+he never obeyed the order to yield obedience to Thurstan
+contradicts
+he yielded obedience to Thurstan
+
+he yielded obedience to Thurstan
+contradicts
+he never obeyed the order to yield obedience to Thurstan
+
+he has obeyed his order to yield obedience to Thurstan
+entails
+he has yielded obedience to Thurstan
+
+he has yielded obedience to Thurstan
+permits
+he has obeyed his order to yield obedience to Thurstan
+
+he has obeyed his order to yield obedience to Thurstan
+permits
+he has gone into battle
+
+he has obeyed his order to yield obedience to Thurstan
+contradicts
+he has not yielded obedience to Thurstan
+
+he has not yielded obedience to Thurstan
+contradicts
+he has obeyed his order to yield obedience to Thurstan
+
+he had almost obeyed his order to yield obedience to Thurstan
+entails
+he had not yielded obedience to Thurstan
+
+he had not yielded obedience to Thurstan
+permits
+he had almost obeyed his order to yield obedience to Thurstan
+
+he has not obeyed his order to yield obedience to Thurstan
+contradicts
+he has yielded obedience to Thurstan
+
+he has yielded obedience to Thurstan
+contradicts
+he has not obeyed his order to yield obedience to Thurstan
+
+he has not obeyed his order to yield obedience to Thurstan
+permits
+you have yielded obedience to Thurstan
+
+the soldiers had obeyed the order to slaughter innocent people at Mai Lai
+entails
+the soldiers had slaughtered innocent people at Mai Lai
+
+the soldiers had slaughtered innocent people at Mai Lai
+permits
+the soldiers had obeyed the order to slaughter innocent people at Mai Lai
+
+the soldiers have obeyed the order to slaughter innocent people at Mai Lai
+contradicts
+the soldiers have n't slaughtered innocent people at Mai Lai
+
+the soldiers have n't slaughtered innocent people at Mai Lai
+contradicts
+the soldiers have obeyed the order to slaughter innocent people at Mai Lai
+
+the soldiers had not obeyed the order to slaughter innocent people at Mai Lai
+entails
+the soldiers had not slaughtered innocent people at Mai Lai
+
+the soldiers had not slaughtered innocent people at Mai Lai
+permits
+the soldiers had not obeyed the order to slaughter innocent people at Mai Lai
+
+the soldiers almost obeyed the order to slaughter innocent people at Mai Lai
+contradicts
+the soldiers slaughtered innocent people at Mai Lai
+
+the soldiers slaughtered innocent people at Mai Lai
+contradicts
+the soldiers almost obeyed the order to slaughter innocent people at Mai Lai
+
+the soldiers almost obeyed the order to slaughter innocent people at Mai Lai
+permits
+American military commanders slaughtered innocent people at Mai Lai
+
+the soldiers had obeyed their order to slaughter innocent people at Mai Lai
+entails
+the soldiers had slaughtered innocent people at Mai Lai
+
+the soldiers had slaughtered innocent people at Mai Lai
+permits
+the soldiers had obeyed their order to slaughter innocent people at Mai Lai
+
+the soldiers have obeyed their order to slaughter innocent people at Mai Lai
+contradicts
+the soldiers have not slaughtered innocent people at Mai Lai
+
+the soldiers have not slaughtered innocent people at Mai Lai
+contradicts
+the soldiers have obeyed their order to slaughter innocent people at Mai Lai
+
+the soldiers have obeyed their order to slaughter innocent people at Mai Lai
+permits
+most FARC units have not slaughtered innocent people at Mai Lai
+
+the soldiers had n't obeyed their order to slaughter innocent people at Mai Lai
+entails
+the soldiers had n't slaughtered innocent people at Mai Lai
+
+the soldiers had n't slaughtered innocent people at Mai Lai
+permits
+the soldiers had n't obeyed their order to slaughter innocent people at Mai Lai
+
+the soldiers have n't obeyed their order to slaughter innocent people at Mai Lai
+contradicts
+the soldiers have slaughtered innocent people at Mai Lai
+
+the soldiers have slaughtered innocent people at Mai Lai
+contradicts
+the soldiers have n't obeyed their order to slaughter innocent people at Mai Lai
+
+the soldiers have n't obeyed their order to slaughter innocent people at Mai Lai
+permits
+the soldiers have gotten down
+
+James Foley has obeyed the order to come closer
+entails
+James Foley has come closer
+
+James Foley has come closer
+permits
+James Foley has obeyed the order to come closer
+
+James Foley has obeyed the order to come closer
+permits
+the vessel has come closer
+
+James Foley had obeyed the order to come closer
+contradicts
+James Foley had n't come closer
+
+James Foley had n't come closer
+contradicts
+James Foley had obeyed the order to come closer
+
+James Foley had obeyed the order to come closer
+permits
+James Foley had n't dispersed
+
+James Foley did not obey the order to come closer
+entails
+James Foley did n't come closer
+
+James Foley did n't come closer
+permits
+James Foley did not obey the order to come closer
+
+James Foley did n't obey the order to come closer
+contradicts
+James Foley came closer
+
+James Foley came closer
+contradicts
+James Foley did n't obey the order to come closer
+
+James Foley did n't obey the order to come closer
+permits
+the deponent came closer
+
+James Foley had obeyed his order to come closer
+entails
+James Foley had come closer
+
+James Foley had come closer
+permits
+James Foley had obeyed his order to come closer
+
+James Foley had obeyed his order to come closer
+permits
+James Foley had advanced
+
+James Foley has obeyed his order to come closer
+contradicts
+James Foley has not come closer
+
+James Foley has not come closer
+contradicts
+James Foley has obeyed his order to come closer
+
+James Foley never obeyed his order to come closer
+entails
+James Foley never came closer
+
+James Foley never came closer
+permits
+James Foley never obeyed his order to come closer
+
+James Foley had never obeyed his order to come closer
+contradicts
+James Foley had come closer
+
+James Foley had come closer
+contradicts
+James Foley had never obeyed his order to come closer
+
+her friends obeyed the order to sit down
+entails
+her friends sat down
+
+her friends sat down
+permits
+her friends obeyed the order to sit down
+
+her friends obeyed the order to sit down
+permits
+her friends rushed towards the Mud Gate
+
+her friends obeyed the order to sit down
+contradicts
+her friends did not sit down
+
+her friends did not sit down
+contradicts
+her friends obeyed the order to sit down
+
+her friends obeyed the order to sit down
+permits
+her friends did not come closer
+
+her friends have not obeyed the order to sit down
+entails
+her friends have not sat down
+
+her friends have not sat down
+permits
+her friends have not obeyed the order to sit down
+
+her friends have n't obeyed the order to sit down
+contradicts
+her friends have sat down
+
+her friends have sat down
+contradicts
+her friends have n't obeyed the order to sit down
+
+her friends have n't obeyed the order to sit down
+permits
+the divisions have sat down
+
+her friends have obeyed their order to sit down
+entails
+her friends have sat down
+
+her friends have sat down
+permits
+her friends have obeyed their order to sit down
+
+her friends obeyed their order to sit down
+contradicts
+her friends did not sit down
+
+her friends did not sit down
+contradicts
+her friends obeyed their order to sit down
+
+her friends obeyed their order to sit down
+permits
+the soldiers did not sit down
+
+her friends have never obeyed their order to sit down
+entails
+her friends have not sat down
+
+her friends have not sat down
+permits
+her friends have never obeyed their order to sit down
+
+her friends have never obeyed their order to sit down
+permits
+many of the military have not sat down
+
+her friends never obeyed their order to sit down
+contradicts
+her friends sat down
+
+her friends sat down
+contradicts
+her friends never obeyed their order to sit down
+
+he had obeyed the order to testify
+entails
+he had testified
+
+he had testified
+permits
+he had obeyed the order to testify
+
+he had obeyed the order to testify
+permits
+he had killed him
+
+he obeyed the order to testify
+contradicts
+he did n't testify
+
+he did n't testify
+contradicts
+he obeyed the order to testify
+
+he obeyed the order to testify
+permits
+Georges did n't testify
+
+he never obeyed the order to testify
+entails
+he did n't testify
+
+he did n't testify
+permits
+he never obeyed the order to testify
+
+he had n't obeyed the order to testify
+contradicts
+he had testified
+
+he had testified
+contradicts
+he had n't obeyed the order to testify
+
+he had obeyed his order to testify
+entails
+he had testified
+
+he had testified
+permits
+he had obeyed his order to testify
+
+he had obeyed his order to testify
+permits
+he had worn the Juden logo
+
+he obeyed his order to testify
+contradicts
+he did n't testify
+
+he did n't testify
+contradicts
+he obeyed his order to testify
+
+he obeyed his order to testify
+permits
+Georges did not testify
+
+he had not obeyed his order to testify
+entails
+he had not testified
+
+he had not testified
+permits
+he had not obeyed his order to testify
+
+he almost obeyed his order to testify
+contradicts
+he testified
+
+he testified
+contradicts
+he almost obeyed his order to testify
+
+Joseph has obeyed the order to get on the ground
+entails
+Joseph has gotten on the ground
+
+Joseph has gotten on the ground
+permits
+Joseph has obeyed the order to get on the ground
+
+Joseph obeyed the order to get on the ground
+contradicts
+Joseph did n't get on the ground
+
+Joseph did n't get on the ground
+contradicts
+Joseph obeyed the order to get on the ground
+
+Joseph obeyed the order to get on the ground
+permits
+Joseph did n't evacuate the Police Station without incident
+
+Joseph has n't obeyed the order to get on the ground
+entails
+Joseph has not gotten on the ground
+
+Joseph has not gotten on the ground
+permits
+Joseph has n't obeyed the order to get on the ground
+
+Joseph has not obeyed the order to get on the ground
+contradicts
+Joseph has gotten on the ground
+
+Joseph has gotten on the ground
+contradicts
+Joseph has not obeyed the order to get on the ground
+
+Joseph has not obeyed the order to get on the ground
+permits
+Joseph has slaughtered innocent people at Mai Lai
+
+Joseph has obeyed his order to get on the ground
+entails
+Joseph has gotten on the ground
+
+Joseph has gotten on the ground
+permits
+Joseph has obeyed his order to get on the ground
+
+Joseph has obeyed his order to get on the ground
+permits
+Joseph has put down the weapon
+
+Joseph had obeyed his order to get on the ground
+contradicts
+Joseph had not gotten on the ground
+
+Joseph had not gotten on the ground
+contradicts
+Joseph had obeyed his order to get on the ground
+
+Joseph had obeyed his order to get on the ground
+permits
+Joseph had not backed the Kremlin party
+
+Joseph had almost obeyed his order to get on the ground
+entails
+Joseph had almost gotten on the ground
+
+Joseph had almost gotten on the ground
+permits
+Joseph had almost obeyed his order to get on the ground
+
+Joseph had almost obeyed his order to get on the ground
+permits
+Joseph had not come closer
+
+Joseph had never obeyed his order to get on the ground
+contradicts
+Joseph had gotten on the ground
+
+Joseph had gotten on the ground
+contradicts
+Joseph had never obeyed his order to get on the ground
+
+Joseph had never obeyed his order to get on the ground
+permits
+James Foley had gotten on the ground
+
+they obeyed the order to wear the Juden logo
+entails
+they wore the Juden logo
+
+they wore the Juden logo
+permits
+they obeyed the order to wear the Juden logo
+
+they obeyed the order to wear the Juden logo
+contradicts
+they did n't wear the Juden logo
+
+they did n't wear the Juden logo
+contradicts
+they obeyed the order to wear the Juden logo
+
+they have almost obeyed the order to wear the Juden logo
+entails
+they have not worn the Juden logo
+
+they have not worn the Juden logo
+permits
+they have almost obeyed the order to wear the Juden logo
+
+they did not obey the order to wear the Juden logo
+contradicts
+they wore the Juden logo
+
+they wore the Juden logo
+contradicts
+they did not obey the order to wear the Juden logo
+
+they did not obey the order to wear the Juden logo
+permits
+they carried a lantern
+
+they had obeyed their order to wear the Juden logo
+entails
+they had worn the Juden logo
+
+they had worn the Juden logo
+permits
+they had obeyed their order to wear the Juden logo
+
+they have obeyed their order to wear the Juden logo
+contradicts
+they have not worn the Juden logo
+
+they have not worn the Juden logo
+contradicts
+they have obeyed their order to wear the Juden logo
+
+they have not obeyed their order to wear the Juden logo
+entails
+they have not worn the Juden logo
+
+they have not worn the Juden logo
+permits
+they have not obeyed their order to wear the Juden logo
+
+they have not obeyed their order to wear the Juden logo
+permits
+they have n't killed some 1500 jews in the village of Jozefow
+
+they had not obeyed their order to wear the Juden logo
+contradicts
+they had worn the Juden logo
+
+they had worn the Juden logo
+contradicts
+they had not obeyed their order to wear the Juden logo
+
+he has obeyed the order to stop when he stopped
+entails
+he has stopped when he stopped
+
+he has stopped when he stopped
+permits
+he has obeyed the order to stop when he stopped
+
+he has obeyed the order to stop when he stopped
+permits
+he has shown his hands
+
+he has obeyed the order to stop when he stopped
+contradicts
+he has n't stopped when he stopped
+
+he has n't stopped when he stopped
+contradicts
+he has obeyed the order to stop when he stopped
+
+he had n't obeyed the order to stop when he stopped
+entails
+he had not stopped when he stopped
+
+he had not stopped when he stopped
+permits
+he had n't obeyed the order to stop when he stopped
+
+he has not obeyed the order to stop when he stopped
+contradicts
+he has stopped when he stopped
+
+he has stopped when he stopped
+contradicts
+he has not obeyed the order to stop when he stopped
+
+he had obeyed his order to stop when he stopped
+entails
+he had stopped when he stopped
+
+he had stopped when he stopped
+permits
+he had obeyed his order to stop when he stopped
+
+he had obeyed his order to stop when he stopped
+permits
+her captain had stopped when he stopped
+
+he had obeyed his order to stop when he stopped
+contradicts
+he had not stopped when he stopped
+
+he had not stopped when he stopped
+contradicts
+he had obeyed his order to stop when he stopped
+
+he had obeyed his order to stop when he stopped
+permits
+he had n't shown his hands
+
+he did not obey his order to stop when he stopped
+entails
+he did n't stop when he stopped
+
+he did n't stop when he stopped
+permits
+he did not obey his order to stop when he stopped
+
+he did not obey his order to stop when he stopped
+permits
+the army ISIL has amassed did not stop when he stopped
+
+he had almost obeyed his order to stop when he stopped
+contradicts
+he had stopped when he stopped
+
+he had stopped when he stopped
+contradicts
+he had almost obeyed his order to stop when he stopped
+
+the night shift staff have obeyed the order to evacuate the Police Station without incident
+entails
+the night shift staff have evacuated the Police Station without incident
+
+the night shift staff have evacuated the Police Station without incident
+permits
+the night shift staff have obeyed the order to evacuate the Police Station without incident
+
+the night shift staff obeyed the order to evacuate the Police Station without incident
+contradicts
+the night shift staff did not evacuate the Police Station without incident
+
+the night shift staff did not evacuate the Police Station without incident
+contradicts
+the night shift staff obeyed the order to evacuate the Police Station without incident
+
+the night shift staff obeyed the order to evacuate the Police Station without incident
+permits
+people did not evacuate the Police Station without incident
+
+the night shift staff have n't obeyed the order to evacuate the Police Station without incident
+entails
+the night shift staff have n't evacuated the Police Station without incident
+
+the night shift staff have n't evacuated the Police Station without incident
+permits
+the night shift staff have n't obeyed the order to evacuate the Police Station without incident
+
+the night shift staff had n't obeyed the order to evacuate the Police Station without incident
+contradicts
+the night shift staff had evacuated the Police Station without incident
+
+the night shift staff had evacuated the Police Station without incident
+contradicts
+the night shift staff had n't obeyed the order to evacuate the Police Station without incident
+
+the night shift staff have obeyed their order to evacuate the Police Station without incident
+entails
+the night shift staff have evacuated the Police Station without incident
+
+the night shift staff have evacuated the Police Station without incident
+permits
+the night shift staff have obeyed their order to evacuate the Police Station without incident
+
+the night shift staff had obeyed their order to evacuate the Police Station without incident
+contradicts
+the night shift staff had not evacuated the Police Station without incident
+
+the night shift staff had not evacuated the Police Station without incident
+contradicts
+the night shift staff had obeyed their order to evacuate the Police Station without incident
+
+the night shift staff have n't obeyed their order to evacuate the Police Station without incident
+entails
+the night shift staff have n't evacuated the Police Station without incident
+
+the night shift staff have n't evacuated the Police Station without incident
+permits
+the night shift staff have n't obeyed their order to evacuate the Police Station without incident
+
+the night shift staff have n't obeyed their order to evacuate the Police Station without incident
+permits
+many police executioners have not evacuated the Police Station without incident
+
+the night shift staff have n't obeyed their order to evacuate the Police Station without incident
+contradicts
+the night shift staff have evacuated the Police Station without incident
+
+the night shift staff have evacuated the Police Station without incident
+contradicts
+the night shift staff have n't obeyed their order to evacuate the Police Station without incident
+
+the colonials obeyed the order to disperse
+entails
+the colonials dispersed
+
+the colonials dispersed
+permits
+the colonials obeyed the order to disperse
+
+the colonials obeyed the order to disperse
+contradicts
+the colonials did not disperse
+
+the colonials did not disperse
+contradicts
+the colonials obeyed the order to disperse
+
+the colonials obeyed the order to disperse
+permits
+the colonials did n't kill the animals
+
+the colonials almost obeyed the order to disperse
+entails
+the colonials did not disperse
+
+the colonials did not disperse
+permits
+the colonials almost obeyed the order to disperse
+
+the colonials almost obeyed the order to disperse
+permits
+people almost dispersed
+
+the colonials have n't obeyed the order to disperse
+contradicts
+the colonials have dispersed
+
+the colonials have dispersed
+contradicts
+the colonials have n't obeyed the order to disperse
+
+the colonials had obeyed their order to disperse
+entails
+the colonials had dispersed
+
+the colonials had dispersed
+permits
+the colonials had obeyed their order to disperse
+
+the colonials have obeyed their order to disperse
+contradicts
+the colonials have n't dispersed
+
+the colonials have n't dispersed
+contradicts
+the colonials have obeyed their order to disperse
+
+the colonials did n't obey their order to disperse
+entails
+the colonials did not disperse
+
+the colonials did not disperse
+permits
+the colonials did n't obey their order to disperse
+
+the colonials did n't obey their order to disperse
+permits
+only 189 men and officers did not disperse
+
+the colonials had never obeyed their order to disperse
+contradicts
+the colonials had dispersed
+
+the colonials had dispersed
+contradicts
+the colonials had never obeyed their order to disperse
+
+the colonials had never obeyed their order to disperse
+permits
+her friends had dispersed
+
+he has obeyed the order to testify
+entails
+he has testified
+
+he has testified
+permits
+he has obeyed the order to testify
+
+he had obeyed the order to testify
+contradicts
+he had not testified
+
+he had not testified
+contradicts
+he had obeyed the order to testify
+
+he had never obeyed the order to testify
+entails
+he had never testified
+
+he had never testified
+permits
+he had never obeyed the order to testify
+
+he had never obeyed the order to testify
+permits
+Padri had not testified
+
+he had never obeyed the order to testify
+contradicts
+he had testified
+
+he had testified
+contradicts
+he had never obeyed the order to testify
+
+he obeyed his order to testify
+entails
+he testified
+
+he testified
+permits
+he obeyed his order to testify
+
+he has obeyed his order to testify
+contradicts
+he has n't testified
+
+he has n't testified
+contradicts
+he has obeyed his order to testify
+
+he has almost obeyed his order to testify
+entails
+he has almost testified
+
+he has almost testified
+permits
+he has almost obeyed his order to testify
+
+he has almost obeyed his order to testify
+permits
+you have almost testified
+
+he has almost obeyed his order to testify
+contradicts
+he has testified
+
+he has testified
+contradicts
+he has almost obeyed his order to testify
+
+he has almost obeyed his order to testify
+permits
+Kim Davis has testified
+
+most of the workers have obeyed the order to get down
+entails
+most of the workers have gotten down
+
+most of the workers have gotten down
+permits
+most of the workers have obeyed the order to get down
+
+most of the workers had obeyed the order to get down
+contradicts
+most of the workers had not gotten down
+
+most of the workers had not gotten down
+contradicts
+most of the workers had obeyed the order to get down
+
+most of the workers had obeyed the order to get down
+permits
+people had n't gotten down
+
+most of the workers did not obey the order to get down
+entails
+most of the workers did n't get down
+
+most of the workers did n't get down
+permits
+most of the workers did not obey the order to get down
+
+most of the workers did not obey the order to get down
+permits
+many police executioners did not get down
+
+most of the workers had n't obeyed the order to get down
+contradicts
+most of the workers had gotten down
+
+most of the workers had gotten down
+contradicts
+most of the workers had n't obeyed the order to get down
+
+most of the workers obeyed their order to get down
+entails
+most of the workers got down
+
+most of the workers got down
+permits
+most of the workers obeyed their order to get down
+
+most of the workers obeyed their order to get down
+permits
+only 189 men and officers got down
+
+most of the workers have obeyed their order to get down
+contradicts
+most of the workers have n't gotten down
+
+most of the workers have n't gotten down
+contradicts
+most of the workers have obeyed their order to get down
+
+most of the workers never obeyed their order to get down
+entails
+most of the workers did not get down
+
+most of the workers did not get down
+permits
+most of the workers never obeyed their order to get down
+
+most of the workers never obeyed their order to get down
+permits
+most of the workers did n't go into battle
+
+most of the workers have not obeyed their order to get down
+contradicts
+most of the workers have gotten down
+
+most of the workers have gotten down
+contradicts
+most of the workers have not obeyed their order to get down
+
+Padri has obeyed the order to carry a lantern
+entails
+Padri has carried a lantern
+
+Padri has carried a lantern
+permits
+Padri has obeyed the order to carry a lantern
+
+Padri obeyed the order to carry a lantern
+contradicts
+Padri did not carry a lantern
+
+Padri did not carry a lantern
+contradicts
+Padri obeyed the order to carry a lantern
+
+Padri had never obeyed the order to carry a lantern
+entails
+Padri had n't carried a lantern
+
+Padri had n't carried a lantern
+permits
+Padri had never obeyed the order to carry a lantern
+
+Padri has not obeyed the order to carry a lantern
+contradicts
+Padri has carried a lantern
+
+Padri has carried a lantern
+contradicts
+Padri has not obeyed the order to carry a lantern
+
+Padri has not obeyed the order to carry a lantern
+permits
+you have carried a lantern
+
+Padri had obeyed his order to carry a lantern
+entails
+Padri had carried a lantern
+
+Padri had carried a lantern
+permits
+Padri had obeyed his order to carry a lantern
+
+Padri had obeyed his order to carry a lantern
+permits
+Padri had retired
+
+Padri has obeyed his order to carry a lantern
+contradicts
+Padri has n't carried a lantern
+
+Padri has n't carried a lantern
+contradicts
+Padri has obeyed his order to carry a lantern
+
+Padri has obeyed his order to carry a lantern
+permits
+Padri has n't put down the weapon
+
+Padri had almost obeyed his order to carry a lantern
+entails
+Padri had not carried a lantern
+
+Padri had not carried a lantern
+permits
+Padri had almost obeyed his order to carry a lantern
+
+Padri had almost obeyed his order to carry a lantern
+permits
+Padri had not silenced himself on matters pertaining to homosexuality
+
+Padri almost has obeyed his order to carry a lantern
+contradicts
+Padri has carried a lantern
+
+Padri has carried a lantern
+contradicts
+Padri almost has obeyed his order to carry a lantern
+
+Padri almost has obeyed his order to carry a lantern
+permits
+Padri has testified
+
+the divisions obeyed the order to go into battle
+entails
+the divisions went into battle
+
+the divisions went into battle
+permits
+the divisions obeyed the order to go into battle
+
+the divisions have obeyed the order to go into battle
+contradicts
+the divisions have not gone into battle
+
+the divisions have not gone into battle
+contradicts
+the divisions have obeyed the order to go into battle
+
+the divisions did not obey the order to go into battle
+entails
+the divisions did n't go into battle
+
+the divisions did n't go into battle
+permits
+the divisions did not obey the order to go into battle
+
+the divisions did not obey the order to go into battle
+permits
+most people did n't go into battle
+
+the divisions have almost obeyed the order to go into battle
+contradicts
+the divisions have gone into battle
+
+the divisions have gone into battle
+contradicts
+the divisions have almost obeyed the order to go into battle
+
+the divisions have almost obeyed the order to go into battle
+permits
+the divisions have shot and killed an elderly Vietnamese citizen
+
+the divisions have obeyed their order to go into battle
+entails
+the divisions have gone into battle
+
+the divisions have gone into battle
+permits
+the divisions have obeyed their order to go into battle
+
+the divisions have obeyed their order to go into battle
+contradicts
+the divisions have n't gone into battle
+
+the divisions have n't gone into battle
+contradicts
+the divisions have obeyed their order to go into battle
+
+the divisions have n't obeyed their order to go into battle
+entails
+the divisions have not gone into battle
+
+the divisions have not gone into battle
+permits
+the divisions have n't obeyed their order to go into battle
+
+the divisions have n't obeyed their order to go into battle
+permits
+the divisions have n't carried a lantern
+
+the divisions never obeyed their order to go into battle
+contradicts
+the divisions went into battle
+
+the divisions went into battle
+contradicts
+the divisions never obeyed their order to go into battle
+
+the divisions never obeyed their order to go into battle
+permits
+the divisions returned to the field
+
+they have obeyed the order to follow them into No Man's Land
+entails
+they have followed them into No Man's Land
+
+they have followed them into No Man's Land
+permits
+they have obeyed the order to follow them into No Man's Land
+
+they had obeyed the order to follow them into No Man's Land
+contradicts
+they had n't followed them into No Man's Land
+
+they had n't followed them into No Man's Land
+contradicts
+they had obeyed the order to follow them into No Man's Land
+
+they had obeyed the order to follow them into No Man's Land
+permits
+they had not disappeared
+
+they had not obeyed the order to follow them into No Man's Land
+entails
+they had n't followed them into No Man's Land
+
+they had n't followed them into No Man's Land
+permits
+they had not obeyed the order to follow them into No Man's Land
+
+they have n't obeyed the order to follow them into No Man's Land
+contradicts
+they have followed them into No Man's Land
+
+they have followed them into No Man's Land
+contradicts
+they have n't obeyed the order to follow them into No Man's Land
+
+they had obeyed their order to follow them into No Man's Land
+entails
+they had followed them into No Man's Land
+
+they had followed them into No Man's Land
+permits
+they had obeyed their order to follow them into No Man's Land
+
+they had obeyed their order to follow them into No Man's Land
+permits
+her friends had followed them into No Man's Land
+
+they had obeyed their order to follow them into No Man's Land
+contradicts
+they had n't followed them into No Man's Land
+
+they had n't followed them into No Man's Land
+contradicts
+they had obeyed their order to follow them into No Man's Land
+
+they did not obey their order to follow them into No Man's Land
+entails
+they did n't follow them into No Man's Land
+
+they did n't follow them into No Man's Land
+permits
+they did not obey their order to follow them into No Man's Land
+
+they did not obey their order to follow them into No Man's Land
+permits
+they did n't leave their homes by 9a.m.
+
+they almost obeyed their order to follow them into No Man's Land
+contradicts
+they followed them into No Man's Land
+
+they followed them into No Man's Land
+contradicts
+they almost obeyed their order to follow them into No Man's Land
+
+most FARC units had obeyed the order to halt kidnapping
+entails
+most FARC units halt kidnapping
+
+most FARC units halt kidnapping
+permits
+most FARC units had obeyed the order to halt kidnapping
+
+most FARC units have obeyed the order to halt kidnapping
+contradicts
+most FARC units halt kidnapping
+
+most FARC units halt kidnapping
+contradicts
+most FARC units have obeyed the order to halt kidnapping
+
+most FARC units had almost obeyed the order to halt kidnapping
+entails
+most FARC units halt kidnapping
+
+most FARC units halt kidnapping
+permits
+most FARC units had almost obeyed the order to halt kidnapping
+
+most FARC units had almost obeyed the order to halt kidnapping
+permits
+the next group halt kidnapping
+
+most FARC units have never obeyed the order to halt kidnapping
+contradicts
+most FARC units halt kidnapping
+
+most FARC units halt kidnapping
+contradicts
+most FARC units have never obeyed the order to halt kidnapping
+
+most FARC units obeyed their order to halt kidnapping
+entails
+most FARC units halt kidnapping
+
+most FARC units halt kidnapping
+permits
+most FARC units obeyed their order to halt kidnapping
+
+most FARC units obeyed their order to halt kidnapping
+contradicts
+most FARC units halt kidnapping
+
+most FARC units halt kidnapping
+contradicts
+most FARC units obeyed their order to halt kidnapping
+
+most FARC units had never obeyed their order to halt kidnapping
+entails
+most FARC units halt kidnapping
+
+most FARC units halt kidnapping
+permits
+most FARC units had never obeyed their order to halt kidnapping
+
+most FARC units had never obeyed their order to halt kidnapping
+permits
+most FARC units had never silenced themselves on matters pertaining to homosexuality
+
+most FARC units did not obey their order to halt kidnapping
+contradicts
+most FARC units halt kidnapping
+
+most FARC units halt kidnapping
+contradicts
+most FARC units did not obey their order to halt kidnapping
+
+the deponent obeyed the order to appear for the deposition
+entails
+the deponent appeared for the deposition
+
+the deponent appeared for the deposition
+permits
+the deponent obeyed the order to appear for the deposition
+
+the deponent obeyed the order to appear for the deposition
+permits
+I appeared for the deposition
+
+the deponent had obeyed the order to appear for the deposition
+contradicts
+the deponent had n't appeared for the deposition
+
+the deponent had n't appeared for the deposition
+contradicts
+the deponent had obeyed the order to appear for the deposition
+
+the deponent had not obeyed the order to appear for the deposition
+entails
+the deponent had not appeared for the deposition
+
+the deponent had not appeared for the deposition
+permits
+the deponent had not obeyed the order to appear for the deposition
+
+the deponent has n't obeyed the order to appear for the deposition
+contradicts
+the deponent has appeared for the deposition
+
+the deponent has appeared for the deposition
+contradicts
+the deponent has n't obeyed the order to appear for the deposition
+
+the deponent has n't obeyed the order to appear for the deposition
+permits
+Joseph has appeared for the deposition
+
+the deponent obeyed her order to appear for the deposition
+entails
+the deponent appeared for the deposition
+
+the deponent appeared for the deposition
+permits
+the deponent obeyed her order to appear for the deposition
+
+the deponent obeyed her order to appear for the deposition
+permits
+the deponent shot and killed an elderly Vietnamese citizen
+
+the deponent obeyed her order to appear for the deposition
+contradicts
+the deponent did n't appear for the deposition
+
+the deponent did n't appear for the deposition
+contradicts
+the deponent obeyed her order to appear for the deposition
+
+the deponent has n't obeyed her order to appear for the deposition
+entails
+the deponent has n't appeared for the deposition
+
+the deponent has n't appeared for the deposition
+permits
+the deponent has n't obeyed her order to appear for the deposition
+
+the deponent has n't obeyed her order to appear for the deposition
+permits
+Jim Lyerly has n't appeared for the deposition
+
+the deponent has almost obeyed her order to appear for the deposition
+contradicts
+the deponent has appeared for the deposition
+
+the deponent has appeared for the deposition
+contradicts
+the deponent has almost obeyed her order to appear for the deposition
+
+Jack obeyed the order to kill him
+entails
+Jack killed him
+
+Jack killed him
+permits
+Jack obeyed the order to kill him
+
+Jack has obeyed the order to kill him
+contradicts
+Jack has not killed him
+
+Jack has not killed him
+contradicts
+Jack has obeyed the order to kill him
+
+Jack has obeyed the order to kill him
+permits
+the army ISIL has amassed has n't killed him
+
+Jack has almost obeyed the order to kill him
+entails
+Jack has n't killed him
+
+Jack has n't killed him
+permits
+Jack has almost obeyed the order to kill him
+
+Jack has almost obeyed the order to kill him
+permits
+Jack has not slaughtered innocent people at Mai Lai
+
+Jack had almost obeyed the order to kill him
+contradicts
+Jack had killed him
+
+Jack had killed him
+contradicts
+Jack had almost obeyed the order to kill him
+
+Jack obeyed his order to kill him
+entails
+Jack killed him
+
+Jack killed him
+permits
+Jack obeyed his order to kill him
+
+Jack obeyed his order to kill him
+permits
+Jack disobeyed all orders
+
+Jack has obeyed his order to kill him
+contradicts
+Jack has n't killed him
+
+Jack has n't killed him
+contradicts
+Jack has obeyed his order to kill him
+
+Jack has obeyed his order to kill him
+permits
+Jack has n't struck out of the blue
+
+Jack has n't obeyed his order to kill him
+entails
+Jack has n't killed him
+
+Jack has n't killed him
+permits
+Jack has n't obeyed his order to kill him
+
+Jack has n't obeyed his order to kill him
+permits
+Jack has n't advanced
+
+Jack has never obeyed his order to kill him
+contradicts
+Jack has killed him
+
+Jack has killed him
+contradicts
+Jack has never obeyed his order to kill him
+
+Jack has never obeyed his order to kill him
+permits
+you have killed him
+
+the old woman had obeyed the order to get him there
+entails
+the old woman had gotten him there
+
+the old woman had gotten him there
+permits
+the old woman had obeyed the order to get him there
+
+the old woman obeyed the order to get him there
+contradicts
+the old woman did not get him there
+
+the old woman did not get him there
+contradicts
+the old woman obeyed the order to get him there
+
+the old woman had almost obeyed the order to get him there
+entails
+the old woman had n't gotten him there
+
+the old woman had n't gotten him there
+permits
+the old woman had almost obeyed the order to get him there
+
+the old woman had almost obeyed the order to get him there
+permits
+Father Nugent had n't gotten him there
+
+the old woman never obeyed the order to get him there
+contradicts
+the old woman got him there
+
+the old woman got him there
+contradicts
+the old woman never obeyed the order to get him there
+
+the old woman obeyed her order to get him there
+entails
+the old woman got him there
+
+the old woman got him there
+permits
+the old woman obeyed her order to get him there
+
+the old woman has obeyed her order to get him there
+contradicts
+the old woman has n't gotten him there
+
+the old woman has n't gotten him there
+contradicts
+the old woman has obeyed her order to get him there
+
+the old woman did not obey her order to get him there
+entails
+the old woman did n't get him there
+
+the old woman did n't get him there
+permits
+the old woman did not obey her order to get him there
+
+the old woman has n't obeyed her order to get him there
+contradicts
+the old woman has gotten him there
+
+the old woman has gotten him there
+contradicts
+the old woman has n't obeyed her order to get him there
+
+the old woman has n't obeyed her order to get him there
+permits
+her captain has gotten him there
+
+I obeyed the order to report to Gen. Grant that night
+entails
+I reported to Gen. Grant that night
+
+I reported to Gen. Grant that night
+permits
+I obeyed the order to report to Gen. Grant that night
+
+I obeyed the order to report to Gen. Grant that night
+permits
+I dispersed
+
+I had obeyed the order to report to Gen. Grant that night
+contradicts
+I had n't reported to Gen. Grant that night
+
+I had n't reported to Gen. Grant that night
+contradicts
+I had obeyed the order to report to Gen. Grant that night
+
+I had obeyed the order to report to Gen. Grant that night
+permits
+Georges had n't reported to Gen. Grant that night
+
+I have almost obeyed the order to report to Gen. Grant that night
+entails
+I have n't reported to Gen. Grant that night
+
+I have n't reported to Gen. Grant that night
+permits
+I have almost obeyed the order to report to Gen. Grant that night
+
+I have almost obeyed the order to report to Gen. Grant that night
+permits
+James Foley has n't reported to Gen. Grant that night
+
+I did n't obey the order to report to Gen. Grant that night
+contradicts
+I reported to Gen. Grant that night
+
+I reported to Gen. Grant that night
+contradicts
+I did n't obey the order to report to Gen. Grant that night
+
+I obeyed my order to report to Gen. Grant that night
+entails
+I reported to Gen. Grant that night
+
+I reported to Gen. Grant that night
+permits
+I obeyed my order to report to Gen. Grant that night
+
+I have obeyed my order to report to Gen. Grant that night
+contradicts
+I have n't reported to Gen. Grant that night
+
+I have n't reported to Gen. Grant that night
+contradicts
+I have obeyed my order to report to Gen. Grant that night
+
+I never obeyed my order to report to Gen. Grant that night
+entails
+I never reported to Gen. Grant that night
+
+I never reported to Gen. Grant that night
+permits
+I never obeyed my order to report to Gen. Grant that night
+
+I never obeyed my order to report to Gen. Grant that night
+permits
+Jack never reported to Gen. Grant that night
+
+I almost obeyed my order to report to Gen. Grant that night
+contradicts
+I reported to Gen. Grant that night
+
+I reported to Gen. Grant that night
+contradicts
+I almost obeyed my order to report to Gen. Grant that night
+
+I almost obeyed my order to report to Gen. Grant that night
+permits
+I quitted at once
+
+you had obeyed the order to kill all the Italians in your communities
+entails
+you had killed all the Italians in your communities
+
+you had killed all the Italians in your communities
+permits
+you had obeyed the order to kill all the Italians in your communities
+
+you had obeyed the order to kill all the Italians in your communities
+permits
+Jack had killed all the Italians in your communities
+
+you obeyed the order to kill all the Italians in your communities
+contradicts
+you did not kill all the Italians in your communities
+
+you did not kill all the Italians in your communities
+contradicts
+you obeyed the order to kill all the Italians in your communities
+
+you obeyed the order to kill all the Italians in your communities
+permits
+you did not come closer
+
+you did not obey the order to kill all the Italians in your communities
+entails
+you did not kill all the Italians in your communities
+
+you did not kill all the Italians in your communities
+permits
+you did not obey the order to kill all the Italians in your communities
+
+you did not obey the order to kill all the Italians in your communities
+permits
+you did n't leave your homes by 9a.m.
+
+you have n't obeyed the order to kill all the Italians in your communities
+contradicts
+you have killed all the Italians in your communities
+
+you have killed all the Italians in your communities
+contradicts
+you have n't obeyed the order to kill all the Italians in your communities
+
+you have obeyed your order to kill all the Italians in your communities
+entails
+you have killed all the Italians in your communities
+
+you have killed all the Italians in your communities
+permits
+you have obeyed your order to kill all the Italians in your communities
+
+you obeyed your order to kill all the Italians in your communities
+contradicts
+you did n't kill all the Italians in your communities
+
+you did n't kill all the Italians in your communities
+contradicts
+you obeyed your order to kill all the Italians in your communities
+
+you obeyed your order to kill all the Italians in your communities
+permits
+you did not rush towards the Mud Gate
+
+you had almost obeyed your order to kill all the Italians in your communities
+entails
+you had almost killed all the Italians in your communities
+
+you had almost killed all the Italians in your communities
+permits
+you had almost obeyed your order to kill all the Italians in your communities
+
+you have never obeyed your order to kill all the Italians in your communities
+contradicts
+you have killed all the Italians in your communities
+
+you have killed all the Italians in your communities
+contradicts
+you have never obeyed your order to kill all the Italians in your communities
+
+you have never obeyed your order to kill all the Italians in your communities
+permits
+you have carried a lantern
+
+she had obeyed the order to put down the weapon
+entails
+she had put down the weapon
+
+she had put down the weapon
+permits
+she had obeyed the order to put down the weapon
+
+she obeyed the order to put down the weapon
+contradicts
+she did n't put down the weapon
+
+she did n't put down the weapon
+contradicts
+she obeyed the order to put down the weapon
+
+she obeyed the order to put down the weapon
+permits
+Jim Lyerly did not put down the weapon
+
+she did n't obey the order to put down the weapon
+entails
+she did n't put down the weapon
+
+she did n't put down the weapon
+permits
+she did n't obey the order to put down the weapon
+
+she did n't obey the order to put down the weapon
+permits
+the army ISIL has amassed did not put down the weapon
+
+she has never obeyed the order to put down the weapon
+contradicts
+she has put down the weapon
+
+she has put down the weapon
+contradicts
+she has never obeyed the order to put down the weapon
+
+she has obeyed her order to put down the weapon
+entails
+she has put down the weapon
+
+she has put down the weapon
+permits
+she has obeyed her order to put down the weapon
+
+she obeyed her order to put down the weapon
+contradicts
+she did not put down the weapon
+
+she did not put down the weapon
+contradicts
+she obeyed her order to put down the weapon
+
+she obeyed her order to put down the weapon
+permits
+Joseph did n't put down the weapon
+
+she never had obeyed her order to put down the weapon
+entails
+she had n't put down the weapon
+
+she had n't put down the weapon
+permits
+she never had obeyed her order to put down the weapon
+
+she never had obeyed her order to put down the weapon
+permits
+she had never struck out of the blue
+
+she has almost obeyed her order to put down the weapon
+contradicts
+she has put down the weapon
+
+she has put down the weapon
+contradicts
+she has almost obeyed her order to put down the weapon
+
+he had obeyed an order to shoot and kill an elderly Vietnamese citizen
+entails
+he had shot and killed an elderly Vietnamese citizen
+
+he had shot and killed an elderly Vietnamese citizen
+permits
+he had obeyed an order to shoot and kill an elderly Vietnamese citizen
+
+he obeyed an order to shoot and kill an elderly Vietnamese citizen
+contradicts
+he did not shoot and kill an elderly Vietnamese citizen
+
+he did not shoot and kill an elderly Vietnamese citizen
+contradicts
+he obeyed an order to shoot and kill an elderly Vietnamese citizen
+
+he obeyed an order to shoot and kill an elderly Vietnamese citizen
+permits
+he did not charge
+
+he had almost obeyed an order to shoot and kill an elderly Vietnamese citizen
+entails
+he had n't shot and killed an elderly Vietnamese citizen
+
+he had n't shot and killed an elderly Vietnamese citizen
+permits
+he had almost obeyed an order to shoot and kill an elderly Vietnamese citizen
+
+he had almost obeyed an order to shoot and kill an elderly Vietnamese citizen
+permits
+he had n't quitted at once
+
+he has almost obeyed an order to shoot and kill an elderly Vietnamese citizen
+contradicts
+he has shot and killed an elderly Vietnamese citizen
+
+he has shot and killed an elderly Vietnamese citizen
+contradicts
+he has almost obeyed an order to shoot and kill an elderly Vietnamese citizen
+
+he had obeyed his order to shoot and kill an elderly Vietnamese citizen
+entails
+he had shot and killed an elderly Vietnamese citizen
+
+he had shot and killed an elderly Vietnamese citizen
+permits
+he had obeyed his order to shoot and kill an elderly Vietnamese citizen
+
+he obeyed his order to shoot and kill an elderly Vietnamese citizen
+contradicts
+he did n't shoot and kill an elderly Vietnamese citizen
+
+he did n't shoot and kill an elderly Vietnamese citizen
+contradicts
+he obeyed his order to shoot and kill an elderly Vietnamese citizen
+
+he never has obeyed his order to shoot and kill an elderly Vietnamese citizen
+entails
+he has n't shot and killed an elderly Vietnamese citizen
+
+he has n't shot and killed an elderly Vietnamese citizen
+permits
+he never has obeyed his order to shoot and kill an elderly Vietnamese citizen
+
+he never has obeyed his order to shoot and kill an elderly Vietnamese citizen
+permits
+he has not killed some 1500 jews in the village of Jozefow
+
+he had not obeyed his order to shoot and kill an elderly Vietnamese citizen
+contradicts
+he had shot and killed an elderly Vietnamese citizen
+
+he had shot and killed an elderly Vietnamese citizen
+contradicts
+he had not obeyed his order to shoot and kill an elderly Vietnamese citizen
+
+he had not obeyed his order to shoot and kill an elderly Vietnamese citizen
+permits
+Davis had shot and killed an elderly Vietnamese citizen
+
+he had obeyed an order to lie on the ground
+entails
+he had lied on the ground
+
+he had lied on the ground
+permits
+he had obeyed an order to lie on the ground
+
+he had obeyed an order to lie on the ground
+contradicts
+he had not lied on the ground
+
+he had not lied on the ground
+contradicts
+he had obeyed an order to lie on the ground
+
+he did not obey an order to lie on the ground
+entails
+he did not lie on the ground
+
+he did not lie on the ground
+permits
+he did not obey an order to lie on the ground
+
+he did not obey an order to lie on the ground
+contradicts
+he lied on the ground
+
+he lied on the ground
+contradicts
+he did not obey an order to lie on the ground
+
+he did not obey an order to lie on the ground
+permits
+he reported to Gen. Grant that night
+
+he had obeyed his order to lie on the ground
+entails
+he had lied on the ground
+
+he had lied on the ground
+permits
+he had obeyed his order to lie on the ground
+
+he had obeyed his order to lie on the ground
+permits
+she had lied on the ground
+
+he had obeyed his order to lie on the ground
+contradicts
+he had n't lied on the ground
+
+he had n't lied on the ground
+contradicts
+he had obeyed his order to lie on the ground
+
+he had obeyed his order to lie on the ground
+permits
+he had n't turned away from the impending blast
+
+he almost obeyed his order to lie on the ground
+entails
+he almost lied on the ground
+
+he almost lied on the ground
+permits
+he almost obeyed his order to lie on the ground
+
+he almost obeyed his order to lie on the ground
+permits
+her captain did n't lie on the ground
+
+he almost obeyed his order to lie on the ground
+contradicts
+he lied on the ground
+
+he lied on the ground
+contradicts
+he almost obeyed his order to lie on the ground
+
+the next group have obeyed an order to disobey all orders
+entails
+the next group have disobeyed all orders
+
+the next group have disobeyed all orders
+permits
+the next group have obeyed an order to disobey all orders
+
+the next group have obeyed an order to disobey all orders
+permits
+the next group have rushed towards the Mud Gate
+
+the next group obeyed an order to disobey all orders
+contradicts
+the next group did not disobey all orders
+
+the next group did not disobey all orders
+contradicts
+the next group obeyed an order to disobey all orders
+
+the next group almost obeyed an order to disobey all orders
+entails
+the next group did not disobey all orders
+
+the next group did not disobey all orders
+permits
+the next group almost obeyed an order to disobey all orders
+
+the next group almost obeyed an order to disobey all orders
+permits
+most FARC units did n't disobey all orders
+
+the next group did not obey an order to disobey all orders
+contradicts
+the next group disobeyed all orders
+
+the next group disobeyed all orders
+contradicts
+the next group did not obey an order to disobey all orders
+
+the next group did not obey an order to disobey all orders
+permits
+most people disobeyed all orders
+
+the next group obeyed their order to disobey all orders
+entails
+the next group disobeyed all orders
+
+the next group disobeyed all orders
+permits
+the next group obeyed their order to disobey all orders
+
+the next group had obeyed their order to disobey all orders
+contradicts
+the next group had not disobeyed all orders
+
+the next group had not disobeyed all orders
+contradicts
+the next group had obeyed their order to disobey all orders
+
+the next group had obeyed their order to disobey all orders
+permits
+the next group had n't killed all the Italians in your communities
+
+the next group did not obey their order to disobey all orders
+entails
+the next group did not disobey all orders
+
+the next group did not disobey all orders
+permits
+the next group did not obey their order to disobey all orders
+
+the next group almost obeyed their order to disobey all orders
+contradicts
+the next group disobeyed all orders
+
+the next group disobeyed all orders
+contradicts
+the next group almost obeyed their order to disobey all orders
+
+American military commanders have obeyed an order to strike out of the blue
+entails
+American military commanders have struck out of the blue
+
+American military commanders have struck out of the blue
+permits
+American military commanders have obeyed an order to strike out of the blue
+
+American military commanders obeyed an order to strike out of the blue
+contradicts
+American military commanders did not strike out of the blue
+
+American military commanders did not strike out of the blue
+contradicts
+American military commanders obeyed an order to strike out of the blue
+
+American military commanders obeyed an order to strike out of the blue
+permits
+American military commanders did n't leave the area outside the rally
+
+American military commanders did not obey an order to strike out of the blue
+entails
+American military commanders did n't strike out of the blue
+
+American military commanders did n't strike out of the blue
+permits
+American military commanders did not obey an order to strike out of the blue
+
+American military commanders did not obey an order to strike out of the blue
+permits
+Colonel Bates and command did n't strike out of the blue
+
+American military commanders had never obeyed an order to strike out of the blue
+contradicts
+American military commanders had struck out of the blue
+
+American military commanders had struck out of the blue
+contradicts
+American military commanders had never obeyed an order to strike out of the blue
+
+American military commanders had never obeyed an order to strike out of the blue
+permits
+Colonel Bates and command had struck out of the blue
+
+American military commanders had obeyed their order to strike out of the blue
+entails
+American military commanders had struck out of the blue
+
+American military commanders had struck out of the blue
+permits
+American military commanders had obeyed their order to strike out of the blue
+
+American military commanders had obeyed their order to strike out of the blue
+contradicts
+American military commanders had not struck out of the blue
+
+American military commanders had not struck out of the blue
+contradicts
+American military commanders had obeyed their order to strike out of the blue
+
+American military commanders had obeyed their order to strike out of the blue
+permits
+American military commanders had n't left their homes by 9a.m.
+
+American military commanders had n't obeyed their order to strike out of the blue
+entails
+American military commanders had not struck out of the blue
+
+American military commanders had not struck out of the blue
+permits
+American military commanders had n't obeyed their order to strike out of the blue
+
+American military commanders had n't obeyed their order to strike out of the blue
+permits
+the soldiers had not struck out of the blue
+
+American military commanders almost obeyed their order to strike out of the blue
+contradicts
+American military commanders struck out of the blue
+
+American military commanders struck out of the blue
+contradicts
+American military commanders almost obeyed their order to strike out of the blue
+
+she had obeyed an order to transfer the stock
+entails
+she had transferred the stock
+
+she had transferred the stock
+permits
+she had obeyed an order to transfer the stock
+
+she had obeyed an order to transfer the stock
+permits
+she had lied down
+
+she had obeyed an order to transfer the stock
+contradicts
+she had not transferred the stock
+
+she had not transferred the stock
+contradicts
+she had obeyed an order to transfer the stock
+
+she had obeyed an order to transfer the stock
+permits
+she had n't rushed towards the Mud Gate
+
+she has never obeyed an order to transfer the stock
+entails
+she has not transferred the stock
+
+she has not transferred the stock
+permits
+she has never obeyed an order to transfer the stock
+
+she has almost obeyed an order to transfer the stock
+contradicts
+she has transferred the stock
+
+she has transferred the stock
+contradicts
+she has almost obeyed an order to transfer the stock
+
+she has almost obeyed an order to transfer the stock
+permits
+she has gone into battle
+
+she has obeyed her order to transfer the stock
+entails
+she has transferred the stock
+
+she has transferred the stock
+permits
+she has obeyed her order to transfer the stock
+
+she has obeyed her order to transfer the stock
+permits
+Endo has transferred the stock
+
+she obeyed her order to transfer the stock
+contradicts
+she did not transfer the stock
+
+she did not transfer the stock
+contradicts
+she obeyed her order to transfer the stock
+
+she has not obeyed her order to transfer the stock
+entails
+she has n't transferred the stock
+
+she has n't transferred the stock
+permits
+she has not obeyed her order to transfer the stock
+
+she had never obeyed her order to transfer the stock
+contradicts
+she had transferred the stock
+
+she had transferred the stock
+contradicts
+she had never obeyed her order to transfer the stock
+
+she had never obeyed her order to transfer the stock
+permits
+she had abandoned Sev
+
+Jim Lyerly has obeyed an order to turn away from the impending blast
+entails
+Jim Lyerly has turned away from the impending blast
+
+Jim Lyerly has turned away from the impending blast
+permits
+Jim Lyerly has obeyed an order to turn away from the impending blast
+
+Jim Lyerly has obeyed an order to turn away from the impending blast
+permits
+Jim Lyerly has saluted the cross
+
+Jim Lyerly has obeyed an order to turn away from the impending blast
+contradicts
+Jim Lyerly has n't turned away from the impending blast
+
+Jim Lyerly has n't turned away from the impending blast
+contradicts
+Jim Lyerly has obeyed an order to turn away from the impending blast
+
+Jim Lyerly has obeyed an order to turn away from the impending blast
+permits
+Jim Lyerly has n't cleared for action
+
+Jim Lyerly almost obeyed an order to turn away from the impending blast
+entails
+Jim Lyerly did n't turn away from the impending blast
+
+Jim Lyerly did n't turn away from the impending blast
+permits
+Jim Lyerly almost obeyed an order to turn away from the impending blast
+
+Jim Lyerly almost obeyed an order to turn away from the impending blast
+permits
+Jim Lyerly did not quit at once
+
+Jim Lyerly did n't obey an order to turn away from the impending blast
+contradicts
+Jim Lyerly turned away from the impending blast
+
+Jim Lyerly turned away from the impending blast
+contradicts
+Jim Lyerly did n't obey an order to turn away from the impending blast
+
+Jim Lyerly did n't obey an order to turn away from the impending blast
+permits
+Padri turned away from the impending blast
+
+Jim Lyerly has obeyed his order to turn away from the impending blast
+entails
+Jim Lyerly has turned away from the impending blast
+
+Jim Lyerly has turned away from the impending blast
+permits
+Jim Lyerly has obeyed his order to turn away from the impending blast
+
+Jim Lyerly has obeyed his order to turn away from the impending blast
+permits
+Jim Lyerly has charged
+
+Jim Lyerly obeyed his order to turn away from the impending blast
+contradicts
+Jim Lyerly did n't turn away from the impending blast
+
+Jim Lyerly did n't turn away from the impending blast
+contradicts
+Jim Lyerly obeyed his order to turn away from the impending blast
+
+Jim Lyerly had n't obeyed his order to turn away from the impending blast
+entails
+Jim Lyerly had n't turned away from the impending blast
+
+Jim Lyerly had n't turned away from the impending blast
+permits
+Jim Lyerly had n't obeyed his order to turn away from the impending blast
+
+Jim Lyerly had almost obeyed his order to turn away from the impending blast
+contradicts
+Jim Lyerly had turned away from the impending blast
+
+Jim Lyerly had turned away from the impending blast
+contradicts
+Jim Lyerly had almost obeyed his order to turn away from the impending blast
+
+most people obeyed an order to leave the area outside the rally
+entails
+most people left the area outside the rally
+
+most people left the area outside the rally
+permits
+most people obeyed an order to leave the area outside the rally
+
+most people obeyed an order to leave the area outside the rally
+permits
+many of the military left the area outside the rally
+
+most people had obeyed an order to leave the area outside the rally
+contradicts
+most people had n't left the area outside the rally
+
+most people had n't left the area outside the rally
+contradicts
+most people had obeyed an order to leave the area outside the rally
+
+most people had obeyed an order to leave the area outside the rally
+permits
+the men had not left the area outside the rally
+
+most people did not obey an order to leave the area outside the rally
+entails
+most people did not leave the area outside the rally
+
+most people did not leave the area outside the rally
+permits
+most people did not obey an order to leave the area outside the rally
+
+most people did not obey an order to leave the area outside the rally
+permits
+the ragged men did n't leave the area outside the rally
+
+most people had almost obeyed an order to leave the area outside the rally
+contradicts
+most people had left the area outside the rally
+
+most people had left the area outside the rally
+contradicts
+most people had almost obeyed an order to leave the area outside the rally
+
+most people had obeyed their order to leave the area outside the rally
+entails
+most people had left the area outside the rally
+
+most people had left the area outside the rally
+permits
+most people had obeyed their order to leave the area outside the rally
+
+most people had obeyed their order to leave the area outside the rally
+permits
+her friends had left the area outside the rally
+
+most people had obeyed their order to leave the area outside the rally
+contradicts
+most people had n't left the area outside the rally
+
+most people had n't left the area outside the rally
+contradicts
+most people had obeyed their order to leave the area outside the rally
+
+most people have not obeyed their order to leave the area outside the rally
+entails
+most people have not left the area outside the rally
+
+most people have not left the area outside the rally
+permits
+most people have not obeyed their order to leave the area outside the rally
+
+most people have not obeyed their order to leave the area outside the rally
+permits
+most people have not lied down
+
+most people have never obeyed their order to leave the area outside the rally
+contradicts
+most people have left the area outside the rally
+
+most people have left the area outside the rally
+contradicts
+most people have never obeyed their order to leave the area outside the rally
+
+Davis had obeyed an order to return to the field
+entails
+Davis had returned to the field
+
+Davis had returned to the field
+permits
+Davis had obeyed an order to return to the field
+
+Davis has obeyed an order to return to the field
+contradicts
+Davis has not returned to the field
+
+Davis has not returned to the field
+contradicts
+Davis has obeyed an order to return to the field
+
+Davis never obeyed an order to return to the field
+entails
+Davis did not return to the field
+
+Davis did not return to the field
+permits
+Davis never obeyed an order to return to the field
+
+Davis had never obeyed an order to return to the field
+contradicts
+Davis had returned to the field
+
+Davis had returned to the field
+contradicts
+Davis had never obeyed an order to return to the field
+
+Davis has obeyed her order to return to the field
+entails
+Davis has returned to the field
+
+Davis has returned to the field
+permits
+Davis has obeyed her order to return to the field
+
+Davis has obeyed her order to return to the field
+contradicts
+Davis has n't returned to the field
+
+Davis has n't returned to the field
+contradicts
+Davis has obeyed her order to return to the field
+
+Davis has almost obeyed her order to return to the field
+entails
+Davis has n't returned to the field
+
+Davis has n't returned to the field
+permits
+Davis has almost obeyed her order to return to the field
+
+Davis did not obey her order to return to the field
+contradicts
+Davis returned to the field
+
+Davis returned to the field
+contradicts
+Davis did not obey her order to return to the field
+
+Father Nugent has obeyed an order to silence himself on matters pertaining to homosexuality
+entails
+Father Nugent has silenced himself on matters pertaining to homosexuality
+
+Father Nugent has silenced himself on matters pertaining to homosexuality
+permits
+Father Nugent has obeyed an order to silence himself on matters pertaining to homosexuality
+
+Father Nugent had obeyed an order to silence himself on matters pertaining to homosexuality
+contradicts
+Father Nugent had not silenced himself on matters pertaining to homosexuality
+
+Father Nugent had not silenced himself on matters pertaining to homosexuality
+contradicts
+Father Nugent had obeyed an order to silence himself on matters pertaining to homosexuality
+
+Father Nugent had obeyed an order to silence himself on matters pertaining to homosexuality
+permits
+Father Nugent had not seized territory
+
+Father Nugent has almost obeyed an order to silence himself on matters pertaining to homosexuality
+entails
+Father Nugent has not silenced himself on matters pertaining to homosexuality
+
+Father Nugent has not silenced himself on matters pertaining to homosexuality
+permits
+Father Nugent has almost obeyed an order to silence himself on matters pertaining to homosexuality
+
+Father Nugent had almost obeyed an order to silence himself on matters pertaining to homosexuality
+contradicts
+Father Nugent had silenced himself on matters pertaining to homosexuality
+
+Father Nugent had silenced himself on matters pertaining to homosexuality
+contradicts
+Father Nugent had almost obeyed an order to silence himself on matters pertaining to homosexuality
+
+Father Nugent had almost obeyed an order to silence himself on matters pertaining to homosexuality
+permits
+Joseph had silenced himself on matters pertaining to homosexuality
+
+Father Nugent had obeyed his order to silence himself on matters pertaining to homosexuality
+entails
+Father Nugent had silenced himself on matters pertaining to homosexuality
+
+Father Nugent had silenced himself on matters pertaining to homosexuality
+permits
+Father Nugent had obeyed his order to silence himself on matters pertaining to homosexuality
+
+Father Nugent had obeyed his order to silence himself on matters pertaining to homosexuality
+permits
+Father Nugent had killed the animals
+
+Father Nugent had obeyed his order to silence himself on matters pertaining to homosexuality
+contradicts
+Father Nugent had not silenced himself on matters pertaining to homosexuality
+
+Father Nugent had not silenced himself on matters pertaining to homosexuality
+contradicts
+Father Nugent had obeyed his order to silence himself on matters pertaining to homosexuality
+
+Father Nugent had obeyed his order to silence himself on matters pertaining to homosexuality
+permits
+the army ISIL has amassed had not silenced itself on matters pertaining to homosexuality
+
+Father Nugent almost obeyed his order to silence himself on matters pertaining to homosexuality
+entails
+Father Nugent did n't silence himself on matters pertaining to homosexuality
+
+Father Nugent did n't silence himself on matters pertaining to homosexuality
+permits
+Father Nugent almost obeyed his order to silence himself on matters pertaining to homosexuality
+
+Father Nugent almost obeyed his order to silence himself on matters pertaining to homosexuality
+permits
+James Foley almost silenced himself on matters pertaining to homosexuality
+
+Father Nugent had almost obeyed his order to silence himself on matters pertaining to homosexuality
+contradicts
+Father Nugent had silenced himself on matters pertaining to homosexuality
+
+Father Nugent had silenced himself on matters pertaining to homosexuality
+contradicts
+Father Nugent had almost obeyed his order to silence himself on matters pertaining to homosexuality
+
+the vessel had obeyed an order to sail to Fremantle
+entails
+the vessel had sailed to Fremantle
+
+the vessel had sailed to Fremantle
+permits
+the vessel had obeyed an order to sail to Fremantle
+
+the vessel obeyed an order to sail to Fremantle
+contradicts
+the vessel did not sail to Fremantle
+
+the vessel did not sail to Fremantle
+contradicts
+the vessel obeyed an order to sail to Fremantle
+
+the vessel has almost obeyed an order to sail to Fremantle
+entails
+the vessel almost has sailed to Fremantle
+
+the vessel almost has sailed to Fremantle
+permits
+the vessel has almost obeyed an order to sail to Fremantle
+
+the vessel has almost obeyed an order to sail to Fremantle
+permits
+the vessel has n't rushed towards the Mud Gate
+
+the vessel had n't obeyed an order to sail to Fremantle
+contradicts
+the vessel had sailed to Fremantle
+
+the vessel had sailed to Fremantle
+contradicts
+the vessel had n't obeyed an order to sail to Fremantle
+
+the vessel had obeyed its order to sail to Fremantle
+entails
+the vessel had sailed to Fremantle
+
+the vessel had sailed to Fremantle
+permits
+the vessel had obeyed its order to sail to Fremantle
+
+the vessel obeyed its order to sail to Fremantle
+contradicts
+the vessel did not sail to Fremantle
+
+the vessel did not sail to Fremantle
+contradicts
+the vessel obeyed its order to sail to Fremantle
+
+the vessel had almost obeyed its order to sail to Fremantle
+entails
+the vessel had n't sailed to Fremantle
+
+the vessel had n't sailed to Fremantle
+permits
+the vessel had almost obeyed its order to sail to Fremantle
+
+the vessel has almost obeyed its order to sail to Fremantle
+contradicts
+the vessel has sailed to Fremantle
+
+the vessel has sailed to Fremantle
+contradicts
+the vessel has almost obeyed its order to sail to Fremantle
+
+they have obeyed an order to abandon Sev
+entails
+they have abandoned Sev
+
+they have abandoned Sev
+permits
+they have obeyed an order to abandon Sev
+
+they have obeyed an order to abandon Sev
+permits
+many police executioners have abandoned Sev
+
+they had obeyed an order to abandon Sev
+contradicts
+they had n't abandoned Sev
+
+they had n't abandoned Sev
+contradicts
+they had obeyed an order to abandon Sev
+
+they almost obeyed an order to abandon Sev
+entails
+they almost abandoned Sev
+
+they almost abandoned Sev
+permits
+they almost obeyed an order to abandon Sev
+
+they had not obeyed an order to abandon Sev
+contradicts
+they had abandoned Sev
+
+they had abandoned Sev
+contradicts
+they had not obeyed an order to abandon Sev
+
+they had not obeyed an order to abandon Sev
+permits
+we quickly had abandoned Sev
+
+they had obeyed their order to abandon Sev
+entails
+they had abandoned Sev
+
+they had abandoned Sev
+permits
+they had obeyed their order to abandon Sev
+
+they had obeyed their order to abandon Sev
+contradicts
+they had n't abandoned Sev
+
+they had n't abandoned Sev
+contradicts
+they had obeyed their order to abandon Sev
+
+they had obeyed their order to abandon Sev
+permits
+they had n't rushed towards the Mud Gate
+
+they almost obeyed their order to abandon Sev
+entails
+they did n't abandon Sev
+
+they did n't abandon Sev
+permits
+they almost obeyed their order to abandon Sev
+
+they almost obeyed their order to abandon Sev
+permits
+they almost testified
+
+they never obeyed their order to abandon Sev
+contradicts
+they abandoned Sev
+
+they abandoned Sev
+contradicts
+they never obeyed their order to abandon Sev
+
+they never obeyed their order to abandon Sev
+permits
+the divisions abandoned Sev
+
+German police officers obeyed order to kill some 1500 jews in the village of Jozefow
+entails
+German police officers killed some 1500 jews in the village of Jozefow
+
+German police officers killed some 1500 jews in the village of Jozefow
+permits
+German police officers obeyed order to kill some 1500 jews in the village of Jozefow
+
+German police officers obeyed order to kill some 1500 jews in the village of Jozefow
+contradicts
+German police officers did n't kill some 1500 jews in the village of Jozefow
+
+German police officers did n't kill some 1500 jews in the village of Jozefow
+contradicts
+German police officers obeyed order to kill some 1500 jews in the village of Jozefow
+
+German police officers almost have obeyed order to kill some 1500 jews in the village of Jozefow
+entails
+German police officers have n't killed some 1500 jews in the village of Jozefow
+
+German police officers have n't killed some 1500 jews in the village of Jozefow
+permits
+German police officers almost have obeyed order to kill some 1500 jews in the village of Jozefow
+
+German police officers have never obeyed order to kill some 1500 jews in the village of Jozefow
+contradicts
+German police officers have killed some 1500 jews in the village of Jozefow
+
+German police officers have killed some 1500 jews in the village of Jozefow
+contradicts
+German police officers have never obeyed order to kill some 1500 jews in the village of Jozefow
+
+German police officers have obeyed their order to kill some 1500 jews in the village of Jozefow
+entails
+German police officers have killed some 1500 jews in the village of Jozefow
+
+German police officers have killed some 1500 jews in the village of Jozefow
+permits
+German police officers have obeyed their order to kill some 1500 jews in the village of Jozefow
+
+German police officers have obeyed their order to kill some 1500 jews in the village of Jozefow
+permits
+most of the workers have killed some 1500 jews in the village of Jozefow
+
+German police officers obeyed their order to kill some 1500 jews in the village of Jozefow
+contradicts
+German police officers did not kill some 1500 jews in the village of Jozefow
+
+German police officers did not kill some 1500 jews in the village of Jozefow
+contradicts
+German police officers obeyed their order to kill some 1500 jews in the village of Jozefow
+
+German police officers obeyed their order to kill some 1500 jews in the village of Jozefow
+permits
+German police officers did not drop the atomic bombs on Hiroshima
+
+German police officers almost obeyed their order to kill some 1500 jews in the village of Jozefow
+entails
+German police officers did not kill some 1500 jews in the village of Jozefow
+
+German police officers did not kill some 1500 jews in the village of Jozefow
+permits
+German police officers almost obeyed their order to kill some 1500 jews in the village of Jozefow
+
+German police officers almost obeyed their order to kill some 1500 jews in the village of Jozefow
+permits
+most people almost killed some 1500 jews in the village of Jozefow
+
+German police officers have never obeyed their order to kill some 1500 jews in the village of Jozefow
+contradicts
+German police officers have killed some 1500 jews in the village of Jozefow
+
+German police officers have killed some 1500 jews in the village of Jozefow
+contradicts
+German police officers have never obeyed their order to kill some 1500 jews in the village of Jozefow
+
+German police officers have never obeyed their order to kill some 1500 jews in the village of Jozefow
+permits
+people have killed some 1500 jews in the village of Jozefow
+
+they have obeyed order to back the Kremlin party
+entails
+they have backed the Kremlin party
+
+they have backed the Kremlin party
+permits
+they have obeyed order to back the Kremlin party
+
+they have obeyed order to back the Kremlin party
+contradicts
+they have not backed the Kremlin party
+
+they have not backed the Kremlin party
+contradicts
+they have obeyed order to back the Kremlin party
+
+they almost obeyed order to back the Kremlin party
+entails
+they did not back the Kremlin party
+
+they did not back the Kremlin party
+permits
+they almost obeyed order to back the Kremlin party
+
+they almost obeyed order to back the Kremlin party
+permits
+they did n't carry a lantern
+
+they never obeyed order to back the Kremlin party
+contradicts
+they backed the Kremlin party
+
+they backed the Kremlin party
+contradicts
+they never obeyed order to back the Kremlin party
+
+they obeyed their order to back the Kremlin party
+entails
+they backed the Kremlin party
+
+they backed the Kremlin party
+permits
+they obeyed their order to back the Kremlin party
+
+they obeyed their order to back the Kremlin party
+permits
+the US soldiers backed the Kremlin party
+
+they had obeyed their order to back the Kremlin party
+contradicts
+they had not backed the Kremlin party
+
+they had not backed the Kremlin party
+contradicts
+they had obeyed their order to back the Kremlin party
+
+they did not obey their order to back the Kremlin party
+entails
+they did not back the Kremlin party
+
+they did not back the Kremlin party
+permits
+they did not obey their order to back the Kremlin party
+
+they did not obey their order to back the Kremlin party
+permits
+they did n't change from car to van
+
+they have not obeyed their order to back the Kremlin party
+contradicts
+they have backed the Kremlin party
+
+they have backed the Kremlin party
+contradicts
+they have not obeyed their order to back the Kremlin party
+
+they have not obeyed their order to back the Kremlin party
+permits
+the men have backed the Kremlin party
+
+the US soldiers obeyed the orders to drop the atomic bombs on Hiroshima
+entails
+the US soldiers dropped the atomic bombs on Hiroshima
+
+the US soldiers dropped the atomic bombs on Hiroshima
+permits
+the US soldiers obeyed the orders to drop the atomic bombs on Hiroshima
+
+the US soldiers obeyed the orders to drop the atomic bombs on Hiroshima
+contradicts
+the US soldiers did not drop the atomic bombs on Hiroshima
+
+the US soldiers did not drop the atomic bombs on Hiroshima
+contradicts
+the US soldiers obeyed the orders to drop the atomic bombs on Hiroshima
+
+the US soldiers obeyed the orders to drop the atomic bombs on Hiroshima
+permits
+the US soldiers did not go into battle
+
+the US soldiers had never obeyed the orders to drop the atomic bombs on Hiroshima
+entails
+the US soldiers had n't dropped the atomic bombs on Hiroshima
+
+the US soldiers had n't dropped the atomic bombs on Hiroshima
+permits
+the US soldiers had never obeyed the orders to drop the atomic bombs on Hiroshima
+
+the US soldiers have not obeyed the orders to drop the atomic bombs on Hiroshima
+contradicts
+the US soldiers have dropped the atomic bombs on Hiroshima
+
+the US soldiers have dropped the atomic bombs on Hiroshima
+contradicts
+the US soldiers have not obeyed the orders to drop the atomic bombs on Hiroshima
+
+the US soldiers have not obeyed the orders to drop the atomic bombs on Hiroshima
+permits
+American military commanders have dropped the atomic bombs on Hiroshima
+
+the US soldiers obeyed their orders to drop the atomic bombs on Hiroshima
+entails
+the US soldiers dropped the atomic bombs on Hiroshima
+
+the US soldiers dropped the atomic bombs on Hiroshima
+permits
+the US soldiers obeyed their orders to drop the atomic bombs on Hiroshima
+
+the US soldiers obeyed their orders to drop the atomic bombs on Hiroshima
+permits
+only 189 men and officers dropped the atomic bombs on Hiroshima
+
+the US soldiers had obeyed their orders to drop the atomic bombs on Hiroshima
+contradicts
+the US soldiers had not dropped the atomic bombs on Hiroshima
+
+the US soldiers had not dropped the atomic bombs on Hiroshima
+contradicts
+the US soldiers had obeyed their orders to drop the atomic bombs on Hiroshima
+
+the US soldiers have never obeyed their orders to drop the atomic bombs on Hiroshima
+entails
+the US soldiers have never dropped the atomic bombs on Hiroshima
+
+the US soldiers have never dropped the atomic bombs on Hiroshima
+permits
+the US soldiers have never obeyed their orders to drop the atomic bombs on Hiroshima
+
+the US soldiers have never obeyed their orders to drop the atomic bombs on Hiroshima
+permits
+the US soldiers have n't shown their hands
+
+the US soldiers had almost obeyed their orders to drop the atomic bombs on Hiroshima
+contradicts
+the US soldiers had dropped the atomic bombs on Hiroshima
+
+the US soldiers had dropped the atomic bombs on Hiroshima
+contradicts
+the US soldiers had almost obeyed their orders to drop the atomic bombs on Hiroshima
+
+the US soldiers had almost obeyed their orders to drop the atomic bombs on Hiroshima
+permits
+only 189 men and officers had dropped the atomic bombs on Hiroshima
+
+many of the military obeyed the orders to salute the cross
+entails
+many of the military saluted the cross
+
+many of the military saluted the cross
+permits
+many of the military obeyed the orders to salute the cross
+
+many of the military obeyed the orders to salute the cross
+permits
+many of the military came out of the mine
+
+many of the military have obeyed the orders to salute the cross
+contradicts
+many of the military have not saluted the cross
+
+many of the military have not saluted the cross
+contradicts
+many of the military have obeyed the orders to salute the cross
+
+many of the military have almost obeyed the orders to salute the cross
+entails
+many of the military have n't saluted the cross
+
+many of the military have n't saluted the cross
+permits
+many of the military have almost obeyed the orders to salute the cross
+
+many of the military have almost obeyed the orders to salute the cross
+permits
+many of the military have not left their homes by 9a.m.
+
+many of the military did n't obey the orders to salute the cross
+contradicts
+many of the military saluted the cross
+
+many of the military saluted the cross
+contradicts
+many of the military did n't obey the orders to salute the cross
+
+many of the military had obeyed their orders to salute the cross
+entails
+many of the military had saluted the cross
+
+many of the military had saluted the cross
+permits
+many of the military had obeyed their orders to salute the cross
+
+many of the military have obeyed their orders to salute the cross
+contradicts
+many of the military have not saluted the cross
+
+many of the military have not saluted the cross
+contradicts
+many of the military have obeyed their orders to salute the cross
+
+many of the military had never obeyed their orders to salute the cross
+entails
+many of the military had n't saluted the cross
+
+many of the military had n't saluted the cross
+permits
+many of the military had never obeyed their orders to salute the cross
+
+many of the military had never obeyed their orders to salute the cross
+permits
+we quickly had never saluted the cross
+
+many of the military had n't obeyed their orders to salute the cross
+contradicts
+many of the military had saluted the cross
+
+many of the military had saluted the cross
+contradicts
+many of the military had n't obeyed their orders to salute the cross
+
+many of the military had n't obeyed their orders to salute the cross
+permits
+German police officers had saluted the cross
+
+the army ISIL has amassed had obeyed the orders to seize territory
+entails
+the army ISIL has amassed had seized territory
+
+the army ISIL has amassed had seized territory
+permits
+the army ISIL has amassed had obeyed the orders to seize territory
+
+the army ISIL has amassed had obeyed the orders to seize territory
+permits
+Kim Davis had seized territory
+
+the army ISIL has amassed has obeyed the orders to seize territory
+contradicts
+the army ISIL has amassed has n't seized territory
+
+the army ISIL has amassed has n't seized territory
+contradicts
+the army ISIL has amassed has obeyed the orders to seize territory
+
+the army ISIL has amassed has n't obeyed the orders to seize territory
+entails
+the army ISIL has amassed has n't seized territory
+
+the army ISIL has amassed has n't seized territory
+permits
+the army ISIL has amassed has n't obeyed the orders to seize territory
+
+the army ISIL has amassed has n't obeyed the orders to seize territory
+permits
+the army ISIL has amassed has n't lied on the ground
+
+the army ISIL has amassed did not obey the orders to seize territory
+contradicts
+the army ISIL has amassed seized territory
+
+the army ISIL has amassed seized territory
+contradicts
+the army ISIL has amassed did not obey the orders to seize territory
+
+the army ISIL has amassed had obeyed its orders to seize territory
+entails
+the army ISIL has amassed had seized territory
+
+the army ISIL has amassed had seized territory
+permits
+the army ISIL has amassed had obeyed its orders to seize territory
+
+the army ISIL has amassed had obeyed its orders to seize territory
+permits
+Joseph had seized territory
+
+the army ISIL has amassed had obeyed its orders to seize territory
+contradicts
+the army ISIL has amassed had n't seized territory
+
+the army ISIL has amassed had n't seized territory
+contradicts
+the army ISIL has amassed had obeyed its orders to seize territory
+
+the army ISIL has amassed had obeyed its orders to seize territory
+permits
+the army ISIL has amassed had n't shown its hands
+
+the army ISIL has amassed never obeyed its orders to seize territory
+entails
+the army ISIL has amassed did n't seize territory
+
+the army ISIL has amassed did n't seize territory
+permits
+the army ISIL has amassed never obeyed its orders to seize territory
+
+the army ISIL has amassed never obeyed its orders to seize territory
+permits
+I did not seize territory
+
+the army ISIL has amassed had not obeyed its orders to seize territory
+contradicts
+the army ISIL has amassed had seized territory
+
+the army ISIL has amassed had seized territory
+contradicts
+the army ISIL has amassed had not obeyed its orders to seize territory
+
+we quickly obeyed the orders to lie down
+entails
+we quickly lied down
+
+we quickly lied down
+permits
+we quickly obeyed the orders to lie down
+
+we quickly obeyed the orders to lie down
+permits
+we quickly struck out of the blue
+
+we quickly obeyed the orders to lie down
+contradicts
+we quickly did n't lie down
+
+we quickly did n't lie down
+contradicts
+we quickly obeyed the orders to lie down
+
+we quickly have n't obeyed the orders to lie down
+entails
+we quickly have n't lied down
+
+we quickly have n't lied down
+permits
+we quickly have n't obeyed the orders to lie down
+
+we quickly have n't obeyed the orders to lie down
+permits
+we quickly have not sailed to Fremantle
+
+we quickly almost obeyed the orders to lie down
+contradicts
+we quickly lied down
+
+we quickly lied down
+contradicts
+we quickly almost obeyed the orders to lie down
+
+we quickly almost obeyed the orders to lie down
+permits
+we quickly showed our hands
+
+we quickly had obeyed our orders to lie down
+entails
+we quickly had lied down
+
+we quickly had lied down
+permits
+we quickly had obeyed our orders to lie down
+
+we quickly had obeyed our orders to lie down
+permits
+the soldiers had lied down
+
+we quickly have obeyed our orders to lie down
+contradicts
+we quickly have n't lied down
+
+we quickly have n't lied down
+contradicts
+we quickly have obeyed our orders to lie down
+
+we quickly have obeyed our orders to lie down
+permits
+we quickly have n't worn the Juden logo
+
+we quickly never obeyed our orders to lie down
+entails
+we quickly did n't lie down
+
+we quickly did n't lie down
+permits
+we quickly never obeyed our orders to lie down
+
+we quickly never obeyed our orders to lie down
+permits
+we quickly did not lie on the ground
+
+we quickly have almost obeyed our orders to lie down
+contradicts
+we quickly have lied down
+
+we quickly have lied down
+contradicts
+we quickly have almost obeyed our orders to lie down
+
+we quickly have almost obeyed our orders to lie down
+permits
+we quickly have disappeared
+
+many police executioners had obeyed the orders to murder Jews without compunction
+entails
+many police executioners had murdered Jews without compunction
+
+many police executioners had murdered Jews without compunction
+permits
+many police executioners had obeyed the orders to murder Jews without compunction
+
+many police executioners had obeyed the orders to murder Jews without compunction
+permits
+many police executioners had disappeared
+
+many police executioners had obeyed the orders to murder Jews without compunction
+contradicts
+many police executioners had n't murdered Jews without compunction
+
+many police executioners had n't murdered Jews without compunction
+contradicts
+many police executioners had obeyed the orders to murder Jews without compunction
+
+many police executioners had obeyed the orders to murder Jews without compunction
+permits
+many police executioners halt kidnapping
+
+many police executioners had n't obeyed the orders to murder Jews without compunction
+entails
+many police executioners had n't murdered Jews without compunction
+
+many police executioners had n't murdered Jews without compunction
+permits
+many police executioners had n't obeyed the orders to murder Jews without compunction
+
+many police executioners had n't obeyed the orders to murder Jews without compunction
+permits
+Colonel Bates and command had not murdered Jews without compunction
+
+many police executioners did n't obey the orders to murder Jews without compunction
+contradicts
+many police executioners murdered Jews without compunction
+
+many police executioners murdered Jews without compunction
+contradicts
+many police executioners did n't obey the orders to murder Jews without compunction
+
+many police executioners did n't obey the orders to murder Jews without compunction
+permits
+the night shift staff murdered Jews without compunction
+
+many police executioners had obeyed their orders to murder Jews without compunction
+entails
+many police executioners had murdered Jews without compunction
+
+many police executioners had murdered Jews without compunction
+permits
+many police executioners had obeyed their orders to murder Jews without compunction
+
+many police executioners had obeyed their orders to murder Jews without compunction
+permits
+many police executioners had abandoned Sev
+
+many police executioners had obeyed their orders to murder Jews without compunction
+contradicts
+many police executioners had n't murdered Jews without compunction
+
+many police executioners had n't murdered Jews without compunction
+contradicts
+many police executioners had obeyed their orders to murder Jews without compunction
+
+many police executioners did not obey their orders to murder Jews without compunction
+entails
+many police executioners did not murder Jews without compunction
+
+many police executioners did not murder Jews without compunction
+permits
+many police executioners did not obey their orders to murder Jews without compunction
+
+many police executioners did not obey their orders to murder Jews without compunction
+permits
+many police executioners did not leave their homes by 9a.m.
+
+many police executioners have never obeyed their orders to murder Jews without compunction
+contradicts
+many police executioners have murdered Jews without compunction
+
+many police executioners have murdered Jews without compunction
+contradicts
+many police executioners have never obeyed their orders to murder Jews without compunction
+
+many police executioners have never obeyed their orders to murder Jews without compunction
+permits
+many police executioners have gone to the Tanforan assembly center
+
+they have finally obeyed the orders to kill the animals
+entails
+they have killed the animals
+
+they have killed the animals
+permits
+they have finally obeyed the orders to kill the animals
+
+they have finally obeyed the orders to kill the animals
+permits
+they have reported to Gen. Grant that night
+
+they had finally obeyed the orders to kill the animals
+contradicts
+they had n't killed the animals
+
+they had n't killed the animals
+contradicts
+they had finally obeyed the orders to kill the animals
+
+they had finally obeyed the orders to kill the animals
+permits
+the divisions had not killed the animals
+
+they have n't finally obeyed the orders to kill the animals
+entails
+they have not killed the animals
+
+they have not killed the animals
+permits
+they have n't finally obeyed the orders to kill the animals
+
+they have n't finally obeyed the orders to kill the animals
+permits
+they have n't advanced
+
+they never finally obeyed the orders to kill the animals
+contradicts
+they killed the animals
+
+they killed the animals
+contradicts
+they never finally obeyed the orders to kill the animals
+
+they had finally obeyed their orders to kill the animals
+entails
+they had killed the animals
+
+they had killed the animals
+permits
+they had finally obeyed their orders to kill the animals
+
+they had finally obeyed their orders to kill the animals
+permits
+only 189 men and officers had killed the animals
+
+they have finally obeyed their orders to kill the animals
+contradicts
+they have n't killed the animals
+
+they have n't killed the animals
+contradicts
+they have finally obeyed their orders to kill the animals
+
+they have never finally obeyed their orders to kill the animals
+entails
+they have n't killed the animals
+
+they have n't killed the animals
+permits
+they have never finally obeyed their orders to kill the animals
+
+they have never finally obeyed their orders to kill the animals
+permits
+only 189 men and officers have not killed the animals
+
+they have almost finally obeyed their orders to kill the animals
+contradicts
+they have killed the animals
+
+they have killed the animals
+contradicts
+they have almost finally obeyed their orders to kill the animals
+
+they have almost finally obeyed their orders to kill the animals
+permits
+they have come out of the mine
+
+the men have obeyed the orders to rush towards the Mud Gate
+entails
+the men have rushed towards the Mud Gate
+
+the men have rushed towards the Mud Gate
+permits
+the men have obeyed the orders to rush towards the Mud Gate
+
+the men obeyed the orders to rush towards the Mud Gate
+contradicts
+the men did n't rush towards the Mud Gate
+
+the men did n't rush towards the Mud Gate
+contradicts
+the men obeyed the orders to rush towards the Mud Gate
+
+the men had not obeyed the orders to rush towards the Mud Gate
+entails
+the men had n't rushed towards the Mud Gate
+
+the men had n't rushed towards the Mud Gate
+permits
+the men had not obeyed the orders to rush towards the Mud Gate
+
+the men did n't obey the orders to rush towards the Mud Gate
+contradicts
+the men rushed towards the Mud Gate
+
+the men rushed towards the Mud Gate
+contradicts
+the men did n't obey the orders to rush towards the Mud Gate
+
+the men did n't obey the orders to rush towards the Mud Gate
+permits
+many police executioners rushed towards the Mud Gate
+
+the men have obeyed their orders to rush towards the Mud Gate
+entails
+the men have rushed towards the Mud Gate
+
+the men have rushed towards the Mud Gate
+permits
+the men have obeyed their orders to rush towards the Mud Gate
+
+the men have obeyed their orders to rush towards the Mud Gate
+permits
+most people have rushed towards the Mud Gate
+
+the men obeyed their orders to rush towards the Mud Gate
+contradicts
+the men did n't rush towards the Mud Gate
+
+the men did n't rush towards the Mud Gate
+contradicts
+the men obeyed their orders to rush towards the Mud Gate
+
+the men had not obeyed their orders to rush towards the Mud Gate
+entails
+the men had not rushed towards the Mud Gate
+
+the men had not rushed towards the Mud Gate
+permits
+the men had not obeyed their orders to rush towards the Mud Gate
+
+the men had not obeyed their orders to rush towards the Mud Gate
+permits
+the men had not killed some 1500 jews in the village of Jozefow
+
+the men have almost obeyed their orders to rush towards the Mud Gate
+contradicts
+the men have rushed towards the Mud Gate
+
+the men have rushed towards the Mud Gate
+contradicts
+the men have almost obeyed their orders to rush towards the Mud Gate
+
+people obeyed the orders to leave their homes by 9a.m.
+entails
+people left their homes by 9a.m.
+
+people left their homes by 9a.m.
+permits
+people obeyed the orders to leave their homes by 9a.m.
+
+people obeyed the orders to leave their homes by 9a.m.
+permits
+people killed him
+
+people have obeyed the orders to leave their homes by 9a.m.
+contradicts
+people have not left their homes by 9a.m.
+
+people have not left their homes by 9a.m.
+contradicts
+people have obeyed the orders to leave their homes by 9a.m.
+
+people have not obeyed the orders to leave their homes by 9a.m.
+entails
+people have n't left their homes by 9a.m.
+
+people have n't left their homes by 9a.m.
+permits
+people have not obeyed the orders to leave their homes by 9a.m.
+
+people have almost obeyed the orders to leave their homes by 9a.m.
+contradicts
+people have left their homes by 9a.m.
+
+people have left their homes by 9a.m.
+contradicts
+people have almost obeyed the orders to leave their homes by 9a.m.
+
+people had obeyed their orders to leave their homes by 9a.m.
+entails
+people had left their homes by 9a.m.
+
+people had left their homes by 9a.m.
+permits
+people had obeyed their orders to leave their homes by 9a.m.
+
+people had obeyed their orders to leave their homes by 9a.m.
+permits
+most of the workers had left their homes by 9a.m.
+
+people have obeyed their orders to leave their homes by 9a.m.
+contradicts
+people have n't left their homes by 9a.m.
+
+people have n't left their homes by 9a.m.
+contradicts
+people have obeyed their orders to leave their homes by 9a.m.
+
+people had never obeyed their orders to leave their homes by 9a.m.
+entails
+people had never left their homes by 9a.m.
+
+people had never left their homes by 9a.m.
+permits
+people had never obeyed their orders to leave their homes by 9a.m.
+
+people had never obeyed their orders to leave their homes by 9a.m.
+permits
+people had not sat on the loo seat
+
+people did n't obey their orders to leave their homes by 9a.m.
+contradicts
+people left their homes by 9a.m.
+
+people left their homes by 9a.m.
+contradicts
+people did n't obey their orders to leave their homes by 9a.m.
+
+people did n't obey their orders to leave their homes by 9a.m.
+permits
+most of the workers left their homes by 9a.m.
+
+Kim Davis obeyed orders to issue marriage licenses to same-sex couples
+entails
+Kim Davis issued marriage licenses to same-sex couples
+
+Kim Davis issued marriage licenses to same-sex couples
+permits
+Kim Davis obeyed orders to issue marriage licenses to same-sex couples
+
+Kim Davis obeyed orders to issue marriage licenses to same-sex couples
+permits
+the army ISIL has amassed issued marriage licenses to same-sex couples
+
+Kim Davis has obeyed orders to issue marriage licenses to same-sex couples
+contradicts
+Kim Davis has not issued marriage licenses to same-sex couples
+
+Kim Davis has not issued marriage licenses to same-sex couples
+contradicts
+Kim Davis has obeyed orders to issue marriage licenses to same-sex couples
+
+Kim Davis did n't obey orders to issue marriage licenses to same-sex couples
+entails
+Kim Davis did not issue marriage licenses to same-sex couples
+
+Kim Davis did not issue marriage licenses to same-sex couples
+permits
+Kim Davis did n't obey orders to issue marriage licenses to same-sex couples
+
+Kim Davis did n't obey orders to issue marriage licenses to same-sex couples
+permits
+Kim Davis did not stop when he stopped
+
+Kim Davis has almost obeyed orders to issue marriage licenses to same-sex couples
+contradicts
+Kim Davis has issued marriage licenses to same-sex couples
+
+Kim Davis has issued marriage licenses to same-sex couples
+contradicts
+Kim Davis has almost obeyed orders to issue marriage licenses to same-sex couples
+
+Kim Davis has almost obeyed orders to issue marriage licenses to same-sex couples
+permits
+Kim Davis has lied on the ground
+
+Kim Davis has obeyed her orders to issue marriage licenses to same-sex couples
+entails
+Kim Davis has issued marriage licenses to same-sex couples
+
+Kim Davis has issued marriage licenses to same-sex couples
+permits
+Kim Davis has obeyed her orders to issue marriage licenses to same-sex couples
+
+Kim Davis obeyed her orders to issue marriage licenses to same-sex couples
+contradicts
+Kim Davis did not issue marriage licenses to same-sex couples
+
+Kim Davis did not issue marriage licenses to same-sex couples
+contradicts
+Kim Davis obeyed her orders to issue marriage licenses to same-sex couples
+
+Kim Davis never obeyed her orders to issue marriage licenses to same-sex couples
+entails
+Kim Davis did n't issue marriage licenses to same-sex couples
+
+Kim Davis did n't issue marriage licenses to same-sex couples
+permits
+Kim Davis never obeyed her orders to issue marriage licenses to same-sex couples
+
+Kim Davis never obeyed her orders to issue marriage licenses to same-sex couples
+permits
+Padri did n't issue marriage licenses to same-sex couples
+
+Kim Davis did n't obey her orders to issue marriage licenses to same-sex couples
+contradicts
+Kim Davis issued marriage licenses to same-sex couples
+
+Kim Davis issued marriage licenses to same-sex couples
+contradicts
+Kim Davis did n't obey her orders to issue marriage licenses to same-sex couples
+
+they have obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+entails
+they have conducted brutal cleansing operations as part of the anti-partisan effort
+
+they have conducted brutal cleansing operations as part of the anti-partisan effort
+permits
+they have obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+
+they have obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+contradicts
+they have n't conducted brutal cleansing operations as part of the anti-partisan effort
+
+they have n't conducted brutal cleansing operations as part of the anti-partisan effort
+contradicts
+they have obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+
+they have obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+permits
+they have n't gone into battle
+
+they have never obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+entails
+they have n't conducted brutal cleansing operations as part of the anti-partisan effort
+
+they have n't conducted brutal cleansing operations as part of the anti-partisan effort
+permits
+they have never obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+
+they almost obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+contradicts
+they conducted brutal cleansing operations as part of the anti-partisan effort
+
+they conducted brutal cleansing operations as part of the anti-partisan effort
+contradicts
+they almost obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+
+they almost obeyed orders to conduct brutal cleansing operations as part of the anti-partisan effort
+permits
+they stacked arms only with great difficulty
+
+they have obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+entails
+they have conducted brutal cleansing operations as part of the anti-partisan effort
+
+they have conducted brutal cleansing operations as part of the anti-partisan effort
+permits
+they have obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+
+they had obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+contradicts
+they had not conducted brutal cleansing operations as part of the anti-partisan effort
+
+they had not conducted brutal cleansing operations as part of the anti-partisan effort
+contradicts
+they had obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+
+they almost obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+entails
+they did not conduct brutal cleansing operations as part of the anti-partisan effort
+
+they did not conduct brutal cleansing operations as part of the anti-partisan effort
+permits
+they almost obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+
+they almost obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+permits
+they did n't come closer
+
+they have n't obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+contradicts
+they have conducted brutal cleansing operations as part of the anti-partisan effort
+
+they have conducted brutal cleansing operations as part of the anti-partisan effort
+contradicts
+they have n't obeyed their orders to conduct brutal cleansing operations as part of the anti-partisan effort
+
+people obeyed orders to deliver shocks to other people
+entails
+people delivered shocks to other people
+
+people delivered shocks to other people
+permits
+people obeyed orders to deliver shocks to other people
+
+people obeyed orders to deliver shocks to other people
+permits
+people struck out of the blue
+
+people have obeyed orders to deliver shocks to other people
+contradicts
+people have not delivered shocks to other people
+
+people have not delivered shocks to other people
+contradicts
+people have obeyed orders to deliver shocks to other people
+
+people have never obeyed orders to deliver shocks to other people
+entails
+people have not delivered shocks to other people
+
+people have not delivered shocks to other people
+permits
+people have never obeyed orders to deliver shocks to other people
+
+people have not obeyed orders to deliver shocks to other people
+contradicts
+people have delivered shocks to other people
+
+people have delivered shocks to other people
+contradicts
+people have not obeyed orders to deliver shocks to other people
+
+people have not obeyed orders to deliver shocks to other people
+permits
+people have sat down
+
+people had obeyed their orders to deliver shocks to other people
+entails
+people had delivered shocks to other people
+
+people had delivered shocks to other people
+permits
+people had obeyed their orders to deliver shocks to other people
+
+people had obeyed their orders to deliver shocks to other people
+permits
+people had come closer
+
+people obeyed their orders to deliver shocks to other people
+contradicts
+people did n't deliver shocks to other people
+
+people did n't deliver shocks to other people
+contradicts
+people obeyed their orders to deliver shocks to other people
+
+people have almost obeyed their orders to deliver shocks to other people
+entails
+people have n't delivered shocks to other people
+
+people have n't delivered shocks to other people
+permits
+people have almost obeyed their orders to deliver shocks to other people
+
+people have almost obeyed their orders to deliver shocks to other people
+contradicts
+people have delivered shocks to other people
+
+people have delivered shocks to other people
+contradicts
+people have almost obeyed their orders to deliver shocks to other people
+
+Endo had obeyed orders to go to the Tanforan assembly center
+entails
+Endo had gone to the Tanforan assembly center
+
+Endo had gone to the Tanforan assembly center
+permits
+Endo had obeyed orders to go to the Tanforan assembly center
+
+Endo had obeyed orders to go to the Tanforan assembly center
+permits
+Jack had gone to the Tanforan assembly center
+
+Endo has obeyed orders to go to the Tanforan assembly center
+contradicts
+Endo has not gone to the Tanforan assembly center
+
+Endo has not gone to the Tanforan assembly center
+contradicts
+Endo has obeyed orders to go to the Tanforan assembly center
+
+Endo has obeyed orders to go to the Tanforan assembly center
+permits
+Endo has n't seized territory
+
+Endo almost obeyed orders to go to the Tanforan assembly center
+entails
+Endo almost went to the Tanforan assembly center
+
+Endo almost went to the Tanforan assembly center
+permits
+Endo almost obeyed orders to go to the Tanforan assembly center
+
+Endo almost obeyed orders to go to the Tanforan assembly center
+permits
+Krummel did not go to the Tanforan assembly center
+
+Endo has not obeyed orders to go to the Tanforan assembly center
+contradicts
+Endo has gone to the Tanforan assembly center
+
+Endo has gone to the Tanforan assembly center
+contradicts
+Endo has not obeyed orders to go to the Tanforan assembly center
+
+Endo has not obeyed orders to go to the Tanforan assembly center
+permits
+Father Nugent has gone to the Tanforan assembly center
+
+Endo had obeyed her orders to go to the Tanforan assembly center
+entails
+Endo had gone to the Tanforan assembly center
+
+Endo had gone to the Tanforan assembly center
+permits
+Endo had obeyed her orders to go to the Tanforan assembly center
+
+Endo has obeyed her orders to go to the Tanforan assembly center
+contradicts
+Endo has not gone to the Tanforan assembly center
+
+Endo has not gone to the Tanforan assembly center
+contradicts
+Endo has obeyed her orders to go to the Tanforan assembly center
+
+Endo has obeyed her orders to go to the Tanforan assembly center
+permits
+the deponent has not gone to the Tanforan assembly center
+
+Endo never obeyed her orders to go to the Tanforan assembly center
+entails
+Endo did not go to the Tanforan assembly center
+
+Endo did not go to the Tanforan assembly center
+permits
+Endo never obeyed her orders to go to the Tanforan assembly center
+
+Endo did n't obey her orders to go to the Tanforan assembly center
+contradicts
+Endo went to the Tanforan assembly center
+
+Endo went to the Tanforan assembly center
+contradicts
+Endo did n't obey her orders to go to the Tanforan assembly center
+
+Endo did n't obey her orders to go to the Tanforan assembly center
+permits
+Endo disappeared
+
+the teen initially had obeyed orders to show his hands
+entails
+the teen initially had shown his hands
+
+the teen initially had shown his hands
+permits
+the teen initially had obeyed orders to show his hands
+
+the teen initially had obeyed orders to show his hands
+contradicts
+the teen initially had n't shown his hands
+
+the teen initially had n't shown his hands
+contradicts
+the teen initially had obeyed orders to show his hands
+
+the teen initially had almost obeyed orders to show his hands
+entails
+the teen initially had n't shown his hands
+
+the teen initially had n't shown his hands
+permits
+the teen initially had almost obeyed orders to show his hands
+
+the teen initially has almost obeyed orders to show his hands
+contradicts
+the teen initially has shown his hands
+
+the teen initially has shown his hands
+contradicts
+the teen initially has almost obeyed orders to show his hands
+
+the teen initially has obeyed his orders to show his hands
+entails
+the teen initially has shown his hands
+
+the teen initially has shown his hands
+permits
+the teen initially has obeyed his orders to show his hands
+
+the teen initially has obeyed his orders to show his hands
+permits
+Joseph has shown his hands
+
+the teen initially had obeyed his orders to show his hands
+contradicts
+the teen initially had n't shown his hands
+
+the teen initially had n't shown his hands
+contradicts
+the teen initially had obeyed his orders to show his hands
+
+the teen initially has not obeyed his orders to show his hands
+entails
+the teen initially has not shown his hands
+
+the teen initially has not shown his hands
+permits
+the teen initially has not obeyed his orders to show his hands
+
+the teen initially has not obeyed his orders to show his hands
+permits
+the teen initially has not followed them into No Man's Land
+
+the teen initially had never obeyed his orders to show his hands
+contradicts
+the teen initially had shown his hands
+
+the teen initially had shown his hands
+contradicts
+the teen initially had never obeyed his orders to show his hands
+
+she has obeyed orders to sit on the loo seat
+entails
+she has sat on the loo seat
+
+she has sat on the loo seat
+permits
+she has obeyed orders to sit on the loo seat
+
+she has obeyed orders to sit on the loo seat
+contradicts
+she has not sat on the loo seat
+
+she has not sat on the loo seat
+contradicts
+she has obeyed orders to sit on the loo seat
+
+she has obeyed orders to sit on the loo seat
+permits
+she has n't followed them into No Man's Land
+
+she has n't obeyed orders to sit on the loo seat
+entails
+she has n't sat on the loo seat
+
+she has n't sat on the loo seat
+permits
+she has n't obeyed orders to sit on the loo seat
+
+she has n't obeyed orders to sit on the loo seat
+permits
+she has not killed all the Italians in your communities
+
+she had never obeyed orders to sit on the loo seat
+contradicts
+she had sat on the loo seat
+
+she had sat on the loo seat
+contradicts
+she had never obeyed orders to sit on the loo seat
+
+she obeyed her orders to sit on the loo seat
+entails
+she sat on the loo seat
+
+she sat on the loo seat
+permits
+she obeyed her orders to sit on the loo seat
+
+she obeyed her orders to sit on the loo seat
+permits
+he sat on the loo seat
+
+she has obeyed her orders to sit on the loo seat
+contradicts
+she has not sat on the loo seat
+
+she has not sat on the loo seat
+contradicts
+she has obeyed her orders to sit on the loo seat
+
+she has almost obeyed her orders to sit on the loo seat
+entails
+she has not sat on the loo seat
+
+she has not sat on the loo seat
+permits
+she has almost obeyed her orders to sit on the loo seat
+
+she has almost obeyed her orders to sit on the loo seat
+permits
+she has almost put down the weapon
+
+she had never obeyed her orders to sit on the loo seat
+contradicts
+she had sat on the loo seat
+
+she had sat on the loo seat
+contradicts
+she had never obeyed her orders to sit on the loo seat
+
+she had never obeyed her orders to sit on the loo seat
+permits
+she had followed them into No Man's Land
+

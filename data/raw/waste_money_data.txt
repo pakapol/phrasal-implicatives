@@ -1,0 +1,2540 @@
+I wasted money to turn the phone into a portable hotspot
+entails
+I turned the phone into a portable hotspot
+
+I turned the phone into a portable hotspot
+permits
+I wasted money to turn the phone into a portable hotspot
+
+I have wasted money to turn the phone into a portable hotspot
+contradicts
+I have not turned the phone into a portable hotspot
+
+I have not turned the phone into a portable hotspot
+contradicts
+I have wasted money to turn the phone into a portable hotspot
+
+I have n't wasted money to turn the phone into a portable hotspot
+entails
+I have not turned the phone into a portable hotspot
+
+I have not turned the phone into a portable hotspot
+permits
+I have n't wasted money to turn the phone into a portable hotspot
+
+I have n't wasted money to turn the phone into a portable hotspot
+permits
+I have not bought my name from a mailing list
+
+I had n't wasted money to turn the phone into a portable hotspot
+contradicts
+I had turned the phone into a portable hotspot
+
+I had turned the phone into a portable hotspot
+contradicts
+I had n't wasted money to turn the phone into a portable hotspot
+
+I wasted my money to turn the phone into a portable hotspot
+entails
+I turned the phone into a portable hotspot
+
+I turned the phone into a portable hotspot
+permits
+I wasted my money to turn the phone into a portable hotspot
+
+I wasted my money to turn the phone into a portable hotspot
+contradicts
+I did not turn the phone into a portable hotspot
+
+I did not turn the phone into a portable hotspot
+contradicts
+I wasted my money to turn the phone into a portable hotspot
+
+I have n't wasted my money to turn the phone into a portable hotspot
+entails
+I have not turned the phone into a portable hotspot
+
+I have not turned the phone into a portable hotspot
+permits
+I have n't wasted my money to turn the phone into a portable hotspot
+
+I have n't wasted my money to turn the phone into a portable hotspot
+permits
+I have not printed Mr. Lawrence's serialized diatribe
+
+I had not wasted my money to turn the phone into a portable hotspot
+contradicts
+I had turned the phone into a portable hotspot
+
+I had turned the phone into a portable hotspot
+contradicts
+I had not wasted my money to turn the phone into a portable hotspot
+
+I had not wasted my money to turn the phone into a portable hotspot
+permits
+Six Flags had turned the phone into a portable hotspot
+
+Ken Ham wasted money to build some damn ark
+entails
+Ken Ham built some damn ark
+
+Ken Ham built some damn ark
+permits
+Ken Ham wasted money to build some damn ark
+
+Ken Ham has wasted money to build some damn ark
+contradicts
+Ken Ham has not built some damn ark
+
+Ken Ham has not built some damn ark
+contradicts
+Ken Ham has wasted money to build some damn ark
+
+Ken Ham has wasted money to build some damn ark
+permits
+you have not built some damn ark
+
+Ken Ham had not wasted money to build some damn ark
+entails
+Ken Ham had n't built some damn ark
+
+Ken Ham had n't built some damn ark
+permits
+Ken Ham had not wasted money to build some damn ark
+
+Ken Ham had not wasted money to build some damn ark
+permits
+Ken Ham had n't had a vagina and tits
+
+Ken Ham had never wasted money to build some damn ark
+contradicts
+Ken Ham had built some damn ark
+
+Ken Ham had built some damn ark
+contradicts
+Ken Ham had never wasted money to build some damn ark
+
+Ken Ham had never wasted money to build some damn ark
+permits
+the government had built some damn ark
+
+Ken Ham has wasted his money to build some damn ark
+entails
+Ken Ham has built some damn ark
+
+Ken Ham has built some damn ark
+permits
+Ken Ham has wasted his money to build some damn ark
+
+Ken Ham has wasted his money to build some damn ark
+permits
+Ken Ham has installed the metal detectors
+
+Ken Ham has wasted his money to build some damn ark
+contradicts
+Ken Ham has not built some damn ark
+
+Ken Ham has not built some damn ark
+contradicts
+Ken Ham has wasted his money to build some damn ark
+
+Ken Ham has wasted his money to build some damn ark
+permits
+the state has n't built some damn ark
+
+Ken Ham has never wasted his money to build some damn ark
+entails
+Ken Ham has n't built some damn ark
+
+Ken Ham has n't built some damn ark
+permits
+Ken Ham has never wasted his money to build some damn ark
+
+Ken Ham has never wasted his money to build some damn ark
+permits
+she has never built some damn ark
+
+Ken Ham never wasted his money to build some damn ark
+contradicts
+Ken Ham built some damn ark
+
+Ken Ham built some damn ark
+contradicts
+Ken Ham never wasted his money to build some damn ark
+
+we have wasted money to save time
+entails
+we have saved time
+
+we have saved time
+permits
+we have wasted money to save time
+
+we have wasted money to save time
+contradicts
+we have n't saved time
+
+we have n't saved time
+contradicts
+we have wasted money to save time
+
+we did not waste money to save time
+entails
+we did n't save time
+
+we did n't save time
+permits
+we did not waste money to save time
+
+we did not waste money to save time
+contradicts
+we saved time
+
+we saved time
+contradicts
+we did not waste money to save time
+
+we did not waste money to save time
+permits
+people saved time
+
+we had wasted our money to save time
+entails
+we had saved time
+
+we had saved time
+permits
+we had wasted our money to save time
+
+we had wasted our money to save time
+permits
+my husband and I had saved time
+
+we had wasted our money to save time
+contradicts
+we had n't saved time
+
+we had n't saved time
+contradicts
+we had wasted our money to save time
+
+we have never wasted our money to save time
+entails
+we have n't saved time
+
+we have n't saved time
+permits
+we have never wasted our money to save time
+
+we had almost wasted our money to save time
+contradicts
+we had saved time
+
+we had saved time
+contradicts
+we had almost wasted our money to save time
+
+we had almost wasted our money to save time
+permits
+we had had the ring resized
+
+we have wasted money to educate you
+entails
+we have educated you
+
+we have educated you
+permits
+we have wasted money to educate you
+
+we have wasted money to educate you
+permits
+we have made money
+
+we wasted money to educate you
+contradicts
+we did not educate you
+
+we did not educate you
+contradicts
+we wasted money to educate you
+
+we almost have wasted money to educate you
+entails
+we have not educated you
+
+we have not educated you
+permits
+we almost have wasted money to educate you
+
+we never wasted money to educate you
+contradicts
+we educated you
+
+we educated you
+contradicts
+we never wasted money to educate you
+
+we wasted our money to educate you
+entails
+we educated you
+
+we educated you
+permits
+we wasted our money to educate you
+
+we wasted our money to educate you
+contradicts
+we did not educate you
+
+we did not educate you
+contradicts
+we wasted our money to educate you
+
+we wasted our money to educate you
+permits
+we did not try to get the character he wanted
+
+we had never wasted our money to educate you
+entails
+we had never educated you
+
+we had never educated you
+permits
+we had never wasted our money to educate you
+
+we had n't wasted our money to educate you
+contradicts
+we had educated you
+
+we had educated you
+contradicts
+we had n't wasted our money to educate you
+
+you wasted money to pay for the license
+entails
+you paid for the license
+
+you paid for the license
+permits
+you wasted money to pay for the license
+
+you have wasted money to pay for the license
+contradicts
+you have not paid for the license
+
+you have not paid for the license
+contradicts
+you have wasted money to pay for the license
+
+you have wasted money to pay for the license
+permits
+Mr. Smith has n't paid for the license
+
+you never wasted money to pay for the license
+entails
+you never payed for the license
+
+you never payed for the license
+permits
+you never wasted money to pay for the license
+
+you have not wasted money to pay for the license
+contradicts
+you have paid for the license
+
+you have paid for the license
+contradicts
+you have not wasted money to pay for the license
+
+you wasted your money to pay for the license
+entails
+you paid for the license
+
+you paid for the license
+permits
+you wasted your money to pay for the license
+
+you wasted your money to pay for the license
+permits
+the publisher paid for the license
+
+you wasted your money to pay for the license
+contradicts
+you did n't pay for the license
+
+you did n't pay for the license
+contradicts
+you wasted your money to pay for the license
+
+you wasted your money to pay for the license
+permits
+you did not buy an extra ticket
+
+you have almost wasted your money to pay for the license
+entails
+you have n't paid for the license
+
+you have n't paid for the license
+permits
+you have almost wasted your money to pay for the license
+
+you have almost wasted your money to pay for the license
+permits
+you have n't put a high tech system
+
+you have never wasted your money to pay for the license
+contradicts
+you have paid for the license
+
+you have paid for the license
+contradicts
+you have never wasted your money to pay for the license
+
+she wasted money to buy my name from a mailing list
+entails
+she bought my name from a mailing list
+
+she bought my name from a mailing list
+permits
+she wasted money to buy my name from a mailing list
+
+she wasted money to buy my name from a mailing list
+permits
+she made money
+
+she had wasted money to buy my name from a mailing list
+contradicts
+she had not bought my name from a mailing list
+
+she had not bought my name from a mailing list
+contradicts
+she had wasted money to buy my name from a mailing list
+
+she had never wasted money to buy my name from a mailing list
+entails
+she had not bought my name from a mailing list
+
+she had not bought my name from a mailing list
+permits
+she had never wasted money to buy my name from a mailing list
+
+she had never wasted money to buy my name from a mailing list
+permits
+she had never had the ring resized
+
+she never wasted money to buy my name from a mailing list
+contradicts
+she bought my name from a mailing list
+
+she bought my name from a mailing list
+contradicts
+she never wasted money to buy my name from a mailing list
+
+she never wasted money to buy my name from a mailing list
+permits
+Six Flags bought my name from a mailing list
+
+she has wasted her money to buy my name from a mailing list
+entails
+she has bought my name from a mailing list
+
+she has bought my name from a mailing list
+permits
+she has wasted her money to buy my name from a mailing list
+
+she has wasted her money to buy my name from a mailing list
+permits
+she has made money
+
+she has wasted her money to buy my name from a mailing list
+contradicts
+she has n't bought my name from a mailing list
+
+she has n't bought my name from a mailing list
+contradicts
+she has wasted her money to buy my name from a mailing list
+
+she has almost wasted her money to buy my name from a mailing list
+entails
+she has n't bought my name from a mailing list
+
+she has n't bought my name from a mailing list
+permits
+she has almost wasted her money to buy my name from a mailing list
+
+she has almost wasted her money to buy my name from a mailing list
+permits
+the government has not bought my name from a mailing list
+
+she had not wasted her money to buy my name from a mailing list
+contradicts
+she had bought my name from a mailing list
+
+she had bought my name from a mailing list
+contradicts
+she had not wasted her money to buy my name from a mailing list
+
+I have wasted money to get the expansions
+entails
+I have gotten the expansions
+
+I have gotten the expansions
+permits
+I have wasted money to get the expansions
+
+I have wasted money to get the expansions
+permits
+I have trained someone who then decided to move on to greener pastures
+
+I have wasted money to get the expansions
+contradicts
+I have not gotten the expansions
+
+I have not gotten the expansions
+contradicts
+I have wasted money to get the expansions
+
+I have wasted money to get the expansions
+permits
+the state has not gotten the expansions
+
+I had n't wasted money to get the expansions
+entails
+I had n't gotten the expansions
+
+I had n't gotten the expansions
+permits
+I had n't wasted money to get the expansions
+
+I have almost wasted money to get the expansions
+contradicts
+I have gotten the expansions
+
+I have gotten the expansions
+contradicts
+I have almost wasted money to get the expansions
+
+I have almost wasted money to get the expansions
+permits
+I have educated you
+
+I had wasted my money to get the expansions
+entails
+I had gotten the expansions
+
+I had gotten the expansions
+permits
+I had wasted my money to get the expansions
+
+I had wasted my money to get the expansions
+permits
+I had had a vagina and tits
+
+I have wasted my money to get the expansions
+contradicts
+I have not gotten the expansions
+
+I have not gotten the expansions
+contradicts
+I have wasted my money to get the expansions
+
+I have never wasted my money to get the expansions
+entails
+I have never gotten the expansions
+
+I have never gotten the expansions
+permits
+I have never wasted my money to get the expansions
+
+I have not wasted my money to get the expansions
+contradicts
+I have gotten the expansions
+
+I have gotten the expansions
+contradicts
+I have not wasted my money to get the expansions
+
+I have not wasted my money to get the expansions
+permits
+I have seen a very lousy fight
+
+she has wasted money to go to college
+entails
+she has gone to college
+
+she has gone to college
+permits
+she has wasted money to go to college
+
+she has wasted money to go to college
+permits
+he has gone to college
+
+she had wasted money to go to college
+contradicts
+she had n't gone to college
+
+she had n't gone to college
+contradicts
+she had wasted money to go to college
+
+she has not wasted money to go to college
+entails
+she has n't gone to college
+
+she has n't gone to college
+permits
+she has not wasted money to go to college
+
+she has not wasted money to go to college
+permits
+she has not signed up for a race
+
+she has n't wasted money to go to college
+contradicts
+she has gone to college
+
+she has gone to college
+contradicts
+she has n't wasted money to go to college
+
+she has n't wasted money to go to college
+permits
+Aunt Flora has gone to college
+
+she wasted her money to go to college
+entails
+she went to college
+
+she went to college
+permits
+she wasted her money to go to college
+
+she wasted her money to go to college
+contradicts
+she did not go to college
+
+she did not go to college
+contradicts
+she wasted her money to go to college
+
+she wasted her money to go to college
+permits
+she did not have the ring resized
+
+she did n't waste her money to go to college
+entails
+she did n't go to college
+
+she did n't go to college
+permits
+she did n't waste her money to go to college
+
+she never had wasted her money to go to college
+contradicts
+she had gone to college
+
+she had gone to college
+contradicts
+she never had wasted her money to go to college
+
+she never had wasted her money to go to college
+permits
+you had gone to college
+
+the government has wasted money to make money
+entails
+the government has made money
+
+the government has made money
+permits
+the government has wasted money to make money
+
+the government had wasted money to make money
+contradicts
+the government had not made money
+
+the government had not made money
+contradicts
+the government had wasted money to make money
+
+the government had wasted money to make money
+permits
+the government had not signed up for a race
+
+the government had never wasted money to make money
+entails
+the government had not made money
+
+the government had not made money
+permits
+the government had never wasted money to make money
+
+the government had never wasted money to make money
+permits
+he had never made money
+
+the government did not waste money to make money
+contradicts
+the government made money
+
+the government made money
+contradicts
+the government did not waste money to make money
+
+the government wasted its money to make money
+entails
+the government made money
+
+the government made money
+permits
+the government wasted its money to make money
+
+the government wasted its money to make money
+permits
+the government imported agricultural goods
+
+the government wasted its money to make money
+contradicts
+the government did n't make money
+
+the government did n't make money
+contradicts
+the government wasted its money to make money
+
+the government has n't wasted its money to make money
+entails
+the government has not made money
+
+the government has not made money
+permits
+the government has n't wasted its money to make money
+
+the government has n't wasted its money to make money
+permits
+the government has n't trained someone who then decided to move on to greener pastures
+
+the government never wasted its money to make money
+contradicts
+the government made money
+
+the government made money
+contradicts
+the government never wasted its money to make money
+
+North Carolinians have wasted money to import agricultural goods
+entails
+North Carolinians have imported agricultural goods
+
+North Carolinians have imported agricultural goods
+permits
+North Carolinians have wasted money to import agricultural goods
+
+North Carolinians have wasted money to import agricultural goods
+permits
+my husband and I have imported agricultural goods
+
+North Carolinians wasted money to import agricultural goods
+contradicts
+North Carolinians did n't import agricultural goods
+
+North Carolinians did n't import agricultural goods
+contradicts
+North Carolinians wasted money to import agricultural goods
+
+North Carolinians wasted money to import agricultural goods
+permits
+my husband and I did not import agricultural goods
+
+North Carolinians almost have wasted money to import agricultural goods
+entails
+North Carolinians have almost imported agricultural goods
+
+North Carolinians have almost imported agricultural goods
+permits
+North Carolinians almost have wasted money to import agricultural goods
+
+North Carolinians almost have wasted money to import agricultural goods
+permits
+North Carolinians have n't educated you
+
+North Carolinians had almost wasted money to import agricultural goods
+contradicts
+North Carolinians had imported agricultural goods
+
+North Carolinians had imported agricultural goods
+contradicts
+North Carolinians had almost wasted money to import agricultural goods
+
+North Carolinians had almost wasted money to import agricultural goods
+permits
+my husband and I had imported agricultural goods
+
+North Carolinians had wasted their money to import agricultural goods
+entails
+North Carolinians had imported agricultural goods
+
+North Carolinians had imported agricultural goods
+permits
+North Carolinians had wasted their money to import agricultural goods
+
+North Carolinians had wasted their money to import agricultural goods
+permits
+North Carolinians had watched the Rolodex of Hate on Vimeo
+
+North Carolinians have wasted their money to import agricultural goods
+contradicts
+North Carolinians have n't imported agricultural goods
+
+North Carolinians have n't imported agricultural goods
+contradicts
+North Carolinians have wasted their money to import agricultural goods
+
+North Carolinians have wasted their money to import agricultural goods
+permits
+people have n't imported agricultural goods
+
+North Carolinians had almost wasted their money to import agricultural goods
+entails
+North Carolinians had not imported agricultural goods
+
+North Carolinians had not imported agricultural goods
+permits
+North Carolinians had almost wasted their money to import agricultural goods
+
+North Carolinians had almost wasted their money to import agricultural goods
+contradicts
+North Carolinians had imported agricultural goods
+
+North Carolinians had imported agricultural goods
+contradicts
+North Carolinians had almost wasted their money to import agricultural goods
+
+North Carolinians had almost wasted their money to import agricultural goods
+permits
+people had imported agricultural goods
+
+people had wasted money to see a very lousy fight
+entails
+people had seen a very lousy fight
+
+people had seen a very lousy fight
+permits
+people had wasted money to see a very lousy fight
+
+people had wasted money to see a very lousy fight
+permits
+my husband and I had seen a very lousy fight
+
+people have wasted money to see a very lousy fight
+contradicts
+people have n't seen a very lousy fight
+
+people have n't seen a very lousy fight
+contradicts
+people have wasted money to see a very lousy fight
+
+people have not wasted money to see a very lousy fight
+entails
+people have not seen a very lousy fight
+
+people have not seen a very lousy fight
+permits
+people have not wasted money to see a very lousy fight
+
+people had never wasted money to see a very lousy fight
+contradicts
+people had seen a very lousy fight
+
+people had seen a very lousy fight
+contradicts
+people had never wasted money to see a very lousy fight
+
+people had wasted their money to see a very lousy fight
+entails
+people had seen a very lousy fight
+
+people had seen a very lousy fight
+permits
+people had wasted their money to see a very lousy fight
+
+people had wasted their money to see a very lousy fight
+permits
+North Carolinians had seen a very lousy fight
+
+people wasted their money to see a very lousy fight
+contradicts
+people did n't see a very lousy fight
+
+people did n't see a very lousy fight
+contradicts
+people wasted their money to see a very lousy fight
+
+people had n't wasted their money to see a very lousy fight
+entails
+people had n't seen a very lousy fight
+
+people had n't seen a very lousy fight
+permits
+people had n't wasted their money to see a very lousy fight
+
+people had n't wasted their money to see a very lousy fight
+contradicts
+people had seen a very lousy fight
+
+people had seen a very lousy fight
+contradicts
+people had n't wasted their money to see a very lousy fight
+
+people had n't wasted their money to see a very lousy fight
+permits
+people had trained someone who then decided to move on to greener pastures
+
+Mr. Smith has wasted the money to buy an extra ticket
+entails
+Mr. Smith has bought an extra ticket
+
+Mr. Smith has bought an extra ticket
+permits
+Mr. Smith has wasted the money to buy an extra ticket
+
+Mr. Smith has wasted the money to buy an extra ticket
+permits
+you have bought an extra ticket
+
+Mr. Smith had wasted the money to buy an extra ticket
+contradicts
+Mr. Smith had not bought an extra ticket
+
+Mr. Smith had not bought an extra ticket
+contradicts
+Mr. Smith had wasted the money to buy an extra ticket
+
+Mr. Smith had wasted the money to buy an extra ticket
+permits
+the state government had not bought an extra ticket
+
+Mr. Smith has never wasted the money to buy an extra ticket
+entails
+Mr. Smith has n't bought an extra ticket
+
+Mr. Smith has n't bought an extra ticket
+permits
+Mr. Smith has never wasted the money to buy an extra ticket
+
+Mr. Smith has never wasted the money to buy an extra ticket
+permits
+you have never bought an extra ticket
+
+Mr. Smith never wasted the money to buy an extra ticket
+contradicts
+Mr. Smith bought an extra ticket
+
+Mr. Smith bought an extra ticket
+contradicts
+Mr. Smith never wasted the money to buy an extra ticket
+
+Mr. Smith never wasted the money to buy an extra ticket
+permits
+Mr. Smith saved time
+
+Mr. Smith wasted his money to buy an extra ticket
+entails
+Mr. Smith bought an extra ticket
+
+Mr. Smith bought an extra ticket
+permits
+Mr. Smith wasted his money to buy an extra ticket
+
+Mr. Smith wasted his money to buy an extra ticket
+contradicts
+Mr. Smith did not buy an extra ticket
+
+Mr. Smith did not buy an extra ticket
+contradicts
+Mr. Smith wasted his money to buy an extra ticket
+
+Mr. Smith never wasted his money to buy an extra ticket
+entails
+Mr. Smith never bought an extra ticket
+
+Mr. Smith never bought an extra ticket
+permits
+Mr. Smith never wasted his money to buy an extra ticket
+
+Mr. Smith has never wasted his money to buy an extra ticket
+contradicts
+Mr. Smith has bought an extra ticket
+
+Mr. Smith has bought an extra ticket
+contradicts
+Mr. Smith has never wasted his money to buy an extra ticket
+
+I had wasted the money to buy a game that I cannot play
+entails
+I had bought a game that I cannot play
+
+I had bought a game that I cannot play
+permits
+I had wasted the money to buy a game that I cannot play
+
+I had wasted the money to buy a game that I cannot play
+permits
+I had seen a very lousy fight
+
+I have wasted the money to buy a game that I cannot play
+contradicts
+I have n't bought a game that I cannot play
+
+I have n't bought a game that I cannot play
+contradicts
+I have wasted the money to buy a game that I cannot play
+
+I have wasted the money to buy a game that I cannot play
+permits
+Ken Ham has not bought a game that I cannot play
+
+I have not wasted the money to buy a game that I cannot play
+entails
+I have n't bought a game that I cannot play
+
+I have n't bought a game that I cannot play
+permits
+I have not wasted the money to buy a game that I cannot play
+
+I have not wasted the money to buy a game that I cannot play
+permits
+he has not bought a game that I cannot play
+
+I had not wasted the money to buy a game that I cannot play
+contradicts
+I had bought a game that I cannot play
+
+I had bought a game that I cannot play
+contradicts
+I had not wasted the money to buy a game that I cannot play
+
+I had not wasted the money to buy a game that I cannot play
+permits
+the publisher had bought a game that I cannot play
+
+I have wasted my money to buy a game that I cannot play
+entails
+I have bought a game that I cannot play
+
+I have bought a game that I cannot play
+permits
+I have wasted my money to buy a game that I cannot play
+
+I had wasted my money to buy a game that I cannot play
+contradicts
+I had not bought a game that I cannot play
+
+I had not bought a game that I cannot play
+contradicts
+I had wasted my money to buy a game that I cannot play
+
+I had wasted my money to buy a game that I cannot play
+permits
+I had n't bought the scanners
+
+I almost wasted my money to buy a game that I cannot play
+entails
+I almost bought a game that I cannot play
+
+I almost bought a game that I cannot play
+permits
+I almost wasted my money to buy a game that I cannot play
+
+I have n't wasted my money to buy a game that I cannot play
+contradicts
+I have bought a game that I cannot play
+
+I have bought a game that I cannot play
+contradicts
+I have n't wasted my money to buy a game that I cannot play
+
+you wasted the money to sign up for a race
+entails
+you signed up for a race
+
+you signed up for a race
+permits
+you wasted the money to sign up for a race
+
+you had wasted the money to sign up for a race
+contradicts
+you had n't signed up for a race
+
+you had n't signed up for a race
+contradicts
+you had wasted the money to sign up for a race
+
+you had wasted the money to sign up for a race
+permits
+the government had not signed up for a race
+
+you almost have wasted the money to sign up for a race
+entails
+you have not signed up for a race
+
+you have not signed up for a race
+permits
+you almost have wasted the money to sign up for a race
+
+you have almost wasted the money to sign up for a race
+contradicts
+you have signed up for a race
+
+you have signed up for a race
+contradicts
+you have almost wasted the money to sign up for a race
+
+you have almost wasted the money to sign up for a race
+permits
+you have paid for the license
+
+you have wasted your money to sign up for a race
+entails
+you have signed up for a race
+
+you have signed up for a race
+permits
+you have wasted your money to sign up for a race
+
+you wasted your money to sign up for a race
+contradicts
+you did not sign up for a race
+
+you did not sign up for a race
+contradicts
+you wasted your money to sign up for a race
+
+you wasted your money to sign up for a race
+permits
+you did not record it
+
+you did not waste your money to sign up for a race
+entails
+you did not sign up for a race
+
+you did not sign up for a race
+permits
+you did not waste your money to sign up for a race
+
+you did not waste your money to sign up for a race
+permits
+I did n't sign up for a race
+
+you never have wasted your money to sign up for a race
+contradicts
+you have signed up for a race
+
+you have signed up for a race
+contradicts
+you never have wasted your money to sign up for a race
+
+you never have wasted your money to sign up for a race
+permits
+he has signed up for a race
+
+he has wasted the money to try to get the character he wanted
+entails
+he has tried to get the character he wanted
+
+he has tried to get the character he wanted
+permits
+he has wasted the money to try to get the character he wanted
+
+he has wasted the money to try to get the character he wanted
+permits
+he has signed up for a race
+
+he has wasted the money to try to get the character he wanted
+contradicts
+he has n't tried to get the character he wanted
+
+he has n't tried to get the character he wanted
+contradicts
+he has wasted the money to try to get the character he wanted
+
+he has wasted the money to try to get the character he wanted
+permits
+he has not printed Mr. Lawrence's serialized diatribe
+
+he has n't wasted the money to try to get the character he wanted
+entails
+he has n't tried to get the character he wanted
+
+he has n't tried to get the character he wanted
+permits
+he has n't wasted the money to try to get the character he wanted
+
+he has almost wasted the money to try to get the character he wanted
+contradicts
+he has tried to get the character he wanted
+
+he has tried to get the character he wanted
+contradicts
+he has almost wasted the money to try to get the character he wanted
+
+he has almost wasted the money to try to get the character he wanted
+permits
+Mr. Smith has tried to get the character he wanted
+
+he has wasted his money to try to get the character he wanted
+entails
+he has tried to get the character he wanted
+
+he has tried to get the character he wanted
+permits
+he has wasted his money to try to get the character he wanted
+
+he had wasted his money to try to get the character he wanted
+contradicts
+he had not tried to get the character he wanted
+
+he had not tried to get the character he wanted
+contradicts
+he had wasted his money to try to get the character he wanted
+
+he had almost wasted his money to try to get the character he wanted
+entails
+he had not tried to get the character he wanted
+
+he had not tried to get the character he wanted
+permits
+he had almost wasted his money to try to get the character he wanted
+
+he has never wasted his money to try to get the character he wanted
+contradicts
+he has tried to get the character he wanted
+
+he has tried to get the character he wanted
+contradicts
+he has never wasted his money to try to get the character he wanted
+
+they had shouldn't have wasted the money to get her in the game
+entails
+they had gotten her in the game
+
+they had gotten her in the game
+permits
+they had shouldn't have wasted the money to get her in the game
+
+they had shouldn't have wasted the money to get her in the game
+permits
+they had watched the Rolodex of Hate on Vimeo
+
+they had shouldn't have wasted the money to get her in the game
+contradicts
+they had not gotten her in the game
+
+they had not gotten her in the game
+contradicts
+they had shouldn't have wasted the money to get her in the game
+
+they have almost shouldn't have wasted the money to get her in the game
+entails
+they have almost gotten her in the game
+
+they have almost gotten her in the game
+permits
+they have almost shouldn't have wasted the money to get her in the game
+
+they have almost shouldn't have wasted the money to get her in the game
+permits
+people have n't gotten her in the game
+
+they have almost shouldn't have wasted the money to get her in the game
+contradicts
+they have gotten her in the game
+
+they have gotten her in the game
+contradicts
+they have almost shouldn't have wasted the money to get her in the game
+
+they had shouldn't have wasted their money to get her in the game
+entails
+they had gotten her in the game
+
+they had gotten her in the game
+permits
+they had shouldn't have wasted their money to get her in the game
+
+they had shouldn't have wasted their money to get her in the game
+permits
+they had gotten the expansions
+
+they have shouldn't have wasted their money to get her in the game
+contradicts
+they have not gotten her in the game
+
+they have not gotten her in the game
+contradicts
+they have shouldn't have wasted their money to get her in the game
+
+they have n't shouldn't have wasted their money to get her in the game
+entails
+they have not gotten her in the game
+
+they have not gotten her in the game
+permits
+they have n't shouldn't have wasted their money to get her in the game
+
+they have never shouldn't have wasted their money to get her in the game
+contradicts
+they have gotten her in the game
+
+they have gotten her in the game
+contradicts
+they have never shouldn't have wasted their money to get her in the game
+
+they have never shouldn't have wasted their money to get her in the game
+permits
+they have turned the phone into a portable hotspot
+
+the government wasted the money to open such an office
+entails
+the government opened such an office
+
+the government opened such an office
+permits
+the government wasted the money to open such an office
+
+the government wasted the money to open such an office
+contradicts
+the government did n't open such an office
+
+the government did n't open such an office
+contradicts
+the government wasted the money to open such an office
+
+the government wasted the money to open such an office
+permits
+Ken Ham did not open such an office
+
+the government did not waste the money to open such an office
+entails
+the government did n't open such an office
+
+the government did n't open such an office
+permits
+the government did not waste the money to open such an office
+
+the government did not waste the money to open such an office
+permits
+the government did n't turn the phone into a portable hotspot
+
+the government did not waste the money to open such an office
+contradicts
+the government opened such an office
+
+the government opened such an office
+contradicts
+the government did not waste the money to open such an office
+
+the government had wasted its money to open such an office
+entails
+the government had opened such an office
+
+the government had opened such an office
+permits
+the government had wasted its money to open such an office
+
+the government had wasted its money to open such an office
+permits
+I had opened such an office
+
+the government had wasted its money to open such an office
+contradicts
+the government had not opened such an office
+
+the government had not opened such an office
+contradicts
+the government had wasted its money to open such an office
+
+the government had wasted its money to open such an office
+permits
+I had not opened such an office
+
+the government almost wasted its money to open such an office
+entails
+the government did n't open such an office
+
+the government did n't open such an office
+permits
+the government almost wasted its money to open such an office
+
+the government almost wasted its money to open such an office
+permits
+she almost opened such an office
+
+the government had n't wasted its money to open such an office
+contradicts
+the government had opened such an office
+
+the government had opened such an office
+contradicts
+the government had n't wasted its money to open such an office
+
+the government had n't wasted its money to open such an office
+permits
+the government had bought the scanners
+
+he has wasted the money to have a vagina and tits
+entails
+he has had a vagina and tits
+
+he has had a vagina and tits
+permits
+he has wasted the money to have a vagina and tits
+
+he has wasted the money to have a vagina and tits
+permits
+he has gone to college
+
+he wasted the money to have a vagina and tits
+contradicts
+he did not have a vagina and tits
+
+he did not have a vagina and tits
+contradicts
+he wasted the money to have a vagina and tits
+
+he has never wasted the money to have a vagina and tits
+entails
+he has n't had a vagina and tits
+
+he has n't had a vagina and tits
+permits
+he has never wasted the money to have a vagina and tits
+
+he had not wasted the money to have a vagina and tits
+contradicts
+he had had a vagina and tits
+
+he had had a vagina and tits
+contradicts
+he had not wasted the money to have a vagina and tits
+
+he had not wasted the money to have a vagina and tits
+permits
+the state government had had a vagina and tits
+
+he wasted his money to have a vagina and tits
+entails
+he had a vagina and tits
+
+he had a vagina and tits
+permits
+he wasted his money to have a vagina and tits
+
+he wasted his money to have a vagina and tits
+permits
+he pursued that case
+
+he has wasted his money to have a vagina and tits
+contradicts
+he has not had a vagina and tits
+
+he has not had a vagina and tits
+contradicts
+he has wasted his money to have a vagina and tits
+
+he has not wasted his money to have a vagina and tits
+entails
+he has n't had a vagina and tits
+
+he has n't had a vagina and tits
+permits
+he has not wasted his money to have a vagina and tits
+
+he has not wasted his money to have a vagina and tits
+permits
+he has not gotten her in the game
+
+he had not wasted his money to have a vagina and tits
+contradicts
+he had had a vagina and tits
+
+he had had a vagina and tits
+contradicts
+he had not wasted his money to have a vagina and tits
+
+he had not wasted his money to have a vagina and tits
+permits
+Ken Ham had had a vagina and tits
+
+they wasted the money to train someone who then decided to move on to greener pastures
+entails
+they trained someone who then decided to move on to greener pastures
+
+they trained someone who then decided to move on to greener pastures
+permits
+they wasted the money to train someone who then decided to move on to greener pastures
+
+they wasted the money to train someone who then decided to move on to greener pastures
+permits
+they watched the Rolodex of Hate on Vimeo
+
+they wasted the money to train someone who then decided to move on to greener pastures
+contradicts
+they did n't train someone who then decided to move on to greener pastures
+
+they did n't train someone who then decided to move on to greener pastures
+contradicts
+they wasted the money to train someone who then decided to move on to greener pastures
+
+they have n't wasted the money to train someone who then decided to move on to greener pastures
+entails
+they have n't trained someone who then decided to move on to greener pastures
+
+they have n't trained someone who then decided to move on to greener pastures
+permits
+they have n't wasted the money to train someone who then decided to move on to greener pastures
+
+they have n't wasted the money to train someone who then decided to move on to greener pastures
+permits
+my husband and I have not trained someone who then decided to move on to greener pastures
+
+they had never wasted the money to train someone who then decided to move on to greener pastures
+contradicts
+they had trained someone who then decided to move on to greener pastures
+
+they had trained someone who then decided to move on to greener pastures
+contradicts
+they had never wasted the money to train someone who then decided to move on to greener pastures
+
+they wasted their money to train someone who then decided to move on to greener pastures
+entails
+they trained someone who then decided to move on to greener pastures
+
+they trained someone who then decided to move on to greener pastures
+permits
+they wasted their money to train someone who then decided to move on to greener pastures
+
+they had wasted their money to train someone who then decided to move on to greener pastures
+contradicts
+they had not trained someone who then decided to move on to greener pastures
+
+they had not trained someone who then decided to move on to greener pastures
+contradicts
+they had wasted their money to train someone who then decided to move on to greener pastures
+
+they had wasted their money to train someone who then decided to move on to greener pastures
+permits
+people had not trained someone who then decided to move on to greener pastures
+
+they did not waste their money to train someone who then decided to move on to greener pastures
+entails
+they did not train someone who then decided to move on to greener pastures
+
+they did not train someone who then decided to move on to greener pastures
+permits
+they did not waste their money to train someone who then decided to move on to greener pastures
+
+they did not waste their money to train someone who then decided to move on to greener pastures
+permits
+we did not train someone who then decided to move on to greener pastures
+
+they had not wasted their money to train someone who then decided to move on to greener pastures
+contradicts
+they had trained someone who then decided to move on to greener pastures
+
+they had trained someone who then decided to move on to greener pastures
+contradicts
+they had not wasted their money to train someone who then decided to move on to greener pastures
+
+we wasted the money to record it
+entails
+we recorded it
+
+we recorded it
+permits
+we wasted the money to record it
+
+we had wasted the money to record it
+contradicts
+we had n't recorded it
+
+we had n't recorded it
+contradicts
+we had wasted the money to record it
+
+we have n't wasted the money to record it
+entails
+we have n't recorded it
+
+we have n't recorded it
+permits
+we have n't wasted the money to record it
+
+we have n't wasted the money to record it
+permits
+they have n't recorded it
+
+we did n't waste the money to record it
+contradicts
+we recorded it
+
+we recorded it
+contradicts
+we did n't waste the money to record it
+
+we did n't waste the money to record it
+permits
+we put a high tech system
+
+we had wasted our money to record it
+entails
+we had recorded it
+
+we had recorded it
+permits
+we had wasted our money to record it
+
+we wasted our money to record it
+contradicts
+we did not record it
+
+we did not record it
+contradicts
+we wasted our money to record it
+
+we had never wasted our money to record it
+entails
+we had not recorded it
+
+we had not recorded it
+permits
+we had never wasted our money to record it
+
+we had almost wasted our money to record it
+contradicts
+we had recorded it
+
+we had recorded it
+contradicts
+we had almost wasted our money to record it
+
+Six Flags had wasted the money to build so many of them
+entails
+Six Flags had built so many of them
+
+Six Flags had built so many of them
+permits
+Six Flags had wasted the money to build so many of them
+
+Six Flags had wasted the money to build so many of them
+permits
+Six Flags had had a vagina and tits
+
+Six Flags had wasted the money to build so many of them
+contradicts
+Six Flags had not built so many of them
+
+Six Flags had not built so many of them
+contradicts
+Six Flags had wasted the money to build so many of them
+
+Six Flags had not wasted the money to build so many of them
+entails
+Six Flags had n't built so many of them
+
+Six Flags had n't built so many of them
+permits
+Six Flags had not wasted the money to build so many of them
+
+Six Flags had not wasted the money to build so many of them
+permits
+Six Flags had n't shipped it over
+
+Six Flags had n't wasted the money to build so many of them
+contradicts
+Six Flags had built so many of them
+
+Six Flags had built so many of them
+contradicts
+Six Flags had n't wasted the money to build so many of them
+
+Six Flags wasted its money to build so many of them
+entails
+Six Flags built so many of them
+
+Six Flags built so many of them
+permits
+Six Flags wasted its money to build so many of them
+
+Six Flags wasted its money to build so many of them
+permits
+Six Flags imported agricultural goods
+
+Six Flags had wasted its money to build so many of them
+contradicts
+Six Flags had n't built so many of them
+
+Six Flags had n't built so many of them
+contradicts
+Six Flags had wasted its money to build so many of them
+
+Six Flags has almost wasted its money to build so many of them
+entails
+Six Flags has n't built so many of them
+
+Six Flags has n't built so many of them
+permits
+Six Flags has almost wasted its money to build so many of them
+
+Six Flags almost wasted its money to build so many of them
+contradicts
+Six Flags built so many of them
+
+Six Flags built so many of them
+contradicts
+Six Flags almost wasted its money to build so many of them
+
+Six Flags almost wasted its money to build so many of them
+permits
+Six Flags got her in the game
+
+you wasted the money to buy the scanners
+entails
+you bought the scanners
+
+you bought the scanners
+permits
+you wasted the money to buy the scanners
+
+you wasted the money to buy the scanners
+contradicts
+you did n't buy the scanners
+
+you did n't buy the scanners
+contradicts
+you wasted the money to buy the scanners
+
+you had n't wasted the money to buy the scanners
+entails
+you had n't bought the scanners
+
+you had n't bought the scanners
+permits
+you had n't wasted the money to buy the scanners
+
+you had n't wasted the money to buy the scanners
+permits
+the publisher had not bought the scanners
+
+you had n't wasted the money to buy the scanners
+contradicts
+you had bought the scanners
+
+you had bought the scanners
+contradicts
+you had n't wasted the money to buy the scanners
+
+you had n't wasted the money to buy the scanners
+permits
+you had imported agricultural goods
+
+you had wasted your money to buy the scanners
+entails
+you had bought the scanners
+
+you had bought the scanners
+permits
+you had wasted your money to buy the scanners
+
+you wasted your money to buy the scanners
+contradicts
+you did not buy the scanners
+
+you did not buy the scanners
+contradicts
+you wasted your money to buy the scanners
+
+you have n't wasted your money to buy the scanners
+entails
+you have n't bought the scanners
+
+you have n't bought the scanners
+permits
+you have n't wasted your money to buy the scanners
+
+you have almost wasted your money to buy the scanners
+contradicts
+you have bought the scanners
+
+you have bought the scanners
+contradicts
+you have almost wasted your money to buy the scanners
+
+the state government had wasted the money to install the metal detectors
+entails
+the state government had installed the metal detectors
+
+the state government had installed the metal detectors
+permits
+the state government had wasted the money to install the metal detectors
+
+the state government has wasted the money to install the metal detectors
+contradicts
+the state government has n't installed the metal detectors
+
+the state government has n't installed the metal detectors
+contradicts
+the state government has wasted the money to install the metal detectors
+
+the state government has wasted the money to install the metal detectors
+permits
+the state government has not printed Mr. Lawrence's serialized diatribe
+
+the state government has almost wasted the money to install the metal detectors
+entails
+the state government has not installed the metal detectors
+
+the state government has not installed the metal detectors
+permits
+the state government has almost wasted the money to install the metal detectors
+
+the state government has almost wasted the money to install the metal detectors
+permits
+he has n't installed the metal detectors
+
+the state government had not wasted the money to install the metal detectors
+contradicts
+the state government had installed the metal detectors
+
+the state government had installed the metal detectors
+contradicts
+the state government had not wasted the money to install the metal detectors
+
+the state government has wasted its money to install the metal detectors
+entails
+the state government has installed the metal detectors
+
+the state government has installed the metal detectors
+permits
+the state government has wasted its money to install the metal detectors
+
+the state government has wasted its money to install the metal detectors
+contradicts
+the state government has not installed the metal detectors
+
+the state government has not installed the metal detectors
+contradicts
+the state government has wasted its money to install the metal detectors
+
+the state government has wasted its money to install the metal detectors
+permits
+Mr. Smith has n't installed the metal detectors
+
+the state government had almost wasted its money to install the metal detectors
+entails
+the state government had n't installed the metal detectors
+
+the state government had n't installed the metal detectors
+permits
+the state government had almost wasted its money to install the metal detectors
+
+the state government had almost wasted its money to install the metal detectors
+permits
+I had almost installed the metal detectors
+
+the state government had n't wasted its money to install the metal detectors
+contradicts
+the state government had installed the metal detectors
+
+the state government had installed the metal detectors
+contradicts
+the state government had n't wasted its money to install the metal detectors
+
+the state government had n't wasted its money to install the metal detectors
+permits
+the state government had signed up for a race
+
+they wasted the money to put a high tech system
+entails
+they put a high tech system
+
+they put a high tech system
+permits
+they wasted the money to put a high tech system
+
+they had wasted the money to put a high tech system
+contradicts
+they had not put a high tech system
+
+they had not put a high tech system
+contradicts
+they had wasted the money to put a high tech system
+
+they had wasted the money to put a high tech system
+permits
+they had n't signed up for a race
+
+they have not wasted the money to put a high tech system
+entails
+they have n't put a high tech system
+
+they have n't put a high tech system
+permits
+they have not wasted the money to put a high tech system
+
+they have not wasted the money to put a high tech system
+permits
+people have n't put a high tech system
+
+they have not wasted the money to put a high tech system
+contradicts
+they have put a high tech system
+
+they have put a high tech system
+contradicts
+they have not wasted the money to put a high tech system
+
+they have not wasted the money to put a high tech system
+permits
+we have put a high tech system
+
+they had wasted their money to put a high tech system
+entails
+they had put a high tech system
+
+they had put a high tech system
+permits
+they had wasted their money to put a high tech system
+
+they had wasted their money to put a high tech system
+permits
+they had opened such an office
+
+they have wasted their money to put a high tech system
+contradicts
+they have not put a high tech system
+
+they have not put a high tech system
+contradicts
+they have wasted their money to put a high tech system
+
+they never wasted their money to put a high tech system
+entails
+they never put a high tech system
+
+they never put a high tech system
+permits
+they never wasted their money to put a high tech system
+
+they never wasted their money to put a high tech system
+permits
+my husband and I did not put a high tech system
+
+they had never wasted their money to put a high tech system
+contradicts
+they had put a high tech system
+
+they had put a high tech system
+contradicts
+they had never wasted their money to put a high tech system
+
+my husband and I have wasted the money to watch the Rolodex of Hate on Vimeo
+entails
+my husband and I have watched the Rolodex of Hate on Vimeo
+
+my husband and I have watched the Rolodex of Hate on Vimeo
+permits
+my husband and I have wasted the money to watch the Rolodex of Hate on Vimeo
+
+my husband and I have wasted the money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I have gotten her in the game
+
+my husband and I have wasted the money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I have opened such an office
+
+my husband and I have actually wasted the money to watch the Rolodex of Hate on Vimeo
+entails
+my husband and I have watched the Rolodex of Hate on Vimeo
+
+my husband and I have watched the Rolodex of Hate on Vimeo
+permits
+my husband and I have actually wasted the money to watch the Rolodex of Hate on Vimeo
+
+my husband and I have actually wasted the money to watch the Rolodex of Hate on Vimeo
+permits
+we have watched the Rolodex of Hate on Vimeo
+
+my husband and I have actually wasted the money to watch the Rolodex of Hate on Vimeo
+permits
+people have watched the Rolodex of Hate on Vimeo
+
+my husband and I had wasted the money to watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I had not watched the Rolodex of Hate on Vimeo
+
+my husband and I had not watched the Rolodex of Hate on Vimeo
+contradicts
+my husband and I had wasted the money to watch the Rolodex of Hate on Vimeo
+
+my husband and I had actually wasted the money to watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I had n't watched the Rolodex of Hate on Vimeo
+
+my husband and I had n't watched the Rolodex of Hate on Vimeo
+contradicts
+my husband and I had actually wasted the money to watch the Rolodex of Hate on Vimeo
+
+my husband and I did not waste the money to watch the Rolodex of Hate on Vimeo
+entails
+my husband and I never watched the Rolodex of Hate on Vimeo
+
+my husband and I never watched the Rolodex of Hate on Vimeo
+permits
+my husband and I did not waste the money to watch the Rolodex of Hate on Vimeo
+
+my husband and I never actually wasted the money to watch the Rolodex of Hate on Vimeo
+entails
+my husband and I never watched the Rolodex of Hate on Vimeo
+
+my husband and I never watched the Rolodex of Hate on Vimeo
+permits
+my husband and I never actually wasted the money to watch the Rolodex of Hate on Vimeo
+
+my husband and I never actually wasted the money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I did n't import agricultural goods
+
+my husband and I never actually wasted the money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I did n't turn the phone into a portable hotspot
+
+my husband and I never wasted the money to watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I watched the Rolodex of Hate on Vimeo
+
+my husband and I watched the Rolodex of Hate on Vimeo
+contradicts
+my husband and I never wasted the money to watch the Rolodex of Hate on Vimeo
+
+my husband and I did not actually waste the money to watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I watched the Rolodex of Hate on Vimeo
+
+my husband and I watched the Rolodex of Hate on Vimeo
+contradicts
+my husband and I did not actually waste the money to watch the Rolodex of Hate on Vimeo
+
+my husband and I did not actually waste the money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I imported agricultural goods
+
+my husband and I did not actually waste the money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I trained someone who then decided to move on to greener pastures
+
+my husband and I had wasted our money to watch the Rolodex of Hate on Vimeo
+entails
+my husband and I had watched the Rolodex of Hate on Vimeo
+
+my husband and I had watched the Rolodex of Hate on Vimeo
+permits
+my husband and I had wasted our money to watch the Rolodex of Hate on Vimeo
+
+my husband and I had wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+people had watched the Rolodex of Hate on Vimeo
+
+my husband and I had wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+they had watched the Rolodex of Hate on Vimeo
+
+my husband and I had actually wasted our money to watch the Rolodex of Hate on Vimeo
+entails
+my husband and I had watched the Rolodex of Hate on Vimeo
+
+my husband and I had watched the Rolodex of Hate on Vimeo
+permits
+my husband and I had actually wasted our money to watch the Rolodex of Hate on Vimeo
+
+my husband and I had actually wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+North Carolinians had watched the Rolodex of Hate on Vimeo
+
+my husband and I had actually wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+we had watched the Rolodex of Hate on Vimeo
+
+my husband and I wasted our money to watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I did n't watch the Rolodex of Hate on Vimeo
+
+my husband and I did n't watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I wasted our money to watch the Rolodex of Hate on Vimeo
+
+my husband and I wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I did n't turn the phone into a portable hotspot
+
+my husband and I wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I did n't buy the scanners
+
+my husband and I actually wasted our money to watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I did n't watch the Rolodex of Hate on Vimeo
+
+my husband and I did n't watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I actually wasted our money to watch the Rolodex of Hate on Vimeo
+
+my husband and I actually wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I did n't try to get the character he wanted
+
+my husband and I actually wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+my husband and I did not have the ring resized
+
+my husband and I did n't waste our money to watch the Rolodex of Hate on Vimeo
+entails
+my husband and I did not watch the Rolodex of Hate on Vimeo
+
+my husband and I did not watch the Rolodex of Hate on Vimeo
+permits
+my husband and I did n't waste our money to watch the Rolodex of Hate on Vimeo
+
+my husband and I did n't actually waste our money to watch the Rolodex of Hate on Vimeo
+entails
+my husband and I did n't watch the Rolodex of Hate on Vimeo
+
+my husband and I did n't watch the Rolodex of Hate on Vimeo
+permits
+my husband and I did n't actually waste our money to watch the Rolodex of Hate on Vimeo
+
+my husband and I did n't actually waste our money to watch the Rolodex of Hate on Vimeo
+permits
+North Carolinians did not watch the Rolodex of Hate on Vimeo
+
+my husband and I did n't actually waste our money to watch the Rolodex of Hate on Vimeo
+permits
+they did n't watch the Rolodex of Hate on Vimeo
+
+my husband and I had almost wasted our money to watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I had watched the Rolodex of Hate on Vimeo
+
+my husband and I had watched the Rolodex of Hate on Vimeo
+contradicts
+my husband and I had almost wasted our money to watch the Rolodex of Hate on Vimeo
+
+my husband and I had never actually wasted our money to watch the Rolodex of Hate on Vimeo
+contradicts
+my husband and I had watched the Rolodex of Hate on Vimeo
+
+my husband and I had watched the Rolodex of Hate on Vimeo
+contradicts
+my husband and I had never actually wasted our money to watch the Rolodex of Hate on Vimeo
+
+my husband and I had never actually wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+they had watched the Rolodex of Hate on Vimeo
+
+my husband and I had never actually wasted our money to watch the Rolodex of Hate on Vimeo
+permits
+North Carolinians had watched the Rolodex of Hate on Vimeo
+
+the state has wasted the money to pursue that case
+entails
+the state has pursued that case
+
+the state has pursued that case
+permits
+the state has wasted the money to pursue that case
+
+the state has wasted the money to pursue that case
+contradicts
+the state has n't pursued that case
+
+the state has n't pursued that case
+contradicts
+the state has wasted the money to pursue that case
+
+the state did not waste the money to pursue that case
+entails
+the state did n't pursue that case
+
+the state did n't pursue that case
+permits
+the state did not waste the money to pursue that case
+
+the state has almost wasted the money to pursue that case
+contradicts
+the state has pursued that case
+
+the state has pursued that case
+contradicts
+the state has almost wasted the money to pursue that case
+
+the state has almost wasted the money to pursue that case
+permits
+Six Flags has pursued that case
+
+the state wasted its money to pursue that case
+entails
+the state pursued that case
+
+the state pursued that case
+permits
+the state wasted its money to pursue that case
+
+the state wasted its money to pursue that case
+permits
+the state went to college
+
+the state had wasted its money to pursue that case
+contradicts
+the state had n't pursued that case
+
+the state had n't pursued that case
+contradicts
+the state had wasted its money to pursue that case
+
+the state had wasted its money to pursue that case
+permits
+the state had n't built some damn ark
+
+the state has never wasted its money to pursue that case
+entails
+the state has not pursued that case
+
+the state has not pursued that case
+permits
+the state has never wasted its money to pursue that case
+
+the state has never wasted its money to pursue that case
+permits
+you have n't pursued that case
+
+the state has never wasted its money to pursue that case
+contradicts
+the state has pursued that case
+
+the state has pursued that case
+contradicts
+the state has never wasted its money to pursue that case
+
+the state has never wasted its money to pursue that case
+permits
+Aunt Flora has pursued that case
+
+Aunt Flora wasted the money to have the ring resized
+entails
+Aunt Flora had the ring resized
+
+Aunt Flora had the ring resized
+permits
+Aunt Flora wasted the money to have the ring resized
+
+Aunt Flora wasted the money to have the ring resized
+permits
+Mr. Smith had the ring resized
+
+Aunt Flora has wasted the money to have the ring resized
+contradicts
+Aunt Flora has not had the ring resized
+
+Aunt Flora has not had the ring resized
+contradicts
+Aunt Flora has wasted the money to have the ring resized
+
+Aunt Flora has never wasted the money to have the ring resized
+entails
+Aunt Flora has not had the ring resized
+
+Aunt Flora has not had the ring resized
+permits
+Aunt Flora has never wasted the money to have the ring resized
+
+Aunt Flora has never wasted the money to have the ring resized
+permits
+the publisher has never had the ring resized
+
+Aunt Flora had never wasted the money to have the ring resized
+contradicts
+Aunt Flora had had the ring resized
+
+Aunt Flora had had the ring resized
+contradicts
+Aunt Flora had never wasted the money to have the ring resized
+
+Aunt Flora had never wasted the money to have the ring resized
+permits
+Aunt Flora had put a high tech system
+
+Aunt Flora has wasted her money to have the ring resized
+entails
+Aunt Flora has had the ring resized
+
+Aunt Flora has had the ring resized
+permits
+Aunt Flora has wasted her money to have the ring resized
+
+Aunt Flora has wasted her money to have the ring resized
+permits
+you have had the ring resized
+
+Aunt Flora had wasted her money to have the ring resized
+contradicts
+Aunt Flora had n't had the ring resized
+
+Aunt Flora had n't had the ring resized
+contradicts
+Aunt Flora had wasted her money to have the ring resized
+
+Aunt Flora has almost wasted her money to have the ring resized
+entails
+Aunt Flora has n't had the ring resized
+
+Aunt Flora has n't had the ring resized
+permits
+Aunt Flora has almost wasted her money to have the ring resized
+
+Aunt Flora had almost wasted her money to have the ring resized
+contradicts
+Aunt Flora had had the ring resized
+
+Aunt Flora had had the ring resized
+contradicts
+Aunt Flora had almost wasted her money to have the ring resized
+
+the publisher has wasted the money to print Mr. Lawrence's serialized diatribe
+entails
+the publisher has printed Mr. Lawrence's serialized diatribe
+
+the publisher has printed Mr. Lawrence's serialized diatribe
+permits
+the publisher has wasted the money to print Mr. Lawrence's serialized diatribe
+
+the publisher has wasted the money to print Mr. Lawrence's serialized diatribe
+contradicts
+the publisher has n't printed Mr. Lawrence's serialized diatribe
+
+the publisher has n't printed Mr. Lawrence's serialized diatribe
+contradicts
+the publisher has wasted the money to print Mr. Lawrence's serialized diatribe
+
+the publisher has never wasted the money to print Mr. Lawrence's serialized diatribe
+entails
+the publisher has not printed Mr. Lawrence's serialized diatribe
+
+the publisher has not printed Mr. Lawrence's serialized diatribe
+permits
+the publisher has never wasted the money to print Mr. Lawrence's serialized diatribe
+
+the publisher has never wasted the money to print Mr. Lawrence's serialized diatribe
+permits
+the publisher has n't shipped it over
+
+the publisher did not waste the money to print Mr. Lawrence's serialized diatribe
+contradicts
+the publisher printed Mr. Lawrence's serialized diatribe
+
+the publisher printed Mr. Lawrence's serialized diatribe
+contradicts
+the publisher did not waste the money to print Mr. Lawrence's serialized diatribe
+
+the publisher has wasted its money to print Mr. Lawrence's serialized diatribe
+entails
+the publisher has printed Mr. Lawrence's serialized diatribe
+
+the publisher has printed Mr. Lawrence's serialized diatribe
+permits
+the publisher has wasted its money to print Mr. Lawrence's serialized diatribe
+
+the publisher has wasted its money to print Mr. Lawrence's serialized diatribe
+permits
+Ken Ham has printed Mr. Lawrence's serialized diatribe
+
+the publisher has wasted its money to print Mr. Lawrence's serialized diatribe
+contradicts
+the publisher has not printed Mr. Lawrence's serialized diatribe
+
+the publisher has not printed Mr. Lawrence's serialized diatribe
+contradicts
+the publisher has wasted its money to print Mr. Lawrence's serialized diatribe
+
+the publisher has n't wasted its money to print Mr. Lawrence's serialized diatribe
+entails
+the publisher has n't printed Mr. Lawrence's serialized diatribe
+
+the publisher has n't printed Mr. Lawrence's serialized diatribe
+permits
+the publisher has n't wasted its money to print Mr. Lawrence's serialized diatribe
+
+the publisher has almost wasted its money to print Mr. Lawrence's serialized diatribe
+contradicts
+the publisher has printed Mr. Lawrence's serialized diatribe
+
+the publisher has printed Mr. Lawrence's serialized diatribe
+contradicts
+the publisher has almost wasted its money to print Mr. Lawrence's serialized diatribe
+
+you had wasted the money to ship it over
+entails
+you had shipped it over
+
+you had shipped it over
+permits
+you had wasted the money to ship it over
+
+you wasted the money to ship it over
+contradicts
+you did not ship it over
+
+you did not ship it over
+contradicts
+you wasted the money to ship it over
+
+you wasted the money to ship it over
+permits
+Aunt Flora did n't ship it over
+
+you had almost wasted the money to ship it over
+entails
+you had n't shipped it over
+
+you had n't shipped it over
+permits
+you had almost wasted the money to ship it over
+
+you have n't wasted the money to ship it over
+contradicts
+you have shipped it over
+
+you have shipped it over
+contradicts
+you have n't wasted the money to ship it over
+
+you have n't wasted the money to ship it over
+permits
+she has shipped it over
+
+you had wasted your money to ship it over
+entails
+you had shipped it over
+
+you had shipped it over
+permits
+you had wasted your money to ship it over
+
+you had wasted your money to ship it over
+permits
+you had gone to college
+
+you had wasted your money to ship it over
+contradicts
+you had not shipped it over
+
+you had not shipped it over
+contradicts
+you had wasted your money to ship it over
+
+you had not wasted your money to ship it over
+entails
+you had n't shipped it over
+
+you had n't shipped it over
+permits
+you had not wasted your money to ship it over
+
+you have n't wasted your money to ship it over
+contradicts
+you have shipped it over
+
+you have shipped it over
+contradicts
+you have n't wasted your money to ship it over
+
+you have n't wasted your money to ship it over
+permits
+you have tried to get the character he wanted
+
+they wasted the money to incorporate it into the original design
+entails
+they incorporated it into the original design
+
+they incorporated it into the original design
+permits
+they wasted the money to incorporate it into the original design
+
+they wasted the money to incorporate it into the original design
+permits
+they went to college
+
+they have wasted the money to incorporate it into the original design
+contradicts
+they have not incorporated it into the original design
+
+they have not incorporated it into the original design
+contradicts
+they have wasted the money to incorporate it into the original design
+
+they almost wasted the money to incorporate it into the original design
+entails
+they almost incorporated it into the original design
+
+they almost incorporated it into the original design
+permits
+they almost wasted the money to incorporate it into the original design
+
+they have not wasted the money to incorporate it into the original design
+contradicts
+they have incorporated it into the original design
+
+they have incorporated it into the original design
+contradicts
+they have not wasted the money to incorporate it into the original design
+
+they wasted their money to incorporate it into the original design
+entails
+they incorporated it into the original design
+
+they incorporated it into the original design
+permits
+they wasted their money to incorporate it into the original design
+
+they wasted their money to incorporate it into the original design
+permits
+they tried to get the character he wanted
+
+they had wasted their money to incorporate it into the original design
+contradicts
+they had n't incorporated it into the original design
+
+they had n't incorporated it into the original design
+contradicts
+they had wasted their money to incorporate it into the original design
+
+they had wasted their money to incorporate it into the original design
+permits
+people had not incorporated it into the original design
+
+they had not wasted their money to incorporate it into the original design
+entails
+they had not incorporated it into the original design
+
+they had not incorporated it into the original design
+permits
+they had not wasted their money to incorporate it into the original design
+
+they have never wasted their money to incorporate it into the original design
+contradicts
+they have incorporated it into the original design
+
+they have incorporated it into the original design
+contradicts
+they have never wasted their money to incorporate it into the original design
+
