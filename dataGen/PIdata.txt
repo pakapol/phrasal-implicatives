@@ -1,0 +1,2112 @@
+the school took the time to help my autistic son
+entails
+the school helped my autistic son
+
+the school has taken the time to help my autistic son
+entails
+the school has helped my autistic son
+
+the school had taken the time to help my autistic son
+entails
+the school had helped my autistic son
+
+the school took the time to help my autistic son
+contradicts
+the school did not help my autistic son
+
+the school has taken the time to help my autistic son
+contradicts
+the school has not helped my autistic son
+
+the school had taken the time to help my autistic son
+contradicts
+the school had not helped my autistic son
+
+the school did not took the time to help my autistic son
+entails
+the school did not help my autistic son
+
+the school has not taken the time to help my autistic son
+entails
+the school has not helped my autistic son
+
+the school had not taken the time to help my autistic son
+entails
+the school had not helped my autistic son
+
+the school did not took the time to help my autistic son
+contradicts
+the school helped my autistic son
+
+the school has not taken the time to help my autistic son
+contradicts
+the school has helped my autistic son
+
+the school had not taken the time to help my autistic son
+contradicts
+the school had helped my autistic son
+
+Richie Benaud took the time to write a detailed letter to a 16-year-old boy
+entails
+Richie Benaud wrote a detailed letter to a 16-year-old boy
+
+Richie Benaud has taken the time to write a detailed letter to a 16-year-old boy
+entails
+Richie Benaud has written a detailed letter to a 16-year-old boy
+
+Richie Benaud had taken the time to write a detailed letter to a 16-year-old boy
+entails
+Richie Benaud had written a detailed letter to a 16-year-old boy
+
+Richie Benaud took the time to write a detailed letter to a 16-year-old boy
+contradicts
+Richie Benaud did not write a detailed letter to a 16-year-old boy
+
+Richie Benaud has taken the time to write a detailed letter to a 16-year-old boy
+contradicts
+Richie Benaud has not written a detailed letter to a 16-year-old boy
+
+Richie Benaud had taken the time to write a detailed letter to a 16-year-old boy
+contradicts
+Richie Benaud had not written a detailed letter to a 16-year-old boy
+
+Richie Benaud did not took the time to write a detailed letter to a 16-year-old boy
+entails
+Richie Benaud did not write a detailed letter to a 16-year-old boy
+
+Richie Benaud has not taken the time to write a detailed letter to a 16-year-old boy
+entails
+Richie Benaud has not written a detailed letter to a 16-year-old boy
+
+Richie Benaud had not taken the time to write a detailed letter to a 16-year-old boy
+entails
+Richie Benaud had not written a detailed letter to a 16-year-old boy
+
+Richie Benaud did not took the time to write a detailed letter to a 16-year-old boy
+contradicts
+Richie Benaud wrote a detailed letter to a 16-year-old boy
+
+Richie Benaud has not taken the time to write a detailed letter to a 16-year-old boy
+contradicts
+Richie Benaud has written a detailed letter to a 16-year-old boy
+
+Richie Benaud had not taken the time to write a detailed letter to a 16-year-old boy
+contradicts
+Richie Benaud had written a detailed letter to a 16-year-old boy
+
+she took the time to smile at us
+entails
+she smiled at us
+
+she has taken the time to smile at us
+entails
+she has smiled at us
+
+she had taken the time to smile at us
+entails
+she had smiled at us
+
+she took the time to smile at us
+contradicts
+she did not smile at us
+
+she has taken the time to smile at us
+contradicts
+she has not smiled at us
+
+she had taken the time to smile at us
+contradicts
+she had not smiled at us
+
+she did not took the time to smile at us
+entails
+she did not smile at us
+
+she has not taken the time to smile at us
+entails
+she has not smiled at us
+
+she had not taken the time to smile at us
+entails
+she had not smiled at us
+
+she did not took the time to smile at us
+contradicts
+she smiled at us
+
+she has not taken the time to smile at us
+contradicts
+she has smiled at us
+
+she had not taken the time to smile at us
+contradicts
+she had smiled at us
+
+the firefighters took the time to explain their actions
+entails
+the firefighters explained their actions
+
+the firefighters have taken the time to explain their actions
+entails
+the firefighters have explained their actions
+
+the firefighters had taken the time to explain their actions
+entails
+the firefighters had explained their actions
+
+the firefighters took the time to explain their actions
+contradicts
+the firefighters did not explain their actions
+
+the firefighters have taken the time to explain their actions
+contradicts
+the firefighters have not explained their actions
+
+the firefighters had taken the time to explain their actions
+contradicts
+the firefighters had not explained their actions
+
+the firefighters did not took the time to explain their actions
+entails
+the firefighters did not explain their actions
+
+the firefighters have not taken the time to explain their actions
+entails
+the firefighters have not explained their actions
+
+the firefighters had not taken the time to explain their actions
+entails
+the firefighters had not explained their actions
+
+the firefighters did not took the time to explain their actions
+contradicts
+the firefighters explained their actions
+
+the firefighters have not taken the time to explain their actions
+contradicts
+the firefighters have explained their actions
+
+the firefighters had not taken the time to explain their actions
+contradicts
+the firefighters had explained their actions
+
+he took the time to listen to my needs
+entails
+he listened to my needs
+
+he really took the time to listen to my needs
+entails
+he listened to my needs
+
+he has taken the time to listen to my needs
+entails
+he has listened to my needs
+
+he has really taken the time to listen to my needs
+entails
+he has listened to my needs
+
+he had taken the time to listen to my needs
+entails
+he had listened to my needs
+
+he had really taken the time to listen to my needs
+entails
+he had listened to my needs
+
+he took the time to listen to my needs
+contradicts
+he did not listen to my needs
+
+he really took the time to listen to my needs
+contradicts
+he did not listen to my needs
+
+he has taken the time to listen to my needs
+contradicts
+he has not listened to my needs
+
+he has really taken the time to listen to my needs
+contradicts
+he has not listened to my needs
+
+he had taken the time to listen to my needs
+contradicts
+he had not listened to my needs
+
+he had really taken the time to listen to my needs
+contradicts
+he had not listened to my needs
+
+he did not took the time to listen to my needs
+entails
+he did not listen to my needs
+
+he did not really took the time to listen to my needs
+entails
+he did not listen to my needs
+
+he has not taken the time to listen to my needs
+entails
+he has not listened to my needs
+
+he has not really taken the time to listen to my needs
+entails
+he has not listened to my needs
+
+he had not taken the time to listen to my needs
+entails
+he had not listened to my needs
+
+he had not really taken the time to listen to my needs
+entails
+he had not listened to my needs
+
+he did not took the time to listen to my needs
+contradicts
+he listened to my needs
+
+he did not really took the time to listen to my needs
+contradicts
+he listened to my needs
+
+he has not taken the time to listen to my needs
+contradicts
+he has listened to my needs
+
+he has not really taken the time to listen to my needs
+contradicts
+he has listened to my needs
+
+he had not taken the time to listen to my needs
+contradicts
+he had listened to my needs
+
+he had not really taken the time to listen to my needs
+contradicts
+he had listened to my needs
+
+I took the time to get an acting coach
+entails
+I got an acting coach
+
+I have taken the time to get an acting coach
+entails
+I have gotten an acting coach
+
+I had taken the time to get an acting coach
+entails
+I had gotten an acting coach
+
+I took the time to get an acting coach
+contradicts
+I did not get an acting coach
+
+I have taken the time to get an acting coach
+contradicts
+I have not gotten an acting coach
+
+I had taken the time to get an acting coach
+contradicts
+I had not gotten an acting coach
+
+I did not took the time to get an acting coach
+entails
+I did not get an acting coach
+
+I have not taken the time to get an acting coach
+entails
+I have not gotten an acting coach
+
+I had not taken the time to get an acting coach
+entails
+I had not gotten an acting coach
+
+I did not took the time to get an acting coach
+contradicts
+I got an acting coach
+
+I have not taken the time to get an acting coach
+contradicts
+I have gotten an acting coach
+
+I had not taken the time to get an acting coach
+contradicts
+I had gotten an acting coach
+
+they took the time to understand my motivations for creating my line of children's books
+entails
+they understood my motivations for creating my line of children's books
+
+they really took the time to understand my motivations for creating my line of children's books
+entails
+they understood my motivations for creating my line of children's books
+
+they have taken the time to understand my motivations for creating my line of children's books
+entails
+they have understood my motivations for creating my line of children's books
+
+they have really taken the time to understand my motivations for creating my line of children's books
+entails
+they have understood my motivations for creating my line of children's books
+
+they had taken the time to understand my motivations for creating my line of children's books
+entails
+they had understood my motivations for creating my line of children's books
+
+they had really taken the time to understand my motivations for creating my line of children's books
+entails
+they had understood my motivations for creating my line of children's books
+
+they took the time to understand my motivations for creating my line of children's books
+contradicts
+they did not understand my motivations for creating my line of children's books
+
+they really took the time to understand my motivations for creating my line of children's books
+contradicts
+they did not understand my motivations for creating my line of children's books
+
+they have taken the time to understand my motivations for creating my line of children's books
+contradicts
+they have not understood my motivations for creating my line of children's books
+
+they have really taken the time to understand my motivations for creating my line of children's books
+contradicts
+they have not understood my motivations for creating my line of children's books
+
+they had taken the time to understand my motivations for creating my line of children's books
+contradicts
+they had not understood my motivations for creating my line of children's books
+
+they had really taken the time to understand my motivations for creating my line of children's books
+contradicts
+they had not understood my motivations for creating my line of children's books
+
+they did not took the time to understand my motivations for creating my line of children's books
+entails
+they did not understand my motivations for creating my line of children's books
+
+they did not really took the time to understand my motivations for creating my line of children's books
+entails
+they did not understand my motivations for creating my line of children's books
+
+they have not taken the time to understand my motivations for creating my line of children's books
+entails
+they have not understood my motivations for creating my line of children's books
+
+they have not really taken the time to understand my motivations for creating my line of children's books
+entails
+they have not understood my motivations for creating my line of children's books
+
+they had not taken the time to understand my motivations for creating my line of children's books
+entails
+they had not understood my motivations for creating my line of children's books
+
+they had not really taken the time to understand my motivations for creating my line of children's books
+entails
+they had not understood my motivations for creating my line of children's books
+
+they did not took the time to understand my motivations for creating my line of children's books
+contradicts
+they understood my motivations for creating my line of children's books
+
+they did not really took the time to understand my motivations for creating my line of children's books
+contradicts
+they understood my motivations for creating my line of children's books
+
+they have not taken the time to understand my motivations for creating my line of children's books
+contradicts
+they have understood my motivations for creating my line of children's books
+
+they have not really taken the time to understand my motivations for creating my line of children's books
+contradicts
+they have understood my motivations for creating my line of children's books
+
+they had not taken the time to understand my motivations for creating my line of children's books
+contradicts
+they had understood my motivations for creating my line of children's books
+
+they had not really taken the time to understand my motivations for creating my line of children's books
+contradicts
+they had understood my motivations for creating my line of children's books
+
+my son's teacher took the time to call
+entails
+my son's teacher called
+
+my son's teacher has taken the time to call
+entails
+my son's teacher has called
+
+my son's teacher had taken the time to call
+entails
+my son's teacher had called
+
+my son's teacher took the time to call
+contradicts
+my son's teacher did not call
+
+my son's teacher has taken the time to call
+contradicts
+my son's teacher has not called
+
+my son's teacher had taken the time to call
+contradicts
+my son's teacher had not called
+
+my son's teacher did not took the time to call
+entails
+my son's teacher did not call
+
+my son's teacher has not taken the time to call
+entails
+my son's teacher has not called
+
+my son's teacher had not taken the time to call
+entails
+my son's teacher had not called
+
+my son's teacher did not took the time to call
+contradicts
+my son's teacher called
+
+my son's teacher has not taken the time to call
+contradicts
+my son's teacher has called
+
+my son's teacher had not taken the time to call
+contradicts
+my son's teacher had called
+
+you took the time to meet us
+entails
+you met us
+
+you have taken the time to meet us
+entails
+you have met us
+
+you had taken the time to meet us
+entails
+you had met us
+
+you took the time to meet us
+contradicts
+you did not meet us
+
+you have taken the time to meet us
+contradicts
+you have not met us
+
+you had taken the time to meet us
+contradicts
+you had not met us
+
+you did not took the time to meet us
+entails
+you did not meet us
+
+you have not taken the time to meet us
+entails
+you have not met us
+
+you had not taken the time to meet us
+entails
+you had not met us
+
+you did not took the time to meet us
+contradicts
+you met us
+
+you have not taken the time to meet us
+contradicts
+you have met us
+
+you had not taken the time to meet us
+contradicts
+you had met us
+
+my stylist took the time to get to know me
+entails
+my stylist got to know me
+
+my stylist has taken the time to get to know me
+entails
+my stylist has gotten to know me
+
+my stylist had taken the time to get to know me
+entails
+my stylist had gotten to know me
+
+my stylist took the time to get to know me
+contradicts
+my stylist did not get to know me
+
+my stylist has taken the time to get to know me
+contradicts
+my stylist has not gotten to know me
+
+my stylist had taken the time to get to know me
+contradicts
+my stylist had not gotten to know me
+
+my stylist did not took the time to get to know me
+entails
+my stylist did not get to know me
+
+my stylist has not taken the time to get to know me
+entails
+my stylist has not gotten to know me
+
+my stylist had not taken the time to get to know me
+entails
+my stylist had not gotten to know me
+
+my stylist did not took the time to get to know me
+contradicts
+my stylist got to know me
+
+my stylist has not taken the time to get to know me
+contradicts
+my stylist has gotten to know me
+
+my stylist had not taken the time to get to know me
+contradicts
+my stylist had gotten to know me
+
+the marketing staff took the time to understand the plan
+entails
+the marketing staff understood the plan
+
+the marketing staff has taken the time to understand the plan
+entails
+the marketing staff has understood the plan
+
+the marketing staff had taken the time to understand the plan
+entails
+the marketing staff had understood the plan
+
+the marketing staff took the time to understand the plan
+contradicts
+the marketing staff did not understand the plan
+
+the marketing staff has taken the time to understand the plan
+contradicts
+the marketing staff has not understood the plan
+
+the marketing staff had taken the time to understand the plan
+contradicts
+the marketing staff had not understood the plan
+
+the marketing staff did not took the time to understand the plan
+entails
+the marketing staff did not understand the plan
+
+the marketing staff has not taken the time to understand the plan
+entails
+the marketing staff has not understood the plan
+
+the marketing staff had not taken the time to understand the plan
+entails
+the marketing staff had not understood the plan
+
+the marketing staff did not took the time to understand the plan
+contradicts
+the marketing staff understood the plan
+
+the marketing staff has not taken the time to understand the plan
+contradicts
+the marketing staff has understood the plan
+
+the marketing staff had not taken the time to understand the plan
+contradicts
+the marketing staff had understood the plan
+
+I took the time to take the phone survey
+entails
+I took the phone survey
+
+I have taken the time to take the phone survey
+entails
+I have taken the phone survey
+
+I had taken the time to take the phone survey
+entails
+I had taken the phone survey
+
+I took the time to take the phone survey
+contradicts
+I did not take the phone survey
+
+I have taken the time to take the phone survey
+contradicts
+I have not taken the phone survey
+
+I had taken the time to take the phone survey
+contradicts
+I had not taken the phone survey
+
+I did not took the time to take the phone survey
+entails
+I did not take the phone survey
+
+I have not taken the time to take the phone survey
+entails
+I have not taken the phone survey
+
+I had not taken the time to take the phone survey
+entails
+I had not taken the phone survey
+
+I did not took the time to take the phone survey
+contradicts
+I took the phone survey
+
+I have not taken the time to take the phone survey
+contradicts
+I have taken the phone survey
+
+I had not taken the time to take the phone survey
+contradicts
+I had taken the phone survey
+
+I took the time to read the manufacturer's instructions
+entails
+I read the manufacturer's instructions
+
+I have taken the time to read the manufacturer's instructions
+entails
+I have read the manufacturer's instructions
+
+I had taken the time to read the manufacturer's instructions
+entails
+I had read the manufacturer's instructions
+
+I took the time to read the manufacturer's instructions
+contradicts
+I did not read the manufacturer's instructions
+
+I have taken the time to read the manufacturer's instructions
+contradicts
+I have not read the manufacturer's instructions
+
+I had taken the time to read the manufacturer's instructions
+contradicts
+I had not read the manufacturer's instructions
+
+I did not took the time to read the manufacturer's instructions
+entails
+I did not read the manufacturer's instructions
+
+I have not taken the time to read the manufacturer's instructions
+entails
+I have not read the manufacturer's instructions
+
+I had not taken the time to read the manufacturer's instructions
+entails
+I had not read the manufacturer's instructions
+
+I did not took the time to read the manufacturer's instructions
+contradicts
+I read the manufacturer's instructions
+
+I have not taken the time to read the manufacturer's instructions
+contradicts
+I have read the manufacturer's instructions
+
+I had not taken the time to read the manufacturer's instructions
+contradicts
+I had read the manufacturer's instructions
+
+Zaslow took the time to examine the scorch marks on the source stone
+entails
+Zaslow examined the scorch marks on the source stone
+
+Zaslow has taken the time to examine the scorch marks on the source stone
+entails
+Zaslow has examined the scorch marks on the source stone
+
+Zaslow had taken the time to examine the scorch marks on the source stone
+entails
+Zaslow had examined the scorch marks on the source stone
+
+Zaslow took the time to examine the scorch marks on the source stone
+contradicts
+Zaslow did not examine the scorch marks on the source stone
+
+Zaslow has taken the time to examine the scorch marks on the source stone
+contradicts
+Zaslow has not examined the scorch marks on the source stone
+
+Zaslow had taken the time to examine the scorch marks on the source stone
+contradicts
+Zaslow had not examined the scorch marks on the source stone
+
+Zaslow did not took the time to examine the scorch marks on the source stone
+entails
+Zaslow did not examine the scorch marks on the source stone
+
+Zaslow has not taken the time to examine the scorch marks on the source stone
+entails
+Zaslow has not examined the scorch marks on the source stone
+
+Zaslow had not taken the time to examine the scorch marks on the source stone
+entails
+Zaslow had not examined the scorch marks on the source stone
+
+Zaslow did not took the time to examine the scorch marks on the source stone
+contradicts
+Zaslow examined the scorch marks on the source stone
+
+Zaslow has not taken the time to examine the scorch marks on the source stone
+contradicts
+Zaslow has examined the scorch marks on the source stone
+
+Zaslow had not taken the time to examine the scorch marks on the source stone
+contradicts
+Zaslow had examined the scorch marks on the source stone
+
+she took the time to look at my chart
+entails
+she looked at my chart
+
+she took the time to even look at my chart
+entails
+she even looked at my chart
+
+she has taken the time to look at my chart
+entails
+she has looked at my chart
+
+she has taken the time to even look at my chart
+entails
+she has even looked at my chart
+
+she had taken the time to look at my chart
+entails
+she had looked at my chart
+
+she had taken the time to even look at my chart
+entails
+she had even looked at my chart
+
+she took the time to look at my chart
+contradicts
+she did not look at my chart
+
+she took the time to even look at my chart
+contradicts
+she did not even look at my chart
+
+she has taken the time to look at my chart
+contradicts
+she has not looked at my chart
+
+she has taken the time to even look at my chart
+contradicts
+she has not even looked at my chart
+
+she had taken the time to look at my chart
+contradicts
+she had not looked at my chart
+
+she had taken the time to even look at my chart
+contradicts
+she had not even looked at my chart
+
+she did not took the time to look at my chart
+entails
+she did not look at my chart
+
+she did not took the time to even look at my chart
+entails
+she did not even look at my chart
+
+she has not taken the time to look at my chart
+entails
+she has not looked at my chart
+
+she has not taken the time to even look at my chart
+entails
+she has not even looked at my chart
+
+she had not taken the time to look at my chart
+entails
+she had not looked at my chart
+
+she had not taken the time to even look at my chart
+entails
+she had not even looked at my chart
+
+she did not took the time to look at my chart
+contradicts
+she looked at my chart
+
+she did not took the time to even look at my chart
+contradicts
+she even looked at my chart
+
+she has not taken the time to look at my chart
+contradicts
+she has looked at my chart
+
+she has not taken the time to even look at my chart
+contradicts
+she has even looked at my chart
+
+she had not taken the time to look at my chart
+contradicts
+she had looked at my chart
+
+she had not taken the time to even look at my chart
+contradicts
+she had even looked at my chart
+
+you took the time to review your presentation
+entails
+you reviewed your presentation
+
+you have taken the time to review your presentation
+entails
+you have reviewed your presentation
+
+you had taken the time to review your presentation
+entails
+you had reviewed your presentation
+
+you took the time to review your presentation
+contradicts
+you did not review your presentation
+
+you have taken the time to review your presentation
+contradicts
+you have not reviewed your presentation
+
+you had taken the time to review your presentation
+contradicts
+you had not reviewed your presentation
+
+you did not took the time to review your presentation
+entails
+you did not review your presentation
+
+you have not taken the time to review your presentation
+entails
+you have not reviewed your presentation
+
+you had not taken the time to review your presentation
+entails
+you had not reviewed your presentation
+
+you did not took the time to review your presentation
+contradicts
+you reviewed your presentation
+
+you have not taken the time to review your presentation
+contradicts
+you have reviewed your presentation
+
+you had not taken the time to review your presentation
+contradicts
+you had reviewed your presentation
+
+we took the time to meet and learn about him
+entails
+we met and learnt about him
+
+we have taken the time to meet and learn about him
+entails
+we have met and learnt about him
+
+we had taken the time to meet and learn about him
+entails
+we had met and learnt about him
+
+we took the time to meet and learn about him
+contradicts
+we did not meet or learn about him
+
+we have taken the time to meet and learn about him
+contradicts
+we have not met or learnt about him
+
+we had taken the time to meet and learn about him
+contradicts
+we had not met or learnt about him
+
+we did not took the time to meet or learn about him
+entails
+we did not meet or learn about him
+
+we have not taken the time to meet or learn about him
+entails
+we have not met or learnt about him
+
+we had not taken the time to meet or learn about him
+entails
+we had not met or learnt about him
+
+we did not took the time to meet or learn about him
+contradicts
+we met and learnt about him
+
+we have not taken the time to meet or learn about him
+contradicts
+we have met and learnt about him
+
+we had not taken the time to meet or learn about him
+contradicts
+we had met and learnt about him
+
+the firm took the time to articulate the long-term implications
+entails
+the firm articulated the long-term implications
+
+the firm has taken the time to articulate the long-term implications
+entails
+the firm has articulated the long-term implications
+
+the firm had taken the time to articulate the long-term implications
+entails
+the firm had articulated the long-term implications
+
+the firm took the time to articulate the long-term implications
+contradicts
+the firm did not articulate the long-term implications
+
+the firm has taken the time to articulate the long-term implications
+contradicts
+the firm has not articulated the long-term implications
+
+the firm had taken the time to articulate the long-term implications
+contradicts
+the firm had not articulated the long-term implications
+
+the firm did not took the time to articulate the long-term implications
+entails
+the firm did not articulate the long-term implications
+
+the firm has not taken the time to articulate the long-term implications
+entails
+the firm has not articulated the long-term implications
+
+the firm had not taken the time to articulate the long-term implications
+entails
+the firm had not articulated the long-term implications
+
+the firm did not took the time to articulate the long-term implications
+contradicts
+the firm articulated the long-term implications
+
+the firm has not taken the time to articulate the long-term implications
+contradicts
+the firm has articulated the long-term implications
+
+the firm had not taken the time to articulate the long-term implications
+contradicts
+the firm had articulated the long-term implications
+
+the doctor took the time to do the best job
+entails
+the doctor did the best job
+
+the doctor has taken the time to do the best job
+entails
+the doctor has done the best job
+
+the doctor had taken the time to do the best job
+entails
+the doctor had done the best job
+
+the doctor took the time to do the best job
+contradicts
+the doctor did not do the best job
+
+the doctor has taken the time to do the best job
+contradicts
+the doctor has not done the best job
+
+the doctor had taken the time to do the best job
+contradicts
+the doctor had not done the best job
+
+the doctor did not took the time to do the best job
+entails
+the doctor did not do the best job
+
+the doctor has not taken the time to do the best job
+entails
+the doctor has not done the best job
+
+the doctor had not taken the time to do the best job
+entails
+the doctor had not done the best job
+
+the doctor did not took the time to do the best job
+contradicts
+the doctor did the best job
+
+the doctor has not taken the time to do the best job
+contradicts
+the doctor has done the best job
+
+the doctor had not taken the time to do the best job
+contradicts
+the doctor had done the best job
+
+he took the time to run any analytics on his campaign
+entails
+he ran any analytics on his campaign
+
+he has taken the time to run any analytics on his campaign
+entails
+he has run any analytics on his campaign
+
+he had taken the time to run any analytics on his campaign
+entails
+he had run any analytics on his campaign
+
+he took the time to run any analytics on his campaign
+contradicts
+he did not run any analytics on his campaign
+
+he has taken the time to run any analytics on his campaign
+contradicts
+he has not run any analytics on his campaign
+
+he had taken the time to run any analytics on his campaign
+contradicts
+he had not run any analytics on his campaign
+
+he did not took the time to run any analytics on his campaign
+entails
+he did not run any analytics on his campaign
+
+he has not taken the time to run any analytics on his campaign
+entails
+he has not run any analytics on his campaign
+
+he had not taken the time to run any analytics on his campaign
+entails
+he had not run any analytics on his campaign
+
+he did not took the time to run any analytics on his campaign
+contradicts
+he ran any analytics on his campaign
+
+he has not taken the time to run any analytics on his campaign
+contradicts
+he has run any analytics on his campaign
+
+he had not taken the time to run any analytics on his campaign
+contradicts
+he had run any analytics on his campaign
+
+Steve Harvey took time to honor a 100-year-old woman in his is audience
+entails
+Steve Harvey honored a 100-year-old woman in his is audience
+
+Steve Harvey has taken time to honor a 100-year-old woman in his is audience
+entails
+Steve Harvey has honored a 100-year-old woman in his is audience
+
+Steve Harvey had taken time to honor a 100-year-old woman in his is audience
+entails
+Steve Harvey had honored a 100-year-old woman in his is audience
+
+Steve Harvey took time to honor a 100-year-old woman in his is audience
+contradicts
+Steve Harvey did not honor a 100-year-old woman in his is audience
+
+Steve Harvey has taken time to honor a 100-year-old woman in his is audience
+contradicts
+Steve Harvey has not honored a 100-year-old woman in his is audience
+
+Steve Harvey had taken time to honor a 100-year-old woman in his is audience
+contradicts
+Steve Harvey had not honored a 100-year-old woman in his is audience
+
+Steve Harvey did not took time to honor a 100-year-old woman in his is audience
+entails
+Steve Harvey did not honor a 100-year-old woman in his is audience
+
+Steve Harvey has not taken time to honor a 100-year-old woman in his is audience
+entails
+Steve Harvey has not honored a 100-year-old woman in his is audience
+
+Steve Harvey had not taken time to honor a 100-year-old woman in his is audience
+entails
+Steve Harvey had not honored a 100-year-old woman in his is audience
+
+Steve Harvey did not took time to honor a 100-year-old woman in his is audience
+contradicts
+Steve Harvey honored a 100-year-old woman in his is audience
+
+Steve Harvey has not taken time to honor a 100-year-old woman in his is audience
+contradicts
+Steve Harvey has honored a 100-year-old woman in his is audience
+
+Steve Harvey had not taken time to honor a 100-year-old woman in his is audience
+contradicts
+Steve Harvey had honored a 100-year-old woman in his is audience
+
+Mr. Cage took time to pose for this photo with the father of a missing local teen.
+entails
+Mr. Cage posed for this photo with the father of a missing local teen.
+
+Mr. Cage has taken time to pose for this photo with the father of a missing local teen.
+entails
+Mr. Cage has posed for this photo with the father of a missing local teen.
+
+Mr. Cage had taken time to pose for this photo with the father of a missing local teen.
+entails
+Mr. Cage had posed for this photo with the father of a missing local teen.
+
+Mr. Cage took time to pose for this photo with the father of a missing local teen.
+contradicts
+Mr. Cage did not pose for this photo with the father of a missing local teen.
+
+Mr. Cage has taken time to pose for this photo with the father of a missing local teen.
+contradicts
+Mr. Cage has not posed for this photo with the father of a missing local teen.
+
+Mr. Cage had taken time to pose for this photo with the father of a missing local teen.
+contradicts
+Mr. Cage had not posed for this photo with the father of a missing local teen.
+
+Mr. Cage did not took time to pose for this photo with the father of a missing local teen.
+entails
+Mr. Cage did not pose for this photo with the father of a missing local teen.
+
+Mr. Cage has not taken time to pose for this photo with the father of a missing local teen.
+entails
+Mr. Cage has not posed for this photo with the father of a missing local teen.
+
+Mr. Cage had not taken time to pose for this photo with the father of a missing local teen.
+entails
+Mr. Cage had not posed for this photo with the father of a missing local teen.
+
+Mr. Cage did not took time to pose for this photo with the father of a missing local teen.
+contradicts
+Mr. Cage posed for this photo with the father of a missing local teen.
+
+Mr. Cage has not taken time to pose for this photo with the father of a missing local teen.
+contradicts
+Mr. Cage has posed for this photo with the father of a missing local teen.
+
+Mr. Cage had not taken time to pose for this photo with the father of a missing local teen.
+contradicts
+Mr. Cage had posed for this photo with the father of a missing local teen.
+
+we took time to set intentions together for each of our sessions
+entails
+we set intentions together for each of our sessions
+
+we have taken time to set intentions together for each of our sessions
+entails
+we have set intentions together for each of our sessions
+
+we had taken time to set intentions together for each of our sessions
+entails
+we had set intentions together for each of our sessions
+
+we took time to set intentions together for each of our sessions
+contradicts
+we did not set intentions together for each of our sessions
+
+we have taken time to set intentions together for each of our sessions
+contradicts
+we have not set intentions together for each of our sessions
+
+we had taken time to set intentions together for each of our sessions
+contradicts
+we had not set intentions together for each of our sessions
+
+we did not took time to set intentions together for each of our sessions
+entails
+we did not set intentions together for each of our sessions
+
+we have not taken time to set intentions together for each of our sessions
+entails
+we have not set intentions together for each of our sessions
+
+we had not taken time to set intentions together for each of our sessions
+entails
+we had not set intentions together for each of our sessions
+
+we did not took time to set intentions together for each of our sessions
+contradicts
+we set intentions together for each of our sessions
+
+we have not taken time to set intentions together for each of our sessions
+contradicts
+we have set intentions together for each of our sessions
+
+we had not taken time to set intentions together for each of our sessions
+contradicts
+we had set intentions together for each of our sessions
+
+the shooting victim took time to let family know that she survived
+entails
+the shooting victim let family know that she survived
+
+the shooting victim has taken time to let family know that she survived
+entails
+the shooting victim has let family know that she survived
+
+the shooting victim had taken time to let family know that she survived
+entails
+the shooting victim had let family know that she survived
+
+the shooting victim took time to let family know that she survived
+contradicts
+the shooting victim did not let family know that she survived
+
+the shooting victim has taken time to let family know that she survived
+contradicts
+the shooting victim has not let family know that she survived
+
+the shooting victim had taken time to let family know that she survived
+contradicts
+the shooting victim had not let family know that she survived
+
+the shooting victim did not took time to let family know that she survived
+entails
+the shooting victim did not let family know that she survived
+
+the shooting victim has not taken time to let family know that she survived
+entails
+the shooting victim has not let family know that she survived
+
+the shooting victim had not taken time to let family know that she survived
+entails
+the shooting victim had not let family know that she survived
+
+the shooting victim did not took time to let family know that she survived
+contradicts
+the shooting victim let family know that she survived
+
+the shooting victim has not taken time to let family know that she survived
+contradicts
+the shooting victim has let family know that she survived
+
+the shooting victim had not taken time to let family know that she survived
+contradicts
+the shooting victim had let family know that she survived
+
+we took time to stop and reflect upon the impact computing technology
+entails
+we stopped and reflected upon the impact computing technology
+
+we have taken time to stop and reflect upon the impact computing technology
+entails
+we have stopped and reflected upon the impact computing technology
+
+we had taken time to stop and reflect upon the impact computing technology
+entails
+we had stopped and reflected upon the impact computing technology
+
+we took time to stop and reflect upon the impact computing technology
+contradicts
+we did not stop and reflect upon the impact computing technology
+
+we have taken time to stop and reflect upon the impact computing technology
+contradicts
+we have not stopped and reflected upon the impact computing technology
+
+we had taken time to stop and reflect upon the impact computing technology
+contradicts
+we had not stopped and reflected upon the impact computing technology
+
+we did not took time to stop and reflect upon the impact computing technology
+entails
+we did not stop and reflect upon the impact computing technology
+
+we have not taken time to stop and reflect upon the impact computing technology
+entails
+we have not stopped and reflected upon the impact computing technology
+
+we had not taken time to stop and reflect upon the impact computing technology
+entails
+we had not stopped and reflected upon the impact computing technology
+
+we did not took time to stop and reflect upon the impact computing technology
+contradicts
+we stopped and reflected upon the impact computing technology
+
+we have not taken time to stop and reflect upon the impact computing technology
+contradicts
+we have stopped and reflected upon the impact computing technology
+
+we had not taken time to stop and reflect upon the impact computing technology
+contradicts
+we had stopped and reflected upon the impact computing technology
+
+I took time to care for me and went for a run
+entails
+I cared for me and went for a run
+
+I took time to mentally care for me and went for a run
+entails
+I mentally cared for me and went for a run
+
+I have taken time to care for me and went for a run
+entails
+I have cared for me and gone for a run
+
+I have taken time to mentally care for me and went for a run
+entails
+I have mentally cared for me and gone for a run
+
+I had taken time to care for me and went for a run
+entails
+I had cared for me and gone for a run
+
+I had taken time to mentally care for me and went for a run
+entails
+I had mentally cared for me and gone for a run
+
+I took time to care for me and went for a run
+contradicts
+I did not care for me or went for a run
+
+I took time to mentally care for me and went for a run
+contradicts
+I did not mentally care for me or went for a run
+
+I have taken time to care for me and went for a run
+contradicts
+I have not cared for me or gone for a run
+
+I have taken time to mentally care for me and went for a run
+contradicts
+I have not mentally cared for me or gone for a run
+
+I had taken time to care for me and went for a run
+contradicts
+I had not cared for me or gone for a run
+
+I had taken time to mentally care for me and went for a run
+contradicts
+I had not mentally cared for me or gone for a run
+
+I did not took time to care for me or went for a run
+entails
+I did not care for me or went for a run
+
+I did not took time to mentally care for me or went for a run
+entails
+I did not mentally care for me or went for a run
+
+I have not taken time to care for me or went for a run
+entails
+I have not cared for me or gone for a run
+
+I have not taken time to mentally care for me or went for a run
+entails
+I have not mentally cared for me or gone for a run
+
+I had not taken time to care for me or went for a run
+entails
+I had not cared for me or gone for a run
+
+I had not taken time to mentally care for me or went for a run
+entails
+I had not mentally cared for me or gone for a run
+
+I did not took time to care for me or went for a run
+contradicts
+I cared for me and went for a run
+
+I did not took time to mentally care for me or went for a run
+contradicts
+I mentally cared for me and went for a run
+
+I have not taken time to care for me or went for a run
+contradicts
+I have cared for me and gone for a run
+
+I have not taken time to mentally care for me or went for a run
+contradicts
+I have mentally cared for me and gone for a run
+
+I had not taken time to care for me or went for a run
+contradicts
+I had cared for me and gone for a run
+
+I had not taken time to mentally care for me or went for a run
+contradicts
+I had mentally cared for me and gone for a run
+
+the nursing staff took time to listen to my concerns
+entails
+the nursing staff listened to my concerns
+
+the nursing staff has taken time to listen to my concerns
+entails
+the nursing staff has listened to my concerns
+
+the nursing staff had taken time to listen to my concerns
+entails
+the nursing staff had listened to my concerns
+
+the nursing staff took time to listen to my concerns
+contradicts
+the nursing staff did not listen to my concerns
+
+the nursing staff has taken time to listen to my concerns
+contradicts
+the nursing staff has not listened to my concerns
+
+the nursing staff had taken time to listen to my concerns
+contradicts
+the nursing staff had not listened to my concerns
+
+the nursing staff did not took time to listen to my concerns
+entails
+the nursing staff did not listen to my concerns
+
+the nursing staff has not taken time to listen to my concerns
+entails
+the nursing staff has not listened to my concerns
+
+the nursing staff had not taken time to listen to my concerns
+entails
+the nursing staff had not listened to my concerns
+
+the nursing staff did not took time to listen to my concerns
+contradicts
+the nursing staff listened to my concerns
+
+the nursing staff has not taken time to listen to my concerns
+contradicts
+the nursing staff has listened to my concerns
+
+the nursing staff had not taken time to listen to my concerns
+contradicts
+the nursing staff had listened to my concerns
+
+I took time to thank God for seeing me through that day of days
+entails
+I thanked God for seeing me through that day of days
+
+I have taken time to thank God for seeing me through that day of days
+entails
+I have thanked God for seeing me through that day of days
+
+I had taken time to thank God for seeing me through that day of days
+entails
+I had thanked God for seeing me through that day of days
+
+I took time to thank God for seeing me through that day of days
+contradicts
+I did not thank God for seeing me through that day of days
+
+I have taken time to thank God for seeing me through that day of days
+contradicts
+I have not thanked God for seeing me through that day of days
+
+I had taken time to thank God for seeing me through that day of days
+contradicts
+I had not thanked God for seeing me through that day of days
+
+I did not took time to thank God for seeing me through that day of days
+entails
+I did not thank God for seeing me through that day of days
+
+I have not taken time to thank God for seeing me through that day of days
+entails
+I have not thanked God for seeing me through that day of days
+
+I had not taken time to thank God for seeing me through that day of days
+entails
+I had not thanked God for seeing me through that day of days
+
+I did not took time to thank God for seeing me through that day of days
+contradicts
+I thanked God for seeing me through that day of days
+
+I have not taken time to thank God for seeing me through that day of days
+contradicts
+I have thanked God for seeing me through that day of days
+
+I had not taken time to thank God for seeing me through that day of days
+contradicts
+I had thanked God for seeing me through that day of days
+
+you took time to complete our survey last fall
+entails
+you completed our survey last fall
+
+you have taken time to complete our survey last fall
+entails
+you have completed our survey last fall
+
+you had taken time to complete our survey last fall
+entails
+you had completed our survey last fall
+
+you took time to complete our survey last fall
+contradicts
+you did not complete our survey last fall
+
+you have taken time to complete our survey last fall
+contradicts
+you have not completed our survey last fall
+
+you had taken time to complete our survey last fall
+contradicts
+you had not completed our survey last fall
+
+you did not took time to complete our survey last fall
+entails
+you did not complete our survey last fall
+
+you have not taken time to complete our survey last fall
+entails
+you have not completed our survey last fall
+
+you had not taken time to complete our survey last fall
+entails
+you had not completed our survey last fall
+
+you did not took time to complete our survey last fall
+contradicts
+you completed our survey last fall
+
+you have not taken time to complete our survey last fall
+contradicts
+you have completed our survey last fall
+
+you had not taken time to complete our survey last fall
+contradicts
+you had completed our survey last fall
+
+sheriff Billy McGee took time to support his mistress in Chancery Court
+entails
+sheriff Billy McGee supported his mistress in Chancery Court
+
+sheriff Billy McGee has taken time to support his mistress in Chancery Court
+entails
+sheriff Billy McGee has supported his mistress in Chancery Court
+
+sheriff Billy McGee had taken time to support his mistress in Chancery Court
+entails
+sheriff Billy McGee had supported his mistress in Chancery Court
+
+sheriff Billy McGee took time to support his mistress in Chancery Court
+contradicts
+sheriff Billy McGee did not support his mistress in Chancery Court
+
+sheriff Billy McGee has taken time to support his mistress in Chancery Court
+contradicts
+sheriff Billy McGee has not supported his mistress in Chancery Court
+
+sheriff Billy McGee had taken time to support his mistress in Chancery Court
+contradicts
+sheriff Billy McGee had not supported his mistress in Chancery Court
+
+sheriff Billy McGee did not took time to support his mistress in Chancery Court
+entails
+sheriff Billy McGee did not support his mistress in Chancery Court
+
+sheriff Billy McGee has not taken time to support his mistress in Chancery Court
+entails
+sheriff Billy McGee has not supported his mistress in Chancery Court
+
+sheriff Billy McGee had not taken time to support his mistress in Chancery Court
+entails
+sheriff Billy McGee had not supported his mistress in Chancery Court
+
+sheriff Billy McGee did not took time to support his mistress in Chancery Court
+contradicts
+sheriff Billy McGee supported his mistress in Chancery Court
+
+sheriff Billy McGee has not taken time to support his mistress in Chancery Court
+contradicts
+sheriff Billy McGee has supported his mistress in Chancery Court
+
+sheriff Billy McGee had not taken time to support his mistress in Chancery Court
+contradicts
+sheriff Billy McGee had supported his mistress in Chancery Court
+
+boyband Blake took time to dig into Luton on Sunday
+entails
+boyband Blake dug into Luton on Sunday
+
+boyband Blake has taken time to dig into Luton on Sunday
+entails
+boyband Blake has dug into Luton on Sunday
+
+boyband Blake had taken time to dig into Luton on Sunday
+entails
+boyband Blake had dug into Luton on Sunday
+
+boyband Blake took time to dig into Luton on Sunday
+contradicts
+boyband Blake did not dig into Luton on Sunday
+
+boyband Blake has taken time to dig into Luton on Sunday
+contradicts
+boyband Blake has not dug into Luton on Sunday
+
+boyband Blake had taken time to dig into Luton on Sunday
+contradicts
+boyband Blake had not dug into Luton on Sunday
+
+boyband Blake did not took time to dig into Luton on Sunday
+entails
+boyband Blake did not dig into Luton on Sunday
+
+boyband Blake has not taken time to dig into Luton on Sunday
+entails
+boyband Blake has not dug into Luton on Sunday
+
+boyband Blake had not taken time to dig into Luton on Sunday
+entails
+boyband Blake had not dug into Luton on Sunday
+
+boyband Blake did not took time to dig into Luton on Sunday
+contradicts
+boyband Blake dug into Luton on Sunday
+
+boyband Blake has not taken time to dig into Luton on Sunday
+contradicts
+boyband Blake has dug into Luton on Sunday
+
+boyband Blake had not taken time to dig into Luton on Sunday
+contradicts
+boyband Blake had dug into Luton on Sunday
+
+a red fox took time to smell the Montreal flowers
+entails
+a red fox smelt the Montreal flowers
+
+a red fox has taken time to smell the Montreal flowers
+entails
+a red fox has smelled the Montreal flowers
+
+a red fox had taken time to smell the Montreal flowers
+entails
+a red fox had smelled the Montreal flowers
+
+a red fox took time to smell the Montreal flowers
+contradicts
+a red fox did not smell the Montreal flowers
+
+a red fox has taken time to smell the Montreal flowers
+contradicts
+a red fox has not smelled the Montreal flowers
+
+a red fox had taken time to smell the Montreal flowers
+contradicts
+a red fox had not smelled the Montreal flowers
+
+a red fox did not took time to smell the Montreal flowers
+entails
+a red fox did not smell the Montreal flowers
+
+a red fox has not taken time to smell the Montreal flowers
+entails
+a red fox has not smelled the Montreal flowers
+
+a red fox had not taken time to smell the Montreal flowers
+entails
+a red fox had not smelled the Montreal flowers
+
+a red fox did not took time to smell the Montreal flowers
+contradicts
+a red fox smelt the Montreal flowers
+
+a red fox has not taken time to smell the Montreal flowers
+contradicts
+a red fox has smelled the Montreal flowers
+
+a red fox had not taken time to smell the Montreal flowers
+contradicts
+a red fox had smelled the Montreal flowers
+
+Jack Garratt took time to answer questions from Trinity students
+entails
+Jack Garratt answered questions from Trinity students
+
+Jack Garratt has taken time to answer questions from Trinity students
+entails
+Jack Garratt has answered questions from Trinity students
+
+Jack Garratt had taken time to answer questions from Trinity students
+entails
+Jack Garratt had answered questions from Trinity students
+
+Jack Garratt took time to answer questions from Trinity students
+contradicts
+Jack Garratt did not answer questions from Trinity students
+
+Jack Garratt has taken time to answer questions from Trinity students
+contradicts
+Jack Garratt has not answered questions from Trinity students
+
+Jack Garratt had taken time to answer questions from Trinity students
+contradicts
+Jack Garratt had not answered questions from Trinity students
+
+Jack Garratt did not took time to answer questions from Trinity students
+entails
+Jack Garratt did not answer questions from Trinity students
+
+Jack Garratt has not taken time to answer questions from Trinity students
+entails
+Jack Garratt has not answered questions from Trinity students
+
+Jack Garratt had not taken time to answer questions from Trinity students
+entails
+Jack Garratt had not answered questions from Trinity students
+
+Jack Garratt did not took time to answer questions from Trinity students
+contradicts
+Jack Garratt answered questions from Trinity students
+
+Jack Garratt has not taken time to answer questions from Trinity students
+contradicts
+Jack Garratt has answered questions from Trinity students
+
+Jack Garratt had not taken time to answer questions from Trinity students
+contradicts
+Jack Garratt had answered questions from Trinity students
+
+university of Richmond alumna took time to cultivate her skills and find her passion
+entails
+university of Richmond alumna cultivated her skills and found her passion
+
+university of Richmond alumna has taken time to cultivate her skills and find her passion
+entails
+university of Richmond alumna has cultivated her skills and found her passion
+
+university of Richmond alumna had taken time to cultivate her skills and find her passion
+entails
+university of Richmond alumna had cultivated her skills and found her passion
+
+university of Richmond alumna took time to cultivate her skills and find her passion
+contradicts
+university of Richmond alumna did not cultivate her skills or find her passion
+
+university of Richmond alumna has taken time to cultivate her skills and find her passion
+contradicts
+university of Richmond alumna has not cultivated her skills or found her passion
+
+university of Richmond alumna had taken time to cultivate her skills and find her passion
+contradicts
+university of Richmond alumna had not cultivated her skills or found her passion
+
+university of Richmond alumna did not took time to cultivate her skills or find her passion
+entails
+university of Richmond alumna did not cultivate her skills or find her passion
+
+university of Richmond alumna has not taken time to cultivate her skills or find her passion
+entails
+university of Richmond alumna has not cultivated her skills or found her passion
+
+university of Richmond alumna had not taken time to cultivate her skills or find her passion
+entails
+university of Richmond alumna had not cultivated her skills or found her passion
+
+university of Richmond alumna did not took time to cultivate her skills or find her passion
+contradicts
+university of Richmond alumna cultivated her skills and found her passion
+
+university of Richmond alumna has not taken time to cultivate her skills or find her passion
+contradicts
+university of Richmond alumna has cultivated her skills and found her passion
+
+university of Richmond alumna had not taken time to cultivate her skills or find her passion
+contradicts
+university of Richmond alumna had cultivated her skills and found her passion
+
+Barack Obama took time to talk to everyone at Anna Wintour's fundraiser last night
+entails
+Barack Obama talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama has taken time to talk to everyone at Anna Wintour's fundraiser last night
+entails
+Barack Obama has talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama had taken time to talk to everyone at Anna Wintour's fundraiser last night
+entails
+Barack Obama had talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama took time to talk to everyone at Anna Wintour's fundraiser last night
+contradicts
+Barack Obama did not talk to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama has taken time to talk to everyone at Anna Wintour's fundraiser last night
+contradicts
+Barack Obama has not talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama had taken time to talk to everyone at Anna Wintour's fundraiser last night
+contradicts
+Barack Obama had not talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama did not took time to talk to everyone at Anna Wintour's fundraiser last night
+entails
+Barack Obama did not talk to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama has not taken time to talk to everyone at Anna Wintour's fundraiser last night
+entails
+Barack Obama has not talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama had not taken time to talk to everyone at Anna Wintour's fundraiser last night
+entails
+Barack Obama had not talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama did not took time to talk to everyone at Anna Wintour's fundraiser last night
+contradicts
+Barack Obama talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama has not taken time to talk to everyone at Anna Wintour's fundraiser last night
+contradicts
+Barack Obama has talked to everyone at Anna Wintour's fundraiser last night
+
+Barack Obama had not taken time to talk to everyone at Anna Wintour's fundraiser last night
+contradicts
+Barack Obama had talked to everyone at Anna Wintour's fundraiser last night
+
+Jesus took time to figure him out
+entails
+Jesus figured him out
+
+Jesus has taken time to figure him out
+entails
+Jesus has figured him out
+
+Jesus had taken time to figure him out
+entails
+Jesus had figured him out
+
+Jesus took time to figure him out
+contradicts
+Jesus did not figure him out
+
+Jesus has taken time to figure him out
+contradicts
+Jesus has not figured him out
+
+Jesus had taken time to figure him out
+contradicts
+Jesus had not figured him out
+
+Jesus did not took time to figure him out
+entails
+Jesus did not figure him out
+
+Jesus has not taken time to figure him out
+entails
+Jesus has not figured him out
+
+Jesus had not taken time to figure him out
+entails
+Jesus had not figured him out
+
+Jesus did not took time to figure him out
+contradicts
+Jesus figured him out
+
+Jesus has not taken time to figure him out
+contradicts
+Jesus has figured him out
+
+Jesus had not taken time to figure him out
+contradicts
+Jesus had figured him out
+
+Mick Jagger took time to thank restaurant waiter
+entails
+Mick Jagger thanked restaurant waiter
+
+Mick Jagger has taken time to thank restaurant waiter
+entails
+Mick Jagger has thanked restaurant waiter
+
+Mick Jagger had taken time to thank restaurant waiter
+entails
+Mick Jagger had thanked restaurant waiter
+
+Mick Jagger took time to thank restaurant waiter
+contradicts
+Mick Jagger did not thank restaurant waiter
+
+Mick Jagger has taken time to thank restaurant waiter
+contradicts
+Mick Jagger has not thanked restaurant waiter
+
+Mick Jagger had taken time to thank restaurant waiter
+contradicts
+Mick Jagger had not thanked restaurant waiter
+
+Mick Jagger did not took time to thank restaurant waiter
+entails
+Mick Jagger did not thank restaurant waiter
+
+Mick Jagger has not taken time to thank restaurant waiter
+entails
+Mick Jagger has not thanked restaurant waiter
+
+Mick Jagger had not taken time to thank restaurant waiter
+entails
+Mick Jagger had not thanked restaurant waiter
+
+Mick Jagger did not took time to thank restaurant waiter
+contradicts
+Mick Jagger thanked restaurant waiter
+
+Mick Jagger has not taken time to thank restaurant waiter
+contradicts
+Mick Jagger has thanked restaurant waiter
+
+Mick Jagger had not taken time to thank restaurant waiter
+contradicts
+Mick Jagger had thanked restaurant waiter
+
+he took time to help the man up the mountain
+entails
+he helped the man up the mountain
+
+he has taken time to help the man up the mountain
+entails
+he has helped the man up the mountain
+
+he had taken time to help the man up the mountain
+entails
+he had helped the man up the mountain
+
+he took time to help the man up the mountain
+contradicts
+he did not help the man up the mountain
+
+he has taken time to help the man up the mountain
+contradicts
+he has not helped the man up the mountain
+
+he had taken time to help the man up the mountain
+contradicts
+he had not helped the man up the mountain
+
+he did not took time to help the man up the mountain
+entails
+he did not help the man up the mountain
+
+he has not taken time to help the man up the mountain
+entails
+he has not helped the man up the mountain
+
+he had not taken time to help the man up the mountain
+entails
+he had not helped the man up the mountain
+
+he did not took time to help the man up the mountain
+contradicts
+he helped the man up the mountain
+
+he has not taken time to help the man up the mountain
+contradicts
+he has helped the man up the mountain
+
+he had not taken time to help the man up the mountain
+contradicts
+he had helped the man up the mountain
+
+you took time to locate and paste that piece of shit meme as a response
+entails
+you located and pasted that piece of shit meme as a response
+
+you have taken time to locate and paste that piece of shit meme as a response
+entails
+you have located and pasted that piece of shit meme as a response
+
+you had taken time to locate and paste that piece of shit meme as a response
+entails
+you had located and pasted that piece of shit meme as a response
+
+you took time to locate and paste that piece of shit meme as a response
+contradicts
+you did not locate and paste that piece of shit meme as a response
+
+you have taken time to locate and paste that piece of shit meme as a response
+contradicts
+you have not located and pasted that piece of shit meme as a response
+
+you had taken time to locate and paste that piece of shit meme as a response
+contradicts
+you had not located and pasted that piece of shit meme as a response
+
+you did not took time to locate and paste that piece of shit meme as a response
+entails
+you did not locate and paste that piece of shit meme as a response
+
+you have not taken time to locate and paste that piece of shit meme as a response
+entails
+you have not located and pasted that piece of shit meme as a response
+
+you had not taken time to locate and paste that piece of shit meme as a response
+entails
+you had not located and pasted that piece of shit meme as a response
+
+you did not took time to locate and paste that piece of shit meme as a response
+contradicts
+you located and pasted that piece of shit meme as a response
+
+you have not taken time to locate and paste that piece of shit meme as a response
+contradicts
+you have located and pasted that piece of shit meme as a response
+
+you had not taken time to locate and paste that piece of shit meme as a response
+contradicts
+you had located and pasted that piece of shit meme as a response
+
+the world's top-ranked tennis player took time to share its kitchen secrets with a crowd
+entails
+the world's top-ranked tennis player shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player has taken time to share its kitchen secrets with a crowd
+entails
+the world's top-ranked tennis player has shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player had taken time to share its kitchen secrets with a crowd
+entails
+the world's top-ranked tennis player had shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player took time to share its kitchen secrets with a crowd
+contradicts
+the world's top-ranked tennis player did not share its kitchen secrets with a crowd
+
+the world's top-ranked tennis player has taken time to share its kitchen secrets with a crowd
+contradicts
+the world's top-ranked tennis player has not shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player had taken time to share its kitchen secrets with a crowd
+contradicts
+the world's top-ranked tennis player had not shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player did not took time to share its kitchen secrets with a crowd
+entails
+the world's top-ranked tennis player did not share its kitchen secrets with a crowd
+
+the world's top-ranked tennis player has not taken time to share its kitchen secrets with a crowd
+entails
+the world's top-ranked tennis player has not shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player had not taken time to share its kitchen secrets with a crowd
+entails
+the world's top-ranked tennis player had not shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player did not took time to share its kitchen secrets with a crowd
+contradicts
+the world's top-ranked tennis player shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player has not taken time to share its kitchen secrets with a crowd
+contradicts
+the world's top-ranked tennis player has shared its kitchen secrets with a crowd
+
+the world's top-ranked tennis player had not taken time to share its kitchen secrets with a crowd
+contradicts
+the world's top-ranked tennis player had shared its kitchen secrets with a crowd
+

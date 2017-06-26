@@ -1,0 +1,45 @@
+			Positive		Negative
+
+be_able						hesitated
+be_forced		be_prevented
+be_prevented		be_forced
+bother			
+break_pledge
+break_promise
+dare
+fail
+fail_obligation
+follow_order
+forget
+fulfill_promise
+get_chance
+have_chance
+have_courage
+have_foresight
+have_time
+hesitate
+keep_promise
+lack_foresight
+lose_opportunity
+make_promise
+make_vow
+manage
+meet_duty
+meet_obligation
+meet_promise
+miss_chance
+miss_opportunity
+neglect
+obey_order
+remember
+take_chance
+take_no_time
+take_opportunity
+take_time
+take_vow
+waste_chance
+waste_money
+waste_no_time
+waste_opportunity
+waste_time
+
