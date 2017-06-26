@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# glove embeddings
+glove/
+
 # checkpoint metadata
 *.checkpoint
 *.meta
