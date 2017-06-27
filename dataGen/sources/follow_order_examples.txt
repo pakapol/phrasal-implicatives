@@ -1,0 +1,126 @@
+Implicatives:
+follow (an,the,~,PossPro) order(s) [+|-]
+
+Examples:
+I[S1] followed[V] the orders to do[V] the same thing that those "horrible" Nazi's
+I[S1] followed[V] [PossPro] orders to do[V] the same thing that those "horrible" Nazi's
+Garza[S3] (faithfully) followed[V] the orders to work[V] on [PossPro] own
+Garza[S3] (faithfully) followed[V] [PossPro] orders to work[V] on [PossPro] own
+he[M,S3] followed[V] the orders to not help[V] Nataku against Gyumaoh
+he[M,S3] followed[V] [PossPro] orders to not help[V] Nataku against Gyumaoh
+they[P3] followed[V] the orders to restrict[V] free water
+they[P3] followed[V] [PossPro] orders to restrict[V] free water
+she[F,S3] followed[V] the orders to exit[V] the hotel
+she[F,S3] followed[V] [PossPro] orders to exit[V] the hotel
+I[S1] followed[V] the orders to make[V] sure we received the reports
+I[S1] followed[V] [PossPro] orders to make[V] sure we received the reports
+Brown[M,S3] followed[V] the orders to send[V] vice officers after Uber
+Brown[M,S3] followed[V] [PossPro] orders to send[V] vice officers after Uber
+Turkish ISPs[P3] followed[V] the orders to block[V] Twitter
+Turkish ISPs[P3] followed[V] [PossPro] orders to block[V] Twitter
+we[P1] followed[V] the orders to stay[V] home
+we[P1] followed[V] [PossPro] orders to stay[V] home
+he[M,S3] followed[V] the orders to kill[V]
+he[M,S3] followed[V] [PossPro] orders to kill[V]
+the feds[P3] followed[V] the orders to bust[V] this man in Mexico
+the feds[P3] followed[V] [PossPro] orders to bust[V] this man in Mexico
+they[P3] followed[V] the orders to hurt[V] someone
+they[P3] followed[V] [PossPro] orders to hurt[V] someone
+she and her husband[P3] followed[V] the orders to evacuate[V]
+she and her husband[P3] followed[V] [PossPro] orders to evacuate[V]
+they[P3] blindly followed[V] the orders to continue[V] the slaughter
+they[P3] blindly followed[V] [PossPro] orders to continue[V] the slaughter
+the disciples[P3] followed[V] the orders to place[V] the fragments in the 12 baskets
+the disciples[P3] followed[V] [PossPro] orders to place[V] the fragments in the 12 baskets
+Indra[M,S3] followed[V] the orders to abandon[V] Kane's people
+Indra[M,S3] followed[V] [PossPro] orders to abandon[V] Kane's people
+he[M,S3] followed[V] the order to report[V] to the Commanding Officer
+he[M,S3] followed[V] [PossPro] order to report[V] to the Commanding Officer
+most of the Danish Army[P3] followed[V] the order to capitulate[V]
+most of the Danish Army[P3] followed[V] [PossPro] order to capitulate[V]
+Castañeda[M,S3] (wisely) followed[V] the order to avoid[V] open conflict
+Castañeda[M,S3] (wisely) followed[V] [PossPro] order to avoid[V] open conflict
+he[M,S3] followed[V] the order to go[V] to B- top
+he[M,S3] followed[V] [PossPro] order to go[V] to B- top
+the media company[S3] followed[V] the order to remove[V] the video
+the media company[S3] followed[V] [PossPro] order to remove[V] the video
+the officer in command of the soldiers[M,S3] followed[V] the order to charge[V]
+the officer in command of the soldiers[M,S3] followed[V] [PossPro] order to charge[V]
+the digger[M,S3] followed[V] the order to crush[V] the coverplate with a quartering hammer
+the digger[M,S3] followed[V] [PossPro] order to crush[V] the coverplate with a quartering hammer
+thirteen elected officials including women[P3] followed[V] the order to publish[V] their resignations in the local newspapers
+thirteen elected officials including women[P3] followed[V] [PossPro] order to publish[V] their resignations in the local newspapers
+the ship[F,S3] followed[V] the order to track[V] and attack[V]
+the ship[F,S3] followed[V] [PossPro] order to track[V] and attack[V]
+the Kurds[P3] (back then eagerly) followed[V] the order to expel[V] and kill[V] Armenians
+the Kurds[P3] (back then eagerly) followed[V] [PossPro] order to expel[V] and kill[V] Armenians
+she[F,S3] (also) followed[V] the order to kill[V] Travis
+she[F,S3] (also) followed[V] [PossPro] order to kill[V] Travis
+Warren[M,S3] followed[V] the order to move[V] out from Old Church
+Warren[M,S3] followed[V] [PossPro] order to move[V] out from Old Church
+she[F,S3] followed[V] the order to arrest[V] him
+she[F,S3] followed[V] [PossPro] order to arrest[V] him
+Hero[M,S3] followed[V] the order to mutilate[V] Homer by chopping off his foot
+Hero[M,S3] followed[V] [PossPro] order to mutilate[V] Homer by chopping off his foot
+USDA[S3] followed[V] the order to issue[V] new mCOOL regulations
+USDA[S3] followed[V] [PossPro] order to issue[V] new mCOOL regulations
+the trusted Joab[M,S3] followed[V] the order to have[V] Uriah killed
+the trusted Joab[M,S3] followed[V] [PossPro] order to have[V] Uriah killed
+Siohvaughn Wade[F,S3] followed[V] an order to make[V] sure the couple's two children talk to their father every day
+Siohvaughn Wade[F,S3] followed[V] [PossPro] order to make[V] sure the couple's two children talk to their father every day
+he[M,S3] followed[V] an order to return[V] to work [AND,OR] perform a restricted duty assignment
+he[M,S3] followed[V] [PossPro] order to return[V] to work [AND,OR] perform a restricted duty assignment
+forty-eight people[P3] followed[V] an order to get[V] off a train at a tiny desert railway station in Uzbekistan
+forty-eight people[P3] followed[V] [PossPro] order to get[V] off a train at a tiny desert railway station in Uzbekistan
+he[M,S3] followed[V] an order to get[V] on the ground
+he[M,S3] followed[V] [PossPro] order to get[V] on the ground
+I[S1] followed[V] an order to install[V] drivers
+I[S1] followed[V] [PossPro] order to install[V] drivers
+she[F,S3] followed[V] an order to kill[V] an enemy of [PossPro] Commanding Officer
+she[F,S3] followed[V] [PossPro] order to kill[V] an enemy of [PossPro] Commanding Officer
+they[P3] followed[V] an order to slaughter[V] a whole planet
+they[P3] followed[V] [PossPro] order to slaughter[V] a whole planet
+he[M,S3] followed[V] an order to close[V] the front door
+he[M,S3] followed[V] [PossPro] order to close[V] the front door
+he[M,S3] employee followed[V] an order to open[V] the cash drawer
+he[M,S3] employee followed[V] [PossPro] order to open[V] the cash drawer
+he[M,S3] followed[V] order to falsify[V] reports
+he[M,S3] followed[V] [PossPro] order to falsify[V] reports
+he[M,S3] followed[V] order to complete[V] the task
+he[M,S3] followed[V] [PossPro] order to complete[V] the task
+Thưởng[M,S3] followed[V] order to perform[V] public service in Paracel
+Thưởng[M,S3] followed[V] [PossPro] order to perform[V] public service in Paracel
+soldiers such as Maiguart[P3] followed[V] orders to murder[V] because refusal to do so would mean [PossPro] own execution
+soldiers such as Maiguart[P3] followed[V] [PossPro] orders to murder[V] because refusal to do so would mean [PossPro] own execution
+the soldiers[P3] followed[V] orders to direct[V] traffic [AND,OR] help the wagons across
+the soldiers[P3] followed[V] [PossPro] orders to direct[V] traffic [AND,OR] help the wagons across
+many ordinary people[P3] followed[V] orders to kill[V] [PossPro] neighbors
+many ordinary people[P3] followed[V] [PossPro] orders to kill[V] [PossPro] neighbors
+Kerry Zieger[M,S3] followed[V] orders to intervene[V] without the right gear out of a sense of duty
+Kerry Zieger[M,S3] followed[V] [PossPro] orders to intervene[V] without the right gear out of a sense of duty
+Philando[M,S3] (simply) followed[V] orders to retrieve[V] [PossPro] registration when a panicked police officer shot [ObjPro] multiple times
+Philando[M,S3] (simply) followed[V] [PossPro] orders to retrieve[V] [PossPro] registration when a panicked police officer shot [ObjPro] multiple times
+we[P1] followed[V] orders to help[V] create the platform they needed to move into the future
+we[P1] followed[V] [PossPro] orders to help[V] create the platform they needed to move into the future
+I[S1] followed[V] an order to travel[V] nine thousand miles to participate in destroying another people
+I[S1] followed[V] [PossPro] order to travel[V] nine thousand miles to participate in destroying another people
+most of them[P3] followed[V] an order to move[V] to the sidewalk when the park closed
+most of them[P3] followed[V] [PossPro] order to move[V] to the sidewalk when the park closed
+he[M,S3] followed[V] an order to kill[V] women and children
+he[M,S3] followed[V] [PossPro] order to kill[V] women and children
+the private[M,S3] followed[V] an order to shoot[V] unarmed detainees
+the private[M,S3] followed[V] [PossPro] order to shoot[V] unarmed detainees
+the soldiers[P3] followed[V] an order to kill[V] unarmed Israeli citizens
+the soldiers[P3] followed[V] [PossPro] order to kill[V] unarmed Israeli citizens
+the cartel[S3] followed[V] an order to assassinate[V] Javier Orlando Galindo Puente
+the cartel[S3] followed[V] [PossPro] order to assassinate[V] Javier Orlando Galindo Puente
+the supporters of Vespasian[P3] followed[V] an order to expel[V] philosophers from Italy
+the supporters of Vespasian[P3] followed[V] [PossPro] order to expel[V] philosophers from Italy
+the plaintiffs[P3] followed[V] an order to show[V] cause why they should not be punished for contempt
+the plaintiffs[P3] followed[V] [PossPro] order to show[V] cause why they should not be punished for contempt
+the soldiers[P3] followed[V] an order (from a squad leader) to fire[V]
+the soldiers[P3] followed[V] [PossPro] order (from a squad leader) to fire[V]
+Lieutenant Britt[M,S3] followed[V] an order to recover[V] the RPG launcher
+Lieutenant Britt[M,S3] followed[V] [PossPro] order to recover[V] the RPG launcher
+we[P1] followed[V] an order to stack[V] arms and rest
+we[P1] followed[V] [PossPro] order to stack[V] arms and rest

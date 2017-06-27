@@ -1,0 +1,50 @@
+Implicatives:
+lack (any,the,~) foresight [-|+]
+
+Examples:
+we[P1] lacked[V] any foresight to see[V] what would happen
+the management[S3] lacked[V] the foresight to appropriately forecast[V] interest rate increases
+our parents[P3] lacked[V] the foresight to warn[V] us about late-stage capitalism
+the moderately well-off parents[P3] lacked[V] the foresight to provide[V] for [PossPro] son's education
+he[M,S3] lacked[V] the foresight to get[V] [PossPro] crops in the ground at exactly the right time
+most Jews[P3] (simply) lacked[V] the foresight to envision[V] the fate awaiting them
+the younger locals[P3] lacked[V] the foresight to stock[V] up on beer and liquor before the storm hit
+the Obama administration[S3] lacked[V] the foresight to proactively act[V] before the current crisis point
+I[S1] lacked[V] the foresight to bring[V] it in pennies
+we[P1] lacked[V] the foresight to aggregate[V] the data by all these dimensions
+we[P1] lacked[V] the foresight to anticipate[V] Y2K
+they[P3] lacked[V] the foresight to implement[V] a positive change
+the industrialized countries[P3] lacked[V] the foresight to face[V] up to the fast action of the oil-producing countries
+the BP execs[P3] lacked[V] the foresight to oversee[V] proper rig safety measures in the Gulf
+the city fathers[P3] lacked[V] the foresight to purchase[V] the property for $1
+we[P1] lacked[V] the foresight to have[V] put one in the fridge earlier that day
+the agency[S3] (still) lacked[V] the foresight to employ[V] a private company to transport our astronauts to space
+I[S1] lacked[V] the foresight to bring[V] a mat
+they[P3] (also) lacked[V] the foresight to track[V] [PossPro] progress along the way
+our leadership[S3] lacked[V] the foresight to see[V] the problems plaguing the African-American community
+Nancy Johnson[F,S3] lacked[V] the foresight to have[V] [PossPro] invention patented
+I[S1] lacked[V] the foresight to understand[V] that [SubjPro] would soon outgrow the space [SubjPro] just purchased
+the company[S3] lacked[V] the foresight to diversify[V] [ReflPro] geographically
+it[S3] lacked[V] the foresight to make[V] contingency plans for funding
+they[P3] lacked[V] the foresight to prepare[V] the book
+the FCC[S3] lacked[V] the foresight to prohibit[V] zero rating in our net neutrality rules
+we[P1] lacked[V] the foresight to predict[V] the results of [PossPro] immigration policies
+they[P3] lacked[V] the foresight to pay[V] for earthquake insurance
+he[M,S3] lacked[V] the foresight to choose[V] Linux as the backbone operating system
+it[S3] lacked[V] the foresight to beef[V] up [PossPro] network
+we[P1] lacked[V] the foresight to call[V] ahead and introduce[V] [ReflPro]
+he[M,S3] lacked[V] foresight to discern[V] the return it would bring [ObjPro]
+we[P1] lacked[V] foresight to anticipate[V] everything that might happen
+they[P3] lacked[V] foresight to defend[V] [ReflPro]
+NASA officials[P3] lacked[V] foresight to archive Apollo 11 footage
+the Twins[P3] lacked[V] foresight to lay the groundwork for such an eventuality
+they[P3] lacked[V] foresight to prepare[V] for the consequences
+I[S1] lacked[V] foresight to get[V] Thai basil at the farmer's market
+the Premier[M,S3] lacked[V] foresight to tackle[V] threat posed by terrorism
+the government[S3] (also) lacked[V] foresight to anticipate[V] employers' strong opposition
+the board and district[P3] lacked[V] foresight to plan[V] for the debt
+local entrepreneurs[P3] lacked[V] foresight to open[V] ventures that would create employment for hundreds of people
+we[P1] lacked[V] foresight to buy[V] those little stick-things
+I[S1] lacked[V] any foresight to plan[V] for a Father's Day gift
+the people who developed this strategy[P3] lacked[V] any foresight to see[V] that [PossPro] new ally would soon become [PossPro] #1 enemy
+the city council[S3] lacked[V] any foresight to capitalize[V] on the natural resources it has at [PossPro] disposal

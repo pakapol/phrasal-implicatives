@@ -1,0 +1,64 @@
+Implicatives:
+bother [+|-]
+
+Examples:
+she[F,S3] bothered[V] to fold[V] [PossPro] socks and place one inside each shoe
+she[F,S3] bothered[V] to listen[V] to [PossPro] patient unlike other doctors
+he[M,S3] bothered[V] to try[V] to have a relationship with [PossPro] family
+he[M,S3] bothered[V] to stop[V] and consider[V] [PossPro] own set of motives
+I[S1] bothered[V] to come[V] out here
+I[S1] bothered[V] to drive[V] to the rent office
+you[S2] bothered[V] to tell[V] me that [SubjPro] loved me
+you[S2] bothered[V] to remove[V] the plaques and testimonials of those societies
+they[P3] bothered[V] to clean[V] up the tables
+they[P3] bothered[V] to find[V] out who and what I was
+people[P3] bothered[V] to respond[V] to my request
+Google[S3] bothered[V] to support[V] WebGL on Linux with the release
+Trey Gowdy[M,S3] bothered[V] to show[V] up for Huma Abedin's testimony today
+Trump[M,S3] bothered[V] to develop[V] a ground game [AND,OR] data analytics program
+the cyclist[M,S3] bothered[V] to stop[V] to check on her
+President Obama[M,S3] bothered[V] to notify[V] Pakistan of the drone strike
+Lamar Odom[M,S3] bothered[V] to stop[V] by to see [PossPro] kids
+Sean Penn[M,S3] bothered[V] to dress[V] up for [PossPro] premiere
+the Red Hot Chili Peppers[P3] bothered[V] to plug[V] [PossPro] guitars in
+the reporters[P3] bothered[V] to check[V] [AND,OR] vet[V] the anecdotes and quotes
+Hillary[F,S3] bothered[V] to check[V] facts before speaking under oath
+the affluent society[S3] bothered[V] to add[V] to the inherited system of canals and reservoirs
+officials[P3] bothered[V] to take[V] a look at the tests from four years ago
+we[P1] bothered[V] to do[V] [PossPro] own research
+Trump's offspring[P3] bothered[V] to register[V] for a political party in New York state
+the Colts[P3] bothered[V] to confirm[V] it
+she[F,S3] bothered[V] to improve[V] [PossPro] English enough to get a job
+Rubio[M,S3] bothered[V] to stick[V] around in the state to watch result
+Clinton[F,S3] bothered[V] to condemn[V] that offensive comment
+the idiot[M,S3] bothered[V] to unpack[V] [AND,OR] shower[V] after [PossPro] road trip
+I[S1] bothered[V] to do[V] it
+they[P3] bothered[V] to sweep[V] [AND,OR] mop the floors
+you[S2] bothered[V] to look[V] into this
+my closest friends[P3] bothered[V] to show[V] up
+I[S1] bothered[V] to change[V] room as [SubjPro] stayed[V] only one night
+the waiter[M,S3] bothered[V] to clean[V] the table
+we[P1] bothered[V] to ask[V] for a change of rooms
+teflon Hillary[F,S3] bothered[V] to seek[V] approval when [SubjPro] set[V] up an unsecured server
+I[S1] bothered[V] to use[V] condom
+I[S1] bothered[V] to click[V] on the llama story [AND,OR] the dress story
+Labour supporters[P3] bothered[V] to turn[V] out to vote
+our FBI soldiers[P3] bothered[V] to administer[V] the oath to this female renegade
+she[F,S3] bothered[V] to attend[V] the vote
+most polls[P3] bothered[V] to include[V] Donald Trump
+the patent attorney[M,S3] bothered[V] to take[V] the time to understand the slightly angled feature
+he[M,S3] bothered[V] to say[V] hello to the man on the witness stand
+he[M,S3] bothered[V] to read[V] them
+Jedi[P3] bothered[V] to rescue[V] Anakin's mother from slavery
+the cops[P3] bothered[V] to call[V] me after discovering his body
+the prophet[M,S3] bothered[V] to acknowledge[V] that salute
+she[F,S3] bothered[V] to count[V] the roll of hundreds because [SubjPro] was in a hurry
+you[S2] bothered[V] to ask[V] before writing your editorial
+Pierre de Fermat[M,S3] bothered[V] to write[V] it down
+Angels fans[P3] bothered[V] to counter[V] the applause
+it[S3] bothered[V] to find[V] out much about
+Mr. Schifrin[M,S3] bothered[V] to mention[V] the 2 million Ukrainians that had to flee this “DNR paradise”
+we[P1] bothered[V] to find[V] out about his whereabouts
+they[P3] (apparently) bothered[V] to look[V]
+he[M,S3] bothered[V] to check[V] the average age of people entering Disneyland
+Limos[F,S3] bothered[V] to answer[V] the complaint against [ObjPro]

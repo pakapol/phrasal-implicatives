@@ -1,0 +1,64 @@
+Implicatives:
+have (the,~,no) time to [.9|-]
+
+Examples:
+they[P3] had[V] plenty of time to prepare[V] for this downturn
+we[P1] had[V] the time to experience[V] the pool [AND,OR] hot tub
+I[S1] had[V] the time to uncover[V] the secrets of traffic generation on this platform
+I[S1] had[V] the time to deposit[V] my cheque in the bank
+Kazakhstan[S3] had[V] the time to upgrade[V] [PossPro] refineries as scheduled
+the sample[S3] had[V] the time to completely cool[V] down
+you[S2] had[V] the time to set[V] up these automation capabilities
+the team[S3] had[V] the time to (really) (actively) maintain[V] the project
+they[P3] (just) had[V] the time to figure[V] it all out
+those photons[P3] had[V] the time to travel[V] across the entire universe
+millennials[P3] (just) had[V] the time to build[V] up that relationship
+we[P1] had[V] time to convince[V] [PossPro] daughter to marry you
+I[S1] had[V] time to practice[V]
+his Majesty's government[S3] had[V] time to furnish[V] the report on this subject
+they[P3] had[V] time to get[V] familiar with the neighborhood
+he[M,S3] had[V] time to do[V] his homework
+Heather Cowan[F,S3] had[V] time to (thoroughly) review[V] the latest dear colleague letter
+the Haitian National Police[S3] had[V] time to readjust[V] from [PossPro] corrupt past
+light[S3] had[V] time to reach[V] us
+she[F,S3] had[V] time to consider[V] sterilization carefully
+Matt Kilgallon[M,S3] had[V] time to focus[V] on [PossPro] Blackburn Rovers future
+I[S1] had[V] the time to figure[V] out who [SubjPro] am [AND,OR] who [SubjPro] want to be
+people[P3] had[V] the time to read[V] the full story behind the headline
+the repair man[M,S3] had[V] the time to fix[V] it
+new ideas[P3] had[V] the time to take[V] hold
+they[P3] had[V] the time to pick[V] up additional hobbies
+employees[P3] had[V] the time to settle[V] in
+they[P3] had[V] the time to sit[V] by brooks [AND,OR] listen[V] to them babble
+their bodies[P3] had[V] the time to warm[V] up to sex
+Einstein[M,S3] had[V] the time to further[V] [PossPro] ideas
+my 5th graders[P3] had[V] time to write[V] letters of invitation
+Sevilla[S3] had[V] time to beat[V] Barcelona
+muslim shooters[P3] had[V] (enough) time to reload[V]
+Toomey[F,S3] had[V] time to give[V] pop the good news
+we[P1] had[V] time to use[V] the pool
+he[M,S3] (finally) had[V] time to develop[V] a marketing plan
+Eunyong Park[F,S3] had[V] time to change[V] [PossPro] mind
+the canvas[S3] had[V] time to dry[V] over night
+they[P3] had[V] plenty of time to prepare[V] for this downturn
+the car[S3] (even) had[V] time to refuel[V] on the route
+I[S1] had[V] no time to hate[V]
+we[P1] had[V] no time to go[V] after the rich
+we[P1] had[V] no time to move[V] [PossPro] daughter
+the Israelites[P3] had[V] no time to bake[V] bread that night
+Ariana Grande[F,S3] had[V] no time to chill[V] when [SubjPro] made [PossPro] Christmas EP
+the receptionist Sami[M,S3] had[V] no time to welcome[V] us
+the victims[P3] had[V] no time to defend[V] [ReflPro]
+Posh fans[P3] had[V] no time to catch[V] [SubjPro] breath
+the brave firefighter[M,S3] had[V] no time to fear[V] for his life
+the driver[F,S3] had[V] no time to react[V] before the collision
+we[P1] had[V] no time to drink[V] that beer
+I[S1] had[V] no time to download good clips [AND,OR] audio
+I[S1] had[V] no time to pick[V] out the worms
+it[S3] had[V] no time to burn[V] her fingers
+it[S3] had[V] no time to do[V] [PossPro] work
+the Soviet high command[S3] had[V] no time to set[V] up additional effective defences
+it[S3] had[V] no time to pick[V] up memories [AND,OR] attract[V] local spirits
+it[S3] had[V] no time to suit[V] up Javi Garc
+it[S3] had[V] no time to assess[V] the importance of the military measures undertaken by Moscow
+the ship[F,S3] had[V] no time to send[V] out signals

@@ -1,0 +1,64 @@
+Implicatives:
+manage [+|-]
+
+Examples:
+Kendall Jenner[M,S3] managed[V] to stand[V] in a fountain without getting wet
+Bill Gates[M,S3] managed[V] to insult[V] an entire country by sending them CHICKENS
+Buster Posey[M,S3] managed[V] to get[V] [PossPro] bat stuck in the protective netting behind home plate
+this player[M,S3] managed[V] to build[V] a Game Boy that plays Pokémon
+England's footballers[P3] managed[V] to deliver[V] a European exit of [PossPro] own in Nice
+we[P1] managed[V] to escape[V] in time
+these heroic women[P3] (just) managed[V] to stop[V] a date rape
+Chris Brown[M,S3] managed[V] to weasel [PossPro] way out[V] of a DUI in Amsterdam
+I[S1] managed[V] to sell[V] it at a very decent price
+Donald Trump[M,S3] managed[V] to unite[V] all of Silicon Valley against [ObjPro]
+the prevaricating media[S3] managed[V] to destroy[V] Crooked Hillary rather than glorify her
+Gina[F,S3] (finally) managed[V] to catch[V] [ReflPro] a man
+security testers[P3] managed[V] to hack[V] hospital patient monitors and drug dispensers
+Novartis[S3] managed[V] to take[V] the top spot in the Great Places to Work ranking
+we[P1] managed[V] to pull[V] off a perfect season
+the man[M,S3] managed[V] to evade[V] authorities
+I[S1] managed[V] to make[V] [ReflPro] understood in French
+they[P3] managed[V] to pay[V] less income tax last year than [SubjPro] did in 1999
+Fort McMurray Gretzky collector[M,S3] managed[V] to save[V] jerseys
+you[S2] managed[V] to stay[V] awake
+you[S2] managed[V] to get[V] into the University [SubjPro] wanted to
+she[F,S3] managed[V] to regain[V] [PossPro] usual cool self-control
+she[F,S3] managed[V] to complete[V] [PossPro] homework
+he[M,S3] managed[V] to put[V] the cup of tea on the table
+he[M,S3] managed[V] to achieve[V] some of [PossPro] life goals
+they[P3] managed[V] to gel with [PossPro] interviewer
+they[P3] managed[V] to attract[V] enough trading
+they[P3] managed[V] to steal[V] more info [AND,OR] other passwords
+only one student out of 16[S3] managed[V] to fill[V] out the solo questionnaire completely
+Britain[S3] managed[V] to make[V] an alliance with Russia
+I[S1] managed[V] to see[V] who it was
+I[S1] managed[V] to try[V] the Iranian restaurant
+I[S1] managed[V] to get[V] a real video up this week
+Robin Williams[M,S3] managed[V] to recover[V] from depression
+I[S1] managed[V] to get[V] to the top of the mountain
+we[P1] managed[V] to win[V] this game
+they[P3] managed[V] to wade[V] through the protective insurgent lines
+we[P1] managed[V] to hang[V] on to [PossPro] lead
+he[M,S3] managed[V] to get[V] [PossPro] essay finished on time
+Murali Vijay[M,S3] (too) managed[V] to complete[V] the task at the crease
+Gandalf[M,S3] managed[V] to tell[V] [PossPro] traveling companions about [PossPro] idea
+Poland[S3] managed[V] to defy[V] the odds
+she[F,S3] managed[V] to fulfill[V] [PossPro] goal of purchasing the popstar
+Jules[F,S3] managed[V] to get[V] a retweet from him
+Pamela Anderson[F,S3] managed[V] to land[V] a dinner date with Vladimir Putin
+the Russian MoD[S3] managed[V] to find[V] information on Doctors without borders' activities
+the team[S3] managed[V] to hold[V] the leadership
+it[S3] managed[V] to find[V] [PossPro] way up to our room
+it[S3] managed[V] to encompass[V] much of what made disco so infectious
+it[S3] managed[V] to enter[V] and carve[V] out about 15% of those two markets
+Cisco[S3] managed[V] to keep[V] [PossPro] culture
+it[S3] managed[V] to fall[V] out of the nest
+the NDA govt[S3] managed[V] to (markedly) reduce[V] inflation
+Emerging Asia[S3] managed[V] to avoid[V] serious pain related to Brexit
+Michelle Obama[F,S3] managed[V] to achieve[V] 'cool mum' status
+Donald Trump[M,S3] managed[V] to unite[V] all of Silicon Valley against [ObjPro]
+McCormick[S3] managed[V] to cut[V] its warehouse energy bill to zero
+Kurt Cobain's daughter[F,S3] managed[V] to stay[V] out of the public eye
+Warren Toomey[M,S3] managed[V] to make[V] one of the compilers compile itself
+Coface[S3] managed[V] to save[V] around 1,750 trees in two years

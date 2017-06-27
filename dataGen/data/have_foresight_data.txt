@@ -1,0 +1,2280 @@
+she has had the foresight to invest his money wisely
+entails
+she has invested his money wisely
+
+she has invested his money wisely
+permits
+she has had the foresight to invest his money wisely
+
+she has had the foresight to invest his money wisely
+permits
+she has attached six restrictive covenants to the deeds of Courtland Place
+
+she has had the foresight to invest his money wisely
+contradicts
+she has not invested his money wisely
+
+she has not invested his money wisely
+contradicts
+she has had the foresight to invest his money wisely
+
+she never had the foresight to invest his money wisely
+entails
+she did n't invest his money wisely
+
+she did n't invest his money wisely
+permits
+she never had the foresight to invest his money wisely
+
+she never had the foresight to invest his money wisely
+permits
+the architect never invested his money wisely
+
+she did not have the foresight to invest his money wisely
+contradicts
+she invested his money wisely
+
+she invested his money wisely
+contradicts
+she did not have the foresight to invest his money wisely
+
+she did not have the foresight to invest his money wisely
+permits
+I invested his money wisely
+
+he had had the foresight to reimagine the American department store
+entails
+he had reimagine the American department stored
+
+he had reimagine the American department stored
+permits
+he had had the foresight to reimagine the American department store
+
+he had had the foresight to reimagine the American department store
+permits
+he had seen what can happen to those who indulged in loose talk
+
+he had had the foresight to reimagine the American department store
+contradicts
+he had n't reimagine the American department stored
+
+he had n't reimagine the American department stored
+contradicts
+he had had the foresight to reimagine the American department store
+
+he had had the foresight to reimagine the American department store
+permits
+he had not brought a solar filter for his camera
+
+he almost had the foresight to reimagine the American department store
+entails
+he almost reimagine the American department stored
+
+he almost reimagine the American department stored
+permits
+he almost had the foresight to reimagine the American department store
+
+he almost had the foresight to reimagine the American department store
+permits
+he almost recognized the need for additional resources
+
+he has almost had the foresight to reimagine the American department store
+contradicts
+he has reimagine the American department stored
+
+he has reimagine the American department stored
+contradicts
+he has almost had the foresight to reimagine the American department store
+
+he has almost had the foresight to reimagine the American department store
+permits
+it has reimagine the American department stored
+
+smart people had had the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+entails
+smart people had evacuated the area as soon as the media mentioned a possible hurricane
+
+smart people had evacuated the area as soon as the media mentioned a possible hurricane
+permits
+smart people had had the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+
+smart people have had the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+contradicts
+smart people have n't evacuated the area as soon as the media mentioned a possible hurricane
+
+smart people have n't evacuated the area as soon as the media mentioned a possible hurricane
+contradicts
+smart people have had the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+
+smart people have had the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+permits
+smart people have not changed the provisions of his will after Grace died
+
+smart people had never had the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+entails
+smart people had not evacuated the area as soon as the media mentioned a possible hurricane
+
+smart people had not evacuated the area as soon as the media mentioned a possible hurricane
+permits
+smart people had never had the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+
+smart people had never had the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+permits
+smart people had never promoted collaboration between their institutions
+
+smart people did n't have the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+contradicts
+smart people evacuated the area as soon as the media mentioned a possible hurricane
+
+smart people evacuated the area as soon as the media mentioned a possible hurricane
+contradicts
+smart people did n't have the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+
+smart people did n't have the foresight to evacuate the area as soon as the media mentioned a possible hurricane
+permits
+the colonists evacuated the area as soon as the media mentioned a possible hurricane
+
+she has had the foresight to sell her house just before prices came down
+entails
+she has sold her house just before prices came down
+
+she has sold her house just before prices came down
+permits
+she has had the foresight to sell her house just before prices came down
+
+she has had the foresight to sell her house just before prices came down
+permits
+Washington State has sold its house just before prices came down
+
+she had the foresight to sell her house just before prices came down
+contradicts
+she did not sell her house just before prices came down
+
+she did not sell her house just before prices came down
+contradicts
+she had the foresight to sell her house just before prices came down
+
+she almost had the foresight to sell her house just before prices came down
+entails
+she did n't sell her house just before prices came down
+
+she did n't sell her house just before prices came down
+permits
+she almost had the foresight to sell her house just before prices came down
+
+she almost had the foresight to sell her house just before prices came down
+permits
+she did not show what is now regarded as one of the greatest works of American painting
+
+she almost had the foresight to sell her house just before prices came down
+contradicts
+she sold her house just before prices came down
+
+she sold her house just before prices came down
+contradicts
+she almost had the foresight to sell her house just before prices came down
+
+you have had the foresight to bring an umbrella
+entails
+you have brought an umbrella
+
+you have brought an umbrella
+permits
+you have had the foresight to bring an umbrella
+
+you have had the foresight to bring an umbrella
+permits
+you have seen where the Meat Puppets might end up
+
+you had the foresight to bring an umbrella
+contradicts
+you did not bring an umbrella
+
+you did not bring an umbrella
+contradicts
+you had the foresight to bring an umbrella
+
+you did not have the foresight to bring an umbrella
+entails
+you did not bring an umbrella
+
+you did not bring an umbrella
+permits
+you did not have the foresight to bring an umbrella
+
+you have not had the foresight to bring an umbrella
+contradicts
+you have brought an umbrella
+
+you have brought an umbrella
+contradicts
+you have not had the foresight to bring an umbrella
+
+you have not had the foresight to bring an umbrella
+permits
+you have preserved our history
+
+you have had the foresight to bring warm clothes
+entails
+you have brought warm clothes
+
+you have brought warm clothes
+permits
+you have had the foresight to bring warm clothes
+
+you have had the foresight to bring warm clothes
+contradicts
+you have not brought warm clothes
+
+you have not brought warm clothes
+contradicts
+you have had the foresight to bring warm clothes
+
+you did n't have the foresight to bring warm clothes
+entails
+you did n't bring warm clothes
+
+you did n't bring warm clothes
+permits
+you did n't have the foresight to bring warm clothes
+
+you had not had the foresight to bring warm clothes
+contradicts
+you had brought warm clothes
+
+you had brought warm clothes
+contradicts
+you had not had the foresight to bring warm clothes
+
+he had the foresight to disguise himself as an Arab
+entails
+he disguised himself as an Arab
+
+he disguised himself as an Arab
+permits
+he had the foresight to disguise himself as an Arab
+
+he had had the foresight to disguise himself as an Arab
+contradicts
+he had n't disguised himself as an Arab
+
+he had n't disguised himself as an Arab
+contradicts
+he had had the foresight to disguise himself as an Arab
+
+he had had the foresight to disguise himself as an Arab
+permits
+Myer had n't disguised himself as an Arab
+
+he has n't had the foresight to disguise himself as an Arab
+entails
+he has not disguised himself as an Arab
+
+he has not disguised himself as an Arab
+permits
+he has n't had the foresight to disguise himself as an Arab
+
+he has n't had the foresight to disguise himself as an Arab
+permits
+Washington State has not disguised itself as an Arab
+
+he had not had the foresight to disguise himself as an Arab
+contradicts
+he had disguised himself as an Arab
+
+he had disguised himself as an Arab
+contradicts
+he had not had the foresight to disguise himself as an Arab
+
+she has had the foresight to prepare herself financially in case of an accident
+entails
+she has prepared herself financially in case of an accident
+
+she has prepared herself financially in case of an accident
+permits
+she has had the foresight to prepare herself financially in case of an accident
+
+she has had the foresight to prepare herself financially in case of an accident
+permits
+she has combined forces in a down market
+
+she had had the foresight to prepare herself financially in case of an accident
+contradicts
+she had n't prepared herself financially in case of an accident
+
+she had n't prepared herself financially in case of an accident
+contradicts
+she had had the foresight to prepare herself financially in case of an accident
+
+she has almost had the foresight to prepare herself financially in case of an accident
+entails
+she has not prepared herself financially in case of an accident
+
+she has not prepared herself financially in case of an accident
+permits
+she has almost had the foresight to prepare herself financially in case of an accident
+
+she has almost had the foresight to prepare herself financially in case of an accident
+permits
+she has not managed the world she faced
+
+she did not have the foresight to prepare herself financially in case of an accident
+contradicts
+she prepared herself financially in case of an accident
+
+she prepared herself financially in case of an accident
+contradicts
+she did not have the foresight to prepare herself financially in case of an accident
+
+she did not have the foresight to prepare herself financially in case of an accident
+permits
+Larry Page prepared himself financially in case of an accident
+
+Haseltine has had the foresight to show what is now regarded as one of the greatest works of American painting
+entails
+Haseltine has shown what is now regarded as one of the greatest works of American painting
+
+Haseltine has shown what is now regarded as one of the greatest works of American painting
+permits
+Haseltine has had the foresight to show what is now regarded as one of the greatest works of American painting
+
+Haseltine has had the foresight to show what is now regarded as one of the greatest works of American painting
+contradicts
+Haseltine has not shown what is now regarded as one of the greatest works of American painting
+
+Haseltine has not shown what is now regarded as one of the greatest works of American painting
+contradicts
+Haseltine has had the foresight to show what is now regarded as one of the greatest works of American painting
+
+Haseltine has had the foresight to show what is now regarded as one of the greatest works of American painting
+permits
+Haseltine has n't adopted the National Certification exam as the state exam
+
+Haseltine had never had the foresight to show what is now regarded as one of the greatest works of American painting
+entails
+Haseltine had n't shown what is now regarded as one of the greatest works of American painting
+
+Haseltine had n't shown what is now regarded as one of the greatest works of American painting
+permits
+Haseltine had never had the foresight to show what is now regarded as one of the greatest works of American painting
+
+Haseltine has n't had the foresight to show what is now regarded as one of the greatest works of American painting
+contradicts
+Haseltine has shown what is now regarded as one of the greatest works of American painting
+
+Haseltine has shown what is now regarded as one of the greatest works of American painting
+contradicts
+Haseltine has n't had the foresight to show what is now regarded as one of the greatest works of American painting
+
+Haseltine has n't had the foresight to show what is now regarded as one of the greatest works of American painting
+permits
+Haseltine has left the dash cam running
+
+he has had the foresight to install more ram and configure more swap
+entails
+he has installed more ram and configure more swap
+
+he has installed more ram and configure more swap
+permits
+he has had the foresight to install more ram and configure more swap
+
+he has had the foresight to install more ram and configure more swap
+permits
+he has designed his system to scale
+
+he has had the foresight to install more ram and configure more swap
+contradicts
+he has n't installed more ram and configure more swap
+
+he has n't installed more ram and configure more swap
+contradicts
+he has had the foresight to install more ram and configure more swap
+
+he did n't have the foresight to install more ram and configure more swap
+entails
+he did n't install more ram and configure more swap
+
+he did n't install more ram and configure more swap
+permits
+he did n't have the foresight to install more ram and configure more swap
+
+he had not had the foresight to install more ram and configure more swap
+contradicts
+he had installed more ram and configure more swap
+
+he had installed more ram and configure more swap
+contradicts
+he had not had the foresight to install more ram and configure more swap
+
+the driver had had the foresight to leave the dash cam running
+entails
+the driver had left the dash cam running
+
+the driver had left the dash cam running
+permits
+the driver had had the foresight to leave the dash cam running
+
+the driver had the foresight to leave the dash cam running
+contradicts
+the driver did n't leave the dash cam running
+
+the driver did n't leave the dash cam running
+contradicts
+the driver had the foresight to leave the dash cam running
+
+the driver has n't had the foresight to leave the dash cam running
+entails
+the driver has n't left the dash cam running
+
+the driver has n't left the dash cam running
+permits
+the driver has n't had the foresight to leave the dash cam running
+
+the driver did not have the foresight to leave the dash cam running
+contradicts
+the driver left the dash cam running
+
+the driver left the dash cam running
+contradicts
+the driver did not have the foresight to leave the dash cam running
+
+the driver did not have the foresight to leave the dash cam running
+permits
+our community left the dash cam running
+
+my mom had the foresight to save all of me and my sister's special occasion dresses
+entails
+my mom saved all of me and my sister's special occasion dresses
+
+my mom saved all of me and my sister's special occasion dresses
+permits
+my mom had the foresight to save all of me and my sister's special occasion dresses
+
+my mom had the foresight to save all of me and my sister's special occasion dresses
+permits
+our community saved all of me and my sister's special occasion dresses
+
+my mom has had the foresight to save all of me and my sister's special occasion dresses
+contradicts
+my mom has not saved all of me and my sister's special occasion dresses
+
+my mom has not saved all of me and my sister's special occasion dresses
+contradicts
+my mom has had the foresight to save all of me and my sister's special occasion dresses
+
+my mom has had the foresight to save all of me and my sister's special occasion dresses
+permits
+my mom has not brought an umbrella
+
+my mom has n't had the foresight to save all of me and my sister's special occasion dresses
+entails
+my mom has not saved all of me and my sister's special occasion dresses
+
+my mom has not saved all of me and my sister's special occasion dresses
+permits
+my mom has n't had the foresight to save all of me and my sister's special occasion dresses
+
+my mom never had the foresight to save all of me and my sister's special occasion dresses
+contradicts
+my mom saved all of me and my sister's special occasion dresses
+
+my mom saved all of me and my sister's special occasion dresses
+contradicts
+my mom never had the foresight to save all of me and my sister's special occasion dresses
+
+the city planners had had the foresight to leave a lot of open spaces
+entails
+the city planners had left a lot of open spaces
+
+the city planners had left a lot of open spaces
+permits
+the city planners had had the foresight to leave a lot of open spaces
+
+the city planners had had the foresight to leave a lot of open spaces
+contradicts
+the city planners had n't left a lot of open spaces
+
+the city planners had n't left a lot of open spaces
+contradicts
+the city planners had had the foresight to leave a lot of open spaces
+
+the city planners had had the foresight to leave a lot of open spaces
+permits
+we had not left a lot of open spaces
+
+the city planners almost had the foresight to leave a lot of open spaces
+entails
+the city planners did n't leave a lot of open spaces
+
+the city planners did n't leave a lot of open spaces
+permits
+the city planners almost had the foresight to leave a lot of open spaces
+
+the city planners almost had the foresight to leave a lot of open spaces
+permits
+we did not leave a lot of open spaces
+
+the city planners did not have the foresight to leave a lot of open spaces
+contradicts
+the city planners left a lot of open spaces
+
+the city planners left a lot of open spaces
+contradicts
+the city planners did not have the foresight to leave a lot of open spaces
+
+they had had the foresight to invest in new technology
+entails
+they had invested in new technology
+
+they had invested in new technology
+permits
+they had had the foresight to invest in new technology
+
+they had had the foresight to invest in new technology
+permits
+the owners had invested in new technology
+
+they had the foresight to invest in new technology
+contradicts
+they did not invest in new technology
+
+they did not invest in new technology
+contradicts
+they had the foresight to invest in new technology
+
+they almost had the foresight to invest in new technology
+entails
+they almost invested in new technology
+
+they almost invested in new technology
+permits
+they almost had the foresight to invest in new technology
+
+they had never had the foresight to invest in new technology
+contradicts
+they had invested in new technology
+
+they had invested in new technology
+contradicts
+they had never had the foresight to invest in new technology
+
+they had never had the foresight to invest in new technology
+permits
+the colonists had invested in new technology
+
+Myer had had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+entails
+Myer had attached six restrictive covenants to the deeds of Courtland Place
+
+Myer had attached six restrictive covenants to the deeds of Courtland Place
+permits
+Myer had had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+
+Myer had had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+permits
+Myer had seen drip irrigation as a future way to save water
+
+Myer had had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+contradicts
+Myer had n't attached six restrictive covenants to the deeds of Courtland Place
+
+Myer had n't attached six restrictive covenants to the deeds of Courtland Place
+contradicts
+Myer had had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+
+Myer had had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+permits
+secretary Mabus had n't attached six restrictive covenants to the deeds of Courtland Place
+
+Myer has not had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+entails
+Myer has not attached six restrictive covenants to the deeds of Courtland Place
+
+Myer has not attached six restrictive covenants to the deeds of Courtland Place
+permits
+Myer has not had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+
+Myer has n't had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+contradicts
+Myer has attached six restrictive covenants to the deeds of Courtland Place
+
+Myer has attached six restrictive covenants to the deeds of Courtland Place
+contradicts
+Myer has n't had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+
+Myer has n't had the foresight to attach six restrictive covenants to the deeds of Courtland Place
+permits
+Myer has hindered the future sinner
+
+secretary Mabus has had the foresight to switch the Navy's reliance on fossil fuel
+entails
+secretary Mabus has switched the Navy's reliance on fossil fuel
+
+secretary Mabus has switched the Navy's reliance on fossil fuel
+permits
+secretary Mabus has had the foresight to switch the Navy's reliance on fossil fuel
+
+secretary Mabus has had the foresight to switch the Navy's reliance on fossil fuel
+contradicts
+secretary Mabus has not switched the Navy's reliance on fossil fuel
+
+secretary Mabus has not switched the Navy's reliance on fossil fuel
+contradicts
+secretary Mabus has had the foresight to switch the Navy's reliance on fossil fuel
+
+secretary Mabus has almost had the foresight to switch the Navy's reliance on fossil fuel
+entails
+secretary Mabus has not switched the Navy's reliance on fossil fuel
+
+secretary Mabus has not switched the Navy's reliance on fossil fuel
+permits
+secretary Mabus has almost had the foresight to switch the Navy's reliance on fossil fuel
+
+secretary Mabus has almost had the foresight to switch the Navy's reliance on fossil fuel
+permits
+the devil has almost switched the Navy's reliance on fossil fuel
+
+secretary Mabus had never had the foresight to switch the Navy's reliance on fossil fuel
+contradicts
+secretary Mabus had switched the Navy's reliance on fossil fuel
+
+secretary Mabus had switched the Navy's reliance on fossil fuel
+contradicts
+secretary Mabus had never had the foresight to switch the Navy's reliance on fossil fuel
+
+we had the foresight to install an underdesk sandwich guy last week
+entails
+we installed an underdesk sandwich guy last week
+
+we installed an underdesk sandwich guy last week
+permits
+we had the foresight to install an underdesk sandwich guy last week
+
+we had the foresight to install an underdesk sandwich guy last week
+permits
+the law officers of the Crown installed an underdesk sandwich guy last week
+
+we had had the foresight to install an underdesk sandwich guy last week
+contradicts
+we had not installed an underdesk sandwich guy last week
+
+we had not installed an underdesk sandwich guy last week
+contradicts
+we had had the foresight to install an underdesk sandwich guy last week
+
+we had had the foresight to install an underdesk sandwich guy last week
+permits
+the owners had not installed an underdesk sandwich guy last week
+
+we have n't had the foresight to install an underdesk sandwich guy last week
+entails
+we have not installed an underdesk sandwich guy last week
+
+we have not installed an underdesk sandwich guy last week
+permits
+we have n't had the foresight to install an underdesk sandwich guy last week
+
+we have almost had the foresight to install an underdesk sandwich guy last week
+contradicts
+we have installed an underdesk sandwich guy last week
+
+we have installed an underdesk sandwich guy last week
+contradicts
+we have almost had the foresight to install an underdesk sandwich guy last week
+
+I had had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+entails
+I download this new Ethan Bradberry & Co. video before they removed it.
+
+I download this new Ethan Bradberry & Co. video before they removed it.
+permits
+I had had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+
+I have had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+contradicts
+I download this new Ethan Bradberry & Co. video before they removed it.
+
+I download this new Ethan Bradberry & Co. video before they removed it.
+contradicts
+I have had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+
+I have not had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+entails
+I download this new Ethan Bradberry & Co. video before they removed it.
+
+I download this new Ethan Bradberry & Co. video before they removed it.
+permits
+I have not had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+
+I almost had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+contradicts
+I download this new Ethan Bradberry & Co. video before they removed it.
+
+I download this new Ethan Bradberry & Co. video before they removed it.
+contradicts
+I almost had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+
+I almost had the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+permits
+it download this new Ethan Bradberry & Co. video before they removed it.
+
+you had had had the foresight to promote collaboration between your institutions
+entails
+you had promoted collaboration between your institutions
+
+you had promoted collaboration between your institutions
+permits
+you had had had the foresight to promote collaboration between your institutions
+
+you had had had the foresight to promote collaboration between your institutions
+contradicts
+you had not promoted collaboration between your institutions
+
+you had not promoted collaboration between your institutions
+contradicts
+you had had had the foresight to promote collaboration between your institutions
+
+you had had had the foresight to promote collaboration between your institutions
+permits
+you had not started this discussion years ago
+
+you did n't have had the foresight to promote collaboration between your institutions
+entails
+you did n't promote collaboration between your institutions
+
+you did n't promote collaboration between your institutions
+permits
+you did n't have had the foresight to promote collaboration between your institutions
+
+you did n't have had the foresight to promote collaboration between your institutions
+permits
+late Appasaheb Pawar did not promote collaboration between his institutions
+
+you did not have had the foresight to promote collaboration between your institutions
+contradicts
+you promoted collaboration between your institutions
+
+you promoted collaboration between your institutions
+contradicts
+you did not have had the foresight to promote collaboration between your institutions
+
+Pettit had the foresight to bring a solar filter for his camera
+entails
+Pettit brought a solar filter for his camera
+
+Pettit brought a solar filter for his camera
+permits
+Pettit had the foresight to bring a solar filter for his camera
+
+Pettit has had the foresight to bring a solar filter for his camera
+contradicts
+Pettit has not brought a solar filter for his camera
+
+Pettit has not brought a solar filter for his camera
+contradicts
+Pettit has had the foresight to bring a solar filter for his camera
+
+Pettit has had the foresight to bring a solar filter for his camera
+permits
+Pettit has n't removed the difficulties
+
+Pettit has never had the foresight to bring a solar filter for his camera
+entails
+Pettit has not brought a solar filter for his camera
+
+Pettit has not brought a solar filter for his camera
+permits
+Pettit has never had the foresight to bring a solar filter for his camera
+
+Pettit has never had the foresight to bring a solar filter for his camera
+permits
+Pettit has n't promoted collaboration between his institutions
+
+Pettit has n't had the foresight to bring a solar filter for his camera
+contradicts
+Pettit has brought a solar filter for his camera
+
+Pettit has brought a solar filter for his camera
+contradicts
+Pettit has n't had the foresight to bring a solar filter for his camera
+
+the colonists have had the foresight to bring with them a small boat for coastal explorations
+entails
+the colonists have brought with them a small boat for coastal explorations
+
+the colonists have brought with them a small boat for coastal explorations
+permits
+the colonists have had the foresight to bring with them a small boat for coastal explorations
+
+the colonists had the foresight to bring with them a small boat for coastal explorations
+contradicts
+the colonists did not bring with them a small boat for coastal explorations
+
+the colonists did not bring with them a small boat for coastal explorations
+contradicts
+the colonists had the foresight to bring with them a small boat for coastal explorations
+
+the colonists had the foresight to bring with them a small boat for coastal explorations
+permits
+the colonists did not ask a photographer to immortalize the theatre in 1932
+
+the colonists never had the foresight to bring with them a small boat for coastal explorations
+entails
+the colonists did n't bring with them a small boat for coastal explorations
+
+the colonists did n't bring with them a small boat for coastal explorations
+permits
+the colonists never had the foresight to bring with them a small boat for coastal explorations
+
+the colonists have n't had the foresight to bring with them a small boat for coastal explorations
+contradicts
+the colonists have brought with them a small boat for coastal explorations
+
+the colonists have brought with them a small boat for coastal explorations
+contradicts
+the colonists have n't had the foresight to bring with them a small boat for coastal explorations
+
+the colonists have n't had the foresight to bring with them a small boat for coastal explorations
+permits
+the colonists have understood the future
+
+the County had had the foresight to recognize the need for additional resources
+entails
+the County had recognized the need for additional resources
+
+the County had recognized the need for additional resources
+permits
+the County had had the foresight to recognize the need for additional resources
+
+the County had had the foresight to recognize the need for additional resources
+contradicts
+the County had n't recognized the need for additional resources
+
+the County had n't recognized the need for additional resources
+contradicts
+the County had had the foresight to recognize the need for additional resources
+
+the County had had the foresight to recognize the need for additional resources
+permits
+the County had not sold its house just before prices came down
+
+the County had never had the foresight to recognize the need for additional resources
+entails
+the County had n't recognized the need for additional resources
+
+the County had n't recognized the need for additional resources
+permits
+the County had never had the foresight to recognize the need for additional resources
+
+the County did not have the foresight to recognize the need for additional resources
+contradicts
+the County recognized the need for additional resources
+
+the County recognized the need for additional resources
+contradicts
+the County did not have the foresight to recognize the need for additional resources
+
+the CWA Board has had the foresight to start this discussion years ago
+entails
+the CWA Board has started this discussion years ago
+
+the CWA Board has started this discussion years ago
+permits
+the CWA Board has had the foresight to start this discussion years ago
+
+the CWA Board has had the foresight to start this discussion years ago
+permits
+the CWA Board has invested in new technology
+
+the CWA Board had had the foresight to start this discussion years ago
+contradicts
+the CWA Board had not started this discussion years ago
+
+the CWA Board had not started this discussion years ago
+contradicts
+the CWA Board had had the foresight to start this discussion years ago
+
+the CWA Board did not have the foresight to start this discussion years ago
+entails
+the CWA Board did not start this discussion years ago
+
+the CWA Board did not start this discussion years ago
+permits
+the CWA Board did not have the foresight to start this discussion years ago
+
+the CWA Board has almost had the foresight to start this discussion years ago
+contradicts
+the CWA Board has started this discussion years ago
+
+the CWA Board has started this discussion years ago
+contradicts
+the CWA Board has almost had the foresight to start this discussion years ago
+
+they had had the foresight to design their system to scale
+entails
+they had designed their system to scale
+
+they had designed their system to scale
+permits
+they had had the foresight to design their system to scale
+
+they had had the foresight to design their system to scale
+permits
+the colonists had designed their system to scale
+
+they had had the foresight to design their system to scale
+contradicts
+they had not designed their system to scale
+
+they had not designed their system to scale
+contradicts
+they had had the foresight to design their system to scale
+
+they had had the foresight to design their system to scale
+permits
+they had n't switched the Navy's reliance on fossil fuel
+
+they have n't had the foresight to design their system to scale
+entails
+they have n't designed their system to scale
+
+they have n't designed their system to scale
+permits
+they have n't had the foresight to design their system to scale
+
+they had n't had the foresight to design their system to scale
+contradicts
+they had designed their system to scale
+
+they had designed their system to scale
+contradicts
+they had n't had the foresight to design their system to scale
+
+she had had the foresight to bring organic milk into the company
+entails
+she had brought organic milk into the company
+
+she had brought organic milk into the company
+permits
+she had had the foresight to bring organic milk into the company
+
+she had also had the foresight to bring organic milk into the company
+entails
+she had brought organic milk into the company
+
+she had brought organic milk into the company
+permits
+she had also had the foresight to bring organic milk into the company
+
+she has had the foresight to bring organic milk into the company
+contradicts
+she has not brought organic milk into the company
+
+she has not brought organic milk into the company
+contradicts
+she has had the foresight to bring organic milk into the company
+
+she has also had the foresight to bring organic milk into the company
+contradicts
+she has n't brought organic milk into the company
+
+she has n't brought organic milk into the company
+contradicts
+she has also had the foresight to bring organic milk into the company
+
+she did not have the foresight to bring organic milk into the company
+entails
+she did n't bring organic milk into the company
+
+she did n't bring organic milk into the company
+permits
+she did not have the foresight to bring organic milk into the company
+
+she did not have the foresight to bring organic milk into the company
+permits
+she did n't see the impending threat of Germany
+
+she did not have the foresight to bring organic milk into the company
+permits
+she did not understand the future
+
+she did n't also have the foresight to bring organic milk into the company
+entails
+she did n't bring organic milk into the company
+
+she did n't bring organic milk into the company
+permits
+she did n't also have the foresight to bring organic milk into the company
+
+she had not had the foresight to bring organic milk into the company
+contradicts
+she had brought organic milk into the company
+
+she had brought organic milk into the company
+contradicts
+she had not had the foresight to bring organic milk into the company
+
+she had not also had the foresight to bring organic milk into the company
+contradicts
+she had brought organic milk into the company
+
+she had brought organic milk into the company
+contradicts
+she had not also had the foresight to bring organic milk into the company
+
+she had not also had the foresight to bring organic milk into the company
+permits
+the driver had brought organic milk into the company
+
+she had not also had the foresight to bring organic milk into the company
+permits
+the CWA Board had brought organic milk into the company
+
+my mom has had the foresight to see that question coming
+entails
+my mom has seen that question coming
+
+my mom has seen that question coming
+permits
+my mom has had the foresight to see that question coming
+
+my mom has had the foresight to see that question coming
+permits
+God has seen that question coming
+
+my mom had the foresight to see that question coming
+contradicts
+my mom did n't see that question coming
+
+my mom did n't see that question coming
+contradicts
+my mom had the foresight to see that question coming
+
+my mom has almost had the foresight to see that question coming
+entails
+my mom has not seen that question coming
+
+my mom has not seen that question coming
+permits
+my mom has almost had the foresight to see that question coming
+
+my mom has almost had the foresight to see that question coming
+permits
+my mom has almost seen the impending threat of Germany
+
+my mom has almost had the foresight to see that question coming
+contradicts
+my mom has seen that question coming
+
+my mom has seen that question coming
+contradicts
+my mom has almost had the foresight to see that question coming
+
+it had the foresight to manage the world it faced
+entails
+it managed the world it faced
+
+it managed the world it faced
+permits
+it had the foresight to manage the world it faced
+
+it had the foresight to manage the world it faced
+contradicts
+it did not manage the world it faced
+
+it did not manage the world it faced
+contradicts
+it had the foresight to manage the world it faced
+
+it had the foresight to manage the world it faced
+permits
+it did not understand the future
+
+it had not had the foresight to manage the world it faced
+entails
+it had n't managed the world it faced
+
+it had n't managed the world it faced
+permits
+it had not had the foresight to manage the world it faced
+
+it never had the foresight to manage the world it faced
+contradicts
+it managed the world it faced
+
+it managed the world it faced
+contradicts
+it never had the foresight to manage the world it faced
+
+it never had the foresight to manage the world it faced
+permits
+I managed the world i faced
+
+it has had the foresight to develop breakthrough inventions
+entails
+it has developed breakthrough inventions
+
+it has developed breakthrough inventions
+permits
+it has had the foresight to develop breakthrough inventions
+
+it had had the foresight to develop breakthrough inventions
+contradicts
+it had not developed breakthrough inventions
+
+it had not developed breakthrough inventions
+contradicts
+it had had the foresight to develop breakthrough inventions
+
+it had had the foresight to develop breakthrough inventions
+permits
+it had n't seen what can happen to those who indulged in loose talk
+
+it has n't had the foresight to develop breakthrough inventions
+entails
+it has not developed breakthrough inventions
+
+it has not developed breakthrough inventions
+permits
+it has n't had the foresight to develop breakthrough inventions
+
+it has never had the foresight to develop breakthrough inventions
+contradicts
+it has developed breakthrough inventions
+
+it has developed breakthrough inventions
+contradicts
+it has never had the foresight to develop breakthrough inventions
+
+the men of thought and action have had the foresight to understand what had to be done
+entails
+the men of thought and action have understood what had to be done
+
+the men of thought and action have understood what had to be done
+permits
+the men of thought and action have had the foresight to understand what had to be done
+
+the men of thought and action have had the foresight to understand what had to be done
+contradicts
+the men of thought and action have not understood what had to be done
+
+the men of thought and action have not understood what had to be done
+contradicts
+the men of thought and action have had the foresight to understand what had to be done
+
+the men of thought and action never had the foresight to understand what had to be done
+entails
+the men of thought and action did n't understand what had to be done
+
+the men of thought and action did n't understand what had to be done
+permits
+the men of thought and action never had the foresight to understand what had to be done
+
+the men of thought and action never had the foresight to understand what had to be done
+permits
+the men of thought and action never asked a photographer to immortalize the theatre in 1932
+
+the men of thought and action have not had the foresight to understand what had to be done
+contradicts
+the men of thought and action have understood what had to be done
+
+the men of thought and action have understood what had to be done
+contradicts
+the men of thought and action have not had the foresight to understand what had to be done
+
+the men of thought and action have not had the foresight to understand what had to be done
+permits
+smart people have understood what had to be done
+
+it had had the foresight to put the pieces together
+entails
+it had put the pieces together
+
+it had put the pieces together
+permits
+it had had the foresight to put the pieces together
+
+it had had the foresight to put the pieces together
+permits
+it had seen drip irrigation as a future way to save water
+
+it had had the foresight to put the pieces together
+contradicts
+it had not put the pieces together
+
+it had not put the pieces together
+contradicts
+it had had the foresight to put the pieces together
+
+it had never had the foresight to put the pieces together
+entails
+it had n't put the pieces together
+
+it had n't put the pieces together
+permits
+it had never had the foresight to put the pieces together
+
+it had never had the foresight to put the pieces together
+permits
+Pettit had n't put the pieces together
+
+it never had the foresight to put the pieces together
+contradicts
+it put the pieces together
+
+it put the pieces together
+contradicts
+it never had the foresight to put the pieces together
+
+she had a foresight to understand the future
+entails
+she understood the future
+
+she understood the future
+permits
+she had a foresight to understand the future
+
+she had a foresight to understand the future
+permits
+Jack's tribe understood the future
+
+she had a foresight to understand the future
+permits
+secretary Mabus understood the future
+
+she for sure had a foresight to understand the future
+entails
+she understood the future
+
+she understood the future
+permits
+she for sure had a foresight to understand the future
+
+she for sure had a foresight to understand the future
+permits
+she carried a duct tape and iron wire
+
+she for sure had a foresight to understand the future
+permits
+she evacuated the area as soon as the media mentioned a possible hurricane
+
+she had a foresight to understand the future
+contradicts
+she did not understand the future
+
+she did not understand the future
+contradicts
+she had a foresight to understand the future
+
+she for sure had a foresight to understand the future
+contradicts
+she did n't understand the future
+
+she did n't understand the future
+contradicts
+she for sure had a foresight to understand the future
+
+she had not had a foresight to understand the future
+entails
+she had n't understood the future
+
+she had n't understood the future
+permits
+she had not had a foresight to understand the future
+
+she had n't for sure had a foresight to understand the future
+entails
+she had n't understood the future
+
+she had n't understood the future
+permits
+she had n't for sure had a foresight to understand the future
+
+she never had a foresight to understand the future
+contradicts
+she understood the future
+
+she understood the future
+contradicts
+she never had a foresight to understand the future
+
+she never had a foresight to understand the future
+permits
+the architect understood the future
+
+she never had a foresight to understand the future
+permits
+the devil understood the future
+
+she did n't for sure have a foresight to understand the future
+contradicts
+she understood the future
+
+she understood the future
+contradicts
+she did n't for sure have a foresight to understand the future
+
+this contingency of modern life had had a foresight to protect the people from risk factors
+entails
+this contingency of modern life had protected the people from risk factors
+
+this contingency of modern life had protected the people from risk factors
+permits
+this contingency of modern life had had a foresight to protect the people from risk factors
+
+this contingency of modern life had had a foresight to protect the people from risk factors
+permits
+this contingency of modern life had prepared itself financially in case of an accident
+
+this contingency of modern life had a foresight to protect the people from risk factors
+contradicts
+this contingency of modern life did n't protect the people from risk factors
+
+this contingency of modern life did n't protect the people from risk factors
+contradicts
+this contingency of modern life had a foresight to protect the people from risk factors
+
+this contingency of modern life has not had a foresight to protect the people from risk factors
+entails
+this contingency of modern life has n't protected the people from risk factors
+
+this contingency of modern life has n't protected the people from risk factors
+permits
+this contingency of modern life has not had a foresight to protect the people from risk factors
+
+this contingency of modern life did not have a foresight to protect the people from risk factors
+contradicts
+this contingency of modern life protected the people from risk factors
+
+this contingency of modern life protected the people from risk factors
+contradicts
+this contingency of modern life did not have a foresight to protect the people from risk factors
+
+late Appasaheb Pawar had had a foresight to see drip irrigation as a future way to save water
+entails
+late Appasaheb Pawar had seen drip irrigation as a future way to save water
+
+late Appasaheb Pawar had seen drip irrigation as a future way to save water
+permits
+late Appasaheb Pawar had had a foresight to see drip irrigation as a future way to save water
+
+late Appasaheb Pawar had had a foresight to see drip irrigation as a future way to save water
+permits
+Myer had seen drip irrigation as a future way to save water
+
+late Appasaheb Pawar had a foresight to see drip irrigation as a future way to save water
+contradicts
+late Appasaheb Pawar did n't see drip irrigation as a future way to save water
+
+late Appasaheb Pawar did n't see drip irrigation as a future way to save water
+contradicts
+late Appasaheb Pawar had a foresight to see drip irrigation as a future way to save water
+
+late Appasaheb Pawar never had a foresight to see drip irrigation as a future way to save water
+entails
+late Appasaheb Pawar did n't see drip irrigation as a future way to save water
+
+late Appasaheb Pawar did n't see drip irrigation as a future way to save water
+permits
+late Appasaheb Pawar never had a foresight to see drip irrigation as a future way to save water
+
+late Appasaheb Pawar did not have a foresight to see drip irrigation as a future way to save water
+contradicts
+late Appasaheb Pawar saw drip irrigation as a future way to save water
+
+late Appasaheb Pawar saw drip irrigation as a future way to save water
+contradicts
+late Appasaheb Pawar did not have a foresight to see drip irrigation as a future way to save water
+
+late Appasaheb Pawar did not have a foresight to see drip irrigation as a future way to save water
+permits
+late Appasaheb Pawar asked a photographer to immortalize the theatre in 1932
+
+Mendeleeff had had a foresight to leave gaps in the periodic table
+entails
+Mendeleeff had left gaps in the periodic table
+
+Mendeleeff had left gaps in the periodic table
+permits
+Mendeleeff had had a foresight to leave gaps in the periodic table
+
+Mendeleeff had had a foresight to leave gaps in the periodic table
+contradicts
+Mendeleeff had not left gaps in the periodic table
+
+Mendeleeff had not left gaps in the periodic table
+contradicts
+Mendeleeff had had a foresight to leave gaps in the periodic table
+
+Mendeleeff had had a foresight to leave gaps in the periodic table
+permits
+Mendeleeff had n't started this discussion years ago
+
+Mendeleeff had not had a foresight to leave gaps in the periodic table
+entails
+Mendeleeff had n't left gaps in the periodic table
+
+Mendeleeff had n't left gaps in the periodic table
+permits
+Mendeleeff had not had a foresight to leave gaps in the periodic table
+
+Mendeleeff had not had a foresight to leave gaps in the periodic table
+permits
+this contingency of modern life had not left gaps in the periodic table
+
+Mendeleeff had never had a foresight to leave gaps in the periodic table
+contradicts
+Mendeleeff had left gaps in the periodic table
+
+Mendeleeff had left gaps in the periodic table
+contradicts
+Mendeleeff had never had a foresight to leave gaps in the periodic table
+
+the devil has had a foresight to come before Christ and create his characteristics in the pagan world
+entails
+the devil has come before Christ and created his characteristics in the pagan world
+
+the devil has come before Christ and created his characteristics in the pagan world
+permits
+the devil has had a foresight to come before Christ and create his characteristics in the pagan world
+
+the devil has had a foresight to come before Christ and create his characteristics in the pagan world
+contradicts
+the devil has not come before Christ and created his characteristics in the pagan world
+
+the devil has not come before Christ and created his characteristics in the pagan world
+contradicts
+the devil has had a foresight to come before Christ and create his characteristics in the pagan world
+
+the devil did not have a foresight to come before Christ and create his characteristics in the pagan world
+entails
+the devil did n't come before Christ and create his characteristics in the pagan world
+
+the devil did n't come before Christ and create his characteristics in the pagan world
+permits
+the devil did not have a foresight to come before Christ and create his characteristics in the pagan world
+
+the devil had never had a foresight to come before Christ and create his characteristics in the pagan world
+contradicts
+the devil had come before Christ and created his characteristics in the pagan world
+
+the devil had come before Christ and created his characteristics in the pagan world
+contradicts
+the devil had never had a foresight to come before Christ and create his characteristics in the pagan world
+
+the owners had had a foresight to ask a photographer to immortalize the theatre in 1932
+entails
+the owners had asked a photographer to immortalize the theatre in 1932
+
+the owners had asked a photographer to immortalize the theatre in 1932
+permits
+the owners had had a foresight to ask a photographer to immortalize the theatre in 1932
+
+the owners have had a foresight to ask a photographer to immortalize the theatre in 1932
+contradicts
+the owners have n't asked a photographer to immortalize the theatre in 1932
+
+the owners have n't asked a photographer to immortalize the theatre in 1932
+contradicts
+the owners have had a foresight to ask a photographer to immortalize the theatre in 1932
+
+the owners have n't had a foresight to ask a photographer to immortalize the theatre in 1932
+entails
+the owners have n't asked a photographer to immortalize the theatre in 1932
+
+the owners have n't asked a photographer to immortalize the theatre in 1932
+permits
+the owners have n't had a foresight to ask a photographer to immortalize the theatre in 1932
+
+the owners had never had a foresight to ask a photographer to immortalize the theatre in 1932
+contradicts
+the owners had asked a photographer to immortalize the theatre in 1932
+
+the owners had asked a photographer to immortalize the theatre in 1932
+contradicts
+the owners had never had a foresight to ask a photographer to immortalize the theatre in 1932
+
+the visionary, pragmatic leadership of our state had had a foresight to make policy changes to protect our environment
+entails
+the visionary, pragmatic leadership of our state had made policy changes to protect our environment
+
+the visionary, pragmatic leadership of our state had made policy changes to protect our environment
+permits
+the visionary, pragmatic leadership of our state had had a foresight to make policy changes to protect our environment
+
+the visionary, pragmatic leadership of our state had had a foresight to make policy changes to protect our environment
+contradicts
+the visionary, pragmatic leadership of our state had not made policy changes to protect our environment
+
+the visionary, pragmatic leadership of our state had not made policy changes to protect our environment
+contradicts
+the visionary, pragmatic leadership of our state had had a foresight to make policy changes to protect our environment
+
+the visionary, pragmatic leadership of our state has n't had a foresight to make policy changes to protect our environment
+entails
+the visionary, pragmatic leadership of our state has not made policy changes to protect our environment
+
+the visionary, pragmatic leadership of our state has not made policy changes to protect our environment
+permits
+the visionary, pragmatic leadership of our state has n't had a foresight to make policy changes to protect our environment
+
+the visionary, pragmatic leadership of our state never had a foresight to make policy changes to protect our environment
+contradicts
+the visionary, pragmatic leadership of our state made policy changes to protect our environment
+
+the visionary, pragmatic leadership of our state made policy changes to protect our environment
+contradicts
+the visionary, pragmatic leadership of our state never had a foresight to make policy changes to protect our environment
+
+the visionary, pragmatic leadership of our state never had a foresight to make policy changes to protect our environment
+permits
+you made policy changes to protect our environment
+
+I have had a foresight to carry a duct tape and iron wire
+entails
+I have carried a duct tape and iron wire
+
+I have carried a duct tape and iron wire
+permits
+I have had a foresight to carry a duct tape and iron wire
+
+I have had a foresight to carry a duct tape and iron wire
+permits
+she has carried a duct tape and iron wire
+
+I had had a foresight to carry a duct tape and iron wire
+contradicts
+I had not carried a duct tape and iron wire
+
+I had not carried a duct tape and iron wire
+contradicts
+I had had a foresight to carry a duct tape and iron wire
+
+I had almost had a foresight to carry a duct tape and iron wire
+entails
+I had not carried a duct tape and iron wire
+
+I had not carried a duct tape and iron wire
+permits
+I had almost had a foresight to carry a duct tape and iron wire
+
+I had almost had a foresight to carry a duct tape and iron wire
+permits
+you had n't carried a duct tape and iron wire
+
+I had almost had a foresight to carry a duct tape and iron wire
+contradicts
+I had carried a duct tape and iron wire
+
+I had carried a duct tape and iron wire
+contradicts
+I had almost had a foresight to carry a duct tape and iron wire
+
+they had had a foresight to see what can happen to those who indulged in loose talk
+entails
+they had seen what can happen to those who indulged in loose talk
+
+they had seen what can happen to those who indulged in loose talk
+permits
+they had had a foresight to see what can happen to those who indulged in loose talk
+
+they have had a foresight to see what can happen to those who indulged in loose talk
+contradicts
+they have n't seen what can happen to those who indulged in loose talk
+
+they have n't seen what can happen to those who indulged in loose talk
+contradicts
+they have had a foresight to see what can happen to those who indulged in loose talk
+
+they have not had a foresight to see what can happen to those who indulged in loose talk
+entails
+they have not seen what can happen to those who indulged in loose talk
+
+they have not seen what can happen to those who indulged in loose talk
+permits
+they have not had a foresight to see what can happen to those who indulged in loose talk
+
+they have not had a foresight to see what can happen to those who indulged in loose talk
+permits
+they have n't hindered the future sinner
+
+they have never had a foresight to see what can happen to those who indulged in loose talk
+contradicts
+they have seen what can happen to those who indulged in loose talk
+
+they have seen what can happen to those who indulged in loose talk
+contradicts
+they have never had a foresight to see what can happen to those who indulged in loose talk
+
+it has had a foresight to combine forces in a down market
+entails
+it has combined forces in a down market
+
+it has combined forces in a down market
+permits
+it has had a foresight to combine forces in a down market
+
+it has had a foresight to combine forces in a down market
+permits
+it has put the pieces together
+
+it had had a foresight to combine forces in a down market
+contradicts
+it had not combined forces in a down market
+
+it had not combined forces in a down market
+contradicts
+it had had a foresight to combine forces in a down market
+
+it had almost had a foresight to combine forces in a down market
+entails
+it had n't combined forces in a down market
+
+it had n't combined forces in a down market
+permits
+it had almost had a foresight to combine forces in a down market
+
+it had almost had a foresight to combine forces in a down market
+permits
+it had n't changed the provisions of his will after Grace died
+
+it almost has had a foresight to combine forces in a down market
+contradicts
+it has combined forces in a down market
+
+it has combined forces in a down market
+contradicts
+it almost has had a foresight to combine forces in a down market
+
+the architect has had foresight to build it strong
+entails
+the architect has built it strong
+
+the architect has built it strong
+permits
+the architect has had foresight to build it strong
+
+the architect has had foresight to build it strong
+contradicts
+the architect has not built it strong
+
+the architect has not built it strong
+contradicts
+the architect has had foresight to build it strong
+
+the architect has had foresight to build it strong
+permits
+it has not built it strong
+
+the architect never had foresight to build it strong
+entails
+the architect did not build it strong
+
+the architect did not build it strong
+permits
+the architect never had foresight to build it strong
+
+the architect almost had foresight to build it strong
+contradicts
+the architect built it strong
+
+the architect built it strong
+contradicts
+the architect almost had foresight to build it strong
+
+the architect almost had foresight to build it strong
+permits
+late Appasaheb Pawar built it strong
+
+we had foresight to remove the difficulties
+entails
+we removed the difficulties
+
+we removed the difficulties
+permits
+we had foresight to remove the difficulties
+
+we had had foresight to remove the difficulties
+contradicts
+we had not removed the difficulties
+
+we had not removed the difficulties
+contradicts
+we had had foresight to remove the difficulties
+
+we did n't have foresight to remove the difficulties
+entails
+we did n't remove the difficulties
+
+we did n't remove the difficulties
+permits
+we did n't have foresight to remove the difficulties
+
+we did n't have foresight to remove the difficulties
+permits
+smart people did not remove the difficulties
+
+we did n't have foresight to remove the difficulties
+contradicts
+we removed the difficulties
+
+we removed the difficulties
+contradicts
+we did n't have foresight to remove the difficulties
+
+he had foresight to see the impending threat of Germany
+entails
+he saw the impending threat of Germany
+
+he saw the impending threat of Germany
+permits
+he had foresight to see the impending threat of Germany
+
+he had foresight to see the impending threat of Germany
+permits
+late Appasaheb Pawar saw the impending threat of Germany
+
+he had foresight to see the impending threat of Germany
+contradicts
+he did n't see the impending threat of Germany
+
+he did n't see the impending threat of Germany
+contradicts
+he had foresight to see the impending threat of Germany
+
+he had not had foresight to see the impending threat of Germany
+entails
+he had n't seen the impending threat of Germany
+
+he had n't seen the impending threat of Germany
+permits
+he had not had foresight to see the impending threat of Germany
+
+he had not had foresight to see the impending threat of Germany
+permits
+he had n't built shelters
+
+he almost had foresight to see the impending threat of Germany
+contradicts
+he saw the impending threat of Germany
+
+he saw the impending threat of Germany
+contradicts
+he almost had foresight to see the impending threat of Germany
+
+he almost had foresight to see the impending threat of Germany
+permits
+he protected the people from risk factors
+
+he has had foresight to change the provisions of his will after Grace died
+entails
+he has changed the provisions of his will after Grace died
+
+he has changed the provisions of his will after Grace died
+permits
+he has had foresight to change the provisions of his will after Grace died
+
+he had had foresight to change the provisions of his will after Grace died
+contradicts
+he had not changed the provisions of his will after Grace died
+
+he had not changed the provisions of his will after Grace died
+contradicts
+he had had foresight to change the provisions of his will after Grace died
+
+he had almost had foresight to change the provisions of his will after Grace died
+entails
+he had not changed the provisions of his will after Grace died
+
+he had not changed the provisions of his will after Grace died
+permits
+he had almost had foresight to change the provisions of his will after Grace died
+
+he had almost had foresight to change the provisions of his will after Grace died
+permits
+he had not shown what is now regarded as one of the greatest works of American painting
+
+he has never had foresight to change the provisions of his will after Grace died
+contradicts
+he has changed the provisions of his will after Grace died
+
+he has changed the provisions of his will after Grace died
+contradicts
+he has never had foresight to change the provisions of his will after Grace died
+
+he has never had foresight to change the provisions of his will after Grace died
+permits
+Haseltine has changed the provisions of his will after Grace died
+
+Washington State has had foresight to adopt the National Certification exam as the state exam
+entails
+Washington State has adopted the National Certification exam as the state exam
+
+Washington State has adopted the National Certification exam as the state exam
+permits
+Washington State has had foresight to adopt the National Certification exam as the state exam
+
+Washington State had had foresight to adopt the National Certification exam as the state exam
+contradicts
+Washington State had not adopted the National Certification exam as the state exam
+
+Washington State had not adopted the National Certification exam as the state exam
+contradicts
+Washington State had had foresight to adopt the National Certification exam as the state exam
+
+Washington State had had foresight to adopt the National Certification exam as the state exam
+permits
+our community had not adopted the National Certification exam as the state exam
+
+Washington State did n't have foresight to adopt the National Certification exam as the state exam
+entails
+Washington State did n't adopt the National Certification exam as the state exam
+
+Washington State did n't adopt the National Certification exam as the state exam
+permits
+Washington State did n't have foresight to adopt the National Certification exam as the state exam
+
+Washington State had not had foresight to adopt the National Certification exam as the state exam
+contradicts
+Washington State had adopted the National Certification exam as the state exam
+
+Washington State had adopted the National Certification exam as the state exam
+contradicts
+Washington State had not had foresight to adopt the National Certification exam as the state exam
+
+our community had foresight to preserve our history
+entails
+our community preserved our history
+
+our community preserved our history
+permits
+our community had foresight to preserve our history
+
+our community had foresight to preserve our history
+permits
+our community kept a pair of $5 sneaks from 1983
+
+our community had foresight to preserve our history
+contradicts
+our community did not preserve our history
+
+our community did not preserve our history
+contradicts
+our community had foresight to preserve our history
+
+our community had almost had foresight to preserve our history
+entails
+our community had n't preserved our history
+
+our community had n't preserved our history
+permits
+our community had almost had foresight to preserve our history
+
+our community had almost had foresight to preserve our history
+permits
+Jack's tribe had not preserved our history
+
+our community never had foresight to preserve our history
+contradicts
+our community preserved our history
+
+our community preserved our history
+contradicts
+our community never had foresight to preserve our history
+
+the law officers of the Crown have had a foresight to anticipate a conclusion so unsatisfactory
+entails
+the law officers of the Crown have anticipated a conclusion so unsatisfactory
+
+the law officers of the Crown have anticipated a conclusion so unsatisfactory
+permits
+the law officers of the Crown have had a foresight to anticipate a conclusion so unsatisfactory
+
+the law officers of the Crown have had a foresight to anticipate a conclusion so unsatisfactory
+permits
+the law officers of the Crown have understood what had to be done
+
+the law officers of the Crown have had a foresight to anticipate a conclusion so unsatisfactory
+contradicts
+the law officers of the Crown have not anticipated a conclusion so unsatisfactory
+
+the law officers of the Crown have not anticipated a conclusion so unsatisfactory
+contradicts
+the law officers of the Crown have had a foresight to anticipate a conclusion so unsatisfactory
+
+the law officers of the Crown have had a foresight to anticipate a conclusion so unsatisfactory
+permits
+we have n't anticipated a conclusion so unsatisfactory
+
+the law officers of the Crown had had no foresight to anticipate a conclusion so unsatisfactory
+entails
+the law officers of the Crown had not anticipated a conclusion so unsatisfactory
+
+the law officers of the Crown had not anticipated a conclusion so unsatisfactory
+permits
+the law officers of the Crown had had no foresight to anticipate a conclusion so unsatisfactory
+
+the law officers of the Crown had had no foresight to anticipate a conclusion so unsatisfactory
+permits
+smart people had not anticipated a conclusion so unsatisfactory
+
+the law officers of the Crown have had no foresight to anticipate a conclusion so unsatisfactory
+contradicts
+the law officers of the Crown have anticipated a conclusion so unsatisfactory
+
+the law officers of the Crown have anticipated a conclusion so unsatisfactory
+contradicts
+the law officers of the Crown have had no foresight to anticipate a conclusion so unsatisfactory
+
+the law officers of the Crown have had no foresight to anticipate a conclusion so unsatisfactory
+permits
+the law officers of the Crown have made policy changes to protect our environment
+
+Emerson had a foresight to anticipate the evolution of agricultural life
+entails
+Emerson anticipated the evolution of agricultural life
+
+Emerson anticipated the evolution of agricultural life
+permits
+Emerson had a foresight to anticipate the evolution of agricultural life
+
+Emerson had a foresight to anticipate the evolution of agricultural life
+permits
+Emerson made policy changes to protect our environment
+
+Emerson has had a foresight to anticipate the evolution of agricultural life
+contradicts
+Emerson has n't anticipated the evolution of agricultural life
+
+Emerson has n't anticipated the evolution of agricultural life
+contradicts
+Emerson has had a foresight to anticipate the evolution of agricultural life
+
+Emerson had no foresight to anticipate the evolution of agricultural life
+entails
+Emerson did n't anticipate the evolution of agricultural life
+
+Emerson did n't anticipate the evolution of agricultural life
+permits
+Emerson had no foresight to anticipate the evolution of agricultural life
+
+Emerson had no foresight to anticipate the evolution of agricultural life
+permits
+Emerson did not put the pieces together
+
+Emerson has had no foresight to anticipate the evolution of agricultural life
+contradicts
+Emerson has anticipated the evolution of agricultural life
+
+Emerson has anticipated the evolution of agricultural life
+contradicts
+Emerson has had no foresight to anticipate the evolution of agricultural life
+
+Emerson has had no foresight to anticipate the evolution of agricultural life
+permits
+Emerson has asked a photographer to immortalize the theatre in 1932
+
+God had had a foresight to hinder the future sinner
+entails
+God had hindered the future sinner
+
+God had hindered the future sinner
+permits
+God had had a foresight to hinder the future sinner
+
+God has had a foresight to hinder the future sinner
+contradicts
+God has not hindered the future sinner
+
+God has not hindered the future sinner
+contradicts
+God has had a foresight to hinder the future sinner
+
+God had had no foresight to hinder the future sinner
+entails
+God had n't hindered the future sinner
+
+God had n't hindered the future sinner
+permits
+God had had no foresight to hinder the future sinner
+
+God had no foresight to hinder the future sinner
+contradicts
+God hindered the future sinner
+
+God hindered the future sinner
+contradicts
+God had no foresight to hinder the future sinner
+
+Jack's tribe had a foresight to build shelters
+entails
+Jack's tribe built shelters
+
+Jack's tribe built shelters
+permits
+Jack's tribe had a foresight to build shelters
+
+Jack's tribe had a foresight to build shelters
+permits
+Jack's tribe understood the future
+
+Jack's tribe had a foresight to build shelters
+contradicts
+Jack's tribe did n't build shelters
+
+Jack's tribe did n't build shelters
+contradicts
+Jack's tribe had a foresight to build shelters
+
+Jack's tribe had a foresight to build shelters
+permits
+Larry Page did not build shelters
+
+Jack's tribe had no foresight to build shelters
+entails
+Jack's tribe did not build shelters
+
+Jack's tribe did not build shelters
+permits
+Jack's tribe had no foresight to build shelters
+
+Jack's tribe had had no foresight to build shelters
+contradicts
+Jack's tribe had built shelters
+
+Jack's tribe had built shelters
+contradicts
+Jack's tribe had had no foresight to build shelters
+
+I had a foresight to keep a pair of sneaks from 1983
+entails
+I kept a pair of $5 sneaks from 1983
+
+I kept a pair of $5 sneaks from 1983
+permits
+I had a foresight to keep a pair of sneaks from 1983
+
+I had a foresight to keep a pair of sneaks from 1983
+permits
+God kept a pair of $5 sneaks from 1983
+
+I had a foresight to keep a pair of sneaks from 1983
+contradicts
+I did n't keep a pair of $5 sneaks from 1983
+
+I did n't keep a pair of $5 sneaks from 1983
+contradicts
+I had a foresight to keep a pair of sneaks from 1983
+
+I had had no foresight to keep a pair of sneaks from 1983
+entails
+I had n't kept a pair of $5 sneaks from 1983
+
+I had n't kept a pair of $5 sneaks from 1983
+permits
+I had had no foresight to keep a pair of sneaks from 1983
+
+I had had no foresight to keep a pair of sneaks from 1983
+permits
+I had n't saved all of me and my sister's special occasion dresses
+
+I had no foresight to keep a pair of sneaks from 1983
+contradicts
+I kept a pair of $5 sneaks from 1983
+
+I kept a pair of $5 sneaks from 1983
+contradicts
+I had no foresight to keep a pair of sneaks from 1983
+
+I had no foresight to keep a pair of sneaks from 1983
+permits
+I left gaps in the periodic table
+
+Larry Page had a foresight to dominate the World Wide Web
+entails
+Larry Page dominated the World Wide Web
+
+Larry Page dominated the World Wide Web
+permits
+Larry Page had a foresight to dominate the World Wide Web
+
+Larry Page had a foresight to dominate the World Wide Web
+contradicts
+Larry Page did n't dominate the World Wide Web
+
+Larry Page did n't dominate the World Wide Web
+contradicts
+Larry Page had a foresight to dominate the World Wide Web
+
+Larry Page has had no foresight to dominate the World Wide Web
+entails
+Larry Page has not dominated the World Wide Web
+
+Larry Page has not dominated the World Wide Web
+permits
+Larry Page has had no foresight to dominate the World Wide Web
+
+Larry Page has had no foresight to dominate the World Wide Web
+permits
+Jack's tribe has n't dominated the World Wide Web
+
+Larry Page had had no foresight to dominate the World Wide Web
+contradicts
+Larry Page had dominated the World Wide Web
+
+Larry Page had dominated the World Wide Web
+contradicts
+Larry Page had had no foresight to dominate the World Wide Web
+
+we had had a foresight to see where the Meat Puppets might end up
+entails
+we had seen where the Meat Puppets might end up
+
+we had seen where the Meat Puppets might end up
+permits
+we had had a foresight to see where the Meat Puppets might end up
+
+we had a foresight to see where the Meat Puppets might end up
+contradicts
+we did not see where the Meat Puppets might end up
+
+we did not see where the Meat Puppets might end up
+contradicts
+we had a foresight to see where the Meat Puppets might end up
+
+we had had no foresight to see where the Meat Puppets might end up
+entails
+we had n't seen where the Meat Puppets might end up
+
+we had n't seen where the Meat Puppets might end up
+permits
+we had had no foresight to see where the Meat Puppets might end up
+
+we had had no foresight to see where the Meat Puppets might end up
+permits
+the colonists had n't seen where the Meat Puppets might end up
+
+we had no foresight to see where the Meat Puppets might end up
+contradicts
+we saw where the Meat Puppets might end up
+
+we saw where the Meat Puppets might end up
+contradicts
+we had no foresight to see where the Meat Puppets might end up
+
+they had had a foresight to market our town
+entails
+they had marketed our town
+
+they had marketed our town
+permits
+they had had a foresight to market our town
+
+they had had a foresight to market our town
+permits
+the owners had marketed our town
+
+they had a foresight to market our town
+contradicts
+they did not market our town
+
+they did not market our town
+contradicts
+they had a foresight to market our town
+
+they had a foresight to market our town
+permits
+the Phoenician officials did n't market our town
+
+they have had no foresight to market our town
+entails
+they have n't marketed our town
+
+they have n't marketed our town
+permits
+they have had no foresight to market our town
+
+they had no foresight to market our town
+contradicts
+they marketed our town
+
+they marketed our town
+contradicts
+they had no foresight to market our town
+
+he had had a foresight to see what was possible with iPhone 5c sales
+entails
+he had seen what was possible with iPhone 5c sales
+
+he had seen what was possible with iPhone 5c sales
+permits
+he had had a foresight to see what was possible with iPhone 5c sales
+
+he has had a foresight to see what was possible with iPhone 5c sales
+contradicts
+he has not seen what was possible with iPhone 5c sales
+
+he has not seen what was possible with iPhone 5c sales
+contradicts
+he has had a foresight to see what was possible with iPhone 5c sales
+
+he has had a foresight to see what was possible with iPhone 5c sales
+permits
+he has n't seen that question coming
+
+he had no foresight to see what was possible with iPhone 5c sales
+entails
+he did n't see what was possible with iPhone 5c sales
+
+he did n't see what was possible with iPhone 5c sales
+permits
+he had no foresight to see what was possible with iPhone 5c sales
+
+he had had no foresight to see what was possible with iPhone 5c sales
+contradicts
+he had seen what was possible with iPhone 5c sales
+
+he had seen what was possible with iPhone 5c sales
+contradicts
+he had had no foresight to see what was possible with iPhone 5c sales
+
+he had had no foresight to see what was possible with iPhone 5c sales
+permits
+the County had seen what was possible with iPhone 5c sales
+
+the Phoenician officials had a foresight to expand their influence
+entails
+the Phoenician officials expanded their influence
+
+the Phoenician officials expanded their influence
+permits
+the Phoenician officials had a foresight to expand their influence
+
+the Phoenician officials had a foresight to expand their influence
+contradicts
+the Phoenician officials did n't expand their influence
+
+the Phoenician officials did n't expand their influence
+contradicts
+the Phoenician officials had a foresight to expand their influence
+
+the Phoenician officials had a foresight to expand their influence
+permits
+we did not expand our influence
+
+the Phoenician officials had had no foresight to expand their influence
+entails
+the Phoenician officials had not expanded their influence
+
+the Phoenician officials had not expanded their influence
+permits
+the Phoenician officials had had no foresight to expand their influence
+
+the Phoenician officials had no foresight to expand their influence
+contradicts
+the Phoenician officials expanded their influence
+
+the Phoenician officials expanded their influence
+contradicts
+the Phoenician officials had no foresight to expand their influence
+

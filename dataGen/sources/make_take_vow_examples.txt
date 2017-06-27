@@ -1,0 +1,60 @@
+Implicatives:
+take a vow [o|o]
+
+Examples:
+he[M,S3] took[V] a vow to abstain[V] from alcohol and smoking
+I[S1] took[V] a vow to be[V] faithful to the Word of God and the Lutheran Confessions 
+we[P1] took[V] a vow to be[V] ever true
+Mark Zuckerberg[M,S3] took[V] a vow to destroy[V] Google Plus
+Bill Maher[M,S3] took[V] a vow to stop[V] Donald Trump from becoming president
+Lord Rāmacandra[M,S3] took[V] a vow to accept[V] only one wife and have no connection with any other women
+we[P1] took[V] a vow to serve[V] the people [AND,OR] account[V] for our actions
+Indian bowlers[P3] took[V] a vow to help[V] ace Pakistani cricketer Shahid Afridi reclaim the world record
+Callisto[F,S3] took[V] a vow to remain[V] a virgin
+I[S1] took[V] a vow to give[V] up processed food for Lent
+the fat man[M,S3] took[V] a vow to live[V] on bread and wine till [SubjPro] had [PossPro] vengeance
+I[S1] took[V] a vow to be[V] true to someone
+John, Stuart and I[P3] took[V] a vow to make[V] Liverpool famous
+Kyle Crosby[M,S3] took[V] a vow to love[V] and honor[V] Erica Crippen
+they[P3] took[V] a vow to perform[V] the duties of that office
+I[S1] took[V] a vow to raise[V] my child within Judaism
+participants[P3] took[V] a vow to keep[V] the city clean
+we[P1] took[V] a vow to follow[V] the dictates of our local bishop
+the four monks[P3] took[V] a vow to be[V] silent for the day
+Tarthang Tulku[M,S3] took[V] a vow to sponsor[V] ceremonies in this place and restore its former glory
+you[S2] took[V] a vow to tell[V] everything
+we[P1] took[V] a vow to be[V] unhappy
+you[S2] took[V] a vow to put[V] up with my whole entire mess at all times
+he[M,S3] took[V] a vow to be[V] committed to you
+she[F,S3] took[V] a vow to stay[V] in abusive marriage
+
+
+Implicatives:
+make a vow [o|o]
+
+Examples:
+The mayor[M,S3] made[V] a vow to reduce crime
+God[M,S3] made[V] a vow to remain[V] married to Israel no matter what she did
+the Nazarites[P3] made[V] a vow to dedicate[V] [PossPro] lives to God
+he and all the crew[P3] made[V] a vow to go[V] in procession clothed in penitential garments
+the man[M,S3] made[V] a vow to sacrifice[V] a camel at a certain location
+I[S1] made[V] a vow to carry[V] you home
+the otter[M,S3] made[V] a vow to catch[V] fish and give[V] all [PossPro] fish away
+she[F,S3] made[V] a vow to continue to break the internet
+John Brown[M,S3] stood[V] and made[V] a vow to end slavery
+I[S1] once made[V] a vow to love[V] her to the end
+she[F,S3] made[V] a vow to bev a virgin forever
+Hannah[F,S3] made[V] a vow to give[V] God back the Son He will bless her with
+we[P1] all made[V] a vow to[V] return
+you[S2] made[V] a vow to wait[V] until marriage to have sex
+I[S1] made[V] a vow to love[V] myself more so that [SubjPro] would be ready for [PossPro] next relationship
+we[P1] made[V] a vow to meet[V] up after [SubjPro] left Goldings
+Manziel[M,S3] (once again) made[V] a vow to stay[V] sober
+the mistress[F,S3] made[V] a vow to stay faithful
+we[P1] made[V] a vow to defend[V] the Constitution just for some people of one race
+we[P1] made[V] a vow to stay[V] together for ever
+he[M,S3] made[V] a vow to become[V] stronger to protect someone else
+she[F,S3] made[V] a vow to be[V] perfect
+St. Paul[M,S3] made[V] a vow to abstain[V]
+you[S2] made[V] a vow to serve[V] whoever would own the bones
+Gabrielle[F,S3] made[V] a vow to distrust[V] Xena

@@ -1,0 +1,40 @@
+Implicatives:
+happen [+|-]
+
+Examples:
+Easy Rider[S3] happened[V] to become[V] the film of the moment
+I[S1] happened[V] to encounter[V] Miss Kenton in the back corridor
+he[M,S3] happened[V] to leave[V] [PossPro] watch on the window-sill of his chamber
+you[S2] happened[V] to come[V] here on one of our meatless days
+he[M,S3] also happened[V] to enjoy[V] affairs with women
+they[P3] happened[V] to pass[V] through the narrow side-street again
+something[S3] happened[V] to shock[V] you out of your ignorance
+he and I[P1] happened[V] to bump[V] into [ResPro]
+Ianthe[F,S3] happened[V] to turn[V] [PossPro] head slightly
+Ling[F,S3] happened[V] to see[V] Doreen clinging to your arm last evening
+horses and litopterns[P3] happened[V] to exploit[V] four-legged galloping
+you[S2] happened[V] to hit[V] on a sore subject
+Lowell[M,S3] happened[V] to find[V] the original photograph
+the bus station[S3] happened[V] to be[V] close to the museum
+we[P1] just happened[V] to start[V] when cable was starting
+we[P1] also happened[V] to leave[V] the room without [PossPro] keys
+Bradley G[M,S3] happened[V] to register[V] it as a European Trade Mark
+Orwell[M,S3] just happened[V] to register[V] it very acutely
+the current resident[M,S3] happened[V] to hear[V] our guide talking
+John Rogers[M,S3] happened[V] to fear[V] heights
+I[S1] happened[V] to encounter[V] an essay from Bertrand Russell
+there[S3] happens[V] to be[V] a clash of personalities
+we[P1] just happened[V] to meet[V] Paul
+I[S1] just happened[V] to remember[V] her name
+I[S1] happened[V] to remember[V] the lecture on geometry by Carl Friedrich Geiser
+the unicorn's eye[S3] happened[V] to fall[V] upon Alice
+the old witch[F,S3] happened[V] to rise[V] before him
+we[P1] just happened[V] to exist[V] in two different circles
+I[S1] happened[V] to call[V] him at a bad time
+one caller[F,S3] happened[V] to mention[V] that [PossPro] granddaughter was getting married
+they[P3] happened[V] to forget[V] what came next
+he[M,S3] just happened[V] to buy[V] [ReflPro] a nice, reliable Lexus
+she[F,S3] happened[V] to have[V] a day off
+Garland[F,S3] happened[V] to like[V] New York
+Brady[M,S3] happened[V] to want[V] a new phone
+

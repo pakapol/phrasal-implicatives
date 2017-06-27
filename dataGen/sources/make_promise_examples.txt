@@ -1,0 +1,144 @@
+Implicatives:
+make (a,the,~,no,PossPro) promise [o|o]
+
+Examples:
+I[S1] made[V] a promise to give[V] him the love he never had
+I[S1] made[V] [PossPro] promise to give[V] him the love he never had
+I[S1] made[V] a promise to keep[V] a watch over [ReflPro]
+I[S1] made[V] [PossPro] promise to keep[V] a watch over [ReflPro]
+the king[M,S3] made[V] a promise to send[V] her back
+the king[M,S3] made[V] [PossPro] promise to send[V] her back
+Boehner[M,S3] made[V] a promise to stop[V] Obama's illegal amnesty
+Boehner[M,S3] made[V] [PossPro] promise to stop[V] Obama's illegal amnesty
+we[P1] made[V] a promise to reject[V] that past life
+we[P1] made[V] [PossPro] promise to reject[V] that past life
+Sara Parlier[F,S3] made[V] a promise to start[V] [PossPro] own business
+Sara Parlier[F,S3] made[V] [PossPro] promise to start[V] [PossPro] own business
+she[F,S3] made[V] a promise to leave[V] a Florida inheritance to the caller
+she[F,S3] made[V] [PossPro] promise to leave[V] a Florida inheritance to the caller
+we[P1] made[V] a promise to build[V] a dam here on the Fitzroy River
+we[P1] made[V] [PossPro] promise to build[V] a dam here on the Fitzroy River
+they[P3] made[V] a promise to have[V] the vehicle fixed for a certain dollar amount
+they[P3] made[V] [PossPro] promise to have[V] the vehicle fixed for a certain dollar amount
+you[S2] made[V] a promise to keep[V] a secret
+you[S2] made[V] [PossPro] promise to keep[V] a secret
+you[S2] made[V] a promise to love[V] and cherish[V] [PossPro] fiancé forever
+you[S2] made[V] [PossPro] promise to love[V] and cherish[V] [PossPro] fiancé forever
+Tesco[S3] made[V] a promise to respond[V] to applicants within five days
+Tesco[S3] made[V] [PossPro] promise to respond[V] to applicants within five days
+they[P3] made[V] a promise to hold[V] a festival every year
+they[P3] made[V] [PossPro] promise to hold[V] a festival every year
+Obama[M,S3] made[V] a promise to pull[V] out of Afghanistan
+Obama[M,S3] made[V] [PossPro] promise to pull[V] out of Afghanistan
+Hilaria Baldwin[F,S3] made[V] a promise to post[V] a photo of [ReflPro] in a yoga pose
+Hilaria Baldwin[F,S3] made[V] [PossPro] promise to post[V] a photo of [ReflPro] in a yoga pose
+my ex and I[P1] made[V] a promise to stay[V] exclusive while [SubjPro] work on [ReflPro]
+my ex and I[P1] made[V] [PossPro] promise to stay[V] exclusive while [SubjPro] work on [ReflPro]
+he[M,S3] made[V] a promise to say[V] each day how much she means to [ObjPro]
+he[M,S3] made[V] [PossPro] promise to say[V] each day how much she means to [ObjPro]
+he[M,S3] made[V] a promise to break[V] Dulcinea's curse
+he[M,S3] made[V] [PossPro] promise to break[V] Dulcinea's curse
+she[F,S3] made[V] a promise to heal[V] animals
+she[F,S3] made[V] [PossPro] promise to heal[V] animals
+she[F,S3] made[V] a promise to accept[V] him for who he is
+she[F,S3] made[V] [PossPro] promise to accept[V] him for who he is
+Fabian[M,S3] made[V] a promise to work[V] twice as hard at selling insurance
+Fabian[M,S3] made[V] [PossPro] promise to work[V] twice as hard at selling insurance
+Susan G. Komen[S3] made[V] a promise to end[V] breast cancer forever
+Susan G. Komen[S3] made[V] [PossPro] promise to end[V] breast cancer forever
+Bindi[F,S3] made[V] a promise to continue[V] ç dad's great work
+Bindi[F,S3] made[V] [PossPro] promise to continue[V] ç dad's great work
+her father[M,S3] made[V] a promise to read[V] to her every night
+her father[M,S3] made[V] [PossPro] promise to read[V] to her every night
+Garth[M,S3] made[V] a promise to write[V] 826 more napkin notes for Emma
+Garth[M,S3] made[V] [PossPro] promise to write[V] 826 more napkin notes for Emma
+coach Lea Salonga[F,S3] made[V] a promise to sing[V] at the pop star's wedding
+coach Lea Salonga[F,S3] made[V] [PossPro] promise to sing[V] at the pop star's wedding
+Laurie[F,S3] made[V] a promise to do[V] [PossPro] very best
+Laurie[F,S3] made[V] [PossPro] promise to do[V] [PossPro] very best
+Labor[S3] made[V] a promise to cancel[V] the additional road crossing across the harbour
+Labor[S3] made[V] [PossPro] promise to cancel[V] the additional road crossing across the harbour
+Dr. King[M,S3] made[V] a promise to give[V] BU title to his papers
+Dr. King[M,S3] made[V] [PossPro] promise to give[V] BU title to his papers
+the city[S3] made[V] a promise to take[V] care of the firefighters
+the city[S3] made[V] [PossPro] promise to take[V] care of the firefighters
+we[P1] made[V] the promise to give[V] Cuba independence
+we[P1] made[V] [PossPro] promise to give[V] Cuba independence
+we[P1] made[V] the promise to have[V] a closer look back to beach life
+we[P1] made[V] [PossPro] promise to have[V] a closer look back to beach life
+she[F,S3] made[V] the promise to stay[V] away from him
+she[F,S3] made[V] [PossPro] promise to stay[V] away from him
+he[M,S3] made[V] the promise to marry[V] me
+he[M,S3] made[V] [PossPro] promise to marry[V] me
+he[M,S3] made[V] the promise to follow[V] Lee everywhere
+he[M,S3] made[V] [PossPro] promise to follow[V] Lee everywhere
+I[S1] made[V] the promise to remain[V] his prisoner
+I[S1] made[V] [PossPro] promise to remain[V] his prisoner
+you[S2] made[V] the promise to do[V] everything Dumbledore asked
+you[S2] made[V] [PossPro] promise to do[V] everything Dumbledore asked
+you[S2] made[V] the promise to pay[V] rent each and every month
+you[S2] made[V] [PossPro] promise to pay[V] rent each and every month
+they[P3] made[V] the promise to stop[V] the violence
+they[P3] made[V] [PossPro] promise to stop[V] the violence
+they[P3] made[V] the promise to wear[V] a helmet
+they[P3] made[V] [PossPro] promise to wear[V] a helmet
+I[S1] made[V] the promise to try[V] at least one new recipe a week
+I[S1] made[V] [PossPro] promise to try[V] at least one new recipe a week
+Jesus[M,S3] made[V] the promise to give[V] us this power and authority
+Jesus[M,S3] made[V] [PossPro] promise to give[V] us this power and authority
+the government[S3] made[V] the promise to allow[V] daily newspapers last year
+the government[S3] made[V] [PossPro] promise to allow[V] daily newspapers last year
+Perez[M,S3] made[V] the promise to buy[V] a Galactico every year
+Perez[M,S3] made[V] [PossPro] promise to buy[V] a Galactico every year
+President Kennedy[M,S3] made[V] the promise to put[V] a man on the moon
+President Kennedy[M,S3] made[V] [PossPro] promise to put[V] a man on the moon
+Farage[M,S3] made[V] the promise to send[V] £350m to our NHS
+Farage[M,S3] made[V] [PossPro] promise to send[V] £350m to our NHS
+Burger King[S3] made[V] the promise to go[V] cage-free three years ago
+Burger King[S3] made[V] [PossPro] promise to go[V] cage-free three years ago
+candidate Obama[M,S3] made[V] the promise to kill[V] bin Laden explicit
+candidate Obama[M,S3] made[V] [PossPro] promise to kill[V] bin Laden explicit
+his parents[P3] made[V] the promise to stay[V] with him at night
+his parents[P3] made[V] [PossPro] promise to stay[V] with him at night
+Horizon[S3] made[V] the promise to report[V] on the findings
+Horizon[S3] made[V] [PossPro] promise to report[V] on the findings
+Mr. Robbins[M,S3] made[V] the promise to accept[V] part-payment of the debt
+Mr. Robbins[M,S3] made[V] [PossPro] promise to accept[V] part-payment of the debt
+the doctor[F,S3] made[V] the promise to take[V] care of her
+the doctor[F,S3] made[V] [PossPro] promise to take[V] care of her
+Fr. Joe and I[P1] made[V] the promise to be[V] available in a special way for [PossPro] parish family
+Fr. Joe and I[P1] made[V] [PossPro] promise to be[V] available in a special way for [PossPro] parish family
+God[M,S3] made[V] the promise to make[V] her descendants as numerous as the sky's stars
+God[M,S3] made[V] [PossPro] promise to make[V] her descendants as numerous as the sky's stars
+Pierre-Emerick Aubameyang[M,S3] made[V] promise to play[V] in Spain on granddad's deathbed
+Pierre-Emerick Aubameyang[M,S3] made[V] [PossPro] promise to play[V] in Spain on granddad's deathbed
+Oklahoma City[S3] made[V] promise to draft[V] Cameron Payne
+Oklahoma City[S3] made[V] [PossPro] promise to draft[V] Cameron Payne
+Mr Mulcair[M,S3] made[V] promise to debate[V] [PossPro] position on separating Quebec from Canada
+Mr Mulcair[M,S3] made[V] [PossPro] promise to debate[V] [PossPro] position on separating Quebec from Canada
+Obama[M,S3] made[V] promise to declassify[V] findings related to September 11, 2001
+Obama[M,S3] made[V] [PossPro] promise to declassify[V] findings related to September 11, 2001
+the boy[M,S3] made[V] promise to pay[V] child support
+the boy[M,S3] made[V] [PossPro] promise to pay[V] child support
+Snyder[M,S3] made[V] promise to drink[V] the Flint water for 30 days
+Snyder[M,S3] made[V] [PossPro] promise to drink[V] the Flint water for 30 days
+she[F,S3] made[V] no promise to pay[V] out of assets
+she[F,S3] made[V] [PossPro] promise to pay[V] out of assets
+the wife[F,S3] made[V] no promise to maintain[V] [ReflPro]
+the wife[F,S3] made[V] [PossPro] promise to maintain[V] [ReflPro]
+God[M,S3] made[V] no promise to keep[V] us from falling
+God[M,S3] made[V] [PossPro] promise to keep[V] us from falling
+they[P3] made[V] no promise to convert[V] CM house into Library [AND,OR] college
+they[P3] made[V] [PossPro] promise to convert[V] CM house into Library [AND,OR] college
+the holding company[S3] made[V] no promise to refinance[V] the loan
+the holding company[S3] made[V] [PossPro] promise to refinance[V] the loan
+he[M,S3] made[V] no promise to pay[V]
+he[M,S3] made[V] [PossPro] promise to pay[V]
+Betsy[F,S3] made[V] no promise to act[V] in exchange for the necklace
+Betsy[F,S3] made[V] [PossPro] promise to act[V] in exchange for the necklace
+the former secretary of State[M,S3] made[V] no promise to intervene[V] at the Methodist conference
+the former secretary of State[M,S3] made[V] [PossPro] promise to intervene[V] at the Methodist conference
+Ryan[M,S3] made[V] no promise to allow[V] votes on the Democrats' measures
+Ryan[M,S3] made[V] [PossPro] promise to allow[V] votes on the Democrats' measures
+the landlord[M,S3] made[V] no promise to deliver[V] the rental unit in a clean condition
+the landlord[M,S3] made[V] [PossPro] promise to deliver[V] the rental unit in a clean condition

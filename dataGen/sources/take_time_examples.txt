@@ -1,0 +1,44 @@
+Implicatives:
+take (the,~) time [+|-]
+
+Examples:
+the school[S3] took[V] the time to help[V] my autistic son
+Richie Benaud[M,S3] took[V] the time to write[V] a detailed letter to a 16-year-old boy
+she[F,S3] took[V] the time to smile[V] at us
+the firefighters[P3] took[V] the time to explain[V] [PossPro] actions
+he[M,S3] (really) took[V] the time to listen[V] to my needs
+I[S1] took[V] the time to get[V] an acting coach
+they[P3] (really) took[V] the time to understand[V] my motivations for creating my line of children's books
+my son's teacher[F,S3] took[V] the time to call[V]
+you[S2] took[V] the time to meet[V] us
+my stylist[F,S3] took[V] the time to get[V] to know me
+the marketing staff[S3] took[V] the time to understand[V] the plan
+I[S1] took[V] the time to take[V] the phone survey
+I[S1] took[V] the time to read[V] the manufacturer's instructions
+Zaslow[M,S3] took[V] the time to examine[V] the scorch marks on the source stone
+she[F,S3] took[V] the time to (even) look[V] at my chart
+you[S2] took[V] the time to review[V] [PossPro] presentation
+we[P1] took[V] the time to meet[V] [AND,OR] learn[V] about him
+the firm[S3] took[V] the time to articulate[V] the long-term implications
+the doctor[F,S3] took[V] the time to do[V] the best job
+he[M,S3] took[V] the time to run[V] analytics on [PossPro] campaign
+Steve Harvey[M,S3] took[V] time to honor[V] a 100-year-old woman in [PossPro] is audience
+Mr. Cage[M,S3] took[V] time to pose[V] for this photo with the father of a missing local teen.
+we[P1] took[V] time to set[V] intentions together for each of [PossPro] sessions
+the shooting victim[F,S3] took[V] time to let[V] family know that [SubjPro] survived
+we[P1] took[V] time to stop[V] and reflect[V] upon the impact computing technology
+I[S1] took[V] time to (mentally) care[V] for [ReflPro] [AND,OR] went[V] for a run
+the nursing staff[S3] took[V] time to listen[V] to my concerns
+I[S1] took[V] time to thank[V] God for seeing [ObjPro] through that day of days
+you[S2] took[V] time to complete[V] our survey last fall
+sheriff Billy McGee[M,S3] took[V] time to support[V] [PossPro] mistress in Chancery Court
+boyband Blake[S3] took[V] time to dig[V] into Luton on Sunday
+a red fox[S3] took[V] time to smell[V] the Montreal flowers
+Jack Garratt[M,S3] took[V] time to answer[V] questions from Trinity students
+university of Richmond alumna[F,S3] took[V] time to cultivate[V] [PossPro] skills [AND,OR] find[V] [PossPro] passion
+Barack Obama[M,S3] took[V] time to talk[V] to everyone at Anna Wintour's fundraiser last night
+Jesus[M,S3] took[V] time to figure[V] that out
+Mick Jagger[M,S3] took[V] time to thank[V] restaurant waiter
+he[M,S3] took[V] time to help[V] the man up the mountain
+you[S2] took[V] time to locate[V] and paste[V] that piece of shit meme as a response
+the world's top-ranked tennis player[M,S3] took[V] time to share[V] [PossPro] kitchen secrets with a crowd

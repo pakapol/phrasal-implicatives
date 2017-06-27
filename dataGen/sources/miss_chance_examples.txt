@@ -1,0 +1,124 @@
+Implicatives:
+miss (a,the,~,no,PossPro) chance [-|+]
+
+Examples:
+Microsoft[S3] missed[V] a chance to buy[V] LinkedIn for $1.5 billion
+Microsoft[S3] missed[V] [PossPro] chance to buy[V] LinkedIn for $1.5 billion
+the Obama administration[S3] missed[V] a chance to defend[V] Americans’ freedom
+the Obama administration[S3] missed[V] [PossPro] chance to defend[V] Americans’ freedom
+Yale[S3] missed[V] a chance to pay[V] tribute to local football legend
+Yale[S3] missed[V] [PossPro] chance to pay[V] tribute to local football legend
+Trump[M,S3] missed[V] a chance to electrify[V] voters by choosing Pence
+Trump[M,S3] missed[V] [PossPro] chance to electrify[V] voters by choosing Pence
+Republic[S3] missed[V] a chance to be[V] a ‘good neighbor’
+Republic[S3] missed[V] [PossPro] chance to be[V] a ‘good neighbor’
+Red Hook schools[P3] missed[V] chance to lower[V] tax levy
+Red Hook schools[P3] missed[V] [PossPro] chance to lower[V] tax levy
+you[S2] missed[V] a chance to get[V] an RTX Sidequest ticket
+you[S2] missed[V] [PossPro] chance to get[V] an RTX Sidequest ticket
+I[S1] missed[V] a chance to help[V] him last
+I[S1] missed[V] [PossPro] chance to help[V] him last
+the Chiefs[P3] missed[V] a chance to patch[V] [PossPro] differences
+the Chiefs[P3] missed[V] [PossPro] chance to patch[V] [PossPro] differences
+I[S1] missed[V] a chance to stop[V] a fight
+I[S1] missed[V] [PossPro] chance to stop[V] a fight
+they[P3] missed[V] a chance to see[V] a Beauty by Lhem Dee on 500px
+they[P3] missed[V] [PossPro] chance to see[V] a Beauty by Lhem Dee on 500px
+Target[S3] missed[V] a chance to improve[V] credit card safety
+Target[S3] missed[V] [PossPro] chance to improve[V] credit card safety
+Crimes[M,S3] (narrowly) missed[V] a chance to play[V] at the London Games
+Crimes[M,S3] (narrowly) missed[V] [PossPro] chance to play[V] at the London Games
+Sarah Piening[F,S3] (just) missed[V] a chance to play[V] in the softball Tournament of Champions
+Sarah Piening[F,S3] (just) missed[V] [PossPro] chance to play[V] in the softball Tournament of Champions
+people[P3] (already) missed[V] a chance to challenge[V] property tax
+people[P3] (already) missed[V] [PossPro] chance to challenge[V] property tax
+Hudson[M,S3] missed[V] a chance to see[V] the remains of beasts from the Jurassic
+Hudson[M,S3] missed[V] [PossPro] chance to see[V] the remains of beasts from the Jurassic
+Fox[M,S3] missed[V] a chance to be[V] a movie star
+Fox[M,S3] missed[V] [PossPro] chance to be[V] a movie star
+the Dodgers[P3] missed[V] a chance to pick[V] up ground on the reeling Giants
+the Dodgers[P3] missed[V] [PossPro] chance to pick[V] up ground on the reeling Giants
+Kawasaki Frontale[S3] missed[V] a chance to reclaim[V] top spot from the idle Urawa Reds
+Kawasaki Frontale[S3] missed[V] [PossPro] chance to reclaim[V] top spot from the idle Urawa Reds
+he[M,S3] missed[V] a chance to launch[V] some brickbats at the opposition
+he[M,S3] missed[V] [PossPro] chance to launch[V] some brickbats at the opposition
+she[F,S3] missed[V] a chance to get[V] help with [PossPro] luggage
+she[F,S3] missed[V] [PossPro] chance to get[V] help with [PossPro] luggage
+they[P3] missed[V] a chance to head[V] off the disaster
+they[P3] missed[V] [PossPro] chance to head[V] off the disaster
+we[P1] missed[V] a chance to take[V] [PossPro] own destiny in [PossPro] hands
+we[P1] missed[V] [PossPro] chance to take[V] [PossPro] own destiny in [PossPro] hands
+it[S3] missed[V] a chance to expand[V] regionally within east Asia
+it[S3] missed[V] [PossPro] chance to expand[V] regionally within east Asia
+it[S3] missed[V] the chance to grab[V] the allegiance of the many first-time voters
+it[S3] missed[V] [PossPro] chance to grab[V] the allegiance of the many first-time voters
+I[S1] missed[V] the chance to hear[V] that band
+I[S1] missed[V] [PossPro] chance to hear[V] that band
+Venus Williams[F,S3] missed[V] the chance to win[V] [PossPro] 50th WTA title
+Venus Williams[F,S3] missed[V] [PossPro] chance to win[V] [PossPro] 50th WTA title
+you[S2] missed[V] the chance to fuck[V] all night
+you[S2] missed[V] [PossPro] chance to fuck[V] all night
+you[S2] already missed[V] the chance to get[V] a good night's sleep
+you[S2] already missed[V] [PossPro] chance to get[V] a good night's sleep
+she[F,S3] missed[V] the chance to speak[V] to him
+she[F,S3] missed[V] [PossPro] chance to speak[V] to him
+Monaco[S3] missed[V] the chance to return[V] to second place in Ligue 1
+Monaco[S3] missed[V] [PossPro] chance to return[V] to second place in Ligue 1
+the Lakers[P3] missed[V] the chance to recruit[V] Thibodeau
+the Lakers[P3] missed[V] [PossPro] chance to recruit[V] Thibodeau
+I[S1] missed[V] the chance to meet[V] the legend
+I[S1] missed[V] [PossPro] chance to meet[V] the legend
+Boston University rowing coach Holly Hatton[F,S3] missed[V] the chance to compete[V] in the 1980 Olympics
+Boston University rowing coach Holly Hatton[F,S3] missed[V] [PossPro] chance to compete[V] in the 1980 Olympics
+Police[S3] missed[V] the chance to press[V] Paris attacks suspect on the Brussels bombers
+Police[S3] missed[V] [PossPro] chance to press[V] Paris attacks suspect on the Brussels bombers
+they[P3] missed[V] the chance to see[V] Sanders' latest Oregon visit
+they[P3] missed[V] [PossPro] chance to see[V] Sanders' latest Oregon visit
+Stephen Colbert[M,S3] missed[V] the chance to save[V] [PossPro] show
+Stephen Colbert[M,S3] missed[V] [PossPro] chance to save[V] [PossPro] show
+India[S3] missed[V] the chance to resolve[V] the Kashmir issue
+India[S3] missed[V] [PossPro] chance to resolve[V] the Kashmir issue
+bungling officials[P3] missed[V] chance to prosecute[V] Lord Janner on sex abuse claims
+bungling officials[P3] missed[V] chance to prosecute[V] Lord Janner on sex abuse claims
+he[M,S3] missed[V] no chance to see[V] new sights
+he[M,S3] missed[V] [PossPro] chance to see[V] new sights
+they[P3] missed[V] no chance to ask[V] about my whereabouts
+they[P3] missed[V] [PossPro] chance to ask[V] about my whereabouts
+the newspapers[P3] missed[V] no chance to lay the red[V] carpet before them
+the newspapers[P3] missed[V] [PossPro] chance to lay the red[V] carpet before them
+Mr. Obama[M,S3] missed[V] no chance to insult[V] and damage[V] America's allies
+Mr. Obama[M,S3] missed[V] [PossPro] chance to insult[V] and damage[V] America's allies
+the guys at Amul[P3] missed[V] no chance to put[V] their view forth on the issue
+the guys at Amul[P3] missed[V] [PossPro] chance to put[V] their view forth on the issue
+Karzai[M,S3] missed[V] no chance to ask[V] other powerful states to mediate the peace talks
+Karzai[M,S3] missed[V] [PossPro] chance to ask[V] other powerful states to mediate the peace talks
+he[M,S3] missed[V] the chance to say[V] goodbye to [PossPro] dying dad
+he[M,S3] missed[V] [PossPro] chance to say[V] goodbye to [PossPro] dying dad
+you[S2] missed[V] the chance to love[V] me
+you[S2] missed[V] [PossPro] chance to love[V] me
+his side[S3] missed[V] the chance to take[V] a 2-0 lead
+his side[S3] missed[V] [PossPro] chance to take[V] a 2-0 lead
+Leverkusen[S3] missed[V] the chance to edge[V] closer to a top-four spot
+Leverkusen[S3] missed[V] [PossPro] chance to edge[V] closer to a top-four spot
+we[P1] missed[V] the chance to curb[V] this violence
+we[P1] missed[V] [PossPro] chance to curb[V] this violence
+Apple[S3] missed[V] the chance to lead[V] in near-field communications
+Apple[S3] missed[V] [PossPro] chance to lead[V] in near-field communications
+I[S1] missed[V] the chance to meet[V] Nelson Mandela
+I[S1] missed[V] [PossPro] chance to meet[V] Nelson Mandela
+the NYPD[S3] missed[V] the chance to pursue[V] accused child molester Steven Pappas
+the NYPD[S3] missed[V] [PossPro] chance to pursue[V] accused child molester Steven Pappas
+it[S3] missed[V] the chance to bring[V] in a new audience
+it[S3] missed[V] [PossPro] chance to bring[V] in a new audience
+we[P1] missed[V] the chance to enter[V] the eerily-sounding Batcave meeting room
+we[P1] missed[V] [PossPro] chance to enter[V] the eerily-sounding Batcave meeting room
+Vinci[F,S3] missed[V] the chance to reconfirm the quarterfinal she reached last[V] year
+Vinci[F,S3] missed[V] [PossPro] chance to reconfirm the quarterfinal she reached last[V] year
+Tottenham[S3] missed[V] the chance to cut[V] Leicester's lead
+Tottenham[S3] missed[V] [PossPro] chance to cut[V] Leicester's lead
+Scotland[S3] missed[V] the chance to record[V] a initial victory
+Scotland[S3] missed[V] [PossPro] chance to record[V] a initial victory
+the UN[S3] missed[V] the chance to treat[V] the cholera outbreak sufficiently
+the UN[S3] missed[V] [PossPro] chance to treat[V] the cholera outbreak sufficiently
+the burglar[M,S3] missed[V] the chance to steal[V] a winning $1,000,000 lottery ticket from the victim's vehicle.
+the burglar[M,S3] missed[V] [PossPro] chance to steal[V] a winning $1,000,000 lottery ticket from the victim's vehicle.

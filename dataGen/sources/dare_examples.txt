@@ -1,0 +1,64 @@
+Implicatives:
+dare [+|-]
+
+Examples:
+they[P3] dared[V] to register[V] blacks to vote
+the 31-year-old[F,S3] dared[V] to say[V] three nice things about Amber Rose
+he[M,S3] dared[V] to affirm[V] the beauty of blackness
+Sweden’s feminist foreign minister[F,S3] dared[V] to tell[V] the truth about Saudi Arabia
+Michael Cimino[M,S3] dared[V] to dream[V] big
+Pharaoh[M,S3] dared[V] to vex[V] the saints
+they[P3] dared[V] to pick[V] up the torch of protest that had been lit in Montgomery
+she[F,S3] dared[V] to teach[V] black girls
+Amir Khan[M,S3] dared[V] to be[V] great against Canelo Alvarez
+she[F,S3] dared[V] to (unapologetically) centre[V] [PossPro] blackness in Western pop
+the gymnast[F,S3] dared[V] to try[V] a (breathtakingly) difficult move
+Trump, Carter both[P3] dared[V] to rush[V] in where angels fear to tread
+she[F,S3] dared[V] to wear[V] pants in the rodeo ring
+I[S1] dared[V] to tell[V] them they were eating garbage
+I[S1] dared[V] to tell[V] him what [SubjPro] thought
+she[F,S3] dared[V] to tell[V] him what had happened
+the farmer[M,S3] dared[V] to look[V] under the hay
+he[M,S3] dared[V] to show[V] at [PossPro] old gym
+they[P3] dared[V] to carry[V] out [PossPro] threat
+this Chinese singer[F,S3] dared[V] to publicly propose[V] to [PossPro] boyfriend
+he[M,S3] dared[V] to see[V] the value in all human life
+we[P1] dared[V] to take[V] in the storm
+we[P1] dared[V] to ask[V] a financial expert the truth about [PossPro] shopping
+you[S2] dared[V] to pick[V] a date and a venue
+you[S2] dared[V] to call[V] [ReflPro] an artist, loser
+I[S1] dared[V] to be[V] and [SubjPro] feel[V] like a bird set free
+Marcos[M,S3] dared[V] to withdraw[V] legal oppositions on ill-gotten wealth
+I[S1] dared[V] to say[V] that a forgery had been committed
+Mike Lombardi[M,S3] dared[V] to resign[V] as Vancouver school board chair over education budget crisis
+Haiti[S3] dared[V] to be[V] free
+I[S1] dared[V] to go[V] to sleep
+they[P3] dared[V] to attack[V] the emperor publicly
+you[S2] dared[V] to do[V] it
+archangel Michael[M,S3] dared[V] to bring[V] against him a blasphemous judgment
+she[F,S3] dared[V] to leave[V] the gun in [PossPro] son's room,
+they[P3] dared[V] to condemn[V] what he had done
+Herod[M,S3] dared[V] to write[V] on such a document the verdict
+I[S1] dared[V] to let[V] her sense [PossPro] fear and horror
+archangel Michael[M,S3] dared[V] to slander[V] Satan
+Kim[M,S3] dared[V] to tell[V] them so
+we[P1] dared[V] to use[V] the pool
+you[S2] dared[V] to mention[V] my reply to Danny
+the pirates[P3] dared[V] to rape[V] her
+the engineers[P3] dared[V] to tell[V] him that this would be difficult to achieve
+he[M,S3] dared[V] to console[V] her
+the parliamentary majority[S3] dared[V] to mention[V] Russia
+the communists[P3] dared[V] to do[V] such things
+he[M,S3] dared[V] to return[V]
+poor countries[P3] dared[V] to claim[V] [PossPro] rights
+Assad[M,S3] dared[V] to use[V] chemical weapons
+he[M,S3] dared[V] to walk[V] upright in the dark
+Zakharov and Kuznetsov[P3] dared[V] to make[V] difficult jump at the Kazan world Cup
+she[F,S3] dared[V] to laugh[V]
+I[S1] dared[V] to go[V] back towards the pit
+they[P3] dared[V] to take[V] a long, last look at [PossPro] homes
+he[M,S3] dared[V] to accept[V] the challenge
+the angry young people[P3] dared[V] to call[V] on Chiang Kai-shek to visit the islands and declare sovereignty
+he[M,S3] dared[V] to ask[V] a question
+my good guy friend[M,S3] dared[V] to hug[V] me [AND,OR] touch [ObjPro]
+they[P3] dared[V] to do[V] so

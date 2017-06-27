@@ -1,0 +1,54 @@
+Implicatives:
+take (a,the,~,no) vow [o|o]
+
+Examples:
+she[F,S3] took[V] no vow to hold[V] no lands [AND,OR] have[V] no children
+Netri[F,S3] took[V] no vow to be[V] catatonic on this subject
+he[M,S3] took[V] a vow to abstain[V] from alcohol and smoking
+I[S1] took[V] the vow to be[V] faithful to the Word of God and the Lutheran Confessions
+we[P1] took[V] a vow to be[V] ever true
+Mark Zuckerberg[M,S3] took[V] a vow to destroy[V] Google Plus
+Bill Maher[M,S3] took[V] a vow to stop[V] Donald Trump from becoming president
+Lord Rāmacandra[M,S3] took[V] a vow to accept[V] only one wife and have no connection with any other women
+we[P1] took[V] a vow to serve[V] the people [AND,OR] account for [PossPro] actions
+Indian bowlers[P3] took[V] a vow to help[V] ace Pakistani cricketer Shahid Afridi reclaim the world record
+Callisto[F,S3] took[V] the vow to remain[V] a virgin
+I[S1] took[V] a vow to give[V] up processed food for Lent
+the fat man[M,S3] took[V] a vow to live[V] on bread and wine till [SubjPro] had [PossPro] vengeance
+I[S1] took[V] a vow to be[V] true to someone
+John, Stuart and I[P1] took[V] a vow to make[V] Liverpool famous
+Kyle Crosby[M,S3] took[V] the vow to love[V] and honor[V] Erica Crippen
+they[P3] took[V] a vow to perform[V] the duties of that office
+I[S1] took[V] a vow to raise[V] [PossPro] child within Judaism
+participants[P3] took[V] a vow to keep[V] the city clean
+we[P1] took[V] a vow to follow[V] the dictates of [PossPro] local bishop
+the four monks[P3] took[V] a vow to be[V] silent for the day
+Tarthang Tulku[M,S3] took[V] a vow to sponsor[V] ceremonies in this place and restore[V] its former glory
+you[S2] took[V] the vow to tell[V] everything
+we[P1] took[V] a vow to be[V] unhappy
+you[S2] took[V] a vow to put[V] up with my whole entire mess at all times
+he[M,S3] took[V] a vow to be[V] committed to you
+she[F,S3] took[V] a vow to stay[V] in abusive marriage
+King Marasimha II[M,S3] took[V] the vow to fast[V] for three days
+I[S1] took[V] the vow to protect[V] myself
+I[S1] took[V] the vow to attain[V] enlightenment in a female body
+his father[M,S3] took[V] the vow to educate[V] him
+the mother and the boy's aunt[P3] took[V] the vow to walk[V] barefoot to Holy Mother's shrine
+the presbyters[P3] took[V] no vow to defend[V] the faith
+these women[P3] (surely) took[V] no vow to practice[V] only the teachings of the other sutras
+I[S1] took[V] no vow to limit[V] my intelligence
+he[M,S3] took[V] no vow to enslave[V] [ReflPro]
+my children[P3] took[V] no vow to support[V] me
+that animal companion[S3] took[V] no vow to be[V] a druid
+she[F,S3] took[V] no vow to harm[V] any good or evil living creature
+Hulkenberg[M,S3] took[V] no vow to spare[V] him
+Jane[F,S3] took[V] vow to take[V] away weight
+people[P3] took[V] vow to abstain[V] from smoking
+Umrah pilgrims[P3] took[V] vow to quit[V] smoking at Haram gates
+62 newlyweds[P3] took[V] vow to cast[V] [PossPro] votes in the ensuing polls
+the community people[P3] took[V] vow to protect[V] and manage[V] the forest
+hundreds of people[P3] took[V] vow to give[V] up alcohol [AND,OR] non vegetarian food
+Gandhi[M,S3] took[V] vow to keep[V] celibacy
+he[M,S3] took[V] vow to create[V] a program that benefits all
+Shahidul Islam Milon[M,S3] took[V] vow to resist[V] those evil forces who want to turn Bangladesh into a failed state
+I[S1] took[V] vow to stay[V] with him till death do us part

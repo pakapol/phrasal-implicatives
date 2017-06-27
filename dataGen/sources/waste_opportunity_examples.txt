@@ -1,0 +1,140 @@
+Implicatives:
+waste (an,the,no,PossPro) opportunity [-|+]
+
+Examples:
+Rudy[M,S3] wasted[V] no opportunity to transform[V]
+Rudy[M,S3] wasted[V] [PossPro] opportunity to transform[V]
+you[S2] (just) wasted[V] the opportunity to be[V] even more amazing
+you[S2] (just) wasted[V] [PossPro] opportunity to be[V] even more amazing
+Trujillo[M,S3] wasted[V] the opportunity to be[V] an enlightened ruler
+Trujillo[M,S3] wasted[V] [PossPro] opportunity to be[V] an enlightened ruler
+the Government[S3] wasted[V] the opportunity to lead[V] the way
+the Government[S3] wasted[V] [PossPro] opportunity to lead[V] the way
+you[S2] wasted[V] the opportunity to open[V] up on the Kingston foreshore
+you[S2] wasted[V] [PossPro] opportunity to open[V] up on the Kingston foreshore
+Africa[S3] wasted[V] the opportunity to increase[V] [PossPro] manufactured exports
+Africa[S3] wasted[V] [PossPro] opportunity to increase[V] [PossPro] manufactured exports
+Mr. Spitzer[M,S3] wasted[V] the opportunity to drive[V] a harder bargain
+Mr. Spitzer[M,S3] wasted[V] [PossPro] opportunity to drive[V] a harder bargain
+Obama[M,S3] wasted[V] the opportunity to discuss[V] and temper[V] the violent anti-white sentiment
+Obama[M,S3] wasted[V] [PossPro] opportunity to discuss[V] and temper[V] the violent anti-white sentiment
+they[P3] wasted[V] the opportunity to develop[V] another Kallis
+they[P3] wasted[V] [PossPro] opportunity to develop[V] another Kallis
+we[P1] (just) wasted[V] the opportunity to study[V] a C-type asteroid up close
+we[P1] (just) wasted[V] [PossPro] opportunity to study[V] a C-type asteroid up close
+she[F,S3] wasted[V] the opportunity to make[V] things turn out differently
+she[F,S3] wasted[V] [PossPro] opportunity to make[V] things turn out differently
+San Francisco[S3] wasted[V] the opportunity to take[V] advantage of high wages
+San Francisco[S3] wasted[V] [PossPro] opportunity to take[V] advantage of high wages
+these companies[P3] wasted[V] the opportunity to benefit[V] from his experience
+these companies[P3] wasted[V] [PossPro] opportunity to benefit[V] from his experience
+I[S1] wasted[V] the opportunity to introduce[V] [ReflPro] to Peter
+I[S1] wasted[V] [PossPro] opportunity to introduce[V] [ReflPro] to Peter
+he[M,S3] wasted[V] the opportunity to flesh[V] it out
+he[M,S3] wasted[V] [PossPro] opportunity to flesh[V] it out
+the Romanian national teams[P3] wasted[V] the opportunity to qualify[V] for the Rio Olympics
+the Romanian national teams[P3] wasted[V] [PossPro] opportunity to qualify[V] for the Rio Olympics
+they[P3] wasted[V] the opportunity to do[V] something else
+they[P3] wasted[V] [PossPro] opportunity to do[V] something else
+I[S1] wasted[V] the opportunity to get[V] an education at some of the world's greatest colleges
+I[S1] wasted[V] [PossPro] opportunity to get[V] an education at some of the world's greatest colleges
+the nation[S3] wasted[V] the opportunity to grow[V] the industry
+the nation[S3] wasted[V] [PossPro] opportunity to grow[V] the industry
+we[P1] wasted[V] the opportunity to build[V] on that success
+we[P1] wasted[V] [PossPro] opportunity to build[V] on that success
+they[P3] wasted[V] the opportunity to turn[V] that fame into good for the community
+they[P3] wasted[V] [PossPro] opportunity to turn[V] that fame into good for the community
+you[S2] wasted[V] the opportunity to help[V] [PossPro] fellow men
+you[S2] wasted[V] [PossPro] opportunity to help[V] [PossPro] fellow men
+the administration[S3] (also) wasted[V] the opportunity to raise[V] human rights issues publicly
+the administration[S3] (also) wasted[V] [PossPro] opportunity to raise[V] human rights issues publicly
+Bastian Schweinsteiger[M,S3] wasted[V] the opportunity to win[V] the game for [PossPro] country
+Bastian Schweinsteiger[M,S3] wasted[V] [PossPro] opportunity to win[V] the game for [PossPro] country
+Jirongo[M,S3] wasted[V] the opportunity to become[V] an integral cog in Kenya's political arena
+Jirongo[M,S3] wasted[V] [PossPro] opportunity to become[V] an integral cog in Kenya's political arena
+President Obama[M,S3] wasted[V] the opportunity to call[V] an end to the embargo
+President Obama[M,S3] wasted[V] [PossPro] opportunity to call[V] an end to the embargo
+the Independents and smaller parties[P3] wasted[V] the opportunity to offer[V] real alternative government
+the Independents and smaller parties[P3] wasted[V] [PossPro] opportunity to offer[V] real alternative government
+Donald Trump[M,S3] wasted[V] an opportunity to display[V] [PossPro] leadership
+Donald Trump[M,S3] wasted[V] [PossPro] opportunity to display[V] [PossPro] leadership
+George Osborne[M,S3] wasted[V] an opportunity to fix[V] our infrastructure
+George Osborne[M,S3] wasted[V] [PossPro] opportunity to fix[V] our infrastructure
+Zimbabwe[S3] wasted[V] an opportunity to pull[V] [ReflPro] together
+Zimbabwe[S3] wasted[V] [PossPro] opportunity to pull[V] [ReflPro] together
+you[S2] wasted[V] an opportunity to communicate[V] better
+you[S2] wasted[V] [PossPro] opportunity to communicate[V] better
+we[P1] wasted[V] an opportunity to examine[V] other important matters
+we[P1] wasted[V] [PossPro] opportunity to examine[V] other important matters
+the Appellate Body[S3] wasted[V] an opportunity to spell[V] out criteria for legitimate international standardization
+the Appellate Body[S3] wasted[V] [PossPro] opportunity to spell[V] out criteria for legitimate international standardization
+I[S1] wasted[V] an opportunity to get[V] to know someone who seemed really interesting
+I[S1] wasted[V] [PossPro] opportunity to get[V] to know someone who seemed really interesting
+she[F,S3] wasted[V] an opportunity to remind[V] me that I snatched [ObjPro] from [PossPro] glorious Rome
+she[F,S3] wasted[V] [PossPro] opportunity to remind[V] me that I snatched [ObjPro] from [PossPro] glorious Rome
+you[S2] wasted[V] an opportunity to prove[V] to [ReflPro] that [SubjPro] are a champion
+you[S2] wasted[V] [PossPro] opportunity to prove[V] to [ReflPro] that [SubjPro] are a champion
+the revision of the Law[S3] wasted[V] an opportunity to bring[V] air pollution under control
+the revision of the Law[S3] wasted[V] [PossPro] opportunity to bring[V] air pollution under control
+I[S1] wasted[V] an opportunity to tell[V] you how much [SubjPro] loved you
+I[S1] wasted[V] [PossPro] opportunity to tell[V] you how much [SubjPro] loved you
+president Bush[M,S3] wasted[V] an opportunity to appoint[V] a consensus nominee for the High Court
+president Bush[M,S3] wasted[V] [PossPro] opportunity to appoint[V] a consensus nominee for the High Court
+he[M,S3] wasted[V] an opportunity to succeed[V]
+he[M,S3] wasted[V] [PossPro] opportunity to succeed[V]
+the SNP[S3] wasted[V] an opportunity to be[V] the guiding force [SubjPro] pledged to be
+the SNP[S3] wasted[V] [PossPro] opportunity to be[V] the guiding force [SubjPro] pledged to be
+Maya[F,S3] wasted[V] an opportunity to challenge[V] our thinking about the human condition
+Maya[F,S3] wasted[V] [PossPro] opportunity to challenge[V] our thinking about the human condition
+Azerbaijan[S3] wasted[V] an opportunity to demonstrate[V] improvements in human rights
+Azerbaijan[S3] wasted[V] [PossPro] opportunity to demonstrate[V] improvements in human rights
+Lewis Holtby[M,S3] wasted[V] an opportunity to equalise in the 34th minute[V]
+Lewis Holtby[M,S3] wasted[V] [PossPro] opportunity to equalise in the 34th minute[V]
+the author[M,S3] wasted[V] an opportunity to come[V] up with a more readable, elegant solution
+the author[M,S3] wasted[V] [PossPro] opportunity to come[V] up with a more readable, elegant solution
+you[S2] wasted[V] an opportunity to deepen[V] [PossPro] relationship with a potential client
+you[S2] wasted[V] [PossPro] opportunity to deepen[V] [PossPro] relationship with a potential client
+the Spartans[P3] wasted[V] an opportunity to score[V] in the third quarter
+the Spartans[P3] wasted[V] [PossPro] opportunity to score[V] in the third quarter
+your brand[S3] wasted[V] an opportunity to give[V] consumers the full brand experience
+your brand[S3] wasted[V] [PossPro] opportunity to give[V] consumers the full brand experience
+the Detroit Tigers[P3] wasted[V] an opportunity to end[V] [PossPro] losing streak
+the Detroit Tigers[P3] wasted[V] [PossPro] opportunity to end[V] [PossPro] losing streak
+you[S2] wasted[V] an opportunity to teach[V] an engineer about the value of [PossPro] services
+you[S2] wasted[V] [PossPro] opportunity to teach[V] an engineer about the value of [PossPro] services
+the Penguins[P3] wasted[V] an opportunity to wrap up[V] the precious trophy
+the Penguins[P3] wasted[V] [PossPro] opportunity to wrap up[V] the precious trophy
+the Rangers[P3] wasted[V] an opportunity to take[V] advantage of a goaltender with no experience on this grand a stage
+the Rangers[P3] wasted[V] [PossPro] opportunity to take[V] advantage of a goaltender with no experience on this grand a stage
+the Premier[M,S3] wasted[V] an opportunity to ask[V] the federal Finance Minister Bill Morneau for help
+the Premier[M,S3] wasted[V] [PossPro] opportunity to ask[V] the federal Finance Minister Bill Morneau for help
+the panel[S3] wasted[V] an opportunity to address[V] the root causes of the medicine shortages
+the panel[S3] wasted[V] [PossPro] opportunity to address[V] the root causes of the medicine shortages
+the NCAA[S3] wasted[V] an opportunity to stand[V] firmly and publicly against discrimination
+the NCAA[S3] wasted[V] [PossPro] opportunity to stand[V] firmly and publicly against discrimination
+he[M,S3] wasted[V] an opportunity to brag[V] about the accomplishments of [PossPro] family member
+he[M,S3] wasted[V] [PossPro] opportunity to brag[V] about the accomplishments of [PossPro] family member
+she[F,S3] wasted[V] an opportunity to gather[V] information on others and exploit[V] it for [PossPro] own gain
+she[F,S3] wasted[V] [PossPro] opportunity to gather[V] information on others and exploit[V] it for [PossPro] own gain
+Hazwan[M,S3] wasted[V] an opportunity to complete[V] the hat-trick
+Hazwan[M,S3] wasted[V] [PossPro] opportunity to complete[V] the hat-trick
+Noa Santos[M,S3] wasted[V] no opportunity to show[V] off pieces from Leandra's vast fashion collection
+Noa Santos[M,S3] wasted[V] [PossPro] opportunity to show[V] off pieces from Leandra's vast fashion collection
+they[P3] wasted[V] no opportunity to criticise the way we played
+they[P3] wasted[V] [PossPro] opportunity to criticise the way we played
+the older man[M,S3] wasted[V] no opportunity to taunt[V] him
+the older man[M,S3] wasted[V] [PossPro] opportunity to taunt[V] him
+NEC[S3] wasted[V] no opportunity to move[V] ahead rapidly
+NEC[S3] wasted[V] [PossPro] opportunity to move[V] ahead rapidly
+the former Memuneh[M,S3] wasted[V] no opportunity to try[V] to undermine the new Mossad chief
+the former Memuneh[M,S3] wasted[V] [PossPro] opportunity to try[V] to undermine the new Mossad chief
+he[M,S3] wasted[V] no opportunity to compare[V] ethnic preferences [AND,OR] contrast[V] Huaorani and Quichua ways
+he[M,S3] wasted[V] [PossPro] opportunity to compare[V] ethnic preferences [AND,OR] contrast[V] Huaorani and Quichua ways
+Croly[M,S3] wasted[V] no opportunity to pound[V] the message home
+Croly[M,S3] wasted[V] [PossPro] opportunity to pound[V] the message home
+the event[S3] wasted[V] no opportunity to paint[V] a picture of the U.S. as an ominous, corrupt and dangerous place
+the event[S3] wasted[V] [PossPro] opportunity to paint[V] a picture of the U.S. as an ominous, corrupt and dangerous place
+Mario[M,S3] wasted[V] no opportunity to show[V] his affection for Emma
+Mario[M,S3] wasted[V] [PossPro] opportunity to show[V] his affection for Emma
+the Anglican[M,S3] (also) wasted[V] no opportunity to scold[V] unrefined frontiersmen
+the Anglican[M,S3] (also) wasted[V] [PossPro] opportunity to scold[V] unrefined frontiersmen

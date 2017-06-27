@@ -1,0 +1,64 @@
+Implicatives:
+be forced [+|.5]
+
+Examples:
+we[P1] were[V] forced to accelerate[V] [PossPro] schedules
+I[S1] was[V] forced to have[V] [PossPro] rapist's baby
+she[F,S3] was[V] forced to cook[V] for the man
+his son[M,S3] was[V] forced to hit[V] Dalits to prove that Muslims too were with cow vigilantes
+I[S1] was[V] forced to live[V] for days on nothing but food and water
+he[M,S3] was[V] forced to come[V] out publicly in 1997
+Shaun Jurgens[M,S3] was[V] forced to resign[V] after using a Taser and pepper spray
+she[F,S3] was[V] forced to breastfeed[V] [PossPro] baby in a bathroom
+Tom Dumoulin[M,S3] was[V] forced to abandon[V] Tour de France after a crash
+State Department[S3] was[V] forced to disable[V] security features to receive messages
+she[F,S3] was[V] forced to walk[V] around the house on [PossPro] hands and knees
+Sir Michael Caine[M,S3] was[V] forced to change[V] [PossPro] name because of ISIS
+we[P1] were[V] forced to accelerate[V] [PossPro] schedules
+they[P3] were[V] forced to cut[V] a major battle sequence from the show
+they[P3] were[V] forced to change[V] [PossPro] votes in a Dallas County child sex trial
+prisoners[P3] were[V] forced to march[V] long distances in bitter cold
+we[P1] were[V] forced to close[V] last June after the lease expired
+Coal Miners in Romney TV ads[P3] were[V] forced to attend[V] rally
+he and others[P3] were[V] forced to create[V] HIV virus as a secret weapon to wipe out Africans
+Africans[P3] were[V] forced to make[V] the journey under terrible conditions
+Jews[P3] were[V] forced to wear[V] a badge in the form of a Yellow Star
+the child[M,S3] was[V] forced to use[V] heroin as well
+the flight to Heraklion[S3] was[V] forced to turn[V] around and fly back on Thursday morning
+Mr Odinga[M,S3] was[V] forced to change[V] [PossPro] plans
+the mother[F,S3] was[V] forced to watch[V] beheading of [PossPro] son
+the heavily pregnant mum[F,S3] was[V] forced to sit[V] on the waiting room floor
+you[S2] were[V] forced to learn[V] to write a simple declarative sentence
+you[S2] were[V] forced to make[V] an unpopular decision
+this mother[F,S3] was[V] forced to keep[V] paying off [PossPro] son's student loans
+Alabama's chief justice[M,S3] was[V] forced to step[V] down
+Liberté Chan[F,S3] was[V] forced to cover[V] up mid-forecast
+we[P1] were[V] forced to accept[V] half salaries
+the dead[P3] were[V] forced to endure[V] such indignities
+they[P3] were[V] forced to provide[V] sexual favors to a husband
+the commercial banks[P3] were[V] forced to accommodate[V] the holding of government bonds
+Bay Area communities[P3] were[V] forced to become[V] absorbed into San Francisco
+Haganah and IDF commanders[P3] were[V] forced to confront[V] the moral dilemma posed by expulsion
+the Clintons[P3] were[V] forced to return[V] the gifts
+the Bosnians[P3] were[V] forced to convert[V] into Islam
+the New England men[P3] were[V] forced to drink[V] liberty tea
+the people of the area[P3] were[V] forced to believe[V] in Islam
+these businesses[P3] were[V] forced to participate[V] in the wedding ceremony
+inmates[P3] were[V] forced to work[V] in poorhouses
+they[P3] were[V] forced to make[V] that choice
+female students[P3] were[V] forced to engage[V] in "lesbian kissing"
+children[P3] were[V] forced to go[V] to the fields to pick cotton
+we[P1] were[V] forced to accept[V] Jesus at the point of a gun
+we[P1] were[V] forced to fall[V] back
+you[S2] were[V] forced to do[V] it
+it[S3] was[V] forced to change[V] [PossPro] corporate tax system
+it[S3] was[V] forced to put[V] these insights together into a formal theory
+it[S3] was[V] forced to alter[V] [PossPro] rules
+they[P3] were[V] forced to borrow[V] tools from [ResPro]
+they[P3] were[V] forced to leave[V] everything behind
+Christians and Jews[P3] were[V] forced to accept[V] Islam at the point of a sword
+the Jews[P3] were[V] forced to wear[V] the "Star of David"
+German doctors[P3] were[V] forced to participate[V] in the sterilization
+you[S2] were[V] forced to take[V] this step
+the students[P3] were[V] forced to move[V] to the free speech zone
+the Scots[P3] were[V] forced to stay[V] in an unhappy marriage

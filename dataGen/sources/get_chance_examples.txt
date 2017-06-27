@@ -1,0 +1,188 @@
+Implicatives:
+get (a,the,~,no,PossPro) chance [.9|-]
+
+Examples:
+we[P1] got[V] no chance to get[V] ashore
+we[P1] got[V] [PossPro] chance to get[V] ashore
+you[S2] got[V] no chance to win[V]
+you[S2] got[V] [PossPro] chance to win[V]
+Mrs. Sinclair[F,S3] got[V] no chance to say[V] yes or no
+Mrs. Sinclair[F,S3] got[V] [PossPro] chance to say[V] yes or no
+Sefa[F,S3] got[V] no chance to say[V] good-bye to the man she loved
+Sefa[F,S3] got[V] [PossPro] chance to say[V] good-bye to the man she loved
+she[F,S3] got[V] no chance to deliver[V] [PossPro] address
+she[F,S3] got[V] [PossPro] chance to deliver[V] [PossPro] address
+the steelers[P3] got[V] no chance to comeback in a game[V]
+the steelers[P3] got[V] [PossPro] chance to comeback in a game[V]
+both the passanger and the pilot[P3] got[V] no chance to open[V] the parachute
+both the passanger and the pilot[P3] got[V] [PossPro] chance to open[V] the parachute
+I[S1] got[V] chance to work[V] different types of projects
+I[S1] got[V] [PossPro] chance to work[V] different types of projects
+Berry[M,S3] got[V] chance to shine[V] for Kentucky All-Stars
+Berry[M,S3] got[V] [PossPro] chance to shine[V] for Kentucky All-Stars
+Shriya Saran[F,S3] got[V] chance to perform[V] with Bala Krishna
+Shriya Saran[F,S3] got[V] [PossPro] chance to perform[V] with Bala Krishna
+49ers' Gabbert[M,S3] got[V] chance to prove[V] is tough enough
+49ers' Gabbert[M,S3] got[V] [PossPro] chance to prove[V] is tough enough
+Yakub[M,S3] got[V] chance to express[V] [PossPro] views in all forums
+Yakub[M,S3] got[V] [PossPro] chance to express[V] [PossPro] views in all forums
+the party folks[F,S3] got[V] chance to issue[V] various motion and lighting commands to the Sphero spherical robot
+the party folks[F,S3] got[V] [PossPro] chance to issue[V] various motion and lighting commands to the Sphero spherical robot
+we even[P1] got[V] chance to meet[V] up with two friends met on the road in Budapest
+we even[P1] got[V] [PossPro] chance to meet[V] up with two friends met on the road in Budapest
+she[F,S3] got[V] chance to explore[V] world as a military wife
+she[F,S3] got[V] [PossPro] chance to explore[V] world as a military wife
+we[P1] got[V] chance to see[V] what stage the other schools were at
+we[P1] got[V] [PossPro] chance to see[V] what stage the other schools were at
+I[S1] even got[V] chance to exchange[V] a few fisherman's secrets with some local guys
+I[S1] even got[V] [PossPro] chance to exchange[V] a few fisherman's secrets with some local guys
+he[M,S3] got[V] a chance to blow[V] up the Fat Lady
+he[M,S3] got[V] [PossPro] chance to blow[V] up the Fat Lady
+I[S1] got[V] a chance to talk[V] to the girls about you today
+I[S1] got[V] [PossPro] chance to talk[V] to the girls about you today
+Jerry[M,S3] got[V] a chance to pitch[V]
+Jerry[M,S3] got[V] [PossPro] chance to pitch[V]
+we[P1] got[V] a chance to talk[V] and catch[V] up on things
+we[P1] got[V] [PossPro] chance to talk[V] and catch[V] up on things
+I[S1] got[V] a chance to see[V] how drugs really impacted a lot of folks
+I[S1] got[V] [PossPro] chance to see[V] how drugs really impacted a lot of folks
+Swift[M,S3] got[V] a chance to show[V] [PossPro] stuff
+Swift[M,S3] got[V] [PossPro] chance to show[V] [PossPro] stuff
+they[P3] got[V] a chance to check[V] out a track
+they[P3] got[V] [PossPro] chance to check[V] out a track
+they[P3] got[V] a chance to leave[V] that hell hole called a farm
+they[P3] got[V] [PossPro] chance to leave[V] that hell hole called a farm
+you[S2] got[V] a chance to get[V] to know [PossPro] father
+you[S2] got[V] [PossPro] chance to get[V] to know [PossPro] father
+they[P3] got[V] a chance to work[V] with the developers on a live project on website development
+they[P3] got[V] [PossPro] chance to work[V] with the developers on a live project on website development
+Towell[M,S3] (again) got[V] a chance to strike[V]
+Towell[M,S3] (again) got[V] [PossPro] chance to strike[V]
+Burlington[S3] got[V] a chance to flex[V] [PossPro] muscle
+Burlington[S3] got[V] [PossPro] chance to flex[V] [PossPro] muscle
+Valley[M,S3] got[V] a good chance to shoot[V] twice
+Valley[M,S3] got[V] [PossPro] good chance to shoot[V] twice
+the student[F,S3] got[V] a chance to be[V] the expert
+the student[F,S3] got[V] [PossPro] chance to be[V] the expert
+I[S1] got[V] a chance to play[V] the trumpet
+I[S1] got[V] [PossPro] chance to play[V] the trumpet
+a young hotshot named Mario Andretti[M,S3] got[V] a chance to drive[V]
+a young hotshot named Mario Andretti[M,S3] got[V] [PossPro] chance to drive[V]
+Watt[M,S3] got[V] a chance to score[V]
+Watt[M,S3] got[V] [PossPro] chance to score[V]
+the father[M,S3] got[V] a chance to repair[V] the relationship
+the father[M,S3] got[V] [PossPro] chance to repair[V] the relationship
+these young ladies[P3] got[V] a chance to play[V] baseball
+these young ladies[P3] got[V] [PossPro] chance to play[V] baseball
+I[S1] got[V] a chance to become[V] the Vampire
+I[S1] got[V] [PossPro] chance to become[V] the Vampire
+I[S1] got[V] the chance to work[V] in the financial industry
+I[S1] got[V] [PossPro] chance to work[V] in the financial industry
+he[M,S3] got[V] the chance to go[V] there as a schoolmaster
+he[M,S3] got[V] [PossPro] chance to go[V] there as a schoolmaster
+I[S1] got[V] the chance to do[V] the devotion
+I[S1] got[V] [PossPro] chance to do[V] the devotion
+he[M,S3] got[V] the chance to play[V] in the Majors during the regular season in 1952
+he[M,S3] got[V] [PossPro] chance to play[V] in the Majors during the regular season in 1952
+I[S1] got[V] the chance to learn[V] about so many things
+I[S1] got[V] [PossPro] chance to learn[V] about so many things
+we[P1] got[V] the chance to have[V] a little food and drink
+we[P1] got[V] [PossPro] chance to have[V] a little food and drink
+women[P3] got[V] the chance to experience[V] both talking [AND,OR] being listened to by others
+women[P3] got[V] [PossPro] chance to experience[V] both talking [AND,OR] being listened to by others
+Anna[F,S3] got[V] the chance to rid[V] them of their arrogance
+Anna[F,S3] got[V] [PossPro] chance to rid[V] them of their arrogance
+I[S1] got[V] the chance to ask[V] him some questions about things [SubjPro] hadn't quite understood
+I[S1] got[V] [PossPro] chance to ask[V] him some questions about things [SubjPro] hadn't quite understood
+locals[P3] got[V] the chance to compete[V] against the professionals
+locals[P3] got[V] [PossPro] chance to compete[V] against the professionals
+Harriet[F,S3] got[V] chance to tell[V] me what it was
+Harriet[F,S3] got[V] [PossPro] chance to tell[V] me what it was
+Renée[F,S3] got[V] chance to reply[V] before Missy was calling them over
+Renée[F,S3] got[V] [PossPro] chance to reply[V] before Missy was calling them over
+North Lanarkshire young carers[P3] got[V] chance to become[V] firefighters
+North Lanarkshire young carers[P3] got[V] [PossPro] chance to become[V] firefighters
+family[P3] got[V] chance to say[V] goodbye before mother died
+family[P3] got[V] [PossPro] chance to say[V] goodbye before mother died
+her daughter[F,S3] got[V] chance to seek[V] treatment other than chemo
+her daughter[F,S3] got[V] [PossPro] chance to seek[V] treatment other than chemo
+I[S1] got[V] chance to ride[V] some of the roller coasters like Dare Devil Dive [AND,OR] the newest SkyScreamer
+I[S1] got[V] [PossPro] chance to ride[V] some of the roller coasters like Dare Devil Dive [AND,OR] the newest SkyScreamer
+we[P1] got[V] chance to see[V] or meet Tom Hanks [AND,NOR] any of the veterans
+we[P1] got[V] [PossPro] chance to see[V] or meet Tom Hanks [AND,NOR] any of the veterans
+she[F,S3] got[V] chance to get[V] reacquainted with some long lost family
+she[F,S3] got[V] [PossPro] chance to get[V] reacquainted with some long lost family
+both myself and my husband[P1] got[V] chance to go[V] to college
+both myself and my husband[P1] got[V] [PossPro] chance to go[V] to college
+companies[P3] got[V] chance to bid[V] on work at Smale
+companies[P3] got[V] [PossPro] chance to bid[V] on work at Smale
+the people[P3] got[V] a chance to register[V]
+the people[P3] got[V] [PossPro] chance to register[V]
+their subordinates[P3] got[V] a chance to develop[V] professionally
+their subordinates[P3] got[V] [PossPro] chance to develop[V] professionally
+I[S1] got[V] a chance to speak[V] at the Second Reading of the Bill
+I[S1] got[V] [PossPro] chance to speak[V] at the Second Reading of the Bill
+we[P1] got[V] a chance to go[V] in because of the crowd
+we[P1] got[V] [PossPro] chance to go[V] in because of the crowd
+Lev Iakovlevich[M,S3] got[V] a chance to make[V] fieldwork a central element of [PossPro] ethnological teaching
+Lev Iakovlevich[M,S3] got[V] [PossPro] chance to make[V] fieldwork a central element of [PossPro] ethnological teaching
+you[S2] got[V] chance to work[V] on great domain oriented projects
+you[S2] got[V] [PossPro] chance to work[V] on great domain oriented projects
+the rest of humanity[P3] got[V] a chance to have[V] that experience
+the rest of humanity[P3] got[V] [PossPro] chance to have[V] that experience
+he[M,S3] got[V] a chance to eat[V] afterward
+he[M,S3] got[V] [PossPro] chance to eat[V] afterward
+Ben[M,S3] got[V] a chance to finish[V] [PossPro] sentence
+Ben[M,S3] got[V] [PossPro] chance to finish[V] [PossPro] sentence
+I[S1] got[V] a chance to dry[V] them out
+I[S1] got[V] [PossPro] chance to dry[V] them out
+we[P1] got[V] a chance to dump[V] them at the next election
+we[P1] got[V] [PossPro] chance to dump[V] them at the next election
+Moon Beam[F,S3] got[V] a chance to answer[V]
+Moon Beam[F,S3] got[V] [PossPro] chance to answer[V]
+Bob[M,S3] got[V] a chance to call[V] her
+Bob[M,S3] got[V] [PossPro] chance to call[V] her
+I[S1] got[V] a chance to hang[V] up
+I[S1] got[V] [PossPro] chance to hang[V] up
+Fear[S3] got[V] a chance to take[V] a grip on him on a quarterdeck
+Fear[S3] got[V] [PossPro] chance to take[V] a grip on him on a quarterdeck
+Monica[F,S3] got[V] a chance to live[V] the life of a teenager
+Monica[F,S3] got[V] [PossPro] chance to live[V] the life of a teenager
+Mrs. Welch[F,S3] got[V] a chance to talk[V] to [PossPro] doctor on Saturday
+Mrs. Welch[F,S3] got[V] [PossPro] chance to talk[V] to [PossPro] doctor on Saturday
+Bradley[M,S3] got[V] a chance to use[V] [PossPro] weapon
+Bradley[M,S3] got[V] [PossPro] chance to use[V] [PossPro] weapon
+Leah and Al[P3] got[V] a chance to see[V] [ResPro] again before leaving that weekend
+Leah and Al[P3] got[V] [PossPro] chance to see[V] [ResPro] again before leaving that weekend
+I[S1] got[V] a chance to meet[V] her in person until six years later
+I[S1] got[V] [PossPro] chance to meet[V] her in person until six years later
+you[S2] got[V] a chance to eat[V] with the guests
+you[S2] got[V] [PossPro] chance to eat[V] with the guests
+they[P3] got[V] a chance to find[V] out
+they[P3] got[V] [PossPro] chance to find[V] out
+she[F,S3] got[V] a chance to straighten[V] up before coming
+she[F,S3] got[V] [PossPro] chance to straighten[V] up before coming
+he[M,S3] got[V] a chance to talk[V] to [PossPro] father last night
+he[M,S3] got[V] [PossPro] chance to talk[V] to [PossPro] father last night
+you[S2] got[V] the chance to exchange[V] numbers
+you[S2] got[V] [PossPro] chance to exchange[V] numbers
+she[F,S3] got[V] the chance to look[V] at the body
+she[F,S3] got[V] [PossPro] chance to look[V] at the body
+he[M,S3] got[V] the chance to go[V] to college
+he[M,S3] got[V] [PossPro] chance to go[V] to college
+we[P1] got[V] the chance to hug[V] her and hold[V] her real tight
+we[P1] got[V] [PossPro] chance to hug[V] her and hold[V] her real tight
+his mother[F,S3] got[V] the chance to get[V] him the candy
+his mother[F,S3] got[V] [PossPro] chance to get[V] him the candy
+she[F,S3] got[V] the chance to reach[V] that level
+she[F,S3] got[V] [PossPro] chance to reach[V] that level
+we[P1] got[V] the chance to speak[V] of your experience with her last night
+we[P1] got[V] [PossPro] chance to speak[V] of your experience with her last night
+Nick[M,S3] got[V] the chance to mock[V] [PossPro] friend's stupidity
+Nick[M,S3] got[V] [PossPro] chance to mock[V] [PossPro] friend's stupidity
+Berkowitz[M,S3] got[V] the chance to be[V] scared
+Berkowitz[M,S3] got[V] [PossPro] chance to be[V] scared
+the tentative Salzman[M,S3] got[V] the chance to ease[V] [PossPro] way back into competition
+the tentative Salzman[M,S3] got[V] [PossPro] chance to ease[V] [PossPro] way back into competition
+they[P3] got[V] the chance to look[V] too close
+they[P3] got[V] [PossPro] chance to look[V] too close

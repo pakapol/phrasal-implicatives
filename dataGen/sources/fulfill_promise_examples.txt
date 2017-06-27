@@ -1,0 +1,74 @@
+Implicatives:
+fulfill (a,the,~,PossPro) promise [+|-]
+
+Examples:
+God[M,S3] fulfilled[V] the promise to give[V] Israel the land
+God[M,S3] fulfilled[V] [PossPro] promise to give[V] Israel the land
+England[S3] fulfilled[V] the promise to take[V] the gospel to all nations
+England[S3] fulfilled[V] [PossPro] promise to take[V] the gospel to all nations
+Alfonso Ugarte[M,S3] (indeed) fulfilled[V] the promise to fight[V] to the last bullet
+Alfonso Ugarte[M,S3] (indeed) fulfilled[V] [PossPro] promise to fight[V] to the last bullet
+Obama[M,S3] (partially) fulfilled[V] the promise to end[V] extreme rendition
+Obama[M,S3] (partially) fulfilled[V] [PossPro] promise to end[V] extreme rendition
+Bill[M,S3] fulfilled[V] the promise to transfer[V] his interest in their Florida home to Diane
+Bill[M,S3] fulfilled[V] [PossPro] promise to transfer[V] his interest in their Florida home to Diane
+they[P3] fulfilled[V] the promise to end[V] the infiltration of criminals
+they[P3] fulfilled[V] [PossPro] promise to end[V] the infiltration of criminals
+the DMK[S3] fulfilled[V] the promise to reduce[V] the distance for installing pumpsets near river beds
+the DMK[S3] fulfilled[V] [PossPro] promise to reduce[V] the distance for installing pumpsets near river beds
+we[P1] (still) fulfilled[V] the promise to keep[V] miners safe on the job
+we[P1] (still) fulfilled[V] [PossPro] promise to keep[V] miners safe on the job
+Lincoln[M,S3] fulfilled[V] the promise to free[V] all the slaves
+Lincoln[M,S3] fulfilled[V] [PossPro] promise to free[V] all the slaves
+they[P3] fulfilled[V] the promise to defeat[V] Daesh in Ramadi
+they[P3] fulfilled[V] [PossPro] promise to defeat[V] Daesh in Ramadi
+she[F,S3] fulfilled[V] the promise to write[V] the history of krontjong
+she[F,S3] fulfilled[V] [PossPro] promise to write[V] the history of krontjong
+Jesus[M,S3] fulfilled[V] the promise to meet[V] their greatest need
+Jesus[M,S3] fulfilled[V] [PossPro] promise to meet[V] their greatest need
+the Lamb of God[M,S3] fulfilled[V] the promise to take[V] away the sins of the world
+the Lamb of God[M,S3] fulfilled[V] [PossPro] promise to take[V] away the sins of the world
+we[P1] fulfilled[V] the promise to return[V] to misty Venice for 6 days
+we[P1] fulfilled[V] [PossPro] promise to return[V] to misty Venice for 6 days
+Moshe[M,S3] fulfilled[V] the promise to bring[V] them to a rich and fertile land
+Moshe[M,S3] fulfilled[V] [PossPro] promise to bring[V] them to a rich and fertile land
+he[M,S3] (just now) fulfilled[V] the promise to pour[V] forth the Holy Spirit
+he[M,S3] (just now) fulfilled[V] [PossPro] promise to pour[V] forth the Holy Spirit
+he[M,S3] fulfilled[V] the promise to overcome[V] darkness in every dimension
+he[M,S3] fulfilled[V] [PossPro] promise to overcome[V] darkness in every dimension
+I[S1] fulfilled[V] a promise to take[V] [PossPro] children to Mecca with [PossPro] parents
+I[S1] fulfilled[V] [PossPro] promise to take[V] [PossPro] children to Mecca with [PossPro] parents
+I[S1] fulfilled[V] the promise to give[V] the people my Flesh and Blood
+I[S1] fulfilled[V] [PossPro] promise to give[V] the people my Flesh and Blood
+you[S2] fulfilled[V] the promise to have[V] a free vote on capital punishment
+you[S2] fulfilled[V] [PossPro] promise to have[V] a free vote on capital punishment
+you[S2] fulfilled[V] a promise to meet[V] me on our anniversary
+you[S2] fulfilled[V] [PossPro] promise to meet[V] me on our anniversary
+he[M,S3] fulfilled[V] the promise to overcome[V] darkness in every dimension
+he[M,S3] fulfilled[V] [PossPro] promise to overcome[V] darkness in every dimension
+he[M,S3] fulfilled[V] a promise to stay[V] true to the songwriting style that fans have come to know
+he[M,S3] fulfilled[V] [PossPro] promise to stay[V] true to the songwriting style that fans have come to know
+she[F,S3] fulfilled[V] the promise to [ReflPro] to return[V] to school
+she[F,S3] fulfilled[V] [PossPro] promise to [ReflPro] to return[V] to school
+she[F,S3] fulfilled[V] a promise to go[V] riding with Buckley
+she[F,S3] fulfilled[V] [PossPro] promise to go[V] riding with Buckley
+we[P1] fulfilled[V] the promise to take[V] Don back to the top of the mountain
+we[P1] fulfilled[V] [PossPro] promise to take[V] Don back to the top of the mountain
+we[P1] fulfilled[V] a promise to return[V] children back to school within a month of the tsunami
+we[P1] fulfilled[V] [PossPro] promise to return[V] children back to school within a month of the tsunami
+they[P3] fulfilled[V] the promise to become[V] a company of nations
+they[P3] fulfilled[V] [PossPro] promise to become[V] a company of nations
+they[P3] fulfilled[V] a promise to murder[V] at least one officer every 48 hours
+they[P3] fulfilled[V] [PossPro] promise to murder[V] at least one officer every 48 hours
+my team of volunteers[P3] fulfilled[V] a promise to help[V] Vietnamese children
+my team of volunteers[P3] fulfilled[V] [PossPro] promise to help[V] Vietnamese children
+we[P1] fulfilled[V] promise to help[V] India weather recession
+we[P1] fulfilled[V] [PossPro] promise to help[V] India weather recession
+the EU[S3] fulfilled[V] promise to inform[V] people about the Inuit seal hunt
+the EU[S3] fulfilled[V] [PossPro] promise to inform[V] people about the Inuit seal hunt
+the band[S3] fulfilled[V] promise to play[V] a free show at Finsbury park
+the band[S3] fulfilled[V] [PossPro] promise to play[V] a free show at Finsbury park
+they[P3] fulfilled[V] promise to get[V] the best CT scanner to the people of Valley
+they[P3] fulfilled[V] [PossPro] promise to get[V] the best CT scanner to the people of Valley
+Wilson[M,S3] fulfilled[V] promise to support[V] suffrage amendment
+Wilson[M,S3] fulfilled[V] [PossPro] promise to support[V] suffrage amendment

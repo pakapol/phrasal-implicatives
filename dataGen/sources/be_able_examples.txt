@@ -1,0 +1,60 @@
+Implicatives:
+be able [.9|-]
+
+Examples:
+I[S1] was[V] able to surprise[V] [PossPro] teacher yesterday
+the shooter[M,S3] was[V] able to make[V] the purchase
+he[M,S3] was[V] able to beat[V] the establishment
+her 5-year-old son[M,S3] was[V] able to wander[V] away from school
+I[S1] was[V] able to run[V] around with [PossPro] son and my niece
+she[F,S3] was[V] able to develop[V] a more cordial relationship with Jennylyn
+alumna Karen Brady[F,S3] was[V] able to balance[V] three teenagers, work, and school to earn her BSN
+she[F,S3] was[V] able to pry[V] the cat's jaws open
+this blind mom[F,S3] was[V] able to see[V] [PossPro] daughter get married
+I[S1] was[V] able to create[V] an account
+he[M,S3] was[V] able to get[V] a nursing license in Wyoming
+you[S2] were[V] able to have[V] a positive influence on the actions of others
+you[S2] were[V] able to build[V] motivation in [PossPro] co-workers or subordinates at work
+we at Big Ant[P1] were[V] able to succeed[V] with niche sports
+Caliphate soldiers[P3] were[V] able to target[V] the platoon affiliated to apostate Egyptian Armed Forces
+we[P1] were[V] able to achieve[V] [PossPro] aims and objectives
+they[P3] were[V] able to do[V] it on [PossPro] own
+they[P3] were[V] able to view[V] the statue close up
+hackers[P3] were[V] able to make[V] off with $81 million from the central bank of Bangladesh
+Georg Seelig and his team[P3] were[V] able to store[V] and retrieve[V] digitized photos on strands of DNA
+the six Canadians[P3] were[V] able to join[V] ISIL
+the grandparents[P3] were[V] able to unload[V] [PossPro] luggage
+Google Deep Mind[S3] was[V] able to beat[V] a professional Go player
+the hosts[P3] were[V] able to humiliate[V] [PossPro] beleaguered visitors
+the researchers[P3] were[V] able to correctly identify[V] autism in 80 percent of [PossPro] subjects
+the BIMcloud[S3] was[V] able to reserve[V] a license
+the assailant[M,S3] was[V] able to get[V] by [PossPro] daughter's two dogs
+Cpl. Joshua Burch[M,S3] was[V] able to stand[V] and walk[V] at [PossPro] promotion ceremony
+the paedophile doctor[M,S3] was[V] able to dupe[V] colleagues and manipulate[V] hospital policy
+the LAPD[S3] was[V] able to bypass[V] the lock screen of an iPhone 5s
+I[S1] was[V] able to get[V] back up to speed right away
+he[M,S3] was[V] able to make[V] us see [ReflPro] differently
+Abdelslam[M,S3] was[V] able to avoid[V] capture for four months in [PossPro] own neighborhood
+she[F,S3] was[V] able to see[V] [PossPro] daughter walk down the aisle
+I[S1] was[V] able to use[V] my Comcast account and send[V] emails
+Lamar Odom[M,S3] was[V] able to communicate[V]
+I[S1] was[V] able to grab[V] him [ReflPro] and pull[V] him to [PossPro] chest
+Mila Kunis[F,S3] was[V] able to relate[V] to [PossPro] 'Bad Moms' role
+James[M,S3] was[V] able to gather[V] the system information and intended[V] to save in a file called 'sysinfo.txt'
+Dr Webster[F,S3] was[V] able to scuba dive[V] in Antarctica
+Trump[M,S3] was[V] able to beat[V] the establishment and beat[V] them badly
+Tesla[S3] was[V] able to perform[V] integral calculus in [PossPro] head
+party outsiders[P3] were[V] able to break[V] through party establishment firewalls
+the gunman[M,S3] was[V] able to buy[V] an assault weapon and handgun
+this guy[M,S3] was[V] able to go[V] fishing from [PossPro] balcony
+it[S3] was[V] able to (accurately) predict[V] the behavior of hydrogen
+it[S3] was[V] able to invest[V] in the resources [SubjPro] needed
+we[P1] were[V] able to work[V] around these problems
+they[P3] were[V] able to do[V] it on [PossPro] own
+they[P3] were[V] able to rescue[V] this puppy from a hot car
+it[S3] was[V] able to return[V] to its original position
+the Democratic Party[S3] was[V] able to move[V] further left
+Sarah Cafferkey's murderer[M,S3] was[V] able to play[V] the system
+the far-right[S3] was[V] able to disturb[V] the vigil for the victims
+I[S1] was[V] able to overcome[V] and let[V] go of [PossPro] fears
+the mean American household[S3] was[V] able to save[V] roughly $4,900 last yea

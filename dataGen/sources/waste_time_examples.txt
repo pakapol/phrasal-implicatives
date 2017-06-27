@@ -1,0 +1,126 @@
+Implicatives:
+waste (the,~,PossPro) time [+|-]
+
+Examples:
+we[P1] wasted[V] no time to bring[V] it into reality
+we[P1] wasted[V] no time to bring[V] it into reality
+I[S1] wasted[V] the time to go[V] there
+I[S1] wasted[V] [PossPro] time to go[V] there
+I[S1] wasted[V] the time to read[V] this
+I[S1] wasted[V] [PossPro] time to read[V] this
+you[S2] wasted[V] the time to comment[V] [AND,OR] reply[V] to replies
+you[S2] wasted[V] [PossPro] time to comment[V] [AND,OR] reply[V] to replies
+my district manager[M,S3] wasted[V] the time to send[V] this email
+my district manager[M,S3] wasted[V] [PossPro] time to send[V] this email
+I[S1] wasted[V] the time to read[V] through the whole thing
+I[S1] wasted[V] [PossPro] time to read[V] through the whole thing
+I[S1] wasted[V] the time to start[V] a thread about something that didn't happen
+I[S1] wasted[V] [PossPro] time to start[V] a thread about something that didn't happen
+you[S2] wasted[V] the time to post[V] this irrelevancy
+you[S2] wasted[V] [PossPro] time to post[V] this irrelevancy
+you[S2] wasted[V] the time to learn[V] Arabic
+you[S2] wasted[V] [PossPro] time to learn[V] Arabic
+I[S1] wasted[V] the time to take[V] this seriously
+I[S1] wasted[V] [PossPro] time to take[V] this seriously
+you[S2] wasted[V] the time to Google [AND,OR] post[V]
+you[S2] wasted[V] [PossPro] time to Google [AND,OR] post[V]
+he[M,S3] wasted[V] the time to accomplish[V] that
+he[M,S3] wasted[V] [PossPro] time to accomplish[V] that
+the people[P3] wasted[V] the time to create[V] obscene web pages about Minerva
+the people[P3] wasted[V] [PossPro] time to create[V] obscene web pages about Minerva
+they[P3] wasted[V] the time to implement[V] it
+they[P3] wasted[V] [PossPro] time to implement[V] it
+they[P3] (actually) wasted[V] the time to bring[V] that bad joke to the game
+they[P3] (actually) wasted[V] [PossPro] time to bring[V] that bad joke to the game
+he[M,S3] (of all people) wasted[V] the time to rehash[V] the very same thing
+he[M,S3] (of all people) wasted[V] [PossPro] time to rehash[V] the very same thing
+the bear[S3] wasted[V] the time to eat[V] the guy
+the bear[S3] wasted[V] [PossPro] time to eat[V] the guy
+we[P1] wasted[V] the time to find[V] the exact location
+we[P1] wasted[V] [PossPro] time to find[V] the exact location
+people[P3] wasted[V] the time to wait[V] behind the locked lines
+people[P3] wasted[V] [PossPro] time to wait[V] behind the locked lines
+Tesla[S3] wasted[V] the time to include[V] these
+Tesla[S3] wasted[V] [PossPro] time to include[V] these
+Tim[M,S3] (even) wasted[V] the time to do[V] an interview
+Tim[M,S3] (even) wasted[V] [PossPro] time to do[V] an interview
+she[F,S3] wasted[V] the time to do[V] a clean install
+she[F,S3] wasted[V] [PossPro] time to do[V] a clean install
+this pathetic little person[M,S3] wasted[V] the time to whine[V] about my protest
+this pathetic little person[M,S3] wasted[V] [PossPro] time to whine[V] about my protest
+they[P3] wasted[V] the time to get[V] you trained
+they[P3] wasted[V] [PossPro] time to get[V] you trained
+this lady[F,S3] wasted[V] the time to make[V] a sign
+this lady[F,S3] wasted[V] [PossPro] time to make[V] a sign
+this site[S3] wasted[V] the time to put[V] it up
+this site[S3] wasted[V] [PossPro] time to put[V] it up
+Starbucks[P3] (actually) wasted[V] the time to make[V] a picture diagram of how to roll a lid onto a cup
+Starbucks[P3] (actually) wasted[V] [PossPro] time to make[V] a picture diagram of how to roll a lid onto a cup
+you[S2] wasted[V] the time to troubleshoot the problem
+you[S2] wasted[V] [PossPro] time to troubleshoot the problem
+people[P3] wasted[V] the time (it takes) to exercise[V] daily
+people[P3] wasted[V] [PossPro] time (it takes) to exercise[V] daily
+the dealers[P3] wasted[V] the time to count[V] up all player bets
+the dealers[P3] wasted[V] [PossPro] time to count[V] up all player bets
+the readers[P3] wasted[V] the time to post[V] answers
+the readers[P3] wasted[V] [PossPro] time to post[V] answers
+searchers[P3] wasted[V] the time to click[V] on the listing for your site
+searchers[P3] wasted[V] [PossPro] time to click[V] on the listing for your site
+political groups[P3] wasted[V] time to cash[V] in on the weariness
+political groups[P3] wasted[V] [PossPro] time to cash[V] in on the weariness
+IGP[S3] wasted[V] time to probe[V] the authenticity of the leaked audit report
+IGP[S3] wasted[V] [PossPro] time to probe[V] the authenticity of the leaked audit report
+I[S1] wasted[V] time to ponder[V]
+I[S1] wasted[V] [PossPro] time to ponder[V]
+I[S1] wasted[V] time to find[V] you in the line of love
+I[S1] wasted[V] [PossPro] time to find[V] you in the line of love
+you[S2] wasted[V] time to text all that gay shit[V]
+you[S2] wasted[V] [PossPro] time to text all that gay shit[V]
+you[S2] wasted[V] time to write[V] a blog about how stupid the down and dirty Recovery definition of Insanity is
+you[S2] wasted[V] [PossPro] time to write[V] a blog about how stupid the down and dirty Recovery definition of Insanity is
+Hitler[M,S3] wasted[V] time to rescue[V] the Italians bogged down in Albania
+Hitler[M,S3] wasted[V] [PossPro] time to rescue[V] the Italians bogged down in Albania
+he[M,S3] wasted[V] time to wait[V] for another vehicle to rush injured to the hospital
+he[M,S3] wasted[V] [PossPro] time to wait[V] for another vehicle to rush injured to the hospital
+Lungu[M,S3] wasted[V] time to argue[V] with a fool [AND,OR] contend with opposing cadres
+Lungu[M,S3] wasted[V] [PossPro] time to argue[V] with a fool [AND,OR] contend with opposing cadres
+he[M,S3] wasted[V] time to get[V] me to get sick of waiting on [ObjPro] to start
+he[M,S3] wasted[V] [PossPro] time to get[V] me to get sick of waiting on [ObjPro] to start
+she[F,S3] wasted[V] time to ask[V] for a pack of Marlboro light cigarettes
+she[F,S3] wasted[V] [PossPro] time to ask[V] for a pack of Marlboro light cigarettes
+she[F,S3] wasted[V] time to lock[V] doors
+she[F,S3] wasted[V] [PossPro] time to lock[V] doors
+we[P1] wasted[V] time to help[V] them fulfill their dreams
+we[P1] wasted[V] [PossPro] time to help[V] them fulfill their dreams
+we[P1] wasted[V] time to fight[V] a man of vision
+we[P1] wasted[V] [PossPro] time to fight[V] a man of vision
+you[S2] wasted[V] time to tell[V] me to call [ObjPro]
+you[S2] wasted[V] [PossPro] time to tell[V] me to call [ObjPro]
+you[S2] wasted[V] time to make[V] it (just) for me!
+you[S2] wasted[V] [PossPro] time to make[V] it (just) for me!
+they[P3] wasted[V] time to get[V] to the point where they were directly up against RAW
+they[P3] wasted[V] [PossPro] time to get[V] to the point where they were directly up against RAW
+they[P3] wasted[V] time to get[V] to play the real game
+they[P3] wasted[V] [PossPro] time to get[V] to play the real game
+these automobile companies[P3] wasted[V] the time to give[V] such sophisticated names to [PossPro] brands
+these automobile companies[P3] wasted[V] [PossPro] time to give[V] such sophisticated names to [PossPro] brands
+Adrian Gonzalez, Mexican man[M,S3] wasted[V] the time to choose[V] the animal of desired size
+Adrian Gonzalez, Mexican man[M,S3] wasted[V] [PossPro] time to choose[V] the animal of desired size
+the artists[P3] wasted[V] the time to waste[V] my time
+the artists[P3] wasted[V] [PossPro] time to waste[V] my time
+the oppressors[P3] (actually) wasted[V] the time to look[V] through every tiny detail of her ancestry
+the oppressors[P3] (actually) wasted[V] [PossPro] time to look[V] through every tiny detail of her ancestry
+Hazel and Teairra[P3] wasted[V] the time to go[V] out of [PossPro] way to deal with men
+Hazel and Teairra[P3] wasted[V] [PossPro] time to go[V] out of [PossPro] way to deal with men
+we[P1] wasted[V] a time to roast[V] your fucking ass
+we[P1] wasted[V] a time to roast[V] your fucking ass
+this group of girls[P3] wasted[V] the time to do[V] idiotic things
+this group of girls[P3] wasted[V] [PossPro] time to do[V] idiotic things
+our ancestors[P3] wasted[V] the time to give[V] birth to people who are naming [ObjPro] demons today
+our ancestors[P3] wasted[V] [PossPro] time to give[V] birth to people who are naming [ObjPro] demons today
+the people[P3] wasted[V] the time to create[V] a panel which could be useful for users
+the people[P3] wasted[V] [PossPro] time to create[V] a panel which could be useful for users
+90% of investment professionals[P3] wasted[V] the time to get[V] a bachelors, masters or doctorate in finance
+90% of investment professionals[P3] wasted[V] [PossPro] time to get[V] a bachelors, masters or doctorate in finance
+the distraught young lady[F,S3] wasted[V] the time to post[V] something stupid
+the distraught young lady[F,S3] wasted[V] [PossPro] time to post[V] something stupid

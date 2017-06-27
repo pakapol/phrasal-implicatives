@@ -1,0 +1,84 @@
+Implicatives:
+keep (a,the,~,PossPro) promise [+|-]
+
+Examples:
+Obama[M,S3] kept[V] a promise to give[V] a speech at a major Islamic forum
+Obama[M,S3] kept[V] [PossPro] promise to give[V] a speech at a major Islamic forum
+Barack Obama[M,S3] kept[V] a promise to reduce[V] political influence in [PossPro] administration
+Barack Obama[M,S3] kept[V] [PossPro] promise to reduce[V] political influence in [PossPro] administration
+she[F,S3] kept[V] a promise to see[V] her parents and [AND,OR] with them to service
+she[F,S3] kept[V] [PossPro] promise to see[V] her parents and [AND,OR] with them to service
+students[P3] kept[V] a promise to carry[V] out a restoration of a kitchen in Cat Island
+students[P3] kept[V] [PossPro] promise to carry[V] out a restoration of a kitchen in Cat Island
+we[P1] kept[V] a promise to build[V] the best place to care for kids in our west-end community
+we[P1] kept[V] [PossPro] promise to build[V] the best place to care for kids in our west-end community
+he[M,S3] kept[V] a promise to take[V] Kai to 'Toy's R Us' in Times Square
+he[M,S3] kept[V] [PossPro] promise to take[V] Kai to 'Toy's R Us' in Times Square
+Mark[M,S3] kept[V] a promise to escort[V] her down the aisle
+Mark[M,S3] kept[V] [PossPro] promise to escort[V] her down the aisle
+she[F,S3] kept[V] a promise to make[V] sure tax dollars are spent more wisely
+she[F,S3] kept[V] [PossPro] promise to make[V] sure tax dollars are spent more wisely
+I[S1] kept[V] a promise to write[V] a book
+I[S1] kept[V] [PossPro] promise to write[V] a book
+we[P1] kept[V] a promise to end[V] combat in Iraq
+we[P1] kept[V] [PossPro] promise to end[V] combat in Iraq
+they[P3] kept[V] a promise to appear[V] at a Georgetown luncheon
+they[P3] kept[V] [PossPro] promise to appear[V] at a Georgetown luncheon
+Georgia legislators[P3] kept[V] a promise to protect[V] the well water of coastal and south Georgia residents
+Georgia legislators[P3] kept[V] [PossPro] promise to protect[V] the well water of coastal and south Georgia residents
+Dad[M,S3] kept[V] a promise to stay[V] sober
+Dad[M,S3] kept[V] [PossPro] promise to stay[V] sober
+this party[S3] kept[V] a promise to spend[V] 0.7 per cent of our national income on aid
+this party[S3] kept[V] [PossPro] promise to spend[V] 0.7 per cent of our national income on aid
+the President[M,S3] kept[V] a promise to make[V] him Secretary of State
+the President[M,S3] kept[V] [PossPro] promise to make[V] him Secretary of State
+the former Tottenham player[M,S3] kept[V] a promise to text Claridge [PossPro] mobile number[V]
+the former Tottenham player[M,S3] kept[V] [PossPro] promise to text Claridge [PossPro] mobile number[V]
+McInnis[M,S3] kept[V] a promise to back[V] federal funding for the project
+McInnis[M,S3] kept[V] [PossPro] promise to back[V] federal funding for the project
+Michael Mitton[M,S3] kept[V] a promise to pay[V] him $60,000
+Michael Mitton[M,S3] kept[V] [PossPro] promise to pay[V] him $60,000
+I[S1] kept[V] the promise to buy[V] [PossPro] friend a beer
+I[S1] kept[V] [PossPro] promise to buy[V] [PossPro] friend a beer
+the Federalists[P3] kept[V] the promise to propose[V] amendments to protect specific rights
+the Federalists[P3] kept[V] [PossPro] promise to propose[V] amendments to protect specific rights
+God[M,S3] kept[V] the promise to make[V] Abraham and Sarah's family a great nation
+God[M,S3] kept[V] [PossPro] promise to make[V] Abraham and Sarah's family a great nation
+we[P1] kept[V] the promise to love[V] in sickness and in health
+we[P1] kept[V] [PossPro] promise to love[V] in sickness and in health
+they[P3] kept[V] the promise to protect[V] borders of Russia
+they[P3] kept[V] [PossPro] promise to protect[V] borders of Russia
+I[S1] kept[V] the promise to keep[V] an eye on him
+I[S1] kept[V] [PossPro] promise to keep[V] an eye on him
+he[M,S3] kept[V] the promise to toughen[V] ethics rules
+he[M,S3] kept[V] [PossPro] promise to toughen[V] ethics rules
+she[F,S3] kept[V] the promise to assist[V] the 6th graders
+she[F,S3] kept[V] [PossPro] promise to assist[V] the 6th graders
+the first opponent[M,S3] kept[V] the promise to do[V] it again
+the first opponent[M,S3] kept[V] [PossPro] promise to do[V] it again
+Amel Karboul[F,S3] kept[V] the promise to take[V] a sabbatical year
+Amel Karboul[F,S3] kept[V] [PossPro] promise to take[V] a sabbatical year
+Rachel and Kurt[P3] kept[V] the promise to come[V] home for Thanksgiving
+Rachel and Kurt[P3] kept[V] [PossPro] promise to come[V] home for Thanksgiving
+Henchard[M,S3] kept[V] the promise to marry[V] Lucetta
+Henchard[M,S3] kept[V] [PossPro] promise to marry[V] Lucetta
+the promoters[P3] kept[V] promise to remove[V] time limit
+the promoters[P3] kept[V] [PossPro] promise to remove[V] time limit
+I[S1] kept[V] promise to fund[V] plan for more cops
+I[S1] kept[V] [PossPro] promise to fund[V] plan for more cops
+Herbst[M,S3] kept[V] promise to stabilize[V] taxes, cut[V] spending
+Herbst[M,S3] kept[V] [PossPro] promise to stabilize[V] taxes, cut[V] spending
+Obama[M,S3] kept[V] promise to return[V] 5% of his salary in solidarity with budget sequester 'furloughs'
+Obama[M,S3] kept[V] [PossPro] promise to return[V] 5% of his salary in solidarity with budget sequester 'furloughs'
+Nemours[M,S3] kept[V] promise to care[V] for kid
+Nemours[M,S3] kept[V] [PossPro] promise to care[V] for kid
+Skokie[S3] kept[V] promise to keep[V] taxes flat since '90
+Skokie[S3] kept[V] [PossPro] promise to keep[V] taxes flat since '90
+President Bush[M,S3] kept[V] promise to run[V] with injured vet
+President Bush[M,S3] kept[V] [PossPro] promise to run[V] with injured vet
+Obama[M,S3] kept[V] promise to declassify[V] 28 pages of a report about 9/11
+Obama[M,S3] kept[V] [PossPro] promise to declassify[V] 28 pages of a report about 9/11
+Corbett[M,S3] kept[V] promise to cut[V] state vehicles
+Corbett[M,S3] kept[V] [PossPro] promise to cut[V] state vehicles
+Minister U Win Thein[M,S3] kept[V] promise to take[V] effective action on that violence
+Minister U Win Thein[M,S3] kept[V] [PossPro] promise to take[V] effective action on that violence

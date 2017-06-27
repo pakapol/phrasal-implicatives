@@ -1,0 +1,40 @@
+Implicatives:
+waste (no,some) time [+|+]
+
+Examples:
+she[F,S3] wasted[V] no time to begin[V] [PossPro] daring venture
+he[M,S3] wasted[V] no time to meet[V] Lauren
+Draymond Green[M,S3] wasted[V] no time to start[V] kicking people in the NBA Finals
+Hillary[F,S3] wasted[V] no time to respond[V] to Donald Trump
+Iulia Vantur[F,S3] wasted[V] no time to meet[V] the actor
+Budden[M,S3] wasted[V] no time to strike[V] back at Drake
+he[M,S3] wasted[V] no time to abandon[V] [PossPro] home and settled[V] down with [PossPro] new found lover
+she[F,S3] wasted[V] no time to enter[V] the compound and enquired[V about [PossPro] husband
+they[P3] wasted[V] no time to capitalize[V] on it and tied[V] the game
+Portlanders[P3] wasted[V] no time to play[V] in the snow
+Sun Belt[S3] wasted[V] no time to welcome[V] its newest member
+David Vitter and John Bel Edwards[P3] wasted[V] no time to kick[V] off general election
+he[M,S3] wasted[V] no time to take[V] [PossPro] possessions
+Fergie[F,S3] wasted[V] no time to give[V] listeners a visual taste of [PossPro] latest single
+she[F,S3] wasted[V] no time to get[V] started with [PossPro] dream
+Boston Celtics fans[P3] wasted[V] no time to embrace[V] him
+St Asaph Rotary Club[S3] wasted[V] no time to contribute[V] to the relief effort
+Obama[M,S3] wasted[V] no time to throw[V] in references about Beyonce's "Lemonade"
+we[P1] wasted[V] no time to bring[V] it into reality
+Franco Law Group[S3] wasted[V] no time to assist[V] me in my time of need
+Switzerland[S3] wasted[V] no time to respond[V] to Brexit
+the Pearl bats[P3] wasted[V] no time to light[V] up the score board
+Hillary Clinton[F,S3] wasted[V] no time to launch[V] assaults on Sanders
+Woodley[M,S3] wasted[V] no time to call[V] out two fighters
+Pontrello[M,S3] wasted[V] no time to capitalize[V] on the advantage with his second goal of the night
+Zeming[M,S3] wasted[V] no time to convert[V] to draw scores level 12-12
+The Otters[P3] wasted[V] no time to jump[V] out to an early lead
+Adele[F,S3] wasted[V] no time to share[V] what I needed to know
+Barry Anderson[M,S3] wasted[V] no time to start[V] shooting new video footage
+Peterson and Fitzgibbons[P3] wasted[V] no time to put[V] more points on the board
+they[P3] wasted[V] no time to start[V] [PossPro] own business
+Rolanda[F,S3] wasted[V] no time to further[V] [PossPro] education
+Notch[M,S3] wasted[V] no time to continue[V] to keep on being creative
+Waif[F,S3] wasted[V] no time to violently stab[V] Arya in her torso
+she[F,S3] wasted[V] no time to spread[V] the word and get[V] as many prayers as we can get
+they[P3] wasted[V] no time to get[V] out and explore[V] the site

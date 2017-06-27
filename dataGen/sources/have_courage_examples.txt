@@ -1,0 +1,63 @@
+Implicatives:
+have (a,the,~,no) courage [+|-]
+
+Examples:
+they[P3] had[V] courage to tell[V] the the story of who [SubjPro] were
+the poor, weak man[M,S3] had[V] no courage to refuse[V]
+I[S1] had[V] the courage to start[V]
+I[S1] had[V] the courage to take[V] action
+you[S2] had[V] the courage to start[V] or purchase a business
+Burgess[F,S3] had[V] the courage to write[V] a book that will have eternal consequences
+you[S2] had[V] a courage to talk[V] to a girl
+Bobby[M,S3] had[V] a courage to give[V] [PossPro] folks the freedom to be [ReflPro]
+she[F,S3] had[V] a courage to use something different and dangerous
+he[M,S3] had[V] a courage to utilise and reward[V] it
+people[P3] had[V] a courage to write[V] down [PossPro] biggest regrets
+I[S1] had[V] a courage to enter[V] the classroom
+she[F,S3] had[V] a courage to talk[V] about [PossPro] idea
+the men of honor[P3] had[V] a courage to do[V] the right thing
+I[S1] (finally) had[V] a courage to apply[V] for a job somewhere else
+nine Filipino tenants[P3] had[V] a courage to go[V] to the tenant commission to complain
+she[F,S3] had[V] a courage to rebuild[V] the company.
+I[S1] had[V] had courage to create[V] and make[V] SaimaaLife public
+you[S2] had[V] courage to see[V] it through
+she[F,S3] had[V] courage to look[V] far away [AND,OR] let [ReflPro] burn for the one [SubjPro] loved
+he[M,S3] had[V] courage to live[V] a little longer
+I[S1] had[V] courage to break[V] up with [PossPro] homophobic friend
+the widow[F,S3] had[V] courage to demonstrate[V] [PossPro] faith
+Azariah[M,S3] had[V] courage to confront[V] a king's sin
+these draft dodgers[P3] had[V] courage to stand[V] up for what they believed in
+they[P3] had[V] courage to do[V] what was right
+the priests[P3] had[V] no courage to serve[V] at the altar
+they[P3] had[V] no courage to defend[V] what they believed
+you[S2] had[V] no courage to carry[V] out the deed by killing him [ReflPro]
+Pep Guardiola[M,S3] had[V] no courage to speak[V] with him
+the Sect Elder[M,S3] had[V] no courage to step[V] up and block[V] his path
+I[S1] had[V] no courage to talk[V] about it
+the West Francian and Lotharingian king Charles the Simple[M,S3] had[V] no courage to face[V] a Hungarian raiding army
+peasants[P3] had[V] no courage to plant[V] [PossPro] crops
+Martin Prakkat[M,S3] had[V] no courage to do[V] film with a legend like Mohanlal
+the girl[F,S3] had[V] no courage to divorce[V] him and get[V] free from such parasite
+we[P1] had[V] the courage to step[V] into the arena
+she[F,S3] had[V] the courage to make[V] a joke about something serious
+I[S1] had[V] the courage to dream[V] the impossible
+I[S1] had[V] the courage to live[V] a life true to [ReflPro]
+his disciples[P3] had[V] the courage to follow[V] Jesus to an abundant life
+Great Britain[S3] had[V] the courage to forge[V] its own future by voting to leave the E.U
+the gang[S3] had[V] the courage to disobey[V] and continue[V] to restore the crystals
+Nelson Mandela[M,S3] had[V] the courage to fight[V] against the unjust system of apartheid
+we[P1] had[V] the courage to bring[V] down Jim Crow
+he[M,S3] had[V] the courage to go[V] out on the streets
+they[P3] had[V] the courage to see[V] the face of God by feeding the hungry
+the Senator[M,S3] had[V] the courage to help[V] expose Iran Contra and Oliver North's illegal war
+Betty Jean Owens[F,S3] had[V] the courage to testify[V] 52 years ago
+he[M,S3] had[V] the courage to be[V] aggressively doing the right thing
+he[M,S3] had[V] the courage to try[V] something new
+it[S3] had[V] the courage to face[V] me in fair daylight
+it[S3] had[V] the courage to tackle[V] a situation that was extraordinarily complex
+it[S3] had[V] the courage to implant[V] in the very heart of its doctrine a tremendous confession of ignorance
+Emory University[S3] had[V] the courage to apologize[V] for [PossPro] early historical involvement with slavery
+Brenda Moise[F,S3] had[V] courage to show[V] up at the forum
+Becky Smith's aunt[F,S3] had[V] courage to say[V] 'no' to evil
+Prather[M,S3] had[V] courage to tell[V] uncomfortable truth in turbulent times
+he[M,S3] had[V] no courage to ask[V] Baba openly about the speculation

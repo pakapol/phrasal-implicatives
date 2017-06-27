@@ -1,0 +1,64 @@
+Implicatives:
+fail (an,the,~,PossPro) obligation [-|+]
+
+Examples:
+the researchers[P3] failed[V] an obligation to protect[V] his autonomy
+the researchers[P3] failed[V] [PossPro] obligation to protect[V] his autonomy
+VA personnel[P3] failed[V] an obligation to inform[V] her about the existence of VA nursing home facilities
+VA personnel[P3] failed[V] [PossPro] obligation to inform[V] her about the existence of VA nursing home facilities
+the Islanders[P3] failed[V] an obligation to pay[V] $10.375 million due by July 31
+the Islanders[P3] failed[V] [PossPro] obligation to pay[V] $10.375 million due by July 31
+the institution[S3] failed[V] an obligation to (diligently) review[V] [AND,OR] determine[V] the prosecution of an inmate
+the institution[S3] failed[V] [PossPro] obligation to (diligently) review[V] [AND,OR] determine[V] the prosecution of an inmate
+intervenors[P3] failed[V] an obligation to produce[V] the integrated EOP when requested
+intervenors[P3] failed[V] [PossPro] obligation to produce[V] the integrated EOP when requested
+Danisinka-Washburn[F,S3] failed[V] the obligation to communicate[V] with [PossPro] client
+Danisinka-Washburn[F,S3] failed[V] [PossPro] obligation to communicate[V] with [PossPro] client
+she[F,S3] failed[V] an obligation to consult[V] with the client prior to [PossPro] decision
+she[F,S3] failed[V] [PossPro] obligation to consult[V] with the client prior to [PossPro] decision
+the society[S3] failed[V] an obligation to govern[V] in a fair and impartial manner
+the society[S3] failed[V] [PossPro] obligation to govern[V] in a fair and impartial manner
+he[M,S3] failed[V] an obligation to turn[V] a corner with regards to his conduct
+he[M,S3] failed[V] [PossPro] obligation to turn[V] a corner with regards to his conduct
+the Zoological Society[S3] failed[V] an obligation to recognize[V] [AND,OR] bargain[V] with the union
+the Zoological Society[S3] failed[V] [PossPro] obligation to recognize[V] [AND,OR] bargain[V] with the union
+the management system[S3] failed[V] an obligation to sustain[V] human welfare
+the management system[S3] failed[V] [PossPro] obligation to sustain[V] human welfare
+Global[S3] failed[V] an obligation to inform[V] the agency of its plan to export the ship
+Global[S3] failed[V] [PossPro] obligation to inform[V] the agency of its plan to export the ship
+they[P3] failed[V] an obligation to do[V] [PossPro] part
+they[P3] failed[V] [PossPro] obligation to do[V] [PossPro] part
+that fund[S3] failed[V] the obligation to pay[V]
+that fund[S3] failed[V] [PossPro] obligation to pay[V]
+the respondent[F,S3] failed[V] the obligation to consult[V] with the client
+the respondent[F,S3] failed[V] [PossPro] obligation to consult[V] with the client
+Republican National Committee[S3] failed[V] the obligation to disperse[V] tickets
+Republican National Committee[S3] failed[V] [PossPro] obligation to disperse[V] tickets
+Zionists[P3] failed[V] the obligation to educate[V] Americans
+Zionists[P3] failed[V] [PossPro] obligation to educate[V] Americans
+China[S3] failed[V] the obligation to protect[V] the marine environment
+China[S3] failed[V] [PossPro] obligation to protect[V] the marine environment
+the respondent[F,S3] failed[V] the obligation to ensure public access[V] to impact studies
+the respondent[F,S3] failed[V] [PossPro] obligation to ensure public access[V] to impact studies
+Commission[S3] failed[V] obligation to produce[V] rules determining endocrine-disrupting properties of biocides
+Commission[S3] failed[V] [PossPro] obligation to produce[V] rules determining endocrine-disrupting properties of biocides
+it[S3] failed[V] to implement[V] a directive
+it[S3] failed[V] to implement[V] a directive
+God[M,S3] failed[V] the obligation to value[V] and listen[V]
+God[M,S3] failed[V] [PossPro] obligation to value[V] and listen[V]
+the UK authorities[P3] failed[V] obligation to conduct[V] effective investigation
+the UK authorities[P3] failed[V] [PossPro] obligation to conduct[V] effective investigation
+the respondent[F,S3] failed[V] the obligation to consult[V] with the client
+the respondent[F,S3] failed[V] [PossPro] obligation to consult[V] with the client
+it[S3] failed[V] to disclose[V] all relevant information in a timely manner
+it[S3] failed[V] to disclose[V] all relevant information in a timely manner
+it[S3] failed[V] the obligation to publish[V] policy documents on trade-related measures
+it[S3] failed[V] [PossPro] obligation to publish[V] policy documents on trade-related measures
+the researchers[P3] failed[V] an obligation to protect[V] his autonomy
+the researchers[P3] failed[V] [PossPro] obligation to protect[V] his autonomy
+this piece[S3] failed[V] an obligation to explain[V] their philosophy
+this piece[S3] failed[V] [PossPro] obligation to explain[V] their philosophy
+the production company[S3] failed[V] an obligation to try[V] to pay the female co-star less
+the production company[S3] failed[V] [PossPro] obligation to try[V] to pay the female co-star less
+they[P3] failed[V] an obligation to produce[V] free services
+they[P3] failed[V] [PossPro] obligation to produce[V] free services

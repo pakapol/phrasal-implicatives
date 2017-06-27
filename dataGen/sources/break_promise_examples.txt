@@ -1,0 +1,72 @@
+Implicatives:
+break (a,the,~,PossPro) promise [-|+]
+
+Examples:
+Hillary Clinton[F,S3] broke[V] a promise to disclose[V] [PossPro] foundation's donors
+Hillary Clinton[F,S3] broke[V] [PossPro] promise to disclose[V] [PossPro] foundation's donors
+Dorsey[M,S3] broke[V] a promise to promote[V] [PossPro] latest mixtape
+Dorsey[M,S3] broke[V] [PossPro] promise to promote[V] [PossPro] latest mixtape
+her boyfriend[M,S3] broke[V] a promise to give[V] up porn
+her boyfriend[M,S3] broke[V] [PossPro] promise to give[V] up porn
+Republicans[P3] broke[V] a promise to include[V] renewable energy tax credits in a new aviation bill
+Republicans[P3] broke[V] [PossPro] promise to include[V] renewable energy tax credits in a new aviation bill
+Reagan[M,S3] broke[V] a promise to hold[V] talks
+Reagan[M,S3] broke[V] [PossPro] promise to hold[V] talks
+the president[M,S3] broke[V] a promise to help[V] homeowners facing foreclosure
+the president[M,S3] broke[V] [PossPro] promise to help[V] homeowners facing foreclosure
+the Brooklyn Bridge Park Corp.[S3] broke[V] a promise to limit[V] the height of a luxury condo-cum-hotel to 100 feet
+the Brooklyn Bridge Park Corp.[S3] broke[V] [PossPro] promise to limit[V] the height of a luxury condo-cum-hotel to 100 feet
+Charles I[M,S3] broke[V] a promise to give[V] more rights to the people
+Charles I[M,S3] broke[V] [PossPro] promise to give[V] more rights to the people
+Christie[M,S3] broke[V] a promise to (fully) fund[V] the system
+Christie[M,S3] broke[V] [PossPro] promise to (fully) fund[V] the system
+he[M,S3] broke[V] a promise to help[V] boost her own music career
+he[M,S3] broke[V] [PossPro] promise to help[V] boost her own music career
+she[F,S3] broke[V] a promise to have[V] sex with you
+she[F,S3] broke[V] [PossPro] promise to have[V] sex with you
+they[P3] broke[V] a promise to port[V] it
+they[P3] broke[V] [PossPro] promise to port[V] it
+he[M,S3] broke[V] a promise to see[V] her again
+he[M,S3] broke[V] [PossPro] promise to see[V] her again
+Ea, the cleverest god,[M,S3] broke[V] the promise to keep[V] this secret
+Ea, the cleverest god,[M,S3] broke[V] [PossPro] promise to keep[V] this secret
+she[F,S3] broke[V] the promise to love[V] him forever
+she[F,S3] broke[V] [PossPro] promise to love[V] him forever
+they[P3] (even) broke[V] the promise to pass[V] a Freedom of Information law
+they[P3] (even) broke[V] [PossPro] promise to pass[V] a Freedom of Information law
+the adult[F,S3] broke[V] the promise to return[V] with a treat
+the adult[F,S3] broke[V] [PossPro] promise to return[V] with a treat
+the husband[M,S3] broke[V] the promise to bring[V] their children back in August last year
+the husband[M,S3] broke[V] [PossPro] promise to bring[V] their children back in August last year
+you[S2] broke[V] the promise to be[V] mine
+you[S2] broke[V] [PossPro] promise to be[V] mine
+you[S2] (once again) broke[V] the promise to end[V] [PossPro] marriage
+you[S2] (once again) broke[V] [PossPro] promise to end[V] [PossPro] marriage
+Paul[M,S3] broke[V] the promise to keep[V] the Beatles' break-up secret
+Paul[M,S3] broke[V] [PossPro] promise to keep[V] the Beatles' break-up secret
+I[S1] broke[V] the promise to post[V] every two days
+I[S1] broke[V] [PossPro] promise to post[V] every two days
+Julia[F,S3] broke[V] the promise to get[V] the support of the greens
+Julia[F,S3] broke[V] [PossPro] promise to get[V] the support of the greens
+I[S1] broke[V] the promise to stay[V] by his side
+I[S1] broke[V] [PossPro] promise to stay[V] by his side
+Wells Fargo[S3] broke[V] the promise to postpone[V] the trustee's sale
+Wells Fargo[S3] broke[V] [PossPro] promise to postpone[V] the trustee's sale
+we[P1] broke[V] a promise to pick[V] them up after school
+we[P1] broke[V] [PossPro] promise to pick[V] them up after school
+we[P1] broke[V] the promise to stay[V] just friends
+we[P1] broke[V] [PossPro] promise to stay[V] just friends
+the casino[S3] broke[V] a promise to pay[V] out the bonus
+the casino[S3] broke[V] [PossPro] promise to pay[V] out the bonus
+Flake[M,S3] broke[V] a promise to strengthen[V] background checks
+Flake[M,S3] broke[V] [PossPro] promise to strengthen[V] background checks
+Oedipus[M,S3] broke[V] the promise to fulfill[V] the punishment over the king's murderer
+Oedipus[M,S3] broke[V] [PossPro] promise to fulfill[V] the punishment over the king's murderer
+Art Briles[M,S3] broke[V] promise to apologize[V] to rape victim
+Art Briles[M,S3] broke[V] [PossPro] promise to apologize[V] to rape victim
+ATT landline[S3] broke[V] promise to fix[V] increased phone bill
+ATT landline[S3] broke[V] [PossPro] promise to fix[V] increased phone bill
+the club[S3] broke[V] promise to let[V] him go
+the club[S3] broke[V] [PossPro] promise to let[V] him go
+Vikings[P3] broke[V] promise to open[V] their investigation
+Vikings[P3] broke[V] [PossPro] promise to open[V] their investigation

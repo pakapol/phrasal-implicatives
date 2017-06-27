@@ -1,0 +1,84 @@
+Implicatives:
+meet (a,the,~,PossPro) duty [+|-]
+
+Examples:
+IBM[S3] met[V] the duty to accommodate[V]
+IBM[S3] met[V] [PossPro] duty to accommodate[V]
+the Crown[S3] met[V] the duty to consult[V] with the Inuit
+the Crown[S3] met[V] [PossPro] duty to consult[V] with the Inuit
+the employee[F,S3] met[V] the duty to mitigate[V]
+the employee[F,S3] met[V] [PossPro] duty to mitigate[V]
+the City Corporation[S3] met[V] the duty to co-operate in the preparation of the Local Plan
+the City Corporation[S3] met[V] [PossPro] duty to co-operate in the preparation of the Local Plan
+VA[S3] met[V] the duty to assist[V] the Veteran
+VA[S3] met[V] [PossPro] duty to assist[V] the Veteran
+the owner[M,S3] met[V] the duty to have[V] continuous financial responsibility for the vehicle
+the owner[M,S3] met[V] [PossPro] duty to have[V] continuous financial responsibility for the vehicle
+the policyholder[F,S3] met[V] the duty to give[V] notice
+the policyholder[F,S3] met[V] [PossPro] duty to give[V] notice
+they[P3] met[V] the duty to accommodate[V] employees with disabilities
+they[P3] met[V] [PossPro] duty to accommodate[V] employees with disabilities
+you[S2] met[V] the duty to cooperate[V]
+you[S2] met[V] [PossPro] duty to cooperate[V]
+the seller and seller's broker[P3] met[V] the duty to disclose[V] the frog problem
+the seller and seller's broker[P3] met[V] [PossPro] duty to disclose[V] the frog problem
+the insured driver[F,S3] met[V] the duty to anticipate[V] a reasonable apparent risk
+the insured driver[F,S3] met[V] [PossPro] duty to anticipate[V] a reasonable apparent risk
+Yukon[S3] met[V] the duty to consult[V]
+Yukon[S3] met[V] [PossPro] duty to consult[V]
+trusts[P3] met[V] the duty to notify[V] relevant persons
+trusts[P3] met[V] [PossPro] duty to notify[V] relevant persons
+the defendant[M,S3] met[V] the duty to provide[V] reasonably safe premises
+the defendant[M,S3] met[V] [PossPro] duty to provide[V] reasonably safe premises
+the employer[S3] met[V] the duty to make[V] reasonable adjustments
+the employer[S3] met[V] [PossPro] duty to make[V] reasonable adjustments
+the university[S3] met[V] the duty to investigate[V] under the Code
+the university[S3] met[V] [PossPro] duty to investigate[V] under the Code
+the driver[F,S3] met[V] the duty to drive[V] with due regard for the safety of all persons
+the driver[F,S3] met[V] [PossPro] duty to drive[V] with due regard for the safety of all persons
+the disabled employee[F,S3] met[V] the duty to come[V] forward and identify[V] the needs
+the disabled employee[F,S3] met[V] [PossPro] duty to come[V] forward and identify[V] the needs
+the employer[S3] met[V] the duty to negotiate[V] this agreement
+the employer[S3] met[V] [PossPro] duty to negotiate[V] this agreement
+the seller[M,S3] met[V] the duty to hand[V] over the goods
+the seller[M,S3] met[V] [PossPro] duty to hand[V] over the goods
+we[P1] met[V] the duty to authorize[V] and pay[V] for care
+we[P1] met[V] [PossPro] duty to authorize[V] and pay[V] for care
+we[P1] met[V] the duty to support[V] [ReflPro] by saving wisely
+we[P1] met[V] [PossPro] duty to support[V] [ReflPro] by saving wisely
+she[F,S3] met[V] the duty to make[V] a safe pass
+she[F,S3] met[V] [PossPro] duty to make[V] a safe pass
+they[P3] met[V] the duty to share[V] the message
+they[P3] met[V] [PossPro] duty to share[V] the message
+they[P3] met[V] the duty to serve[V] the country
+they[P3] met[V] [PossPro] duty to serve[V] the country
+I[S1] met[V] the duty to reach[V] decisions dispassionately
+I[S1] met[V] [PossPro] duty to reach[V] decisions dispassionately
+the UK Border Agency[S3] met[V] the duty to try[V] to trace family
+the UK Border Agency[S3] met[V] [PossPro] duty to try[V] to trace family
+he[M,S3] met[V] the duty to be[V] careful
+he[M,S3] met[V] [PossPro] duty to be[V] careful
+he[M,S3] met[V] the duty to make[V] records available
+he[M,S3] met[V] [PossPro] duty to make[V] records available
+she[F,S3] met[V] the duty to inform[V] Mr. Jandre
+she[F,S3] met[V] [PossPro] duty to inform[V] Mr. Jandre
+the plaintiff[M,S3] met[V] a duty to mitigate[V]
+the plaintiff[M,S3] met[V] [PossPro] duty to mitigate[V]
+he[M,S3] met[V] a duty to keep[V] her in school
+he[M,S3] met[V] [PossPro] duty to keep[V] her in school
+the adversary[M,S3] met[V] a duty to disclose[V] that there is no association
+the adversary[M,S3] met[V] [PossPro] duty to disclose[V] that there is no association
+the company[S3] met[V] a duty to maximize[V] net present value to investors
+the company[S3] met[V] [PossPro] duty to maximize[V] net present value to investors
+the local authority[S3] met[V] a duty to provide[V] accommodation under the homelessness legislation
+the local authority[S3] met[V] [PossPro] duty to provide[V] accommodation under the homelessness legislation
+the agency[S3] met[V] duty to obtain[V] maximum competition
+the agency[S3] met[V] [PossPro] duty to obtain[V] maximum competition
+the employer[S3] met[V] duty to accommodate[V] a disabled employee
+the employer[S3] met[V] [PossPro] duty to accommodate[V] a disabled employee
+OSHA[S3] met[V] duty to identify[V] relevant factual evidence
+OSHA[S3] met[V] [PossPro] duty to identify[V] relevant factual evidence
+Enbridge[S3] met[V] duty to consult[V] obligations
+Enbridge[S3] met[V] [PossPro] duty to consult[V] obligations
+the plaintiff[M,S3] met[V] duty to mitigate[V]
+the plaintiff[M,S3] met[V] [PossPro] duty to mitigate[V]

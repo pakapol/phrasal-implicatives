@@ -1,0 +1,150 @@
+Implicatives:
+lose (an,the,~,no,PossPro) opportunity [-|+]
+
+Examples:
+we[P1] lost[V] no opportunity to purchase[V] their lands and thrust[V] them farther into the wilderness
+we[P1] lost[V] [PossPro] opportunity to purchase[V] their lands and thrust[V] them farther into the wilderness
+the Democratic Party[S3] lost[V] the opportunity to win[V] a generation of voters
+the Democratic Party[S3] lost[V] [PossPro] opportunity to win[V] a generation of voters
+I[S1] lost[V] the opportunity to spend[V] a year abroad
+I[S1] lost[V] [PossPro] opportunity to spend[V] a year abroad
+parents[P3] lost[V] the opportunity to avoid[V] a pregnancy
+parents[P3] lost[V] [PossPro] opportunity to avoid[V] a pregnancy
+I[S1] lost[V] the opportunity to see[V] the band live
+I[S1] lost[V] [PossPro] opportunity to see[V] the band live
+you[S2] (also) lost[V] the opportunity to make[V] the profit
+you[S2] (also) lost[V] [PossPro] opportunity to make[V] the profit
+Khursheed Shah[M,S3] lost[V] the opportunity to give[V] tough time to government
+Khursheed Shah[M,S3] lost[V] [PossPro] opportunity to give[V] tough time to government
+David Cameron[M,S3] lost[V] the opportunity to implement[V] Life Chances
+David Cameron[M,S3] lost[V] [PossPro] opportunity to implement[V] Life Chances
+Hillary Clinton[F,S3] lost[V] the opportunity to be[V] (completely) transparent by scrubbing [PossPro] server
+Hillary Clinton[F,S3] lost[V] [PossPro] opportunity to be[V] (completely) transparent by scrubbing [PossPro] server
+The PH[S3] lost[V] the opportunity to be[V] world's first country to commercialise ocean thermal energy
+The PH[S3] lost[V] [PossPro] opportunity to be[V] world's first country to commercialise ocean thermal energy
+Scotland[S3] lost[V] the opportunity to prove[V] [ReflPro]
+Scotland[S3] lost[V] [PossPro] opportunity to prove[V] [ReflPro]
+Arshad Warsi[M,S3] lost[V] an opportunity to work[V] with the senior actor
+Arshad Warsi[M,S3] lost[V] [PossPro] opportunity to work[V] with the senior actor
+you[S2] lost[V] the opportunity to do[V] something else
+you[S2] lost[V] [PossPro] opportunity to do[V] something else
+Korea[S3] lost[V] the opportunity to establish[V] [ReflPro] as an international financial center
+Korea[S3] lost[V] [PossPro] opportunity to establish[V] [ReflPro] as an international financial center
+I[S1] lost[V] the opportunity to knock[V] out Adonis Stevenson
+I[S1] lost[V] [PossPro] opportunity to knock[V] out Adonis Stevenson
+the Azerbaijani soldier[M,S3] lost[V] the opportunity to become[V] a hero
+the Azerbaijani soldier[M,S3] lost[V] [PossPro] opportunity to become[V] a hero
+she[F,S3] lost[V] the opportunity to go[V] to cinema
+she[F,S3] lost[V] [PossPro] opportunity to go[V] to cinema
+he[M,S3] lost[V] the opportunity to get[V] that bounce
+he[M,S3] lost[V] [PossPro] opportunity to get[V] that bounce
+Russia[S3] lost[V] the opportunity to participate[V] in the PACE
+Russia[S3] lost[V] [PossPro] opportunity to participate[V] in the PACE
+we[P1] lost[V] the opportunity to show[V] how big God is
+we[P1] lost[V] [PossPro] opportunity to show[V] how big God is
+you[S2] lost[V] the opportunity to save[V] a few crores
+you[S2] lost[V] [PossPro] opportunity to save[V] a few crores
+they[P3] lost[V] the opportunity to purchase[V] additional shares
+they[P3] lost[V] [PossPro] opportunity to purchase[V] additional shares
+they[P3] lost[V] the opportunity to go[V] even farther in [PossPro] work
+they[P3] lost[V] [PossPro] opportunity to go[V] even farther in [PossPro] work
+we[P1] lost[V] the opportunity to coalesce[V] [PossPro] energies and resources
+we[P1] lost[V] [PossPro] opportunity to coalesce[V] [PossPro] energies and resources
+we[P1] lost[V] an opportunity to improve[V] upon the Robb amendment
+we[P1] lost[V] [PossPro] opportunity to improve[V] upon the Robb amendment
+the nation[S3] lost[V] an opportunity to effect[V] a much-needed change
+the nation[S3] lost[V] [PossPro] opportunity to effect[V] a much-needed change
+the Senate leadership[S3] lost[V] an opportunity to educate[V] those individuals most affected by the change
+the Senate leadership[S3] lost[V] [PossPro] opportunity to educate[V] those individuals most affected by the change
+he[M,S3] lost[V] an opportunity to win[V] over support for [ReflPro]
+he[M,S3] lost[V] [PossPro] opportunity to win[V] over support for [ReflPro]
+the Government[S3] lost[V] an opportunity to differentiate[V] [ReflPro] from de Valera
+the Government[S3] lost[V] [PossPro] opportunity to differentiate[V] [ReflPro] from de Valera
+he[M,S3] lost[V] an opportunity to talk[V] about high interest rates
+he[M,S3] lost[V] [PossPro] opportunity to talk[V] about high interest rates
+a weak-kneed opposition[S3] lost[V] an opportunity to impress[V] Barack Obama
+a weak-kneed opposition[S3] lost[V] [PossPro] opportunity to impress[V] Barack Obama
+North Carolina[S3] lost[V] an opportunity to tie[V] Clemson
+North Carolina[S3] lost[V] [PossPro] opportunity to tie[V] Clemson
+Adam Grant[M,S3] lost[V] an opportunity to make[V] a bundle
+Adam Grant[M,S3] lost[V] [PossPro] opportunity to make[V] a bundle
+the Prime Minister[M,S3] (this evening) lost[V] an opportunity to unite[V] the country
+the Prime Minister[M,S3] (this evening) lost[V] [PossPro] opportunity to unite[V] the country
+the county[S3] lost[V] an opportunity to gain[V] from the President's visit
+the county[S3] lost[V] [PossPro] opportunity to gain[V] from the President's visit
+the Bears[P3] lost[V] an opportunity to even[V] [PossPro] record at .500
+the Bears[P3] lost[V] [PossPro] opportunity to even[V] [PossPro] record at .500
+I[S1] lost[V] an opportunity to study[V] aboard
+I[S1] lost[V] [PossPro] opportunity to study[V] aboard
+the President[M,S3] lost[V] an opportunity to show[V] [SubjPro] understands the plight of consumers
+the President[M,S3] lost[V] [PossPro] opportunity to show[V] [SubjPro] understands the plight of consumers
+Bethlehem[S3] lost[V] an opportunity to move[V] up in the standings
+Bethlehem[S3] lost[V] [PossPro] opportunity to move[V] up in the standings
+they[P3] (also) lost[V] an opportunity to give[V] Chris Paul additional rest
+they[P3] (also) lost[V] [PossPro] opportunity to give[V] Chris Paul additional rest
+he[M,S3] lost[V] an opportunity to curse[V] James
+he[M,S3] lost[V] [PossPro] opportunity to curse[V] James
+it[S3] lost[V] an opportunity to commit[V] to an improvement in the general trading and investment climate
+it[S3] lost[V] [PossPro] opportunity to commit[V] to an improvement in the general trading and investment climate
+we[P1] lost[V] an opportunity to sit[V] at the top of the league
+we[P1] lost[V] [PossPro] opportunity to sit[V] at the top of the league
+I[S1] lost[V] an opportunity to be[V] a great journalis
+I[S1] lost[V] [PossPro] opportunity to be[V] a great journalis
+the left[S3] lost[V] an opportunity to gear[V] the conversation towards the EU's undemocratic and neoliberal nature
+the left[S3] lost[V] [PossPro] opportunity to gear[V] the conversation towards the EU's undemocratic and neoliberal nature
+he[M,S3] lost[V] an opportunity to (decisively) defeat[V] a wing of Sherman's army
+he[M,S3] lost[V] [PossPro] opportunity to (decisively) defeat[V] a wing of Sherman's army
+the Palestinians[P3] lost[V] an opportunity to lose[V] an opportunity
+the Palestinians[P3] lost[V] [PossPro] opportunity to lose[V] an opportunity
+Rockne[M,S3] lost[V] an opportunity to defend[V] [PossPro] favorite style of play
+Rockne[M,S3] lost[V] [PossPro] opportunity to defend[V] [PossPro] favorite style of play
+the patient[M,S3] (in turn) lost[V] an opportunity to receive[V] proper treatment
+the patient[M,S3] (in turn) lost[V] [PossPro] opportunity to receive[V] proper treatment
+it[S3] lost[V] an opportunity to lead[V] Asia and the Third World
+it[S3] lost[V] [PossPro] opportunity to lead[V] Asia and the Third World
+it[S3] lost[V] the opportunity to live[V] on easy money
+it[S3] lost[V] [PossPro] opportunity to live[V] on easy money
+it[S3] lost[V] the opportunity to incarnate[V] a new way of relating
+it[S3] lost[V] [PossPro] opportunity to incarnate[V] a new way of relating
+she[F,S3] lost[V] an opportunity to teach[V] [PossPro] colleagues a much-needed lesson
+she[F,S3] lost[V] [PossPro] opportunity to teach[V] [PossPro] colleagues a much-needed lesson
+she[F,S3] lost[V] an opportunity to build[V] key relationships with [PossPro] own classmates
+she[F,S3] lost[V] [PossPro] opportunity to build[V] key relationships with [PossPro] own classmates
+the Union army[S3] lost[V] an opportunity to eliminate[V] Mosby
+the Union army[S3] lost[V] [PossPro] opportunity to eliminate[V] Mosby
+the British army[S3] lost[V] the opportunity to fight[V] the war it knew how to win
+the British army[S3] lost[V] [PossPro] opportunity to fight[V] the war it knew how to win
+America[S3] lost[V] opportunity to show[V] smooth power-shift in mature democracy
+America[S3] lost[V] [PossPro] opportunity to show[V] smooth power-shift in mature democracy
+I[S1] lost[V] opportunity to get[V] a PhD
+I[S1] lost[V] [PossPro] opportunity to get[V] a PhD
+we[P1] lost[V] opportunity to continue[V] to drop retardant to try to slow down the fire
+we[P1] lost[V] [PossPro] opportunity to continue[V] to drop retardant to try to slow down the fire
+the adverse party[S3] lost[V] opportunity to (finally) present[V] [PossPro] whole case
+the adverse party[S3] lost[V] [PossPro] opportunity to (finally) present[V] [PossPro] whole case
+women[P3] lost[V] opportunity to vote[V]
+women[P3] lost[V] [PossPro] opportunity to vote[V]
+DEMCO[S3] lost[V] opportunity to produce[V] electricity
+DEMCO[S3] lost[V] [PossPro] opportunity to produce[V] electricity
+it[S3] lost[V] opportunity to enter[V] contract to provide services to company
+it[S3] lost[V] [PossPro] opportunity to enter[V] contract to provide services to company
+I[S1] lost[V] no opportunity to accomplish[V] these ends
+I[S1] lost[V] [PossPro] opportunity to accomplish[V] these ends
+James Macharia[M,S3] lost[V] no opportunity to assure[V] the public
+James Macharia[M,S3] lost[V] [PossPro] opportunity to assure[V] the public
+the millers and bakers[P3] lost[V] no opportunity to endeavor to create[V] a prejudice against the manufacturers
+the millers and bakers[P3] lost[V] [PossPro] opportunity to endeavor to create[V] a prejudice against the manufacturers
+Norman Bartlett[M,S3] lost[V] no opportunity to assist[V] nature
+Norman Bartlett[M,S3] lost[V] [PossPro] opportunity to assist[V] nature
+Wilson[M,S3] lost[V] no opportunity to attack[V] the president
+Wilson[M,S3] lost[V] [PossPro] opportunity to attack[V] the president
+he[M,S3] lost[V] no opportunity to develop[V] [AND,OR] exploit[V] [PossPro] land
+he[M,S3] lost[V] [PossPro] opportunity to develop[V] [AND,OR] exploit[V] [PossPro] land
+she[F,S3] lost[V] no opportunity to vent[V] [PossPro] anger on those around [ObjPro]
+she[F,S3] lost[V] [PossPro] opportunity to vent[V] [PossPro] anger on those around [ObjPro]
+they[P3] lost[V] no opportunity to aggravate[V] the fears of the Indians
+they[P3] lost[V] [PossPro] opportunity to aggravate[V] the fears of the Indians
+he[M,S3] lost[V] no opportunity to take[V] a daily plunge in lake or stream
+he[M,S3] lost[V] [PossPro] opportunity to take[V] a daily plunge in lake or stream
+Fr. Zenobius[M,S3] lost[V] no opportunity to bring[V] Good News of salvation to the savages along the way
+Fr. Zenobius[M,S3] lost[V] [PossPro] opportunity to bring[V] Good News of salvation to the savages along the way

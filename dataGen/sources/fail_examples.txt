@@ -1,0 +1,64 @@
+Implicatives:
+fail [-|+]
+
+Examples:
+Chuck Grassley[M,S3] failed[V] to get[V] the 60 votes for passage
+she[F,S3] failed[V] to turn[V] things around at the beleaguered company
+Straw[M,S3] failed[V] to consider[V] all Britain’s options before invasion
+the IRS[S3] failed[V] to notify[V] some taxpayers after their accounts were compromised by hackers
+Bob Corker[M,S3] failed[V] to (properly) disclose[V] millions of dollars in income from real estate
+Obama[M,S3] failed[V] to deliver[V] on nuclear disarmament promises
+Camtasia Studio[S3] failed[V] to create[V] a video memory resource
+they[P3] failed[V] to recognize[V] her bigotry
+former Secretary Hillary Clinton[F,S3] failed[V] to turn[V] over a copy of a key message
+prosecutors[P3] failed[V] to tell[V] police about 'disturbing' video
+researchers[P3] failed[V] to seek[V] ethics approval for a study on teens with scoliosis
+I[S1] failed[V] to become[V] the perfect spouse
+I[S1] failed[V] to get[V] the correct answer for the challenge
+you[S2] failed[V] to make[V] payments on [PossPro] student loan
+you[S2] failed[V] to download the required mods from the steam[V] workshop
+he[M,S3] failed[V] to see[V] my point of view
+he[M,S3] failed[V] to recognize[V] that [PossPro] patient, Sergio, was trans
+she[F,S3] failed[V] to notice[V] that [PossPro] child was no longer in his crib
+she[F,S3] failed[V] to disclose[V] gifts and free overseas trips
+we[P1] failed[V] to deliver[V] stability in Iraq
+we[P1] failed[V] to grasp[V] the mood of anger
+they[P3] failed[V] to take[V] away our guns
+they[P3] failed[V] to register[V] to vote for [PossPro] father in New York primary
+husky owner[F,S3] failed[V] to restrain[V] [PossPro] dog during alleged biting incident
+the State[S3] failed[V] to protect[V] the physical and mental well-being of a bank branch manager
+church officials[P3] failed[V] to comply[V] with the law
+Rick Santorum[M,S3] failed[V] to provide[V] a total facepalm moment at the GOP debate
+Princess Cruises[S3] failed[V] to rescue[V] adrift fishermen
+the RCMP[S3] failed[V] to protect[V] a woman who claimed abuse
+young people today[P3] failed[V] to (properly) communicate[V] because of slang
+they[P3] failed[V] to recognize[V] the peril in which they were
+she[F,S3] failed[V] to observe[V] the strangeness of [PossPro] brother's manner
+it[S3] failed[V] to disclose[V] all relevant information in a timely manner
+the panel[S3] failed[V] to conduct[V] an objective assessment of the matter
+the scoffers for whom everything is fair game[P3] failed[V] to joke[V] about comets
+his Reverence[M,S3] failed[V] to take[V] [PossPro] place in the choir
+Pope Francis[M,S3] failed[V] to surprise[V]
+Tateum Venn[F,S3] failed[V] to stop[V] at a stop sign on that fateful day
+Zlatan[M,S3] failed[V] to qualify[V] for the Champions League semifinal
+he[M,S3] failed[V] to bequeath[V] wealth to his family
+these State parties[P3] failed[V] to comply[V] with the request of the ICC
+the protesters[P3] failed[V] to pay[V] the bail
+they[P3] (definitely) failed[V] to deliver[V] the correct answers
+you[S2] failed[V] to stop[V] for the school bus
+Mounties[P3] failed[V] to protect[V] Nicole Doucet
+the result[S3] failed[V] to prove[V] the justice of my anticipations
+the panel[S3] failed[V] to comply[V] with its duty
+he[M,S3] failed[V] to point[V] up the spiritual and ethical issues involved
+the crowd[P3] failed[V] to notice[V] the feat
+the Bruins[P3] failed[V] to make[V] the postseason
+the EU[S3] failed[V] to comply[V] with provisions on access to information
+the party[S3] failed[V] to make[V] a good faith effort to settle the case
+the lovely Lapiths[P3] failed[V] to impress[V] him
+the High Command[S3] failed[V] to concentrate[V] the resources required to secure the execution of their plans
+Johnson[M,S3] failed[V] to properly signal[V] his turn
+the Mansfield Herald[S3] failed[V] to announce[V] the end of the world
+Isaiah's words[P3] failed[V] to come[V] true
+Rubio[M,S3] failed[V] to dismiss[V] the scientific consensus on climate change
+the petitioners[P3] failed[V] to file[V] their petition for review
+the attending peers[P3] failed[V] to notice[V] this unusual omission

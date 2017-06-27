@@ -1,0 +1,2436 @@
+they had courage to tell the the story of who they were
+entails
+they told the the story of who they were
+
+they told the the story of who they were
+permits
+they had courage to tell the the story of who they were
+
+they had courage to tell the the story of who they were
+permits
+people told the the story of who they were
+
+they had courage to tell the the story of who they were
+contradicts
+they did n't tell the the story of who they were
+
+they did n't tell the the story of who they were
+contradicts
+they had courage to tell the the story of who they were
+
+they almost had courage to tell the the story of who they were
+entails
+they did not tell the the story of who they were
+
+they did not tell the the story of who they were
+permits
+they almost had courage to tell the the story of who they were
+
+they almost had courage to tell the the story of who they were
+permits
+they did n't forge its own future by voting to leave the E.U
+
+they almost had courage to tell the the story of who they were
+contradicts
+they told the the story of who they were
+
+they told the the story of who they were
+contradicts
+they almost had courage to tell the the story of who they were
+
+they almost had courage to tell the the story of who they were
+permits
+people told the the story of who they were
+
+the poor, weak man has had a courage to refuse
+entails
+the poor, weak man has refused
+
+the poor, weak man has refused
+permits
+the poor, weak man has had a courage to refuse
+
+the poor, weak man had a courage to refuse
+contradicts
+the poor, weak man did not refuse
+
+the poor, weak man did not refuse
+contradicts
+the poor, weak man had a courage to refuse
+
+the poor, weak man had no courage to refuse
+entails
+the poor, weak man did n't refuse
+
+the poor, weak man did n't refuse
+permits
+the poor, weak man had no courage to refuse
+
+the poor, weak man had no courage to refuse
+permits
+Prather did n't refuse
+
+the poor, weak man had had no courage to refuse
+contradicts
+the poor, weak man had refused
+
+the poor, weak man had refused
+contradicts
+the poor, weak man had had no courage to refuse
+
+I had had the courage to start
+entails
+I had started
+
+I had started
+permits
+I had had the courage to start
+
+I had had the courage to start
+contradicts
+I had n't started
+
+I had n't started
+contradicts
+I had had the courage to start
+
+I had had the courage to start
+permits
+Betty Jean Owens had n't started
+
+I had never had the courage to start
+entails
+I had n't started
+
+I had n't started
+permits
+I had never had the courage to start
+
+I have n't had the courage to start
+contradicts
+I have started
+
+I have started
+contradicts
+I have n't had the courage to start
+
+I have had the courage to take action
+entails
+I have taken action
+
+I have taken action
+permits
+I have had the courage to take action
+
+I have had the courage to take action
+contradicts
+I have not taken action
+
+I have not taken action
+contradicts
+I have had the courage to take action
+
+I have had the courage to take action
+permits
+I have n't implanted in the very heart of its doctrine a tremendous confession of ignorance
+
+I have almost had the courage to take action
+entails
+I have not taken action
+
+I have not taken action
+permits
+I have almost had the courage to take action
+
+I have not had the courage to take action
+contradicts
+I have taken action
+
+I have taken action
+contradicts
+I have not had the courage to take action
+
+I have not had the courage to take action
+permits
+Betty Jean Owens has taken action
+
+you had had the courage to start or purchase a business
+entails
+you had started or purchase a business
+
+you had started or purchase a business
+permits
+you had had the courage to start or purchase a business
+
+you had had the courage to start or purchase a business
+permits
+Brenda Moise had started or purchase a business
+
+you had had the courage to start or purchase a business
+contradicts
+you had not started or purchase a business
+
+you had not started or purchase a business
+contradicts
+you had had the courage to start or purchase a business
+
+you had n't had the courage to start or purchase a business
+entails
+you had not started or purchase a business
+
+you had not started or purchase a business
+permits
+you had n't had the courage to start or purchase a business
+
+you had n't had the courage to start or purchase a business
+permits
+Emory University had n't started or purchase a business
+
+you did not have the courage to start or purchase a business
+contradicts
+you started or purchase a business
+
+you started or purchase a business
+contradicts
+you did not have the courage to start or purchase a business
+
+you did not have the courage to start or purchase a business
+permits
+she started or purchase a business
+
+Burgess has had the courage to write a book that will have eternal consequences
+entails
+Burgess has written a book that will have eternal consequences
+
+Burgess has written a book that will have eternal consequences
+permits
+Burgess has had the courage to write a book that will have eternal consequences
+
+Burgess had had the courage to write a book that will have eternal consequences
+contradicts
+Burgess had not written a book that will have eternal consequences
+
+Burgess had not written a book that will have eternal consequences
+contradicts
+Burgess had had the courage to write a book that will have eternal consequences
+
+Burgess had n't had the courage to write a book that will have eternal consequences
+entails
+Burgess had n't written a book that will have eternal consequences
+
+Burgess had n't written a book that will have eternal consequences
+permits
+Burgess had n't had the courage to write a book that will have eternal consequences
+
+Burgess had n't had the courage to write a book that will have eternal consequences
+permits
+it had n't written a book that will have eternal consequences
+
+Burgess never has had the courage to write a book that will have eternal consequences
+contradicts
+Burgess has written a book that will have eternal consequences
+
+Burgess has written a book that will have eternal consequences
+contradicts
+Burgess never has had the courage to write a book that will have eternal consequences
+
+you have had a courage to talk to a girl
+entails
+you have talked to a girl
+
+you have talked to a girl
+permits
+you have had a courage to talk to a girl
+
+you had had a courage to talk to a girl
+contradicts
+you had n't talked to a girl
+
+you had n't talked to a girl
+contradicts
+you had had a courage to talk to a girl
+
+you had never had a courage to talk to a girl
+entails
+you had never talked to a girl
+
+you had never talked to a girl
+permits
+you had never had a courage to talk to a girl
+
+you have not had a courage to talk to a girl
+contradicts
+you have talked to a girl
+
+you have talked to a girl
+contradicts
+you have not had a courage to talk to a girl
+
+you have not had a courage to talk to a girl
+permits
+she has talked to a girl
+
+Bobby has had a courage to give his folks the freedom to be himself
+entails
+Bobby has given his folks the freedom to be himself
+
+Bobby has given his folks the freedom to be himself
+permits
+Bobby has had a courage to give his folks the freedom to be himself
+
+Bobby has had a courage to give his folks the freedom to be himself
+permits
+she has given her folks the freedom to be herself
+
+Bobby had a courage to give his folks the freedom to be himself
+contradicts
+Bobby did n't give his folks the freedom to be himself
+
+Bobby did n't give his folks the freedom to be himself
+contradicts
+Bobby had a courage to give his folks the freedom to be himself
+
+Bobby had n't had a courage to give his folks the freedom to be himself
+entails
+Bobby had n't given his folks the freedom to be himself
+
+Bobby had n't given his folks the freedom to be himself
+permits
+Bobby had n't had a courage to give his folks the freedom to be himself
+
+Bobby did n't have a courage to give his folks the freedom to be himself
+contradicts
+Bobby gave his folks the freedom to be himself
+
+Bobby gave his folks the freedom to be himself
+contradicts
+Bobby did n't have a courage to give his folks the freedom to be himself
+
+she had a courage to use something different and dangerous
+entails
+she use something different and dangerous
+
+she use something different and dangerous
+permits
+she had a courage to use something different and dangerous
+
+she had a courage to use something different and dangerous
+permits
+she saw it through
+
+she has had a courage to use something different and dangerous
+contradicts
+she use something different and dangerous
+
+she use something different and dangerous
+contradicts
+she has had a courage to use something different and dangerous
+
+she has never had a courage to use something different and dangerous
+entails
+she use something different and dangerous
+
+she use something different and dangerous
+permits
+she has never had a courage to use something different and dangerous
+
+she has never had a courage to use something different and dangerous
+permits
+Betty Jean Owens use something different and dangerous
+
+she has almost had a courage to use something different and dangerous
+contradicts
+she use something different and dangerous
+
+she use something different and dangerous
+contradicts
+she has almost had a courage to use something different and dangerous
+
+she has almost had a courage to use something different and dangerous
+permits
+Prather use something different and dangerous
+
+he has had a courage to utilise and reward it
+entails
+he has utilise and rewarded it
+
+he has utilise and rewarded it
+permits
+he has had a courage to utilise and reward it
+
+he has had a courage to utilise and reward it
+permits
+the widow has utilise and rewarded it
+
+he has had a courage to utilise and reward it
+contradicts
+he has not utilise and rewarded it
+
+he has not utilise and rewarded it
+contradicts
+he has had a courage to utilise and reward it
+
+he has had a courage to utilise and reward it
+permits
+he has n't talked about his idea
+
+he had never had a courage to utilise and reward it
+entails
+he had n't utilise and rewarded it
+
+he had n't utilise and rewarded it
+permits
+he had never had a courage to utilise and reward it
+
+he had never had a courage to utilise and reward it
+permits
+he had not stepped up and blocked his path
+
+he had not had a courage to utilise and reward it
+contradicts
+he had utilise and rewarded it
+
+he had utilise and rewarded it
+contradicts
+he had not had a courage to utilise and reward it
+
+people had had a courage to write down their biggest regrets
+entails
+people had written down their biggest regrets
+
+people had written down their biggest regrets
+permits
+people had had a courage to write down their biggest regrets
+
+people had had a courage to write down their biggest regrets
+permits
+people had written a book that will have eternal consequences
+
+people had had a courage to write down their biggest regrets
+contradicts
+people had not written down their biggest regrets
+
+people had not written down their biggest regrets
+contradicts
+people had had a courage to write down their biggest regrets
+
+people had had a courage to write down their biggest regrets
+permits
+these draft dodgers had not written down their biggest regrets
+
+people almost had a courage to write down their biggest regrets
+entails
+people almost wrote down their biggest regrets
+
+people almost wrote down their biggest regrets
+permits
+people almost had a courage to write down their biggest regrets
+
+people almost had a courage to write down their biggest regrets
+permits
+his disciples did n't write down their biggest regrets
+
+people had n't had a courage to write down their biggest regrets
+contradicts
+people had written down their biggest regrets
+
+people had written down their biggest regrets
+contradicts
+people had n't had a courage to write down their biggest regrets
+
+people had n't had a courage to write down their biggest regrets
+permits
+the men of honor had written down their biggest regrets
+
+I had a courage to enter the classroom
+entails
+I entered the classroom
+
+I entered the classroom
+permits
+I had a courage to enter the classroom
+
+I had had a courage to enter the classroom
+contradicts
+I had not entered the classroom
+
+I had not entered the classroom
+contradicts
+I had had a courage to enter the classroom
+
+I had had a courage to enter the classroom
+permits
+I had not demonstrated my faith
+
+I had not had a courage to enter the classroom
+entails
+I had n't entered the classroom
+
+I had n't entered the classroom
+permits
+I had not had a courage to enter the classroom
+
+I had n't had a courage to enter the classroom
+contradicts
+I had entered the classroom
+
+I had entered the classroom
+contradicts
+I had n't had a courage to enter the classroom
+
+I had n't had a courage to enter the classroom
+permits
+the gang had entered the classroom
+
+she had a courage to talk about her idea
+entails
+she talked about her idea
+
+she talked about her idea
+permits
+she had a courage to talk about her idea
+
+she had a courage to talk about her idea
+contradicts
+she did not talk about her idea
+
+she did not talk about her idea
+contradicts
+she had a courage to talk about her idea
+
+she has almost had a courage to talk about her idea
+entails
+she has not talked about her idea
+
+she has not talked about her idea
+permits
+she has almost had a courage to talk about her idea
+
+she has almost had a courage to talk about her idea
+permits
+Brenda Moise has n't talked about her idea
+
+she had n't had a courage to talk about her idea
+contradicts
+she had talked about her idea
+
+she had talked about her idea
+contradicts
+she had n't had a courage to talk about her idea
+
+the men of honor had had a courage to do the right thing
+entails
+the men of honor had done the right thing
+
+the men of honor had done the right thing
+permits
+the men of honor had had a courage to do the right thing
+
+the men of honor had had a courage to do the right thing
+permits
+his disciples had done the right thing
+
+the men of honor had had a courage to do the right thing
+contradicts
+the men of honor had n't done the right thing
+
+the men of honor had n't done the right thing
+contradicts
+the men of honor had had a courage to do the right thing
+
+the men of honor had had a courage to do the right thing
+permits
+we had not done the right thing
+
+the men of honor have not had a courage to do the right thing
+entails
+the men of honor have n't done the right thing
+
+the men of honor have n't done the right thing
+permits
+the men of honor have not had a courage to do the right thing
+
+the men of honor have not had a courage to do the right thing
+permits
+nine Filipino tenants have n't done the right thing
+
+the men of honor have n't had a courage to do the right thing
+contradicts
+the men of honor have done the right thing
+
+the men of honor have done the right thing
+contradicts
+the men of honor have n't had a courage to do the right thing
+
+the men of honor have n't had a courage to do the right thing
+permits
+the men of honor have said 'no' to evil
+
+I had had a courage to apply for a job somewhere else
+entails
+I had applied for a job somewhere else
+
+I had applied for a job somewhere else
+permits
+I had had a courage to apply for a job somewhere else
+
+I had had a courage to apply for a job somewhere else
+permits
+I had asked Baba openly about the speculation
+
+I had had a courage to apply for a job somewhere else
+permits
+I had implanted in the very heart of its doctrine a tremendous confession of ignorance
+
+I had finally had a courage to apply for a job somewhere else
+entails
+I had applied for a job somewhere else
+
+I had applied for a job somewhere else
+permits
+I had finally had a courage to apply for a job somewhere else
+
+I have had a courage to apply for a job somewhere else
+contradicts
+I have not applied for a job somewhere else
+
+I have not applied for a job somewhere else
+contradicts
+I have had a courage to apply for a job somewhere else
+
+I have had a courage to apply for a job somewhere else
+permits
+I have n't done what was right
+
+I have had a courage to apply for a job somewhere else
+permits
+I have not brought down Jim Crow
+
+I have finally had a courage to apply for a job somewhere else
+contradicts
+I have n't applied for a job somewhere else
+
+I have n't applied for a job somewhere else
+contradicts
+I have finally had a courage to apply for a job somewhere else
+
+I have finally had a courage to apply for a job somewhere else
+permits
+Azariah has n't applied for a job somewhere else
+
+I have finally had a courage to apply for a job somewhere else
+permits
+the girl has not applied for a job somewhere else
+
+I never had a courage to apply for a job somewhere else
+entails
+I did n't apply for a job somewhere else
+
+I did n't apply for a job somewhere else
+permits
+I never had a courage to apply for a job somewhere else
+
+I never had a courage to apply for a job somewhere else
+permits
+Bobby did n't apply for a job somewhere else
+
+I never had a courage to apply for a job somewhere else
+permits
+Bobby did not apply for a job somewhere else
+
+I did n't finally have a courage to apply for a job somewhere else
+entails
+I did not apply for a job somewhere else
+
+I did not apply for a job somewhere else
+permits
+I did n't finally have a courage to apply for a job somewhere else
+
+I did n't have a courage to apply for a job somewhere else
+contradicts
+I applied for a job somewhere else
+
+I applied for a job somewhere else
+contradicts
+I did n't have a courage to apply for a job somewhere else
+
+I almost finally had a courage to apply for a job somewhere else
+contradicts
+I applied for a job somewhere else
+
+I applied for a job somewhere else
+contradicts
+I almost finally had a courage to apply for a job somewhere else
+
+nine Filipino tenants had had a courage to go to the tenant commission to complain
+entails
+nine Filipino tenants had gone to the tenant commission to complain
+
+nine Filipino tenants had gone to the tenant commission to complain
+permits
+nine Filipino tenants had had a courage to go to the tenant commission to complain
+
+nine Filipino tenants had a courage to go to the tenant commission to complain
+contradicts
+nine Filipino tenants did n't go to the tenant commission to complain
+
+nine Filipino tenants did n't go to the tenant commission to complain
+contradicts
+nine Filipino tenants had a courage to go to the tenant commission to complain
+
+nine Filipino tenants had a courage to go to the tenant commission to complain
+permits
+nine Filipino tenants did n't talk about it
+
+nine Filipino tenants did n't have a courage to go to the tenant commission to complain
+entails
+nine Filipino tenants did n't go to the tenant commission to complain
+
+nine Filipino tenants did n't go to the tenant commission to complain
+permits
+nine Filipino tenants did n't have a courage to go to the tenant commission to complain
+
+nine Filipino tenants did not have a courage to go to the tenant commission to complain
+contradicts
+nine Filipino tenants went to the tenant commission to complain
+
+nine Filipino tenants went to the tenant commission to complain
+contradicts
+nine Filipino tenants did not have a courage to go to the tenant commission to complain
+
+she had had a courage to rebuild the company.
+entails
+she had rebuilt the company.
+
+she had rebuilt the company.
+permits
+she had had a courage to rebuild the company.
+
+she had had a courage to rebuild the company.
+contradicts
+she had not rebuilt the company.
+
+she had not rebuilt the company.
+contradicts
+she had had a courage to rebuild the company.
+
+she had had a courage to rebuild the company.
+permits
+she had n't planted her crops
+
+she has n't had a courage to rebuild the company.
+entails
+she has not rebuilt the company.
+
+she has not rebuilt the company.
+permits
+she has n't had a courage to rebuild the company.
+
+she had almost had a courage to rebuild the company.
+contradicts
+she had rebuilt the company.
+
+she had rebuilt the company.
+contradicts
+she had almost had a courage to rebuild the company.
+
+she had almost had a courage to rebuild the company.
+permits
+you had rebuilt the company.
+
+I had had courage to create and make SaimaaLife public
+entails
+I created and made SaimaaLife public
+
+I created and made SaimaaLife public
+permits
+I had had courage to create and make SaimaaLife public
+
+I had had courage to create and make SaimaaLife public
+contradicts
+I did not create and make SaimaaLife public
+
+I did not create and make SaimaaLife public
+contradicts
+I had had courage to create and make SaimaaLife public
+
+I had not had had courage to create and make SaimaaLife public
+entails
+I had not created and made SaimaaLife public
+
+I had not created and made SaimaaLife public
+permits
+I had not had had courage to create and make SaimaaLife public
+
+I have n't had had courage to create and make SaimaaLife public
+contradicts
+I have created and made SaimaaLife public
+
+I have created and made SaimaaLife public
+contradicts
+I have n't had had courage to create and make SaimaaLife public
+
+you had courage to see it through
+entails
+you saw it through
+
+you saw it through
+permits
+you had courage to see it through
+
+you have had courage to see it through
+contradicts
+you have n't seen it through
+
+you have n't seen it through
+contradicts
+you have had courage to see it through
+
+you have had courage to see it through
+permits
+the gang has n't seen it through
+
+you have never had courage to see it through
+entails
+you have never seen it through
+
+you have never seen it through
+permits
+you have never had courage to see it through
+
+you have almost had courage to see it through
+contradicts
+you have seen it through
+
+you have seen it through
+contradicts
+you have almost had courage to see it through
+
+she had courage to look far away and let herself burn for the one she loved
+entails
+she looked far away and let herself burn for the one she loved
+
+she looked far away and let herself burn for the one she loved
+permits
+she had courage to look far away and let herself burn for the one she loved
+
+she had courage to look far away and let herself burn for the one she loved
+permits
+she defended what they believed
+
+she had courage to look far away and let herself burn for the one she loved
+contradicts
+she did not look far away or let herself burn for the one she loved
+
+she did not look far away or let herself burn for the one she loved
+contradicts
+she had courage to look far away and let herself burn for the one she loved
+
+she had courage to look far away and let herself burn for the one she loved
+permits
+you did n't look far away or let yourself burn for the one you loved
+
+she had almost had courage to look far away or let herself burn for the one she loved
+entails
+she had almost looked far away or let herself burn for the one she loved
+
+she had almost looked far away or let herself burn for the one she loved
+permits
+she had almost had courage to look far away or let herself burn for the one she loved
+
+she had almost had courage to look far away or let herself burn for the one she loved
+permits
+Betty Jean Owens had not looked far away or let herself burn for the one she loved
+
+she had never had courage to look far away or let herself burn for the one she loved
+contradicts
+she had looked far away and let herself burn for the one she loved
+
+she had looked far away and let herself burn for the one she loved
+contradicts
+she had never had courage to look far away or let herself burn for the one she loved
+
+she had never had courage to look far away or let herself burn for the one she loved
+permits
+it had looked far away and let itself burn for the one it loved
+
+he had courage to live a little longer
+entails
+he lived a little longer
+
+he lived a little longer
+permits
+he had courage to live a little longer
+
+he had courage to live a little longer
+permits
+she lived a little longer
+
+he has had courage to live a little longer
+contradicts
+he has not lived a little longer
+
+he has not lived a little longer
+contradicts
+he has had courage to live a little longer
+
+he has had courage to live a little longer
+permits
+he has n't been aggressively doing the right thing
+
+he did not have courage to live a little longer
+entails
+he did not live a little longer
+
+he did not live a little longer
+permits
+he did not have courage to live a little longer
+
+he did not have courage to live a little longer
+permits
+he did n't tell the the story of who he were
+
+he has almost had courage to live a little longer
+contradicts
+he has lived a little longer
+
+he has lived a little longer
+contradicts
+he has almost had courage to live a little longer
+
+I had courage to break up with my homophobic friend
+entails
+I broke up with my homophobic friend
+
+I broke up with my homophobic friend
+permits
+I had courage to break up with my homophobic friend
+
+I had courage to break up with my homophobic friend
+permits
+Becky Smith's aunt broke up with her homophobic friend
+
+I had had courage to break up with my homophobic friend
+contradicts
+I had n't broken up with my homophobic friend
+
+I had n't broken up with my homophobic friend
+contradicts
+I had had courage to break up with my homophobic friend
+
+I had had courage to break up with my homophobic friend
+permits
+Great Britain had not broken up with its homophobic friend
+
+I did not have courage to break up with my homophobic friend
+entails
+I did n't break up with my homophobic friend
+
+I did n't break up with my homophobic friend
+permits
+I did not have courage to break up with my homophobic friend
+
+I had never had courage to break up with my homophobic friend
+contradicts
+I had broken up with my homophobic friend
+
+I had broken up with my homophobic friend
+contradicts
+I had never had courage to break up with my homophobic friend
+
+I had never had courage to break up with my homophobic friend
+permits
+I had done the right thing
+
+the widow has had courage to demonstrate her faith
+entails
+the widow has demonstrated her faith
+
+the widow has demonstrated her faith
+permits
+the widow has had courage to demonstrate her faith
+
+the widow has had courage to demonstrate her faith
+permits
+he has demonstrated his faith
+
+the widow had had courage to demonstrate her faith
+contradicts
+the widow had n't demonstrated her faith
+
+the widow had n't demonstrated her faith
+contradicts
+the widow had had courage to demonstrate her faith
+
+the widow did not have courage to demonstrate her faith
+entails
+the widow did n't demonstrate her faith
+
+the widow did n't demonstrate her faith
+permits
+the widow did not have courage to demonstrate her faith
+
+the widow did not have courage to demonstrate her faith
+permits
+it did n't demonstrate its faith
+
+the widow has not had courage to demonstrate her faith
+contradicts
+the widow has demonstrated her faith
+
+the widow has demonstrated her faith
+contradicts
+the widow has not had courage to demonstrate her faith
+
+the widow has not had courage to demonstrate her faith
+permits
+the widow has disobeyed and continued to restore the crystals
+
+Azariah had had courage to confront a king's sin
+entails
+Azariah had confronted a king's sin
+
+Azariah had confronted a king's sin
+permits
+Azariah had had courage to confront a king's sin
+
+Azariah has had courage to confront a king's sin
+contradicts
+Azariah has n't confronted a king's sin
+
+Azariah has n't confronted a king's sin
+contradicts
+Azariah has had courage to confront a king's sin
+
+Azariah has had courage to confront a king's sin
+permits
+Azariah has n't talked to a girl
+
+Azariah has n't had courage to confront a king's sin
+entails
+Azariah has not confronted a king's sin
+
+Azariah has not confronted a king's sin
+permits
+Azariah has n't had courage to confront a king's sin
+
+Azariah has n't had courage to confront a king's sin
+permits
+Bobby has not confronted a king's sin
+
+Azariah did n't have courage to confront a king's sin
+contradicts
+Azariah confronted a king's sin
+
+Azariah confronted a king's sin
+contradicts
+Azariah did n't have courage to confront a king's sin
+
+these draft dodgers have had courage to stand up for what they believed in
+entails
+these draft dodgers have stood up for what they believed in
+
+these draft dodgers have stood up for what they believed in
+permits
+these draft dodgers have had courage to stand up for what they believed in
+
+these draft dodgers have had courage to stand up for what they believed in
+permits
+his disciples have stood up for what they believed in
+
+these draft dodgers had courage to stand up for what they believed in
+contradicts
+these draft dodgers did n't stand up for what they believed in
+
+these draft dodgers did n't stand up for what they believed in
+contradicts
+these draft dodgers had courage to stand up for what they believed in
+
+these draft dodgers had courage to stand up for what they believed in
+permits
+his disciples did not stand up for what they believed in
+
+these draft dodgers never had courage to stand up for what they believed in
+entails
+these draft dodgers did not stand up for what they believed in
+
+these draft dodgers did not stand up for what they believed in
+permits
+these draft dodgers never had courage to stand up for what they believed in
+
+these draft dodgers have n't had courage to stand up for what they believed in
+contradicts
+these draft dodgers have stood up for what they believed in
+
+these draft dodgers have stood up for what they believed in
+contradicts
+these draft dodgers have n't had courage to stand up for what they believed in
+
+these draft dodgers have n't had courage to stand up for what they believed in
+permits
+peasants have stood up for what they believed in
+
+they have had courage to do what was right
+entails
+they have done what was right
+
+they have done what was right
+permits
+they have had courage to do what was right
+
+they have had courage to do what was right
+contradicts
+they have n't done what was right
+
+they have n't done what was right
+contradicts
+they have had courage to do what was right
+
+they have had courage to do what was right
+permits
+peasants have not done what was right
+
+they have almost had courage to do what was right
+entails
+they have almost done what was right
+
+they have almost done what was right
+permits
+they have almost had courage to do what was right
+
+they had never had courage to do what was right
+contradicts
+they had done what was right
+
+they had done what was right
+contradicts
+they had never had courage to do what was right
+
+they had never had courage to do what was right
+permits
+peasants had done what was right
+
+the priests have had a courage to serve at the altar
+entails
+the priests have served at the altar
+
+the priests have served at the altar
+permits
+the priests have had a courage to serve at the altar
+
+the priests have had a courage to serve at the altar
+contradicts
+the priests have not served at the altar
+
+the priests have not served at the altar
+contradicts
+the priests have had a courage to serve at the altar
+
+the priests had had no courage to serve at the altar
+entails
+the priests had n't served at the altar
+
+the priests had n't served at the altar
+permits
+the priests had had no courage to serve at the altar
+
+the priests had no courage to serve at the altar
+contradicts
+the priests served at the altar
+
+the priests served at the altar
+contradicts
+the priests had no courage to serve at the altar
+
+they had a courage to defend what they believed
+entails
+they defended what they believed
+
+they defended what they believed
+permits
+they had a courage to defend what they believed
+
+they had a courage to defend what they believed
+permits
+they asked Baba openly about the speculation
+
+they had had a courage to defend what they believed
+contradicts
+they had not defended what they believed
+
+they had not defended what they believed
+contradicts
+they had had a courage to defend what they believed
+
+they had had no courage to defend what they believed
+entails
+they had not defended what they believed
+
+they had not defended what they believed
+permits
+they had had no courage to defend what they believed
+
+they have had no courage to defend what they believed
+contradicts
+they have defended what they believed
+
+they have defended what they believed
+contradicts
+they have had no courage to defend what they believed
+
+they have had no courage to defend what they believed
+permits
+they have said 'no' to evil
+
+you had a courage to carry out the deed by killing him yourself
+entails
+you carried out the deed by killing him yourself
+
+you carried out the deed by killing him yourself
+permits
+you had a courage to carry out the deed by killing him yourself
+
+you had had a courage to carry out the deed by killing him yourself
+contradicts
+you had n't carried out the deed by killing him yourself
+
+you had n't carried out the deed by killing him yourself
+contradicts
+you had had a courage to carry out the deed by killing him yourself
+
+you had no courage to carry out the deed by killing him yourself
+entails
+you did n't carry out the deed by killing him yourself
+
+you did n't carry out the deed by killing him yourself
+permits
+you had no courage to carry out the deed by killing him yourself
+
+you had no courage to carry out the deed by killing him yourself
+contradicts
+you carried out the deed by killing him yourself
+
+you carried out the deed by killing him yourself
+contradicts
+you had no courage to carry out the deed by killing him yourself
+
+you had no courage to carry out the deed by killing him yourself
+permits
+you use something different and dangerous
+
+Pep Guardiola had had a courage to speak with him
+entails
+Pep Guardiola had spoken with him
+
+Pep Guardiola had spoken with him
+permits
+Pep Guardiola had had a courage to speak with him
+
+Pep Guardiola had a courage to speak with him
+contradicts
+Pep Guardiola did not speak with him
+
+Pep Guardiola did not speak with him
+contradicts
+Pep Guardiola had a courage to speak with him
+
+Pep Guardiola had had no courage to speak with him
+entails
+Pep Guardiola had n't spoken with him
+
+Pep Guardiola had n't spoken with him
+permits
+Pep Guardiola had had no courage to speak with him
+
+Pep Guardiola had had no courage to speak with him
+permits
+Pep Guardiola had not applied for a job somewhere else
+
+Pep Guardiola had no courage to speak with him
+contradicts
+Pep Guardiola spoke with him
+
+Pep Guardiola spoke with him
+contradicts
+Pep Guardiola had no courage to speak with him
+
+Pep Guardiola had no courage to speak with him
+permits
+Pep Guardiola did the right thing
+
+the Sect Elder had a courage to step up and block his path
+entails
+the Sect Elder stepped up and blocked his path
+
+the Sect Elder stepped up and blocked his path
+permits
+the Sect Elder had a courage to step up and block his path
+
+the Sect Elder had a courage to step up and block his path
+permits
+Brenda Moise stepped up and blocked his path
+
+the Sect Elder had a courage to step up and block his path
+contradicts
+the Sect Elder did n't step up and block his path
+
+the Sect Elder did n't step up and block his path
+contradicts
+the Sect Elder had a courage to step up and block his path
+
+the Sect Elder had no courage to step up and block his path
+entails
+the Sect Elder did not step up and block his path
+
+the Sect Elder did not step up and block his path
+permits
+the Sect Elder had no courage to step up and block his path
+
+the Sect Elder has had no courage to step up and block his path
+contradicts
+the Sect Elder has stepped up and blocked his path
+
+the Sect Elder has stepped up and blocked his path
+contradicts
+the Sect Elder has had no courage to step up and block his path
+
+the Sect Elder has had no courage to step up and block his path
+permits
+Betty Jean Owens has stepped up and blocked his path
+
+I had a courage to talk about it
+entails
+I talked about it
+
+I talked about it
+permits
+I had a courage to talk about it
+
+I had a courage to talk about it
+permits
+I said 'no' to evil
+
+I had had a courage to talk about it
+contradicts
+I had not talked about it
+
+I had not talked about it
+contradicts
+I had had a courage to talk about it
+
+I had had a courage to talk about it
+permits
+I had not helped expose Iran Contra and Oliver North's illegal war
+
+I had no courage to talk about it
+entails
+I did n't talk about it
+
+I did n't talk about it
+permits
+I had no courage to talk about it
+
+I had no courage to talk about it
+permits
+Prather did n't talk about it
+
+I have had no courage to talk about it
+contradicts
+I have talked about it
+
+I have talked about it
+contradicts
+I have had no courage to talk about it
+
+the West Francian and Lotharingian king Charles the Simple had a courage to face a Hungarian raiding army
+entails
+the West Francian and Lotharingian king Charles the Simple faced a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple faced a Hungarian raiding army
+permits
+the West Francian and Lotharingian king Charles the Simple had a courage to face a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple had a courage to face a Hungarian raiding army
+permits
+Nelson Mandela faced a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple had a courage to face a Hungarian raiding army
+contradicts
+the West Francian and Lotharingian king Charles the Simple did n't face a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple did n't face a Hungarian raiding army
+contradicts
+the West Francian and Lotharingian king Charles the Simple had a courage to face a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple had a courage to face a Hungarian raiding army
+permits
+I did n't face a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple had no courage to face a Hungarian raiding army
+entails
+the West Francian and Lotharingian king Charles the Simple did not face a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple did not face a Hungarian raiding army
+permits
+the West Francian and Lotharingian king Charles the Simple had no courage to face a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple had had no courage to face a Hungarian raiding army
+contradicts
+the West Francian and Lotharingian king Charles the Simple had faced a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple had faced a Hungarian raiding army
+contradicts
+the West Francian and Lotharingian king Charles the Simple had had no courage to face a Hungarian raiding army
+
+the West Francian and Lotharingian king Charles the Simple had had no courage to face a Hungarian raiding army
+permits
+the West Francian and Lotharingian king Charles the Simple had made a joke about something serious
+
+peasants have had a courage to plant their crops
+entails
+peasants have planted their crops
+
+peasants have planted their crops
+permits
+peasants have had a courage to plant their crops
+
+peasants have had a courage to plant their crops
+permits
+peasants have done what was right
+
+peasants have had a courage to plant their crops
+contradicts
+peasants have not planted their crops
+
+peasants have not planted their crops
+contradicts
+peasants have had a courage to plant their crops
+
+peasants have had a courage to plant their crops
+permits
+we have not planted our crops
+
+peasants had no courage to plant their crops
+entails
+peasants did n't plant their crops
+
+peasants did n't plant their crops
+permits
+peasants had no courage to plant their crops
+
+peasants had no courage to plant their crops
+permits
+the men of honor did not plant their crops
+
+peasants had had no courage to plant their crops
+contradicts
+peasants had planted their crops
+
+peasants had planted their crops
+contradicts
+peasants had had no courage to plant their crops
+
+peasants had had no courage to plant their crops
+permits
+peasants had talked to a girl
+
+Martin Prakkat has had a courage to do film with a legend like Mohanlal
+entails
+Martin Prakkat has done film with a legend like Mohanlal
+
+Martin Prakkat has done film with a legend like Mohanlal
+permits
+Martin Prakkat has had a courage to do film with a legend like Mohanlal
+
+Martin Prakkat has had a courage to do film with a legend like Mohanlal
+permits
+the gang has done film with a legend like Mohanlal
+
+Martin Prakkat had had a courage to do film with a legend like Mohanlal
+contradicts
+Martin Prakkat had not done film with a legend like Mohanlal
+
+Martin Prakkat had not done film with a legend like Mohanlal
+contradicts
+Martin Prakkat had had a courage to do film with a legend like Mohanlal
+
+Martin Prakkat had had a courage to do film with a legend like Mohanlal
+permits
+it had not done film with a legend like Mohanlal
+
+Martin Prakkat had had no courage to do film with a legend like Mohanlal
+entails
+Martin Prakkat had not done film with a legend like Mohanlal
+
+Martin Prakkat had not done film with a legend like Mohanlal
+permits
+Martin Prakkat had had no courage to do film with a legend like Mohanlal
+
+Martin Prakkat had had no courage to do film with a legend like Mohanlal
+contradicts
+Martin Prakkat had done film with a legend like Mohanlal
+
+Martin Prakkat had done film with a legend like Mohanlal
+contradicts
+Martin Prakkat had had no courage to do film with a legend like Mohanlal
+
+Martin Prakkat had had no courage to do film with a legend like Mohanlal
+permits
+Martin Prakkat had utilise and rewarded it
+
+the girl has had a courage to divorce him and get free from such parasite
+entails
+the girl has divorced him and gotten free from such parasite
+
+the girl has divorced him and gotten free from such parasite
+permits
+the girl has had a courage to divorce him and get free from such parasite
+
+the girl had a courage to divorce him and get free from such parasite
+contradicts
+the girl did n't divorce him and get free from such parasite
+
+the girl did n't divorce him and get free from such parasite
+contradicts
+the girl had a courage to divorce him and get free from such parasite
+
+the girl had a courage to divorce him and get free from such parasite
+permits
+he did n't divorce him and get free from such parasite
+
+the girl had no courage to divorce him and get free from such parasite
+entails
+the girl did not divorce him and get free from such parasite
+
+the girl did not divorce him and get free from such parasite
+permits
+the girl had no courage to divorce him and get free from such parasite
+
+the girl had had no courage to divorce him and get free from such parasite
+contradicts
+the girl had divorced him and gotten free from such parasite
+
+the girl had divorced him and gotten free from such parasite
+contradicts
+the girl had had no courage to divorce him and get free from such parasite
+
+we have had the courage to step into the arena
+entails
+we have stepped into the arena
+
+we have stepped into the arena
+permits
+we have had the courage to step into the arena
+
+we had had the courage to step into the arena
+contradicts
+we had n't stepped into the arena
+
+we had n't stepped into the arena
+contradicts
+we had had the courage to step into the arena
+
+we had had the courage to step into the arena
+permits
+we had n't been aggressively doing the right thing
+
+we have not had the courage to step into the arena
+entails
+we have n't stepped into the arena
+
+we have n't stepped into the arena
+permits
+we have not had the courage to step into the arena
+
+we have not had the courage to step into the arena
+permits
+we have n't started or purchase a business
+
+we had n't had the courage to step into the arena
+contradicts
+we had stepped into the arena
+
+we had stepped into the arena
+contradicts
+we had n't had the courage to step into the arena
+
+she has had the courage to make a joke about something serious
+entails
+she has made a joke about something serious
+
+she has made a joke about something serious
+permits
+she has had the courage to make a joke about something serious
+
+she has had the courage to make a joke about something serious
+permits
+Martin Prakkat has made a joke about something serious
+
+she had the courage to make a joke about something serious
+contradicts
+she did n't make a joke about something serious
+
+she did n't make a joke about something serious
+contradicts
+she had the courage to make a joke about something serious
+
+she has almost had the courage to make a joke about something serious
+entails
+she has almost made a joke about something serious
+
+she has almost made a joke about something serious
+permits
+she has almost had the courage to make a joke about something serious
+
+she has almost had the courage to make a joke about something serious
+permits
+the widow has n't made a joke about something serious
+
+she had not had the courage to make a joke about something serious
+contradicts
+she had made a joke about something serious
+
+she had made a joke about something serious
+contradicts
+she had not had the courage to make a joke about something serious
+
+she had not had the courage to make a joke about something serious
+permits
+Azariah had made a joke about something serious
+
+I have had the courage to dream the impossible
+entails
+I have dreamt the impossible
+
+I have dreamt the impossible
+permits
+I have had the courage to dream the impossible
+
+I have had the courage to dream the impossible
+permits
+I have looked far away and let myself burn for the one i loved
+
+I had the courage to dream the impossible
+contradicts
+I did n't dream the impossible
+
+I did n't dream the impossible
+contradicts
+I had the courage to dream the impossible
+
+I had the courage to dream the impossible
+permits
+I did not refuse
+
+I never had the courage to dream the impossible
+entails
+I did not dream the impossible
+
+I did not dream the impossible
+permits
+I never had the courage to dream the impossible
+
+I never had the courage to dream the impossible
+permits
+the gang never dreamt the impossible
+
+I have never had the courage to dream the impossible
+contradicts
+I have dreamt the impossible
+
+I have dreamt the impossible
+contradicts
+I have never had the courage to dream the impossible
+
+I have had the courage to live a life true to myself
+entails
+I have lived a life true to myself
+
+I have lived a life true to myself
+permits
+I have had the courage to live a life true to myself
+
+I had had the courage to live a life true to myself
+contradicts
+I had not lived a life true to myself
+
+I had not lived a life true to myself
+contradicts
+I had had the courage to live a life true to myself
+
+I have n't had the courage to live a life true to myself
+entails
+I have n't lived a life true to myself
+
+I have n't lived a life true to myself
+permits
+I have n't had the courage to live a life true to myself
+
+I had n't had the courage to live a life true to myself
+contradicts
+I had lived a life true to myself
+
+I had lived a life true to myself
+contradicts
+I had n't had the courage to live a life true to myself
+
+his disciples had had the courage to follow Jesus to an abundant life
+entails
+his disciples had followed Jesus to an abundant life
+
+his disciples had followed Jesus to an abundant life
+permits
+his disciples had had the courage to follow Jesus to an abundant life
+
+his disciples had the courage to follow Jesus to an abundant life
+contradicts
+his disciples did not follow Jesus to an abundant life
+
+his disciples did not follow Jesus to an abundant life
+contradicts
+his disciples had the courage to follow Jesus to an abundant life
+
+his disciples had the courage to follow Jesus to an abundant life
+permits
+his disciples use something different and dangerous
+
+his disciples have never had the courage to follow Jesus to an abundant life
+entails
+his disciples have never followed Jesus to an abundant life
+
+his disciples have never followed Jesus to an abundant life
+permits
+his disciples have never had the courage to follow Jesus to an abundant life
+
+his disciples did n't have the courage to follow Jesus to an abundant life
+contradicts
+his disciples followed Jesus to an abundant life
+
+his disciples followed Jesus to an abundant life
+contradicts
+his disciples did n't have the courage to follow Jesus to an abundant life
+
+Great Britain had the courage to forge its own future by voting to leave the E.U
+entails
+Great Britain forged its own future by voting to leave the E.U
+
+Great Britain forged its own future by voting to leave the E.U
+permits
+Great Britain had the courage to forge its own future by voting to leave the E.U
+
+Great Britain had the courage to forge its own future by voting to leave the E.U
+permits
+Nelson Mandela forged its own future by voting to leave the E.U
+
+Great Britain had had the courage to forge its own future by voting to leave the E.U
+contradicts
+Great Britain had n't forged its own future by voting to leave the E.U
+
+Great Britain had n't forged its own future by voting to leave the E.U
+contradicts
+Great Britain had had the courage to forge its own future by voting to leave the E.U
+
+Great Britain had n't had the courage to forge its own future by voting to leave the E.U
+entails
+Great Britain had n't forged its own future by voting to leave the E.U
+
+Great Britain had n't forged its own future by voting to leave the E.U
+permits
+Great Britain had n't had the courage to forge its own future by voting to leave the E.U
+
+Great Britain had n't had the courage to forge its own future by voting to leave the E.U
+permits
+the Senator had n't forged its own future by voting to leave the E.U
+
+Great Britain did not have the courage to forge its own future by voting to leave the E.U
+contradicts
+Great Britain forged its own future by voting to leave the E.U
+
+Great Britain forged its own future by voting to leave the E.U
+contradicts
+Great Britain did not have the courage to forge its own future by voting to leave the E.U
+
+the gang had the courage to disobey and continue to restore the crystals
+entails
+the gang disobeyed and continued to restore the crystals
+
+the gang disobeyed and continued to restore the crystals
+permits
+the gang had the courage to disobey and continue to restore the crystals
+
+the gang had the courage to disobey and continue to restore the crystals
+permits
+the gang gave its folks the freedom to be itself
+
+the gang had had the courage to disobey and continue to restore the crystals
+contradicts
+the gang had n't disobeyed and continued to restore the crystals
+
+the gang had n't disobeyed and continued to restore the crystals
+contradicts
+the gang had had the courage to disobey and continue to restore the crystals
+
+the gang has n't had the courage to disobey and continue to restore the crystals
+entails
+the gang has not disobeyed and continued to restore the crystals
+
+the gang has not disobeyed and continued to restore the crystals
+permits
+the gang has n't had the courage to disobey and continue to restore the crystals
+
+the gang has n't had the courage to disobey and continue to restore the crystals
+permits
+Azariah has not disobeyed and continued to restore the crystals
+
+the gang did not have the courage to disobey and continue to restore the crystals
+contradicts
+the gang disobeyed and continued to restore the crystals
+
+the gang disobeyed and continued to restore the crystals
+contradicts
+the gang did not have the courage to disobey and continue to restore the crystals
+
+the gang did not have the courage to disobey and continue to restore the crystals
+permits
+Martin Prakkat disobeyed and continued to restore the crystals
+
+Nelson Mandela has had the courage to fight against the unjust system of apartheid
+entails
+Nelson Mandela has fought against the unjust system of apartheid
+
+Nelson Mandela has fought against the unjust system of apartheid
+permits
+Nelson Mandela has had the courage to fight against the unjust system of apartheid
+
+Nelson Mandela has had the courage to fight against the unjust system of apartheid
+permits
+Nelson Mandela has been aggressively doing the right thing
+
+Nelson Mandela had the courage to fight against the unjust system of apartheid
+contradicts
+Nelson Mandela did n't fight against the unjust system of apartheid
+
+Nelson Mandela did n't fight against the unjust system of apartheid
+contradicts
+Nelson Mandela had the courage to fight against the unjust system of apartheid
+
+Nelson Mandela has never had the courage to fight against the unjust system of apartheid
+entails
+Nelson Mandela has never fought against the unjust system of apartheid
+
+Nelson Mandela has never fought against the unjust system of apartheid
+permits
+Nelson Mandela has never had the courage to fight against the unjust system of apartheid
+
+Nelson Mandela has never had the courage to fight against the unjust system of apartheid
+permits
+the widow has n't fought against the unjust system of apartheid
+
+Nelson Mandela never had the courage to fight against the unjust system of apartheid
+contradicts
+Nelson Mandela fought against the unjust system of apartheid
+
+Nelson Mandela fought against the unjust system of apartheid
+contradicts
+Nelson Mandela never had the courage to fight against the unjust system of apartheid
+
+we had had the courage to bring down Jim Crow
+entails
+we had brought down Jim Crow
+
+we had brought down Jim Crow
+permits
+we had had the courage to bring down Jim Crow
+
+we have had the courage to bring down Jim Crow
+contradicts
+we have not brought down Jim Crow
+
+we have not brought down Jim Crow
+contradicts
+we have had the courage to bring down Jim Crow
+
+we have had the courage to bring down Jim Crow
+permits
+we have n't looked far away or let ourselves burn for the one we loved
+
+we did n't have the courage to bring down Jim Crow
+entails
+we did n't bring down Jim Crow
+
+we did n't bring down Jim Crow
+permits
+we did n't have the courage to bring down Jim Crow
+
+we did n't have the courage to bring down Jim Crow
+permits
+we did n't confront a king's sin
+
+we almost had the courage to bring down Jim Crow
+contradicts
+we brought down Jim Crow
+
+we brought down Jim Crow
+contradicts
+we almost had the courage to bring down Jim Crow
+
+he has had the courage to go out on the streets
+entails
+he has gone out on the streets
+
+he has gone out on the streets
+permits
+he has had the courage to go out on the streets
+
+he had had the courage to go out on the streets
+contradicts
+he had not gone out on the streets
+
+he had not gone out on the streets
+contradicts
+he had had the courage to go out on the streets
+
+he had not had the courage to go out on the streets
+entails
+he had n't gone out on the streets
+
+he had n't gone out on the streets
+permits
+he had not had the courage to go out on the streets
+
+he had almost had the courage to go out on the streets
+contradicts
+he had gone out on the streets
+
+he had gone out on the streets
+contradicts
+he had almost had the courage to go out on the streets
+
+they had had the courage to see the face of God by feeding the hungry
+entails
+they had seen the face of God by feeding the hungry
+
+they had seen the face of God by feeding the hungry
+permits
+they had had the courage to see the face of God by feeding the hungry
+
+they had the courage to see the face of God by feeding the hungry
+contradicts
+they did n't see the face of God by feeding the hungry
+
+they did n't see the face of God by feeding the hungry
+contradicts
+they had the courage to see the face of God by feeding the hungry
+
+they have n't had the courage to see the face of God by feeding the hungry
+entails
+they have not seen the face of God by feeding the hungry
+
+they have not seen the face of God by feeding the hungry
+permits
+they have n't had the courage to see the face of God by feeding the hungry
+
+they had never had the courage to see the face of God by feeding the hungry
+contradicts
+they had seen the face of God by feeding the hungry
+
+they had seen the face of God by feeding the hungry
+contradicts
+they had never had the courage to see the face of God by feeding the hungry
+
+the Senator had the courage to help expose Iran Contra and Oliver North's illegal war
+entails
+the Senator helped expose Iran Contra and Oliver North's illegal war
+
+the Senator helped expose Iran Contra and Oliver North's illegal war
+permits
+the Senator had the courage to help expose Iran Contra and Oliver North's illegal war
+
+the Senator had the courage to help expose Iran Contra and Oliver North's illegal war
+permits
+you helped expose Iran Contra and Oliver North's illegal war
+
+the Senator has had the courage to help expose Iran Contra and Oliver North's illegal war
+contradicts
+the Senator has not helped expose Iran Contra and Oliver North's illegal war
+
+the Senator has not helped expose Iran Contra and Oliver North's illegal war
+contradicts
+the Senator has had the courage to help expose Iran Contra and Oliver North's illegal war
+
+the Senator has not had the courage to help expose Iran Contra and Oliver North's illegal war
+entails
+the Senator has not helped expose Iran Contra and Oliver North's illegal war
+
+the Senator has not helped expose Iran Contra and Oliver North's illegal war
+permits
+the Senator has not had the courage to help expose Iran Contra and Oliver North's illegal war
+
+the Senator has not had the courage to help expose Iran Contra and Oliver North's illegal war
+permits
+Martin Prakkat has n't helped expose Iran Contra and Oliver North's illegal war
+
+the Senator has never had the courage to help expose Iran Contra and Oliver North's illegal war
+contradicts
+the Senator has helped expose Iran Contra and Oliver North's illegal war
+
+the Senator has helped expose Iran Contra and Oliver North's illegal war
+contradicts
+the Senator has never had the courage to help expose Iran Contra and Oliver North's illegal war
+
+the Senator has never had the courage to help expose Iran Contra and Oliver North's illegal war
+permits
+the Senator has been aggressively doing the right thing
+
+Betty Jean Owens has had the courage to testify 52 years ago
+entails
+Betty Jean Owens has testified 52 years ago
+
+Betty Jean Owens has testified 52 years ago
+permits
+Betty Jean Owens has had the courage to testify 52 years ago
+
+Betty Jean Owens had had the courage to testify 52 years ago
+contradicts
+Betty Jean Owens had n't testified 52 years ago
+
+Betty Jean Owens had n't testified 52 years ago
+contradicts
+Betty Jean Owens had had the courage to testify 52 years ago
+
+Betty Jean Owens had had the courage to testify 52 years ago
+permits
+Betty Jean Owens had not refused
+
+Betty Jean Owens has n't had the courage to testify 52 years ago
+entails
+Betty Jean Owens has not testified 52 years ago
+
+Betty Jean Owens has not testified 52 years ago
+permits
+Betty Jean Owens has n't had the courage to testify 52 years ago
+
+Betty Jean Owens has n't had the courage to testify 52 years ago
+permits
+Betty Jean Owens has n't asked Baba openly about the speculation
+
+Betty Jean Owens has never had the courage to testify 52 years ago
+contradicts
+Betty Jean Owens has testified 52 years ago
+
+Betty Jean Owens has testified 52 years ago
+contradicts
+Betty Jean Owens has never had the courage to testify 52 years ago
+
+he had had the courage to be aggressively doing the right thing
+entails
+he had been aggressively doing the right thing
+
+he had been aggressively doing the right thing
+permits
+he had had the courage to be aggressively doing the right thing
+
+he had had the courage to be aggressively doing the right thing
+contradicts
+he had n't been aggressively doing the right thing
+
+he had n't been aggressively doing the right thing
+contradicts
+he had had the courage to be aggressively doing the right thing
+
+he had n't had the courage to be aggressively doing the right thing
+entails
+he had not been aggressively doing the right thing
+
+he had not been aggressively doing the right thing
+permits
+he had n't had the courage to be aggressively doing the right thing
+
+he never had the courage to be aggressively doing the right thing
+contradicts
+he was aggressively doing the right thing
+
+he was aggressively doing the right thing
+contradicts
+he never had the courage to be aggressively doing the right thing
+
+he has had the courage to try something new
+entails
+he has tried something new
+
+he has tried something new
+permits
+he has had the courage to try something new
+
+he has had the courage to try something new
+permits
+he use something different and dangerous
+
+he has had the courage to try something new
+contradicts
+he has not tried something new
+
+he has not tried something new
+contradicts
+he has had the courage to try something new
+
+he has had the courage to try something new
+permits
+he has n't made a joke about something serious
+
+he almost had the courage to try something new
+entails
+he almost tried something new
+
+he almost tried something new
+permits
+he almost had the courage to try something new
+
+he had n't had the courage to try something new
+contradicts
+he had tried something new
+
+he had tried something new
+contradicts
+he had n't had the courage to try something new
+
+he had n't had the courage to try something new
+permits
+the girl had tried something new
+
+it had had the courage to face me in fair daylight
+entails
+it had faced me in fair daylight
+
+it had faced me in fair daylight
+permits
+it had had the courage to face me in fair daylight
+
+it had had the courage to face me in fair daylight
+permits
+Great Britain had faced me in fair daylight
+
+it had the courage to face me in fair daylight
+contradicts
+it did not face me in fair daylight
+
+it did not face me in fair daylight
+contradicts
+it had the courage to face me in fair daylight
+
+it had the courage to face me in fair daylight
+permits
+it did n't demonstrate its faith
+
+it has never had the courage to face me in fair daylight
+entails
+it has not faced me in fair daylight
+
+it has not faced me in fair daylight
+permits
+it has never had the courage to face me in fair daylight
+
+it has never had the courage to face me in fair daylight
+permits
+Bobby has n't faced me in fair daylight
+
+it had almost had the courage to face me in fair daylight
+contradicts
+it had faced me in fair daylight
+
+it had faced me in fair daylight
+contradicts
+it had almost had the courage to face me in fair daylight
+
+it had almost had the courage to face me in fair daylight
+permits
+it had created and made SaimaaLife public
+
+it had the courage to tackle a situation that was extraordinarily complex
+entails
+it tackled a situation that was extraordinarily complex
+
+it tackled a situation that was extraordinarily complex
+permits
+it had the courage to tackle a situation that was extraordinarily complex
+
+it had the courage to tackle a situation that was extraordinarily complex
+permits
+Becky Smith's aunt tackled a situation that was extraordinarily complex
+
+it had the courage to tackle a situation that was extraordinarily complex
+contradicts
+it did n't tackle a situation that was extraordinarily complex
+
+it did n't tackle a situation that was extraordinarily complex
+contradicts
+it had the courage to tackle a situation that was extraordinarily complex
+
+it had the courage to tackle a situation that was extraordinarily complex
+permits
+the girl did not tackle a situation that was extraordinarily complex
+
+it did n't have the courage to tackle a situation that was extraordinarily complex
+entails
+it did n't tackle a situation that was extraordinarily complex
+
+it did n't tackle a situation that was extraordinarily complex
+permits
+it did n't have the courage to tackle a situation that was extraordinarily complex
+
+it had almost had the courage to tackle a situation that was extraordinarily complex
+contradicts
+it had tackled a situation that was extraordinarily complex
+
+it had tackled a situation that was extraordinarily complex
+contradicts
+it had almost had the courage to tackle a situation that was extraordinarily complex
+
+it has had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+entails
+it has implanted in the very heart of its doctrine a tremendous confession of ignorance
+
+it has implanted in the very heart of its doctrine a tremendous confession of ignorance
+permits
+it has had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+
+it has had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+permits
+the Senator has implanted in the very heart of its doctrine a tremendous confession of ignorance
+
+it had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+contradicts
+it did n't implant in the very heart of its doctrine a tremendous confession of ignorance
+
+it did n't implant in the very heart of its doctrine a tremendous confession of ignorance
+contradicts
+it had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+
+it had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+permits
+Emory University did n't implant in the very heart of its doctrine a tremendous confession of ignorance
+
+it has not had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+entails
+it has not implanted in the very heart of its doctrine a tremendous confession of ignorance
+
+it has not implanted in the very heart of its doctrine a tremendous confession of ignorance
+permits
+it has not had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+
+it had not had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+contradicts
+it had implanted in the very heart of its doctrine a tremendous confession of ignorance
+
+it had implanted in the very heart of its doctrine a tremendous confession of ignorance
+contradicts
+it had not had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+
+it had not had the courage to implant in the very heart of its doctrine a tremendous confession of ignorance
+permits
+Becky Smith's aunt had implanted in the very heart of its doctrine a tremendous confession of ignorance
+
+Emory University had had the courage to apologize for its early historical involvement with slavery
+entails
+Emory University had apologized for its early historical involvement with slavery
+
+Emory University had apologized for its early historical involvement with slavery
+permits
+Emory University had had the courage to apologize for its early historical involvement with slavery
+
+Emory University had the courage to apologize for its early historical involvement with slavery
+contradicts
+Emory University did not apologize for its early historical involvement with slavery
+
+Emory University did not apologize for its early historical involvement with slavery
+contradicts
+Emory University had the courage to apologize for its early historical involvement with slavery
+
+Emory University did not have the courage to apologize for its early historical involvement with slavery
+entails
+Emory University did not apologize for its early historical involvement with slavery
+
+Emory University did not apologize for its early historical involvement with slavery
+permits
+Emory University did not have the courage to apologize for its early historical involvement with slavery
+
+Emory University had n't had the courage to apologize for its early historical involvement with slavery
+contradicts
+Emory University had apologized for its early historical involvement with slavery
+
+Emory University had apologized for its early historical involvement with slavery
+contradicts
+Emory University had n't had the courage to apologize for its early historical involvement with slavery
+
+Brenda Moise had courage to show up at the forum
+entails
+Brenda Moise showed up at the forum
+
+Brenda Moise showed up at the forum
+permits
+Brenda Moise had courage to show up at the forum
+
+Brenda Moise had courage to show up at the forum
+permits
+Brenda Moise confronted a king's sin
+
+Brenda Moise had had courage to show up at the forum
+contradicts
+Brenda Moise had n't shown up at the forum
+
+Brenda Moise had n't shown up at the forum
+contradicts
+Brenda Moise had had courage to show up at the forum
+
+Brenda Moise had had courage to show up at the forum
+permits
+Brenda Moise had not carried out the deed by killing him herself
+
+Brenda Moise did not have courage to show up at the forum
+entails
+Brenda Moise did n't show up at the forum
+
+Brenda Moise did n't show up at the forum
+permits
+Brenda Moise did not have courage to show up at the forum
+
+Brenda Moise did not have courage to show up at the forum
+permits
+Brenda Moise did not talk about her idea
+
+Brenda Moise has not had courage to show up at the forum
+contradicts
+Brenda Moise has shown up at the forum
+
+Brenda Moise has shown up at the forum
+contradicts
+Brenda Moise has not had courage to show up at the forum
+
+Brenda Moise has not had courage to show up at the forum
+permits
+I have shown up at the forum
+
+Becky Smith's aunt had had courage to say 'no' to evil
+entails
+Becky Smith's aunt had said 'no' to evil
+
+Becky Smith's aunt had said 'no' to evil
+permits
+Becky Smith's aunt had had courage to say 'no' to evil
+
+Becky Smith's aunt had had courage to say 'no' to evil
+permits
+Prather had said 'no' to evil
+
+Becky Smith's aunt has had courage to say 'no' to evil
+contradicts
+Becky Smith's aunt has n't said 'no' to evil
+
+Becky Smith's aunt has n't said 'no' to evil
+contradicts
+Becky Smith's aunt has had courage to say 'no' to evil
+
+Becky Smith's aunt has had courage to say 'no' to evil
+permits
+I have not said 'no' to evil
+
+Becky Smith's aunt had almost had courage to say 'no' to evil
+entails
+Becky Smith's aunt had not said 'no' to evil
+
+Becky Smith's aunt had not said 'no' to evil
+permits
+Becky Smith's aunt had almost had courage to say 'no' to evil
+
+Becky Smith's aunt has never had courage to say 'no' to evil
+contradicts
+Becky Smith's aunt has said 'no' to evil
+
+Becky Smith's aunt has said 'no' to evil
+contradicts
+Becky Smith's aunt has never had courage to say 'no' to evil
+
+Becky Smith's aunt has never had courage to say 'no' to evil
+permits
+Becky Smith's aunt has gone to the tenant commission to complain
+
+Prather had courage to tell uncomfortable truth in turbulent times
+entails
+Prather told uncomfortable truth in turbulent times
+
+Prather told uncomfortable truth in turbulent times
+permits
+Prather had courage to tell uncomfortable truth in turbulent times
+
+Prather had courage to tell uncomfortable truth in turbulent times
+permits
+Burgess told uncomfortable truth in turbulent times
+
+Prather had courage to tell uncomfortable truth in turbulent times
+contradicts
+Prather did n't tell uncomfortable truth in turbulent times
+
+Prather did n't tell uncomfortable truth in turbulent times
+contradicts
+Prather had courage to tell uncomfortable truth in turbulent times
+
+Prather almost had courage to tell uncomfortable truth in turbulent times
+entails
+Prather did not tell uncomfortable truth in turbulent times
+
+Prather did not tell uncomfortable truth in turbulent times
+permits
+Prather almost had courage to tell uncomfortable truth in turbulent times
+
+Prather almost had courage to tell uncomfortable truth in turbulent times
+permits
+Azariah almost told uncomfortable truth in turbulent times
+
+Prather had n't had courage to tell uncomfortable truth in turbulent times
+contradicts
+Prather had told uncomfortable truth in turbulent times
+
+Prather had told uncomfortable truth in turbulent times
+contradicts
+Prather had n't had courage to tell uncomfortable truth in turbulent times
+
+he had had a courage to ask Baba openly about the speculation
+entails
+he had asked Baba openly about the speculation
+
+he had asked Baba openly about the speculation
+permits
+he had had a courage to ask Baba openly about the speculation
+
+he had had a courage to ask Baba openly about the speculation
+permits
+he had stepped up and blocked his path
+
+he had a courage to ask Baba openly about the speculation
+contradicts
+he did not ask Baba openly about the speculation
+
+he did not ask Baba openly about the speculation
+contradicts
+he had a courage to ask Baba openly about the speculation
+
+he has had no courage to ask Baba openly about the speculation
+entails
+he has n't asked Baba openly about the speculation
+
+he has n't asked Baba openly about the speculation
+permits
+he has had no courage to ask Baba openly about the speculation
+
+he has had no courage to ask Baba openly about the speculation
+permits
+he has n't spoken with him
+
+he had no courage to ask Baba openly about the speculation
+contradicts
+he asked Baba openly about the speculation
+
+he asked Baba openly about the speculation
+contradicts
+he had no courage to ask Baba openly about the speculation
+

@@ -1,0 +1,124 @@
+Implicatives:
+miss (an,the,~,no,PossPro) opportunity [-|+]
+
+Examples:
+Tom[M,S3] missed[V] the opportunity to go[V] to Boston with Mary
+Tom[M,S3] missed[V] [PossPro] opportunity to go[V] to Boston with Mary
+I[S1] missed[V] the opportunity to become[V] an army officer
+I[S1] missed[V] [PossPro] opportunity to become[V] an army officer
+you[S2] missed[V] the opportunity to experience[V] Sensation in style
+you[S2] missed[V] [PossPro] opportunity to experience[V] Sensation in style
+I[S1] missed[V] the opportunity to find[V] a far more powerful [ObjPro]
+I[S1] missed[V] [PossPro] opportunity to find[V] a far more powerful [ObjPro]
+Blizzard[S3] missed[V] the opportunity to re-release the Original Warcraft
+Blizzard[S3] missed[V] [PossPro] opportunity to re-release the Original Warcraft
+Jakob Augstein[M,S3] missed[V] the opportunity to make[V] his career with the Gestapo
+Jakob Augstein[M,S3] missed[V] [PossPro] opportunity to make[V] his career with the Gestapo
+Malcolm Turnbull[M,S3] missed[V] the opportunity to directly engage[V] with women voters
+Malcolm Turnbull[M,S3] missed[V] [PossPro] opportunity to directly engage[V] with women voters
+the government[S3] missed[V] the opportunity to show[V] real leadership
+the government[S3] missed[V] [PossPro] opportunity to show[V] real leadership
+cancer nurses[P3] missed[V] the opportunity to stop[V] him
+cancer nurses[P3] missed[V] [PossPro] opportunity to stop[V] him
+Trans Pacific Partnership negotiators[P3] missed[V] the opportunity to dangle[V] the carrot of free trade
+Trans Pacific Partnership negotiators[P3] missed[V] [PossPro] opportunity to dangle[V] the carrot of free trade
+investors[P3] missed[V] the opportunity to own[V] this tech gem
+investors[P3] missed[V] [PossPro] opportunity to own[V] this tech gem
+they[P3] missed[V] the opportunity to get[V] the dragon involved
+they[P3] missed[V] [PossPro] opportunity to get[V] the dragon involved
+you[S2] missed[V] the opportunity to secure[V] [PossPro] legacy on the Buff Walk
+you[S2] missed[V] [PossPro] opportunity to secure[V] [PossPro] legacy on the Buff Walk
+the court[S3] missed[V] the opportunity to interpret[V] the statute as a safe harbor
+the court[S3] missed[V] [PossPro] opportunity to interpret[V] the statute as a safe harbor
+they[P3] missed[V] the opportunity to turn[V] it into a 21st century museum
+they[P3] missed[V] [PossPro] opportunity to turn[V] it into a 21st century museum
+I[S1] missed[V] the opportunity to support[V] and grow[V] facilities management
+I[S1] missed[V] [PossPro] opportunity to support[V] and grow[V] facilities management
+the RNC[S3] missed[V] opportunity to bridge[V] racial divide
+the RNC[S3] missed[V] [PossPro] opportunity to bridge[V] racial divide
+he[M,S3] missed[V] no opportunity to exaggerate[V] [PossPro] faults in her hearing
+he[M,S3] missed[V] [PossPro] opportunity to exaggerate[V] [PossPro] faults in her hearing
+he[M,S3] (too) missed[V] no opportunity to promote[V] [ReflPro] in the eyes of mother and others
+he[M,S3] (too) missed[V] [PossPro] opportunity to promote[V] [ReflPro] in the eyes of mother and others
+Anne[F,S3] missed[V] no opportunity to catch[V] Chris on television
+Anne[F,S3] missed[V] [PossPro] opportunity to catch[V] Chris on television
+Scharffenberg[M,S3] missed[V] no opportunity to warn[V] [PossPro] countrymen of the perils of Nazi persecution
+Scharffenberg[M,S3] missed[V] [PossPro] opportunity to warn[V] [PossPro] countrymen of the perils of Nazi persecution
+Lucile[F,S3] missed[V] no opportunity to communicate[V] [PossPro] joy in being with them
+Lucile[F,S3] missed[V] [PossPro] opportunity to communicate[V] [PossPro] joy in being with them
+Israel[S3] missed[V] no opportunity to stress[V] the 'Iranian threat' to Israel
+Israel[S3] missed[V] [PossPro] opportunity to stress[V] the 'Iranian threat' to Israel
+our B-town stars[P3] missed[V] no opportunity to explore[V] the breath-taking landscapes of Vancouver
+our B-town stars[P3] missed[V] [PossPro] opportunity to explore[V] the breath-taking landscapes of Vancouver
+Laurance[M,S3] missed[V] no opportunity to try[V] to keep the capital in [PossPro] district
+Laurance[M,S3] missed[V] [PossPro] opportunity to try[V] to keep the capital in [PossPro] district
+he[M,S3] missed[V] no opportunity to brag[V] about his children and grandchildren
+he[M,S3] missed[V] [PossPro] opportunity to brag[V] about his children and grandchildren
+the dancers[P3] missed[V] no opportunity to draw[V] the audience into the work
+the dancers[P3] missed[V] [PossPro] opportunity to draw[V] the audience into the work
+they[P3] missed[V] an opportunity to miss[V] an opportunity
+they[P3] missed[V] [PossPro] opportunity to miss[V] an opportunity
+you[S2] missed[V] an opportunity to answer[V] the question
+you[S2] missed[V] [PossPro] opportunity to answer[V] the question
+the Democratic National Convention[S3] missed[V] an opportunity to present[V] a powerful, unifying image
+the Democratic National Convention[S3] missed[V] [PossPro] opportunity to present[V] a powerful, unifying image
+Cruz[M,S3] missed[V] an opportunity to look[V] like a much bigger man than [SubjPro] came off
+Cruz[M,S3] missed[V] [PossPro] opportunity to look[V] like a much bigger man than [SubjPro] came off
+he[M,S3] has missed[V] an opportunity to instigate[V] real change
+he[M,S3] has missed[V] [PossPro] opportunity to instigate[V] real change
+Hillary Clinton[F,S3] missed[V] an opportunity to be[V] the candidate advocating for climate justice
+Hillary Clinton[F,S3] missed[V] [PossPro] opportunity to be[V] the candidate advocating for climate justice
+Obama[M,S3] missed[V] an opportunity to lead[V] a global effort to address climate change
+Obama[M,S3] missed[V] [PossPro] opportunity to lead[V] a global effort to address climate change
+the government[S3] missed[V] an opportunity to tackle[V] the growing pension fraud issue
+the government[S3] missed[V] [PossPro] opportunity to tackle[V] the growing pension fraud issue
+my foster father[M,S3] missed[V] an opportunity to tell[V] me how stupid I was
+my foster father[M,S3] missed[V] [PossPro] opportunity to tell[V] me how stupid I was
+we[P1] missed[V] an opportunity to go[V] beyond the perceived values of our community
+we[P1] missed[V] [PossPro] opportunity to go[V] beyond the perceived values of our community
+mental health service workers[P3] missed[V] an opportunity to help[V] the woman
+mental health service workers[P3] missed[V] [PossPro] opportunity to help[V] the woman
+the district's leaders[P3] missed[V] an opportunity to turn[V] this into a teachable moment
+the district's leaders[P3] missed[V] [PossPro] opportunity to turn[V] this into a teachable moment
+the government[S3] missed[V] an opportunity to market[V] the country as a safe tourism destination
+the government[S3] missed[V] [PossPro] opportunity to market[V] the country as a safe tourism destination
+we[P1] missed[V] an opportunity to examine[V] the art market today
+we[P1] missed[V] [PossPro] opportunity to examine[V] the art market today
+US President Barack Obama[M,S3] missed[V] an opportunity to ease[V] tensions over the territorial dispute
+US President Barack Obama[M,S3] missed[V] [PossPro] opportunity to ease[V] tensions over the territorial dispute
+it[S3] missed[V] an opportunity to play[V] a valuable moral and intellectual role
+it[S3] missed[V] [PossPro] opportunity to play[V] a valuable moral and intellectual role
+it[S3] missed[V] an opportunity to integrate[V] the role of spirituality in more sophisticated ways
+it[S3] missed[V] [PossPro] opportunity to integrate[V] the role of spirituality in more sophisticated ways
+it[S3] missed[V] the opportunity to adequately explore[V] the psychological perspective
+it[S3] missed[V] [PossPro] opportunity to adequately explore[V] the psychological perspective
+it[S3] missed[V] the opportunity to reframe his Harvard education as a bootstrapped American dream[V]
+it[S3] missed[V] [PossPro] opportunity to reframe his Harvard education as a bootstrapped American dream[V]
+I[S1] missed[V] the opportunity to apply[V] for the program
+I[S1] missed[V] [PossPro] opportunity to apply[V] for the program
+you[S2] missed[V] the opportunity to sign[V] up for Bible Study
+you[S2] missed[V] [PossPro] opportunity to sign[V] up for Bible Study
+the Commission[S3] missed[V] the opportunity to take[V] the lead in stopping abusive business practices
+the Commission[S3] missed[V] [PossPro] opportunity to take[V] the lead in stopping abusive business practices
+they[P3] (even) missed[V] the opportunity to show[V] the opposite is true
+they[P3] (even) missed[V] [PossPro] opportunity to show[V] the opposite is true
+the company[S3] missed[V] the opportunity to push[V] its newest browser
+the company[S3] missed[V] [PossPro] opportunity to push[V] its newest browser
+Russia[S3] (really) missed[V] the opportunity to capture[V] the Asian markets in previous decades
+Russia[S3] (really) missed[V] [PossPro] opportunity to capture[V] the Asian markets in previous decades
+the Music Industry[S3] missed[V] the opportunity to monetize[V] online
+the Music Industry[S3] missed[V] [PossPro] opportunity to monetize[V] online
+we[P1] missed[V] the opportunity to create[V] thousands of jobs
+we[P1] missed[V] [PossPro] opportunity to create[V] thousands of jobs
+Blockbuster[S3] missed[V] the opportunity to capitalize[V] on the video-streaming revolution
+Blockbuster[S3] missed[V] [PossPro] opportunity to capitalize[V] on the video-streaming revolution
+the US Federal Reserve[S3] missed[V] the opportunity to hike[V] rates
+the US Federal Reserve[S3] missed[V] [PossPro] opportunity to hike[V] rates
+the Morsi administration[S3] missed[V] the opportunity to build[V] on reformist sentiment among the rank and file
+the Morsi administration[S3] missed[V] [PossPro] opportunity to build[V] on reformist sentiment among the rank and file
+he[M,S3] missed[V] the opportunity to go[V] hunting [AND,OR] fishing
+he[M,S3] missed[V] [PossPro] opportunity to go[V] hunting [AND,OR] fishing
+Ms. Teacher[F,S3] missed[V] the opportunity to explain[V] the mythological references to students
+Ms. Teacher[F,S3] missed[V] [PossPro] opportunity to explain[V] the mythological references to students
+the HR function[S3] missed[V] the opportunity to innovate[V] and significantly transform[V] [ReflPro]
+the HR function[S3] missed[V] [PossPro] opportunity to innovate[V] and significantly transform[V] [ReflPro]

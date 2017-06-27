@@ -1,0 +1,64 @@
+Implicatives:
+hesitate [o|+]
+
+Examples:
+she[F,S3] hesitated[V] to take[V] the job
+Tom[M,S3] hesitated[V] to bring[V] up the subject
+I[S1] hesitated[V] to come[V] without being asked
+he[M,S3] hesitated[V] to spoil[V] the mood by being inquisitive
+Trump[M,S3] hesitated[V] to pick[V] Indiana Gov. Mike Pence for VP
+we[P1] hesitated[V] to stay[V] at a Bed & Breakfast
+Prince[M,S3] hesitated[V] to express[V] [PossPro] femininity
+Kamala Harris[F,S3] hesitated[V] to confront[V] Big Oil over gas price gouging
+I[S1] hesitated[V] to intrude[V] upon your work
+I[S1] hesitated[V] to take[V] my husband's last name after marriage
+the King and Queen[P3] hesitated[V] to attempt[V] the proposed expulsion
+he[M,S3] hesitated[V] to give[V] a firm order
+they[P3] hesitated[V] to grant[V] whatever I might ask
+he[M,S3] hesitated[V] to commit[V] to a pure Christian life
+she[F,S3] hesitated[V] to bring[V] [PossPro] royal cousin to trial
+the Palestinian Authority[S3] hesitated[V] to honor[V] Israeli Arab terrorist as a “Martyr”
+President Obama[M,S3] hesitated[V] to give[V] the kill order in the situation room
+Bellamy[M,S3] hesitated[V] to pull[V] Clarke up in the second episode of season one
+we[P1] hesitated[V] to take[V] the tide at its flood
+Macbeth[M,S3] hesitated[V] to kill[V] the king
+Ex-reality TV actress[F,S3] hesitated[V] to accept[V] a mom role
+the administration[S3] hesitated[V] to collaborate[V] with the Central Asian authoritarian regimes
+Obama administration[S3] hesitated[V] to declare[V] mass killings genocide
+Federalists[P3] hesitated[V] to support[V] the new French Republic
+my mom[F,S3] hesitated[V] to try[V] herring and smoked eel for the first time
+Buddha[M,S3] hesitated[V] to allow[V] His mother to join the Order
+China[S3] hesitated[V] to raise[V] interest rates
+Mr Daniell[M,S3] hesitated[V] to seize[V] thousands of puppymill dogs and cattle
+John F. Kennedy[M,S3] hesitated[V] to support[V] the demonstration
+the party establishment[S3] hesitated[V] to tilt[V] the race in her favor
+she[F,S3] hesitated[V] to go[V] through with [PossPro] counter lawsuit
+Zoe Konstantopoulou[F,S3] hesitated[V] to make[V] [PossPro] own political party
+James P. Allison[M,S3] hesitated[V] to buck[V] the system
+Hansika Motwani[F,S3] hesitated[V] to do[V] intimate scene with Arya
+Trump[M,S3] hesitated[V] to disavow[V] David Duke
+I[S1] hesitated[V] to use[V] the word “fusion” to describe the food
+drivers[P3] hesitated[V] to disrupt[V] the public's daily life
+the Village[S3] hesitated[V] to release[V] names in previous incidents
+Apple[S3] hesitated[V] to unlock[V] a dead woman's iPad
+Angel[F,S3] hesitated[V] to accept[V] 'One More Try' role
+they[P3] hesitated[V] to offer[V] up their lives
+the calf[F,S3] hesitated[V] to cross[V] the road
+the Arizona senator[M,S3] hesitated[V] to support[V] Trump
+Hester Prynne[F,S3] hesitated[V] to speak[V]
+Copernicus[M,S3] hesitated[V] to put[V] his work into print
+the innocent teacher[M,S3] hesitated[V] to inflict[V] the shocks
+I[S1] hesitated[V] to proclaim[V] to you the whole will of God
+the state[S3] hesitated[V] to execute[V] people like the Quakers
+he[M,S3] hesitated[V] to accept[V] the courtesy
+it[S3] hesitated[V] to accept[V] knowledge of him
+it[S3] hesitated[V] to criticise the miserable "courses"
+it[S3] hesitated[V] to send[V] the king to the scaffold after a mock judgment
+you[S2] hesitated[V] to bring[V] it forward
+you[S2] hesitated[V] to issue[V] the letters of credit
+you[S2] hesitated[V] to sell[V] me the property
+your enterprise[S3] hesitated[V] to adapt[V] to the cloud
+you[S2] hesitated[V] to show[V] me [PossPro] picture
+experts[P3] hesitated[V] to draw[V] attention to obesity
+people[P3] inside the campaign hesitated[V] to argue[V] explicitly that it matters
+organizations[P3] hesitated[V] to invest[V] in telemedicine

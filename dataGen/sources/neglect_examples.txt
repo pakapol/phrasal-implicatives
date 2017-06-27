@@ -1,0 +1,64 @@
+Implicatives:
+neglect [-|+]
+
+Examples:
+he[M,S3] neglected[V] to tell[V] [PossPro] employer that would be taking the day off
+I[S1] neglected[V] to file[V] [PossPro] taxes [PossPro] first 4 years after moving out of [PossPro] parents house
+they[P3] neglected[V] to thank[V] you for the gift
+I[S1] neglected[V] to mention[V] that this report was from November 2, 1922
+the developer[S3] neglected[V] to include[V] a function to load child theme styles
+he[M,S3] neglected[V] to tell[V] me the date of the meeting
+SCCC board[S3] neglected[V] to serve[V] the public
+Michigan prison workers[P3] neglected[V] to record[V] prisoner transfers
+Blueberry farm[S3] neglected[V] to report[V] worker injury
+Bugatti[S3] neglected[V] to inform[V] regulators of supercar problems
+Sullivan judge[M,S3] neglected[V] to reveal[V] family ties in a court case
+the defendants[P3] neglected[V] to follow[V] the provisions of Florida Statute 39.502
+Clinton Foundation[S3] neglected[V] to report[V] $26 million in speaking fees
+chief Keef[M,S3] neglected[V] to get[V] [PossPro] young daughter signed up for healthcare this year
+my tenant[F,S3] neglected[V] to tell[V] me that the sink leaked
+Gov. Haley[F,S3] neglected[V] to appoint[V] nearly 600 positions on state boards and commissions
+Padraig Amond[M,S3] neglected[V] to negotiate[V] a new deal with former club Grimsby Town
+Fox News[S3] neglected[V] to point[V] out Ronald Reagan did same thing Donald Trump did
+you[S2] neglected[V] to take[V] care of the requirements of form 123
+he[M,S3] neglected[V] to have[V] her breakfast ready when she woke
+housekeeping[S3] neglected[V] to clean[V] our room on the first day
+the seller of my house[F,S3] neglected[V] to fix[V] the central air as promised
+I[S1] neglected[V] to obtain[V] IRB approval prior to implementing a protocol waiver
+G1 Venues Ltd[S3] neglected[V] to pay[V] £45,124.00 to 2895 workers
+my boyfriend[M,S3] neglected[V] to tell[V] me [SubjPro] has herpes
+we[P1] neglected[V] to consider[V] the origin of the charge distributions
+we[P1] neglected[V] to post[V] this great photo earlier this week
+she[F,S3] neglected[V] to give[V] us the park view room
+she[F,S3] neglected[V] to mention[V] [SubjPro] was married
+they[P3] neglected[V] to inform[V] us that [PossPro] flight was 90 mins delayed
+they[P3] neglected[V] to thank[V] you for the gift
+we[P1] neglected[V] to recognize[V] quality of scientific thought
+the security team[S3] neglected[V] to upgrade[V] one of [PossPro] network servers
+I[S1] neglected[V] to put[V] enough lemon juice in [PossPro] canned tomatoes
+she[F,S3] neglected[V] to inform[V] me of [PossPro] change of plans
+the drunken mom[F,S3] neglected[V] to care[V] for kids
+you[S2] neglected[V] to take[V] them into account in [PossPro] sampling process
+you[S2] neglected[V] to provide[V] sufficient information
+it[S3] neglected[V] to submit[V] a Paris climate pledge
+it[S3] neglected[V] to discharge[V] [PossPro] duty
+it[S3] neglected[V] to provide[V] safety [AND,OR] derailing switches
+they[P3] neglected[V] to notify[V] me of all the construction going around the motel
+they[P3] neglected[V] to get[V] our oil supplies and our submarines
+he[M,S3] neglected[V] to return[V] her call
+I[S1] neglected[V] to tell[V] them about Harold being a hippo
+she[F,S3] neglected[V] to take[V] the ring
+we[P1] neglected[V] to take[V] our rifles along
+I[S1] neglected[V] to confess[V] to her the temptation of suicide
+Barrymore[M,S3] neglected[V] to send[V] her an invite
+they[P3] neglected[V] to clean[V] my house
+Kerri[F,S3] neglected[V] to get[V] a minor in Business Administration
+he[M,S3] neglected[V] to grab[V] his beloved .22 caliber pistol
+the visitors[P3] neglected[V] to watch[V] the magnificent scenery
+William Smith[M,S3] neglected[V] to give[V] Mr. Hatch a piece of his mind
+the first lady[F,S3] neglected[V] to point[V] to Trump's lack of experience in politics
+they[P3] neglected[V] to give[V] golfers of all skill levels something to encourage them
+Rouslan Toumaniantz[M,S3] neglected[V] to bring[V] his trusty tattoo gun
+we[P1] neglected[V] to file[V] this paperwork
+the attractive results[P3] neglected[V] to keep[V] the original windows and rich hardwood
+we[P1] neglected[V] to discus quantum biology, cosmology, entropy, mythology, [AND,OR] the meaning of life

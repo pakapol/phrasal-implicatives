@@ -1,0 +1,60 @@
+Implicatives:
+have (a,the,~,no) foresight [+|-]
+
+Examples:
+she[F,S3] had[V] the foresight to invest[V] his money wisely
+he[M,S3] had[V] the foresight to reimagine the American department store[V]
+smart people[P3] had[V] the foresight to evacuate[V] the area as soon as the media mentioned a possible hurricane
+she[F,S3] had[V] the foresight to sell[V] [PossPro] house just before prices came down
+you[S2] had[V] the foresight to bring[V] an umbrella
+you[S2] had[V] the foresight to bring[V] warm clothes
+he[M,S3] had[V] the foresight to disguise[V] [ReflPro] as an Arab
+she[F,S3] had[V] the foresight to prepare[V] [ReflPro] financially in case of an accident
+Haseltine[M,S3] had[V] the foresight to show[V] what is now regarded as one of the greatest works of American painting
+he[M,S3] had[V] the foresight to install[V] more ram and configure more swap
+the driver[F,S3] had[V] the foresight to leave[V] the dash cam running
+my mom[F,S3] had[V] the foresight to save[V] all of me and my sister's special occasion dresses
+the city planners[P3] had[V] the foresight to leave[V] a lot of open spaces
+they[P3] had[V] the foresight to invest[V] in new technology
+Myer[M,S3] had[V] the foresight to attach[V] six restrictive covenants to the deeds of Courtland Place
+secretary Mabus[M,S3] had[V] the foresight to switch[V] the Navy's reliance on fossil fuel
+we[P1] had[V] the foresight to install[V] an underdesk sandwich guy last week
+I[S1] had[V] the foresight to download this new Ethan Bradberry & Co. video before they removed it.
+you[S2] had[V] had the foresight to promote[V] collaboration between [PossPro] institutions
+Pettit[M,S3] had[V] the foresight to bring[V] a solar filter for [PossPro] camera
+the colonists[P3] had[V] the foresight to bring[V] with [ObjPro] a small boat for coastal explorations
+the County[S3] had[V] the foresight to recognize[V] the need for additional resources
+the CWA Board[S3] had[V] the foresight to start[V] this discussion years ago
+they[P3] had[V] the foresight to design[V] [PossPro] system to scale
+she[F,S3] (also) had[V] the foresight to bring[V] organic milk into the company
+my mom[F,S3] had[V] the foresight to see[V] that question coming
+it[S3] had[V] the foresight to manage[V] the world [SubjPro] faced
+it[S3] had[V] the foresight to develop[V] breakthrough inventions
+the men of thought and action[P3] had[V] the foresight to understand[V] what had to be done
+it[S3] had[V] the foresight to put[V] the pieces together
+she[F,S3] (for sure) had[V] a foresight to understand[V] the future
+this contingency of modern life[S3] had[V] a foresight to protect[V] the people from risk factors
+late Appasaheb Pawar[M,S3] had[V] a foresight to see[V] drip irrigation as a future way to save water
+Mendeleeff[M,S3] had[V] a foresight to leave[V] gaps in the periodic table
+the devil[M,S3] had[V] a foresight to come[V] before Christ and create[V] his characteristics in the pagan world
+the owners[P3] had[V] a foresight to ask[V] a photographer to immortalize the theatre in 1932
+the visionary, pragmatic leadership of our state[S3] had[V] a foresight to make[V] policy changes to protect our environment
+I[S1] had[V] a foresight to carry[V] a duct tape and iron wire
+they[P3] had[V] a foresight to see[V] what can happen to those who indulged in loose talk
+it[S3] had[V] a foresight to combine[V] forces in a down market
+the architect[F,S3] had[V] foresight to build[V] it strong
+we[P1] had[V] foresight to remove[V] the difficulties
+he[M,S3] had[V] foresight to see[V] the impending threat of Germany
+he[M,S3] had[V] foresight to change[V] the provisions of his will after Grace died
+Washington State[S3] had[V] foresight to adopt[V] the National Certification exam as the state exam
+our community[S3] had[V] foresight to preserve[V] our history
+the law officers of the Crown[P3] had[V] no foresight to anticipate[V] a conclusion so unsatisfactory
+Emerson[M,S3] had[V] no foresight to anticipate[V] the evolution of agricultural life
+God[M,S3] had[V] no foresight to hinder[V] the future sinner
+Jack's tribe[S3] had[V] no foresight to build[V] shelters
+I[S1] had[V] no foresight to keep[V] a pair of $5 sneaks from 1983
+Larry Page[M,S3] had[V] no foresight to dominate[V] the World Wide Web
+we[P1] had[V] no foresight to see[V] where the Meat Puppets might end up
+they[P3] had[V] no foresight to market[V] our town
+he[M,S3] had[V] no foresight to see[V] what was possible with iPhone 5c sales
+the Phoenician officials[P3] had[V] no foresight to expand[V] [PossPro] influence

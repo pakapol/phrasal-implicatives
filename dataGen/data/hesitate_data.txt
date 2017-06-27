@@ -1,0 +1,1940 @@
+she has hesitated to take the job
+permits
+she has taken the job
+
+she has hesitated to take the job
+permits
+she has not taken the job
+
+she has not taken the job
+permits
+she has hesitated to take the job
+
+she almost hesitated to take the job
+entails
+she took the job
+
+she took the job
+permits
+she almost hesitated to take the job
+
+she had n't hesitated to take the job
+contradicts
+she had not taken the job
+
+she had not taken the job
+contradicts
+she had n't hesitated to take the job
+
+Tom has hesitated to bring up the subject
+permits
+Tom has brought up the subject
+
+Tom had hesitated to bring up the subject
+permits
+Tom had not brought up the subject
+
+Tom had not brought up the subject
+permits
+Tom had hesitated to bring up the subject
+
+Tom has not hesitated to bring up the subject
+entails
+Tom has brought up the subject
+
+Tom has brought up the subject
+permits
+Tom has not hesitated to bring up the subject
+
+Tom never hesitated to bring up the subject
+contradicts
+Tom did n't bring up the subject
+
+Tom did n't bring up the subject
+contradicts
+Tom never hesitated to bring up the subject
+
+Tom never hesitated to bring up the subject
+permits
+Tom never pulled Clarke up in the second episode of season one
+
+I have hesitated to come without being asked
+permits
+I have come without being asked
+
+I had hesitated to come without being asked
+permits
+I had n't come without being asked
+
+I had n't come without being asked
+permits
+I had hesitated to come without being asked
+
+I have n't hesitated to come without being asked
+entails
+I have come without being asked
+
+I have come without being asked
+permits
+I have n't hesitated to come without being asked
+
+I have n't hesitated to come without being asked
+permits
+I have raised interest rates
+
+I have almost hesitated to come without being asked
+contradicts
+I have not come without being asked
+
+I have not come without being asked
+contradicts
+I have almost hesitated to come without being asked
+
+he hesitated to spoil the mood by being inquisitive
+permits
+he spoilt the mood by being inquisitive
+
+he had hesitated to spoil the mood by being inquisitive
+permits
+he had not spoilt the mood by being inquisitive
+
+he had not spoilt the mood by being inquisitive
+permits
+he had hesitated to spoil the mood by being inquisitive
+
+he has n't hesitated to spoil the mood by being inquisitive
+entails
+he has spoilt the mood by being inquisitive
+
+he has spoilt the mood by being inquisitive
+permits
+he has n't hesitated to spoil the mood by being inquisitive
+
+he has n't hesitated to spoil the mood by being inquisitive
+permits
+Hansika Motwani has spoilt the mood by being inquisitive
+
+he never hesitated to spoil the mood by being inquisitive
+contradicts
+he did not spoil the mood by being inquisitive
+
+he did not spoil the mood by being inquisitive
+contradicts
+he never hesitated to spoil the mood by being inquisitive
+
+he never hesitated to spoil the mood by being inquisitive
+permits
+you did not spoil the mood by being inquisitive
+
+Trump had hesitated to pick Indiana Gov. Mike Pence for VP
+permits
+Trump had picked Indiana Gov. Mike Pence for VP
+
+Trump has hesitated to pick Indiana Gov. Mike Pence for VP
+permits
+Trump has not picked Indiana Gov. Mike Pence for VP
+
+Trump has not picked Indiana Gov. Mike Pence for VP
+permits
+Trump has hesitated to pick Indiana Gov. Mike Pence for VP
+
+Trump had almost hesitated to pick Indiana Gov. Mike Pence for VP
+entails
+Trump had picked Indiana Gov. Mike Pence for VP
+
+Trump had picked Indiana Gov. Mike Pence for VP
+permits
+Trump had almost hesitated to pick Indiana Gov. Mike Pence for VP
+
+Trump had almost hesitated to pick Indiana Gov. Mike Pence for VP
+permits
+Zoe Konstantopoulou had picked Indiana Gov. Mike Pence for VP
+
+Trump never hesitated to pick Indiana Gov. Mike Pence for VP
+contradicts
+Trump did n't pick Indiana Gov. Mike Pence for VP
+
+Trump did n't pick Indiana Gov. Mike Pence for VP
+contradicts
+Trump never hesitated to pick Indiana Gov. Mike Pence for VP
+
+Trump never hesitated to pick Indiana Gov. Mike Pence for VP
+permits
+the Arizona senator did n't pick Indiana Gov. Mike Pence for VP
+
+we have hesitated to stay at a Bed & Breakfast
+permits
+we have stayed at a Bed & Breakfast
+
+we have hesitated to stay at a Bed & Breakfast
+permits
+we have n't stayed at a Bed & Breakfast
+
+we have n't stayed at a Bed & Breakfast
+permits
+we have hesitated to stay at a Bed & Breakfast
+
+we did not hesitate to stay at a Bed & Breakfast
+entails
+we stayed at a Bed & Breakfast
+
+we stayed at a Bed & Breakfast
+permits
+we did not hesitate to stay at a Bed & Breakfast
+
+we did not hesitate to stay at a Bed & Breakfast
+permits
+they stayed at a Bed & Breakfast
+
+we did n't hesitate to stay at a Bed & Breakfast
+contradicts
+we did not stay at a Bed & Breakfast
+
+we did not stay at a Bed & Breakfast
+contradicts
+we did n't hesitate to stay at a Bed & Breakfast
+
+Prince had hesitated to express his femininity
+permits
+Prince had expressed his femininity
+
+Prince has hesitated to express his femininity
+permits
+Prince has not expressed his femininity
+
+Prince has not expressed his femininity
+permits
+Prince has hesitated to express his femininity
+
+Prince did n't hesitate to express his femininity
+entails
+Prince expressed his femininity
+
+Prince expressed his femininity
+permits
+Prince did n't hesitate to express his femininity
+
+Prince did n't hesitate to express his femininity
+permits
+the state expressed its femininity
+
+Prince had almost hesitated to express his femininity
+contradicts
+Prince had not expressed his femininity
+
+Prince had not expressed his femininity
+contradicts
+Prince had almost hesitated to express his femininity
+
+Prince had almost hesitated to express his femininity
+permits
+the calf had not expressed her femininity
+
+Kamala Harris had hesitated to confront Big Oil over gas price gouging
+permits
+Kamala Harris had confronted Big Oil over gas price gouging
+
+Kamala Harris hesitated to confront Big Oil over gas price gouging
+permits
+Kamala Harris did n't confront Big Oil over gas price gouging
+
+Kamala Harris did n't confront Big Oil over gas price gouging
+permits
+Kamala Harris hesitated to confront Big Oil over gas price gouging
+
+Kamala Harris had never hesitated to confront Big Oil over gas price gouging
+entails
+Kamala Harris had confronted Big Oil over gas price gouging
+
+Kamala Harris had confronted Big Oil over gas price gouging
+permits
+Kamala Harris had never hesitated to confront Big Oil over gas price gouging
+
+Kamala Harris has n't hesitated to confront Big Oil over gas price gouging
+contradicts
+Kamala Harris has n't confronted Big Oil over gas price gouging
+
+Kamala Harris has n't confronted Big Oil over gas price gouging
+contradicts
+Kamala Harris has n't hesitated to confront Big Oil over gas price gouging
+
+I had hesitated to intrude upon your work
+permits
+I had intruded upon your work
+
+I have hesitated to intrude upon your work
+permits
+I have n't intruded upon your work
+
+I have n't intruded upon your work
+permits
+I have hesitated to intrude upon your work
+
+I had n't hesitated to intrude upon your work
+entails
+I had intruded upon your work
+
+I had intruded upon your work
+permits
+I had n't hesitated to intrude upon your work
+
+I did n't hesitate to intrude upon your work
+contradicts
+I did n't intrude upon your work
+
+I did n't intrude upon your work
+contradicts
+I did n't hesitate to intrude upon your work
+
+I did n't hesitate to intrude upon your work
+permits
+Ex-reality TV actress did not intrude upon your work
+
+I hesitated to take my husband's last name after marriage
+permits
+I took my husband's last name after marriage
+
+I hesitated to take my husband's last name after marriage
+permits
+I did not take my husband's last name after marriage
+
+I did not take my husband's last name after marriage
+permits
+I hesitated to take my husband's last name after marriage
+
+I had never hesitated to take my husband's last name after marriage
+entails
+I had taken my husband's last name after marriage
+
+I had taken my husband's last name after marriage
+permits
+I had never hesitated to take my husband's last name after marriage
+
+I did not hesitate to take my husband's last name after marriage
+contradicts
+I did n't take my husband's last name after marriage
+
+I did n't take my husband's last name after marriage
+contradicts
+I did not hesitate to take my husband's last name after marriage
+
+I did not hesitate to take my husband's last name after marriage
+permits
+I did n't inflict the shocks
+
+the King and Queen had hesitated to attempt the proposed expulsion
+permits
+the King and Queen had attempted the proposed expulsion
+
+the King and Queen hesitated to attempt the proposed expulsion
+permits
+the King and Queen did n't attempt the proposed expulsion
+
+the King and Queen did n't attempt the proposed expulsion
+permits
+the King and Queen hesitated to attempt the proposed expulsion
+
+the King and Queen never hesitated to attempt the proposed expulsion
+entails
+the King and Queen attempted the proposed expulsion
+
+the King and Queen attempted the proposed expulsion
+permits
+the King and Queen never hesitated to attempt the proposed expulsion
+
+the King and Queen did n't hesitate to attempt the proposed expulsion
+contradicts
+the King and Queen did not attempt the proposed expulsion
+
+the King and Queen did not attempt the proposed expulsion
+contradicts
+the King and Queen did n't hesitate to attempt the proposed expulsion
+
+the King and Queen did n't hesitate to attempt the proposed expulsion
+permits
+the King and Queen did not pull Clarke up in the second episode of season one
+
+he has hesitated to give a firm order
+permits
+he has given a firm order
+
+he had hesitated to give a firm order
+permits
+he had not given a firm order
+
+he had not given a firm order
+permits
+he had hesitated to give a firm order
+
+he had not hesitated to give a firm order
+entails
+he had given a firm order
+
+he had given a firm order
+permits
+he had not hesitated to give a firm order
+
+he had never hesitated to give a firm order
+contradicts
+he had not given a firm order
+
+he had not given a firm order
+contradicts
+he had never hesitated to give a firm order
+
+he had never hesitated to give a firm order
+permits
+he criticise the miserable "courses"
+
+they had hesitated to grant whatever I might ask
+permits
+they had granted whatever I might ask
+
+they have hesitated to grant whatever I might ask
+permits
+they have not granted whatever I might ask
+
+they have not granted whatever I might ask
+permits
+they have hesitated to grant whatever I might ask
+
+they did n't hesitate to grant whatever I might ask
+entails
+they granted whatever I might ask
+
+they granted whatever I might ask
+permits
+they did n't hesitate to grant whatever I might ask
+
+they almost hesitated to grant whatever I might ask
+contradicts
+they did not grant whatever I might ask
+
+they did not grant whatever I might ask
+contradicts
+they almost hesitated to grant whatever I might ask
+
+they almost hesitated to grant whatever I might ask
+permits
+they did n't unlock a dead woman's iPad
+
+he had hesitated to commit to a pure Christian life
+permits
+he had committed to a pure Christian life
+
+he had hesitated to commit to a pure Christian life
+permits
+he had not committed to a pure Christian life
+
+he had not committed to a pure Christian life
+permits
+he had hesitated to commit to a pure Christian life
+
+he did not hesitate to commit to a pure Christian life
+entails
+he committed to a pure Christian life
+
+he committed to a pure Christian life
+permits
+he did not hesitate to commit to a pure Christian life
+
+he did not hesitate to commit to a pure Christian life
+permits
+she committed to a pure Christian life
+
+he had almost hesitated to commit to a pure Christian life
+contradicts
+he had n't committed to a pure Christian life
+
+he had n't committed to a pure Christian life
+contradicts
+he had almost hesitated to commit to a pure Christian life
+
+he had almost hesitated to commit to a pure Christian life
+permits
+President Obama had n't committed to a pure Christian life
+
+she has hesitated to bring her royal cousin to trial
+permits
+she has brought her royal cousin to trial
+
+she hesitated to bring her royal cousin to trial
+permits
+she did not bring her royal cousin to trial
+
+she did not bring her royal cousin to trial
+permits
+she hesitated to bring her royal cousin to trial
+
+she has almost hesitated to bring her royal cousin to trial
+entails
+she has brought her royal cousin to trial
+
+she has brought her royal cousin to trial
+permits
+she has almost hesitated to bring her royal cousin to trial
+
+she has almost hesitated to bring her royal cousin to trial
+permits
+she has executed people like the Quakers
+
+she has not hesitated to bring her royal cousin to trial
+contradicts
+she has not brought her royal cousin to trial
+
+she has not brought her royal cousin to trial
+contradicts
+she has not hesitated to bring her royal cousin to trial
+
+she has not hesitated to bring her royal cousin to trial
+permits
+she has not brought up the subject
+
+the Palestinian Authority has hesitated to honor Israeli Arab terrorist as a “Martyr”
+permits
+the Palestinian Authority has honored Israeli Arab terrorist as a “Martyr”
+
+the Palestinian Authority has hesitated to honor Israeli Arab terrorist as a “Martyr”
+permits
+the Palestinian Authority has n't honored Israeli Arab terrorist as a “Martyr”
+
+the Palestinian Authority has n't honored Israeli Arab terrorist as a “Martyr”
+permits
+the Palestinian Authority has hesitated to honor Israeli Arab terrorist as a “Martyr”
+
+the Palestinian Authority had not hesitated to honor Israeli Arab terrorist as a “Martyr”
+entails
+the Palestinian Authority had honored Israeli Arab terrorist as a “Martyr”
+
+the Palestinian Authority had honored Israeli Arab terrorist as a “Martyr”
+permits
+the Palestinian Authority had not hesitated to honor Israeli Arab terrorist as a “Martyr”
+
+the Palestinian Authority did n't hesitate to honor Israeli Arab terrorist as a “Martyr”
+contradicts
+the Palestinian Authority did not honor Israeli Arab terrorist as a “Martyr”
+
+the Palestinian Authority did not honor Israeli Arab terrorist as a “Martyr”
+contradicts
+the Palestinian Authority did n't hesitate to honor Israeli Arab terrorist as a “Martyr”
+
+President Obama has hesitated to give the kill order in the situation room
+permits
+President Obama has given the kill order in the situation room
+
+President Obama had hesitated to give the kill order in the situation room
+permits
+President Obama had not given the kill order in the situation room
+
+President Obama had not given the kill order in the situation room
+permits
+President Obama had hesitated to give the kill order in the situation room
+
+President Obama had not hesitated to give the kill order in the situation room
+entails
+President Obama had given the kill order in the situation room
+
+President Obama had given the kill order in the situation room
+permits
+President Obama had not hesitated to give the kill order in the situation room
+
+President Obama had not hesitated to give the kill order in the situation room
+permits
+Zoe Konstantopoulou had given the kill order in the situation room
+
+President Obama had n't hesitated to give the kill order in the situation room
+contradicts
+President Obama had n't given the kill order in the situation room
+
+President Obama had n't given the kill order in the situation room
+contradicts
+President Obama had n't hesitated to give the kill order in the situation room
+
+President Obama had n't hesitated to give the kill order in the situation room
+permits
+the state had not given the kill order in the situation room
+
+Bellamy hesitated to pull Clarke up in the second episode of season one
+permits
+Bellamy pulled Clarke up in the second episode of season one
+
+Bellamy had hesitated to pull Clarke up in the second episode of season one
+permits
+Bellamy had not pulled Clarke up in the second episode of season one
+
+Bellamy had not pulled Clarke up in the second episode of season one
+permits
+Bellamy had hesitated to pull Clarke up in the second episode of season one
+
+Bellamy has n't hesitated to pull Clarke up in the second episode of season one
+entails
+Bellamy has pulled Clarke up in the second episode of season one
+
+Bellamy has pulled Clarke up in the second episode of season one
+permits
+Bellamy has n't hesitated to pull Clarke up in the second episode of season one
+
+Bellamy never hesitated to pull Clarke up in the second episode of season one
+contradicts
+Bellamy did n't pull Clarke up in the second episode of season one
+
+Bellamy did n't pull Clarke up in the second episode of season one
+contradicts
+Bellamy never hesitated to pull Clarke up in the second episode of season one
+
+Bellamy never hesitated to pull Clarke up in the second episode of season one
+permits
+Bellamy never declared mass killings genocide
+
+we hesitated to take the tide at its flood
+permits
+we took the tide at its flood
+
+we hesitated to take the tide at its flood
+permits
+we did not take the tide at its flood
+
+we did not take the tide at its flood
+permits
+we hesitated to take the tide at its flood
+
+we have never hesitated to take the tide at its flood
+entails
+we have taken the tide at its flood
+
+we have taken the tide at its flood
+permits
+we have never hesitated to take the tide at its flood
+
+we have never hesitated to take the tide at its flood
+permits
+we have come without being asked
+
+we have never hesitated to take the tide at its flood
+contradicts
+we have n't taken the tide at its flood
+
+we have n't taken the tide at its flood
+contradicts
+we have never hesitated to take the tide at its flood
+
+Macbeth has hesitated to kill the king
+permits
+Macbeth has killed the king
+
+Macbeth has hesitated to kill the king
+permits
+Macbeth has n't killed the king
+
+Macbeth has n't killed the king
+permits
+Macbeth has hesitated to kill the king
+
+Macbeth has n't hesitated to kill the king
+entails
+Macbeth has killed the king
+
+Macbeth has killed the king
+permits
+Macbeth has n't hesitated to kill the king
+
+Macbeth has not hesitated to kill the king
+contradicts
+Macbeth has n't killed the king
+
+Macbeth has n't killed the king
+contradicts
+Macbeth has not hesitated to kill the king
+
+Ex-reality TV actress had hesitated to accept a mom role
+permits
+Ex-reality TV actress had accepted a mom role
+
+Ex-reality TV actress hesitated to accept a mom role
+permits
+Ex-reality TV actress did not accept a mom role
+
+Ex-reality TV actress did not accept a mom role
+permits
+Ex-reality TV actress hesitated to accept a mom role
+
+Ex-reality TV actress has never hesitated to accept a mom role
+entails
+Ex-reality TV actress has accepted a mom role
+
+Ex-reality TV actress has accepted a mom role
+permits
+Ex-reality TV actress has never hesitated to accept a mom role
+
+Ex-reality TV actress has never hesitated to accept a mom role
+permits
+Tom has accepted a mom role
+
+Ex-reality TV actress never hesitated to accept a mom role
+contradicts
+Ex-reality TV actress did n't accept a mom role
+
+Ex-reality TV actress did n't accept a mom role
+contradicts
+Ex-reality TV actress never hesitated to accept a mom role
+
+Ex-reality TV actress never hesitated to accept a mom role
+permits
+Ex-reality TV actress did not come without being asked
+
+the administration has hesitated to collaborate with the Central Asian authoritarian regimes
+permits
+the administration has collaborated with the Central Asian authoritarian regimes
+
+the administration hesitated to collaborate with the Central Asian authoritarian regimes
+permits
+the administration did n't collaborate with the Central Asian authoritarian regimes
+
+the administration did n't collaborate with the Central Asian authoritarian regimes
+permits
+the administration hesitated to collaborate with the Central Asian authoritarian regimes
+
+the administration almost hesitated to collaborate with the Central Asian authoritarian regimes
+entails
+the administration collaborated with the Central Asian authoritarian regimes
+
+the administration collaborated with the Central Asian authoritarian regimes
+permits
+the administration almost hesitated to collaborate with the Central Asian authoritarian regimes
+
+the administration almost hesitated to collaborate with the Central Asian authoritarian regimes
+permits
+the administration showed me its picture
+
+the administration had n't hesitated to collaborate with the Central Asian authoritarian regimes
+contradicts
+the administration had not collaborated with the Central Asian authoritarian regimes
+
+the administration had not collaborated with the Central Asian authoritarian regimes
+contradicts
+the administration had n't hesitated to collaborate with the Central Asian authoritarian regimes
+
+the administration had n't hesitated to collaborate with the Central Asian authoritarian regimes
+permits
+John F. Kennedy had not collaborated with the Central Asian authoritarian regimes
+
+Obama administration hesitated to declare mass killings genocide
+permits
+Obama administration declared mass killings genocide
+
+Obama administration has hesitated to declare mass killings genocide
+permits
+Obama administration has n't declared mass killings genocide
+
+Obama administration has n't declared mass killings genocide
+permits
+Obama administration has hesitated to declare mass killings genocide
+
+Obama administration had never hesitated to declare mass killings genocide
+entails
+Obama administration had declared mass killings genocide
+
+Obama administration had declared mass killings genocide
+permits
+Obama administration had never hesitated to declare mass killings genocide
+
+Obama administration had never hesitated to declare mass killings genocide
+permits
+Obama administration had accepted 'One More Try' role
+
+Obama administration has not hesitated to declare mass killings genocide
+contradicts
+Obama administration has not declared mass killings genocide
+
+Obama administration has not declared mass killings genocide
+contradicts
+Obama administration has not hesitated to declare mass killings genocide
+
+Obama administration has not hesitated to declare mass killings genocide
+permits
+Obama administration has n't inflicted the shocks
+
+Federalists have hesitated to support the new French Republic
+permits
+Federalists have supported the new French Republic
+
+Federalists have hesitated to support the new French Republic
+permits
+Federalists have not supported the new French Republic
+
+Federalists have not supported the new French Republic
+permits
+Federalists have hesitated to support the new French Republic
+
+Federalists had never hesitated to support the new French Republic
+entails
+Federalists had supported the new French Republic
+
+Federalists had supported the new French Republic
+permits
+Federalists had never hesitated to support the new French Republic
+
+Federalists have not hesitated to support the new French Republic
+contradicts
+Federalists have not supported the new French Republic
+
+Federalists have not supported the new French Republic
+contradicts
+Federalists have not hesitated to support the new French Republic
+
+Federalists have not hesitated to support the new French Republic
+permits
+Federalists have n't disavowed David Duke
+
+my mom had hesitated to try herring and smoked eel for the first time
+permits
+my mom had tried herring and smoked eel for the first time
+
+my mom hesitated to try herring and smoked eel for the first time
+permits
+my mom did n't try herring and smoked eel for the first time
+
+my mom did n't try herring and smoked eel for the first time
+permits
+my mom hesitated to try herring and smoked eel for the first time
+
+my mom has n't hesitated to try herring and smoked eel for the first time
+entails
+my mom has tried herring and smoked eel for the first time
+
+my mom has tried herring and smoked eel for the first time
+permits
+my mom has n't hesitated to try herring and smoked eel for the first time
+
+my mom has n't hesitated to try herring and smoked eel for the first time
+permits
+Copernicus has tried herring and smoked eel for the first time
+
+my mom had never hesitated to try herring and smoked eel for the first time
+contradicts
+my mom had never tried herring and smoked eel for the first time
+
+my mom had never tried herring and smoked eel for the first time
+contradicts
+my mom had never hesitated to try herring and smoked eel for the first time
+
+Buddha has hesitated to allow His mother to join the Order
+permits
+Buddha has allowed His mother to join the Order
+
+Buddha hesitated to allow His mother to join the Order
+permits
+Buddha did not allow His mother to join the Order
+
+Buddha did not allow His mother to join the Order
+permits
+Buddha hesitated to allow His mother to join the Order
+
+Buddha almost has hesitated to allow His mother to join the Order
+entails
+Buddha has allowed His mother to join the Order
+
+Buddha has allowed His mother to join the Order
+permits
+Buddha almost has hesitated to allow His mother to join the Order
+
+Buddha almost has hesitated to allow His mother to join the Order
+permits
+Macbeth has allowed His mother to join the Order
+
+Buddha had almost hesitated to allow His mother to join the Order
+contradicts
+Buddha had almost allowed His mother to join the Order
+
+Buddha had almost allowed His mother to join the Order
+contradicts
+Buddha had almost hesitated to allow His mother to join the Order
+
+China had hesitated to raise interest rates
+permits
+China had raised interest rates
+
+China has hesitated to raise interest rates
+permits
+China has not raised interest rates
+
+China has not raised interest rates
+permits
+China has hesitated to raise interest rates
+
+China almost hesitated to raise interest rates
+entails
+China raised interest rates
+
+China raised interest rates
+permits
+China almost hesitated to raise interest rates
+
+China almost hesitated to raise interest rates
+permits
+Apple raised interest rates
+
+China did n't hesitate to raise interest rates
+contradicts
+China did n't raise interest rates
+
+China did n't raise interest rates
+contradicts
+China did n't hesitate to raise interest rates
+
+Mr Daniell hesitated to seize thousands of puppymill dogs and cattle
+permits
+Mr Daniell seized thousands of puppymill dogs and cattle
+
+Mr Daniell hesitated to seize thousands of puppymill dogs and cattle
+permits
+Mr Daniell did n't seize thousands of puppymill dogs and cattle
+
+Mr Daniell did n't seize thousands of puppymill dogs and cattle
+permits
+Mr Daniell hesitated to seize thousands of puppymill dogs and cattle
+
+Mr Daniell has never hesitated to seize thousands of puppymill dogs and cattle
+entails
+Mr Daniell has seized thousands of puppymill dogs and cattle
+
+Mr Daniell has seized thousands of puppymill dogs and cattle
+permits
+Mr Daniell has never hesitated to seize thousands of puppymill dogs and cattle
+
+Mr Daniell has never hesitated to seize thousands of puppymill dogs and cattle
+permits
+Mr Daniell has taken the tide at its flood
+
+Mr Daniell has almost hesitated to seize thousands of puppymill dogs and cattle
+contradicts
+Mr Daniell has not seized thousands of puppymill dogs and cattle
+
+Mr Daniell has not seized thousands of puppymill dogs and cattle
+contradicts
+Mr Daniell has almost hesitated to seize thousands of puppymill dogs and cattle
+
+Mr Daniell has almost hesitated to seize thousands of puppymill dogs and cattle
+permits
+Mr Daniell criticise the miserable "courses"
+
+John F. Kennedy has hesitated to support the demonstration
+permits
+John F. Kennedy has supported the demonstration
+
+John F. Kennedy hesitated to support the demonstration
+permits
+John F. Kennedy did not support the demonstration
+
+John F. Kennedy did not support the demonstration
+permits
+John F. Kennedy hesitated to support the demonstration
+
+John F. Kennedy has never hesitated to support the demonstration
+entails
+John F. Kennedy has supported the demonstration
+
+John F. Kennedy has supported the demonstration
+permits
+John F. Kennedy has never hesitated to support the demonstration
+
+John F. Kennedy has never hesitated to support the demonstration
+permits
+Hester Prynne has supported the demonstration
+
+John F. Kennedy had almost hesitated to support the demonstration
+contradicts
+John F. Kennedy had not supported the demonstration
+
+John F. Kennedy had not supported the demonstration
+contradicts
+John F. Kennedy had almost hesitated to support the demonstration
+
+John F. Kennedy had almost hesitated to support the demonstration
+permits
+the Palestinian Authority had almost supported the demonstration
+
+the party establishment had hesitated to tilt the race in her favor
+permits
+the party establishment had tilted the race in her favor
+
+the party establishment hesitated to tilt the race in her favor
+permits
+the party establishment did n't tilt the race in her favor
+
+the party establishment did n't tilt the race in her favor
+permits
+the party establishment hesitated to tilt the race in her favor
+
+the party establishment had never hesitated to tilt the race in her favor
+entails
+the party establishment had tilted the race in her favor
+
+the party establishment had tilted the race in her favor
+permits
+the party establishment had never hesitated to tilt the race in her favor
+
+the party establishment never has hesitated to tilt the race in her favor
+contradicts
+the party establishment has not tilted the race in her favor
+
+the party establishment has not tilted the race in her favor
+contradicts
+the party establishment never has hesitated to tilt the race in her favor
+
+she had hesitated to go through with her counter lawsuit
+permits
+she had gone through with her counter lawsuit
+
+she hesitated to go through with her counter lawsuit
+permits
+she did not go through with her counter lawsuit
+
+she did not go through with her counter lawsuit
+permits
+she hesitated to go through with her counter lawsuit
+
+she had almost hesitated to go through with her counter lawsuit
+entails
+she had gone through with her counter lawsuit
+
+she had gone through with her counter lawsuit
+permits
+she had almost hesitated to go through with her counter lawsuit
+
+she had almost hesitated to go through with her counter lawsuit
+permits
+Apple had gone through with its counter lawsuit
+
+she had never hesitated to go through with her counter lawsuit
+contradicts
+she had n't gone through with her counter lawsuit
+
+she had n't gone through with her counter lawsuit
+contradicts
+she had never hesitated to go through with her counter lawsuit
+
+she had never hesitated to go through with her counter lawsuit
+permits
+she had never given the kill order in the situation room
+
+Zoe Konstantopoulou has hesitated to make her own political party
+permits
+Zoe Konstantopoulou has made her own political party
+
+Zoe Konstantopoulou has hesitated to make her own political party
+permits
+Zoe Konstantopoulou has not made her own political party
+
+Zoe Konstantopoulou has not made her own political party
+permits
+Zoe Konstantopoulou has hesitated to make her own political party
+
+Zoe Konstantopoulou did n't hesitate to make her own political party
+entails
+Zoe Konstantopoulou made her own political party
+
+Zoe Konstantopoulou made her own political party
+permits
+Zoe Konstantopoulou did n't hesitate to make her own political party
+
+Zoe Konstantopoulou did n't hesitate to make her own political party
+permits
+the Palestinian Authority made its own political party
+
+Zoe Konstantopoulou did n't hesitate to make her own political party
+contradicts
+Zoe Konstantopoulou did n't make her own political party
+
+Zoe Konstantopoulou did n't make her own political party
+contradicts
+Zoe Konstantopoulou did n't hesitate to make her own political party
+
+Zoe Konstantopoulou did n't hesitate to make her own political party
+permits
+the innocent teacher did n't make his own political party
+
+James P. Allison had hesitated to buck the system
+permits
+James P. Allison had bucked the system
+
+James P. Allison had hesitated to buck the system
+permits
+James P. Allison had not bucked the system
+
+James P. Allison had not bucked the system
+permits
+James P. Allison had hesitated to buck the system
+
+James P. Allison did n't hesitate to buck the system
+entails
+James P. Allison bucked the system
+
+James P. Allison bucked the system
+permits
+James P. Allison did n't hesitate to buck the system
+
+James P. Allison did n't hesitate to buck the system
+permits
+the Village bucked the system
+
+James P. Allison did not hesitate to buck the system
+contradicts
+James P. Allison did not buck the system
+
+James P. Allison did not buck the system
+contradicts
+James P. Allison did not hesitate to buck the system
+
+James P. Allison did not hesitate to buck the system
+permits
+James P. Allison did n't confront Big Oil over gas price gouging
+
+Hansika Motwani has hesitated to do intimate scene with Arya
+permits
+Hansika Motwani has done intimate scene with Arya
+
+Hansika Motwani has hesitated to do intimate scene with Arya
+permits
+Hansika Motwani has not done intimate scene with Arya
+
+Hansika Motwani has not done intimate scene with Arya
+permits
+Hansika Motwani has hesitated to do intimate scene with Arya
+
+Hansika Motwani had n't hesitated to do intimate scene with Arya
+entails
+Hansika Motwani had done intimate scene with Arya
+
+Hansika Motwani had done intimate scene with Arya
+permits
+Hansika Motwani had n't hesitated to do intimate scene with Arya
+
+Hansika Motwani had n't hesitated to do intimate scene with Arya
+permits
+Hansika Motwani had given the kill order in the situation room
+
+Hansika Motwani had almost hesitated to do intimate scene with Arya
+contradicts
+Hansika Motwani had not done intimate scene with Arya
+
+Hansika Motwani had not done intimate scene with Arya
+contradicts
+Hansika Motwani had almost hesitated to do intimate scene with Arya
+
+Trump had hesitated to disavow David Duke
+permits
+Trump had disavowed David Duke
+
+Trump hesitated to disavow David Duke
+permits
+Trump did not disavow David Duke
+
+Trump did not disavow David Duke
+permits
+Trump hesitated to disavow David Duke
+
+Trump had never hesitated to disavow David Duke
+entails
+Trump had disavowed David Duke
+
+Trump had disavowed David Duke
+permits
+Trump had never hesitated to disavow David Duke
+
+Trump had never hesitated to disavow David Duke
+permits
+Trump had committed to a pure Christian life
+
+Trump has not hesitated to disavow David Duke
+contradicts
+Trump has not disavowed David Duke
+
+Trump has not disavowed David Duke
+contradicts
+Trump has not hesitated to disavow David Duke
+
+I have hesitated to use the word “fusion” to describe the food
+permits
+I have used the word “fusion” to describe the food
+
+I had hesitated to use the word “fusion” to describe the food
+permits
+I had not used the word “fusion” to describe the food
+
+I had not used the word “fusion” to describe the food
+permits
+I had hesitated to use the word “fusion” to describe the food
+
+I had not hesitated to use the word “fusion” to describe the food
+entails
+I had used the word “fusion” to describe the food
+
+I had used the word “fusion” to describe the food
+permits
+I had not hesitated to use the word “fusion” to describe the food
+
+I had not hesitated to use the word “fusion” to describe the food
+permits
+Angel had used the word “fusion” to describe the food
+
+I have n't hesitated to use the word “fusion” to describe the food
+contradicts
+I have not used the word “fusion” to describe the food
+
+I have not used the word “fusion” to describe the food
+contradicts
+I have n't hesitated to use the word “fusion” to describe the food
+
+I have n't hesitated to use the word “fusion” to describe the food
+permits
+I have not invested in telemedicine
+
+drivers had hesitated to disrupt the public's daily life
+permits
+drivers had disrupted the public's daily life
+
+drivers had hesitated to disrupt the public's daily life
+permits
+drivers had n't disrupted the public's daily life
+
+drivers had n't disrupted the public's daily life
+permits
+drivers had hesitated to disrupt the public's daily life
+
+drivers had never hesitated to disrupt the public's daily life
+entails
+drivers had disrupted the public's daily life
+
+drivers had disrupted the public's daily life
+permits
+drivers had never hesitated to disrupt the public's daily life
+
+drivers have n't hesitated to disrupt the public's daily life
+contradicts
+drivers have not disrupted the public's daily life
+
+drivers have not disrupted the public's daily life
+contradicts
+drivers have n't hesitated to disrupt the public's daily life
+
+the Village has hesitated to release names in previous incidents
+permits
+the Village has released names in previous incidents
+
+the Village had hesitated to release names in previous incidents
+permits
+the Village had n't released names in previous incidents
+
+the Village had n't released names in previous incidents
+permits
+the Village had hesitated to release names in previous incidents
+
+the Village had never hesitated to release names in previous incidents
+entails
+the Village had released names in previous incidents
+
+the Village had released names in previous incidents
+permits
+the Village had never hesitated to release names in previous incidents
+
+the Village had n't hesitated to release names in previous incidents
+contradicts
+the Village had not released names in previous incidents
+
+the Village had not released names in previous incidents
+contradicts
+the Village had n't hesitated to release names in previous incidents
+
+Apple has hesitated to unlock a dead woman's iPad
+permits
+Apple has unlocked a dead woman's iPad
+
+Apple has hesitated to unlock a dead woman's iPad
+permits
+Apple has not unlocked a dead woman's iPad
+
+Apple has not unlocked a dead woman's iPad
+permits
+Apple has hesitated to unlock a dead woman's iPad
+
+Apple did not hesitate to unlock a dead woman's iPad
+entails
+Apple unlocked a dead woman's iPad
+
+Apple unlocked a dead woman's iPad
+permits
+Apple did not hesitate to unlock a dead woman's iPad
+
+Apple never hesitated to unlock a dead woman's iPad
+contradicts
+Apple never unlocked a dead woman's iPad
+
+Apple never unlocked a dead woman's iPad
+contradicts
+Apple never hesitated to unlock a dead woman's iPad
+
+Angel has hesitated to accept 'One More Try' role
+permits
+Angel has accepted 'One More Try' role
+
+Angel hesitated to accept 'One More Try' role
+permits
+Angel did n't accept 'One More Try' role
+
+Angel did n't accept 'One More Try' role
+permits
+Angel hesitated to accept 'One More Try' role
+
+Angel had n't hesitated to accept 'One More Try' role
+entails
+Angel had accepted 'One More Try' role
+
+Angel had accepted 'One More Try' role
+permits
+Angel had n't hesitated to accept 'One More Try' role
+
+Angel had not hesitated to accept 'One More Try' role
+contradicts
+Angel had not accepted 'One More Try' role
+
+Angel had not accepted 'One More Try' role
+contradicts
+Angel had not hesitated to accept 'One More Try' role
+
+Angel had not hesitated to accept 'One More Try' role
+permits
+John F. Kennedy had not accepted 'One More Try' role
+
+they hesitated to offer up their lives
+permits
+they offered up their lives
+
+they hesitated to offer up their lives
+permits
+they did not offer up their lives
+
+they did not offer up their lives
+permits
+they hesitated to offer up their lives
+
+they have not hesitated to offer up their lives
+entails
+they have offered up their lives
+
+they have offered up their lives
+permits
+they have not hesitated to offer up their lives
+
+they had never hesitated to offer up their lives
+contradicts
+they had n't offered up their lives
+
+they had n't offered up their lives
+contradicts
+they had never hesitated to offer up their lives
+
+the calf had hesitated to cross the road
+permits
+the calf had crossed the road
+
+the calf has hesitated to cross the road
+permits
+the calf has not crossed the road
+
+the calf has not crossed the road
+permits
+the calf has hesitated to cross the road
+
+the calf never hesitated to cross the road
+entails
+the calf crossed the road
+
+the calf crossed the road
+permits
+the calf never hesitated to cross the road
+
+the calf almost had hesitated to cross the road
+contradicts
+the calf had almost crossed the road
+
+the calf had almost crossed the road
+contradicts
+the calf almost had hesitated to cross the road
+
+the Arizona senator has hesitated to support Trump
+permits
+the Arizona senator has supported Trump
+
+the Arizona senator hesitated to support Trump
+permits
+the Arizona senator did n't support Trump
+
+the Arizona senator did n't support Trump
+permits
+the Arizona senator hesitated to support Trump
+
+the Arizona senator had never hesitated to support Trump
+entails
+the Arizona senator had supported Trump
+
+the Arizona senator had supported Trump
+permits
+the Arizona senator had never hesitated to support Trump
+
+the Arizona senator had never hesitated to support Trump
+permits
+you had supported Trump
+
+the Arizona senator never hesitated to support Trump
+contradicts
+the Arizona senator never supported Trump
+
+the Arizona senator never supported Trump
+contradicts
+the Arizona senator never hesitated to support Trump
+
+the Arizona senator never hesitated to support Trump
+permits
+Tom did not support Trump
+
+Hester Prynne had hesitated to speak
+permits
+Hester Prynne had spoken
+
+Hester Prynne had hesitated to speak
+permits
+Hester Prynne had not spoken
+
+Hester Prynne had not spoken
+permits
+Hester Prynne had hesitated to speak
+
+Hester Prynne has never hesitated to speak
+entails
+Hester Prynne has spoken
+
+Hester Prynne has spoken
+permits
+Hester Prynne has never hesitated to speak
+
+Hester Prynne has never hesitated to speak
+permits
+Hester Prynne has done intimate scene with Arya
+
+Hester Prynne had almost hesitated to speak
+contradicts
+Hester Prynne had n't spoken
+
+Hester Prynne had n't spoken
+contradicts
+Hester Prynne had almost hesitated to speak
+
+Copernicus had hesitated to put his work into print
+permits
+Copernicus had put his work into print
+
+Copernicus had hesitated to put his work into print
+permits
+Copernicus had n't put his work into print
+
+Copernicus had n't put his work into print
+permits
+Copernicus had hesitated to put his work into print
+
+Copernicus has not hesitated to put his work into print
+entails
+Copernicus has put his work into print
+
+Copernicus has put his work into print
+permits
+Copernicus has not hesitated to put his work into print
+
+Copernicus has not hesitated to put his work into print
+permits
+Macbeth has put his work into print
+
+Copernicus had almost hesitated to put his work into print
+contradicts
+Copernicus had not put his work into print
+
+Copernicus had not put his work into print
+contradicts
+Copernicus had almost hesitated to put his work into print
+
+Copernicus had almost hesitated to put his work into print
+permits
+Copernicus had almost stayed at a Bed & Breakfast
+
+the innocent teacher hesitated to inflict the shocks
+permits
+the innocent teacher inflicted the shocks
+
+the innocent teacher has hesitated to inflict the shocks
+permits
+the innocent teacher has n't inflicted the shocks
+
+the innocent teacher has n't inflicted the shocks
+permits
+the innocent teacher has hesitated to inflict the shocks
+
+the innocent teacher almost hesitated to inflict the shocks
+entails
+the innocent teacher inflicted the shocks
+
+the innocent teacher inflicted the shocks
+permits
+the innocent teacher almost hesitated to inflict the shocks
+
+the innocent teacher did n't hesitate to inflict the shocks
+contradicts
+the innocent teacher did not inflict the shocks
+
+the innocent teacher did not inflict the shocks
+contradicts
+the innocent teacher did n't hesitate to inflict the shocks
+
+the innocent teacher did n't hesitate to inflict the shocks
+permits
+Trump did n't inflict the shocks
+
+I had hesitated to proclaim to you the whole will of God
+permits
+I had proclaimed to you the whole will of God
+
+I hesitated to proclaim to you the whole will of God
+permits
+I did n't proclaim to you the whole will of God
+
+I did n't proclaim to you the whole will of God
+permits
+I hesitated to proclaim to you the whole will of God
+
+I did n't hesitate to proclaim to you the whole will of God
+entails
+I proclaimed to you the whole will of God
+
+I proclaimed to you the whole will of God
+permits
+I did n't hesitate to proclaim to you the whole will of God
+
+I did n't hesitate to proclaim to you the whole will of God
+permits
+Prince proclaimed to you the whole will of God
+
+I had not hesitated to proclaim to you the whole will of God
+contradicts
+I had not proclaimed to you the whole will of God
+
+I had not proclaimed to you the whole will of God
+contradicts
+I had not hesitated to proclaim to you the whole will of God
+
+the state hesitated to execute people like the Quakers
+permits
+the state executed people like the Quakers
+
+the state had hesitated to execute people like the Quakers
+permits
+the state had not executed people like the Quakers
+
+the state had not executed people like the Quakers
+permits
+the state had hesitated to execute people like the Quakers
+
+the state did n't hesitate to execute people like the Quakers
+entails
+the state executed people like the Quakers
+
+the state executed people like the Quakers
+permits
+the state did n't hesitate to execute people like the Quakers
+
+the state did n't hesitate to execute people like the Quakers
+permits
+the state supported the demonstration
+
+the state had n't hesitated to execute people like the Quakers
+contradicts
+the state had not executed people like the Quakers
+
+the state had not executed people like the Quakers
+contradicts
+the state had n't hesitated to execute people like the Quakers
+
+he has hesitated to accept the courtesy
+permits
+he has accepted the courtesy
+
+he hesitated to accept the courtesy
+permits
+he did n't accept the courtesy
+
+he did n't accept the courtesy
+permits
+he hesitated to accept the courtesy
+
+he has almost hesitated to accept the courtesy
+entails
+he has accepted the courtesy
+
+he has accepted the courtesy
+permits
+he has almost hesitated to accept the courtesy
+
+he has almost hesitated to accept the courtesy
+permits
+he has declared mass killings genocide
+
+he almost hesitated to accept the courtesy
+contradicts
+he almost accepted the courtesy
+
+he almost accepted the courtesy
+contradicts
+he almost hesitated to accept the courtesy
+
+he almost hesitated to accept the courtesy
+permits
+he did not argue explicitly that it matters
+
+it had hesitated to accept knowledge of him
+permits
+it had accepted knowledge of him
+
+it has hesitated to accept knowledge of him
+permits
+it has not accepted knowledge of him
+
+it has not accepted knowledge of him
+permits
+it has hesitated to accept knowledge of him
+
+it never hesitated to accept knowledge of him
+entails
+it accepted knowledge of him
+
+it accepted knowledge of him
+permits
+it never hesitated to accept knowledge of him
+
+it never hesitated to accept knowledge of him
+permits
+it bucked the system
+
+it had n't hesitated to accept knowledge of him
+contradicts
+it had n't accepted knowledge of him
+
+it had n't accepted knowledge of him
+contradicts
+it had n't hesitated to accept knowledge of him
+
+it had n't hesitated to accept knowledge of him
+permits
+it had n't spoken
+
+it had hesitated to criticise the miserable "courses"
+permits
+it criticise the miserable "courses"
+
+it has hesitated to criticise the miserable "courses"
+permits
+it criticise the miserable "courses"
+
+it criticise the miserable "courses"
+permits
+it has hesitated to criticise the miserable "courses"
+
+it almost hesitated to criticise the miserable "courses"
+entails
+it criticise the miserable "courses"
+
+it criticise the miserable "courses"
+permits
+it almost hesitated to criticise the miserable "courses"
+
+it did n't hesitate to criticise the miserable "courses"
+contradicts
+it criticise the miserable "courses"
+
+it criticise the miserable "courses"
+contradicts
+it did n't hesitate to criticise the miserable "courses"
+
+it has hesitated to send the king to the scaffold after a mock judgment
+permits
+it has sent the king to the scaffold after a mock judgment
+
+it has hesitated to send the king to the scaffold after a mock judgment
+permits
+it has n't sent the king to the scaffold after a mock judgment
+
+it has n't sent the king to the scaffold after a mock judgment
+permits
+it has hesitated to send the king to the scaffold after a mock judgment
+
+it had never hesitated to send the king to the scaffold after a mock judgment
+entails
+it had sent the king to the scaffold after a mock judgment
+
+it had sent the king to the scaffold after a mock judgment
+permits
+it had never hesitated to send the king to the scaffold after a mock judgment
+
+it had never hesitated to send the king to the scaffold after a mock judgment
+permits
+Buddha had sent the king to the scaffold after a mock judgment
+
+it has n't hesitated to send the king to the scaffold after a mock judgment
+contradicts
+it has n't sent the king to the scaffold after a mock judgment
+
+it has n't sent the king to the scaffold after a mock judgment
+contradicts
+it has n't hesitated to send the king to the scaffold after a mock judgment
+
+you have hesitated to bring it forward
+permits
+you have brought it forward
+
+you hesitated to bring it forward
+permits
+you did n't bring it forward
+
+you did n't bring it forward
+permits
+you hesitated to bring it forward
+
+you have almost hesitated to bring it forward
+entails
+you have brought it forward
+
+you have brought it forward
+permits
+you have almost hesitated to bring it forward
+
+you did not hesitate to bring it forward
+contradicts
+you did not bring it forward
+
+you did not bring it forward
+contradicts
+you did not hesitate to bring it forward
+
+you had hesitated to issue the letters of credit
+permits
+you had issued the letters of credit
+
+you have hesitated to issue the letters of credit
+permits
+you have not issued the letters of credit
+
+you have not issued the letters of credit
+permits
+you have hesitated to issue the letters of credit
+
+you have not hesitated to issue the letters of credit
+entails
+you have issued the letters of credit
+
+you have issued the letters of credit
+permits
+you have not hesitated to issue the letters of credit
+
+you almost hesitated to issue the letters of credit
+contradicts
+you did not issue the letters of credit
+
+you did not issue the letters of credit
+contradicts
+you almost hesitated to issue the letters of credit
+
+you have hesitated to sell me the property
+permits
+you have sold me the property
+
+you had hesitated to sell me the property
+permits
+you had n't sold me the property
+
+you had n't sold me the property
+permits
+you had hesitated to sell me the property
+
+you had never hesitated to sell me the property
+entails
+you had sold me the property
+
+you had sold me the property
+permits
+you had never hesitated to sell me the property
+
+you had n't hesitated to sell me the property
+contradicts
+you had not sold me the property
+
+you had not sold me the property
+contradicts
+you had n't hesitated to sell me the property
+
+your enterprise had hesitated to adapt to the cloud
+permits
+your enterprise had adapted to the cloud
+
+your enterprise hesitated to adapt to the cloud
+permits
+your enterprise did n't adapt to the cloud
+
+your enterprise did n't adapt to the cloud
+permits
+your enterprise hesitated to adapt to the cloud
+
+your enterprise did not hesitate to adapt to the cloud
+entails
+your enterprise adapted to the cloud
+
+your enterprise adapted to the cloud
+permits
+your enterprise did not hesitate to adapt to the cloud
+
+your enterprise did not hesitate to adapt to the cloud
+permits
+your enterprise declared mass killings genocide
+
+your enterprise had almost hesitated to adapt to the cloud
+contradicts
+your enterprise had n't adapted to the cloud
+
+your enterprise had n't adapted to the cloud
+contradicts
+your enterprise had almost hesitated to adapt to the cloud
+
+your enterprise had almost hesitated to adapt to the cloud
+permits
+the party establishment had almost adapted to the cloud
+
+you had hesitated to show me your picture
+permits
+you had shown me your picture
+
+you have hesitated to show me your picture
+permits
+you have n't shown me your picture
+
+you have n't shown me your picture
+permits
+you have hesitated to show me your picture
+
+you never hesitated to show me your picture
+entails
+you showed me your picture
+
+you showed me your picture
+permits
+you never hesitated to show me your picture
+
+you almost hesitated to show me your picture
+contradicts
+you did n't show me your picture
+
+you did n't show me your picture
+contradicts
+you almost hesitated to show me your picture
+
+experts had hesitated to draw attention to obesity
+permits
+experts had drawn attention to obesity
+
+experts had hesitated to draw attention to obesity
+permits
+experts had not drawn attention to obesity
+
+experts had not drawn attention to obesity
+permits
+experts had hesitated to draw attention to obesity
+
+experts had n't hesitated to draw attention to obesity
+entails
+experts had drawn attention to obesity
+
+experts had drawn attention to obesity
+permits
+experts had n't hesitated to draw attention to obesity
+
+experts had n't hesitated to draw attention to obesity
+permits
+experts criticise the miserable "courses"
+
+experts had not hesitated to draw attention to obesity
+contradicts
+experts had n't drawn attention to obesity
+
+experts had n't drawn attention to obesity
+contradicts
+experts had not hesitated to draw attention to obesity
+
+experts had not hesitated to draw attention to obesity
+permits
+experts had not adapted to the cloud
+
+people have inside the campaign hesitated to argue explicitly that it matters
+permits
+people have argued explicitly that it matters
+
+people have inside the campaign hesitated to argue explicitly that it matters
+permits
+people have not argued explicitly that it matters
+
+people have not argued explicitly that it matters
+permits
+people have inside the campaign hesitated to argue explicitly that it matters
+
+people have not inside the campaign hesitated to argue explicitly that it matters
+entails
+people have argued explicitly that it matters
+
+people have argued explicitly that it matters
+permits
+people have not inside the campaign hesitated to argue explicitly that it matters
+
+people had n't inside the campaign hesitated to argue explicitly that it matters
+contradicts
+people had not argued explicitly that it matters
+
+people had not argued explicitly that it matters
+contradicts
+people had n't inside the campaign hesitated to argue explicitly that it matters
+
+people had n't inside the campaign hesitated to argue explicitly that it matters
+permits
+people had not declared mass killings genocide
+
+organizations have hesitated to invest in telemedicine
+permits
+organizations have invested in telemedicine
+
+organizations hesitated to invest in telemedicine
+permits
+organizations did not invest in telemedicine
+
+organizations did not invest in telemedicine
+permits
+organizations hesitated to invest in telemedicine
+
+organizations have almost hesitated to invest in telemedicine
+entails
+organizations have invested in telemedicine
+
+organizations have invested in telemedicine
+permits
+organizations have almost hesitated to invest in telemedicine
+
+organizations had n't hesitated to invest in telemedicine
+contradicts
+organizations had n't invested in telemedicine
+
+organizations had n't invested in telemedicine
+contradicts
+organizations had n't hesitated to invest in telemedicine
+

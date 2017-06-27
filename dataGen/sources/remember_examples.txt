@@ -1,0 +1,40 @@
+Implicatives:
+remember [+|-]
+
+Examples:
+the suspected Muslim extremist[M,S3] remembered[V] to (calmly) tap[V] out of a London Tube station with [PossPro] Oyster card
+I[S1] remembered[V] to lock[V] the door when [SubjPro] left
+you[S2] remembered[V] to bring[V] the ham, the bread, the cheese, and the wine
+Sylvester Stallone[M,S3] remembered[V] to thank[V] [PossPro] 'Creed' director
+Susan[F,S3] remembered[V] to bring[V] Lois's jacket to school
+the Balibo Five[P3] remembered[V] to afflict[V] the complacent
+I[S1] (finally) remembered[V] to post[V] this comic [SubjPro] drew like a month ago
+he[M,S3] remembered[V] to take[V] the additional new billing pads from [PossPro] front seat
+Network Security Sam[M,S3] remembered[V] to upload the password file[V]
+I[S1] remembered[V] to wish[V] you a Happy Thanksgiving
+I[S1] remembered[V] to make[V] [PossPro] 2016 pledge
+the Welsh commentators[P3] remembered[V] to be[V] impartial at the end
+Kam Chancellor[M,S3] remembered[V] to pump[V] up [PossPro] shoes tonight
+Keke Palmer[F,S3] remembered[V] to forget[V] buttoning up [PossPro] jacket
+you[S2] remembered[V] to take[V] out the trash this morning
+you[S2] remembered[V] to do[V] the homework
+she[F,S3] remembered[V] to pay[V] the bills
+she[F,S3] remembered[V] to remove[V] [ReflPro] from the case
+we[P1] remembered[V] to take[V] his 4 month photos today
+we[P1] remembered[V] to grab[V] the mailing address of the company
+they[P3] remembered[V] to leave[V] out the peppers
+they[P3] remembered[V] to send[V] me an invitation
+Katy Perry[F,S3] remembered[V] to wear[V] [PossPro] fishnets
+the millionaires of California[P3] remembered[V] to be[V] at the polls on election day
+Mirana[F,S3] remembered[V] to phone[V] the doctor
+Sophie[F,S3] remembered[V] to put[V] [PossPro] clocks back
+Swank[F,S3] remembered[V] to thank[V] [PossPro] husband this time
+mom and dad[P3] (even) remembered[V] to get[V] the red solo cups
+the primer children[P3] remembered[V] to bring[V] [PossPro] boats
+Chung[M,S3] (always) remembered[V] to (carefully) select[V] a bottle of local perfume to bring home to [PossPro] wife
+it[S3] remembered[V] to reciprocate[V] the gesture
+it[S3] remembered[V] to be[V] simple in the right places
+it[S3] remembered[V] to wear[V] its flare for this week's shift
+the world's opinion-makers[P3] remembered[V] to pay[V] tribute to Rosa Parks
+you[S2] remembered[V] to forget[V]
+the men[P3] remembered[V] to give[V] the children fruit as a desert

@@ -1,0 +1,200 @@
+Implicatives:
+have (a,the,~,no,PossPro) chance [.4|-]
+
+Examples:
+the officers[P3] had[V] no chance to protect[V] [ReflPro]
+the officers[P3] had[V] [PossPro] chance to protect[V] [ReflPro]
+Mr Huntington[M,S3] had[V] no chance to brake[V] and react prior to the collision
+Mr Huntington[M,S3] had[V] [PossPro] chance to brake[V] and react prior to the collision
+Huskies[P3] had[V] no chance to keep[V] Murray
+Huskies[P3] had[V] [PossPro] chance to keep[V] Murray
+they[P3] had[V] no chance to win[V] the vote [ReflPro]
+they[P3] had[V] [PossPro] chance to win[V] the vote [ReflPro]
+I[S1] had[V] no chance to say[V] goodbye
+I[S1] had[V] [PossPro] chance to say[V] goodbye
+we[P1] had[V] no chance to use the swimming pool[V] [AND,NOR] fitness center
+we[P1] had[V] [PossPro] chance to use the swimming pool[V] [AND,NOR] fitness center
+he[M,S3] had[V] no chance to show[V] [PossPro] true worth
+he[M,S3] had[V] [PossPro] chance to show[V] [PossPro] true worth
+Tom[M,S3] had[V] no chance to tell[V] Mary [PossPro] opinion
+Tom[M,S3] had[V] [PossPro] chance to tell[V] Mary [PossPro] opinion
+the famous Bollywood star[M,S3] had[V] a chance to play[V] the Harry's beloved mentor
+the famous Bollywood star[M,S3] had[V] [PossPro] chance to play[V] the Harry's beloved mentor
+FAA[S3] had[V] chance to ground[V] suicidal Germanwings pilot
+FAA[S3] had[V] [PossPro] chance to ground[V] suicidal Germanwings pilot
+this team[S3] had[V] a chance to win[V] a national championship
+this team[S3] had[V] [PossPro] chance to win[V] a national championship
+they[P3] had[V] a chance to talk[V] to one another
+they[P3] had[V] [PossPro] chance to talk[V] to one another
+Novak Djokovic[M,S3] had[V] a chance to take[V] a stand against sexism in tennis
+Novak Djokovic[M,S3] had[V] [PossPro] chance to take[V] a stand against sexism in tennis
+we[P1] had[V] a chance to be[V] on top today
+we[P1] had[V] [PossPro] chance to be[V] on top today
+Democratic candidates[P3] had[V] a chance to prove[V] bona fides on race
+Democratic candidates[P3] had[V] [PossPro] chance to prove[V] bona fides on race
+UND students[P3] had[V] a chance to de-stress before finals week
+UND students[P3] had[V] [PossPro] chance to de-stress before finals week
+I[S1] had[V] a chance to take[V] pictures with those beautiful lady boys
+I[S1] had[V] [PossPro] chance to take[V] pictures with those beautiful lady boys
+he[M,S3] had[V] a chance to take[V] a photo with their sous-chef
+he[M,S3] had[V] [PossPro] chance to take[V] a photo with their sous-chef
+we[P1] had[V] a chance to clear[V] the air
+we[P1] had[V] [PossPro] chance to clear[V] the air
+I[S1] had[V] a chance to speak[V] with Chris Tomlin on the Morning Show
+I[S1] had[V] [PossPro] chance to speak[V] with Chris Tomlin on the Morning Show
+I[S1] had[V] a chance to see[V] Prince in the 'Rally 4 Peace' in Baltimore in May 2015
+I[S1] had[V] [PossPro] chance to see[V] Prince in the 'Rally 4 Peace' in Baltimore in May 2015
+Keith Urban[M,S3] had[V] a chance to play[V] with Prince
+Keith Urban[M,S3] had[V] [PossPro] chance to play[V] with Prince
+it[S3] had[V] the chance to consider[V] the other plans
+it[S3] had[V] [PossPro] chance to consider[V] the other plans
+Buddy[M,S3] had[V] a chance to detail[V] an awesome ride
+Buddy[M,S3] had[V] [PossPro] chance to detail[V] an awesome ride
+Taylor Swift[F,S3] had[V] a chance to be[V] cool
+Taylor Swift[F,S3] had[V] [PossPro] chance to be[V] cool
+she[F,S3] had[V] the chance to explore[V] far beyond her comfort zone
+she[F,S3] had[V] [PossPro] chance to explore[V] far beyond her comfort zone
+I[S1] had[V] a chance to highlight[V] [PossPro] wide experience in procurement
+I[S1] had[V] [PossPro] chance to highlight[V] [PossPro] wide experience in procurement
+Greece[S3] had[V] a chance to make[V] the euro zone work better
+Greece[S3] had[V] [PossPro] chance to make[V] the euro zone work better
+that victim of the Orlando massacre[F,S3] had[V] the chance to escape[V]
+that victim of the Orlando massacre[F,S3] had[V] [PossPro] chance to escape[V]
+GE[S3] had[V] the chance to acquire[V] Apple in 1996
+GE[S3] had[V] [PossPro] chance to acquire[V] Apple in 1996
+we finally[P1] had[V] the chance to hear[V] from the fugitive himself
+we finally[P1] had[V] [PossPro] chance to hear[V] from the fugitive himself
+I[S1] finally had[V] the chance to take[V] a picture with him
+I[S1] finally had[V] [PossPro] chance to take[V] a picture with him
+First Nations[S3] had[V] the chance to appeal[V] Belledune oil terminal
+First Nations[S3] had[V] [PossPro] chance to appeal[V] Belledune oil terminal
+I[S1] had[V] the chance to go[V] study abroad
+I[S1] had[V] [PossPro] chance to go[V] study abroad
+I[S1] had[V] the chance to learn[V] British and American English
+I[S1] had[V] [PossPro] chance to learn[V] British and American English
+we[P1] had[V] the chance to get[V] rid of Assad in 2012
+we[P1] had[V] [PossPro] chance to get[V] rid of Assad in 2012
+Jimmy Fallon[M,S3] had[V] the chance to date[V] Nicole Kidman
+Jimmy Fallon[M,S3] had[V] [PossPro] chance to date[V] Nicole Kidman
+Ryan Murphy and singer Lady Gaga[P3] (recently) had[V] the chance to visit[V] that basement mall
+Ryan Murphy and singer Lady Gaga[P3] (recently) had[V] [PossPro] chance to visit[V] that basement mall
+Nick Clegg[M,S3] had[V] the chance to stop[V] tuition fees rising to £9000
+Nick Clegg[M,S3] had[V] [PossPro] chance to stop[V] tuition fees rising to £9000
+Libertarian Party[S3] had[V] chance to stand[V] from the pack
+Libertarian Party[S3] had[V] [PossPro] chance to stand[V] from the pack
+Red Wings[S3] had[V] chance to take[V] playoff opener
+Red Wings[S3] had[V] [PossPro] chance to take[V] playoff opener
+Birmingham City Council[S3] had[V] chance to do[V] right
+Birmingham City Council[S3] had[V] [PossPro] chance to do[V] right
+James and Theresa[P3] had[V] chance to swim[V] or relax on the sun beds
+James and Theresa[P3] had[V] [PossPro] chance to swim[V] or relax on the sun beds
+we[P1] had[V] chance to take[V] funny pictures
+we[P1] had[V] [PossPro] chance to take[V] funny pictures
+Bill Clinton[M,S3] had[V] chance to kill[V] Osama Bin Laden before September 11 attacks
+Bill Clinton[M,S3] had[V] [PossPro] chance to kill[V] Osama Bin Laden before September 11 attacks
+we[P1] had[V] chance to be[V] on top
+we[P1] had[V] [PossPro] chance to be[V] on top
+1992 Blackhawks[S3] had[V] chance to create[V] wave of popularity
+1992 Blackhawks[S3] had[V] [PossPro] chance to create[V] wave of popularity
+Kim Kardashian and three of her siblings[P3] had[V] chance to avoid[V] litigation
+Kim Kardashian and three of her siblings[P3] had[V] [PossPro] chance to avoid[V] litigation
+the guests[P3] had[V] the chance to observe[V] wildlife to the extent hoped for
+the guests[P3] had[V] [PossPro] chance to observe[V] wildlife to the extent hoped for
+the Russian defenders[S3] had[V] the chance to protect[V] the countless treasures in the castles near Leningrad
+the Russian defenders[S3] had[V] [PossPro] chance to protect[V] the countless treasures in the castles near Leningrad
+MPs[P3] had[V] the chance to protect[V] our drinking water
+MPs[P3] had[V] [PossPro] chance to protect[V] our drinking water
+I[S1] had[V] the chance to sample[V] these dishes
+I[S1] had[V] [PossPro] chance to sample[V] these dishes
+it[S3] had[V] the chance to grow[V] ten-fold in 6 months
+it[S3] had[V] [PossPro] chance to grow[V] ten-fold in 6 months
+you[S2] had[V] the chance to decide[V] for [ReflPro] what volcano problems to study
+you[S2] had[V] [PossPro] chance to decide[V] for [ReflPro] what volcano problems to study
+we, the Palestinians,[P1] had[V] the chance to share[V] that universal theme
+we, the Palestinians,[P1] had[V] [PossPro] chance to share[V] that universal theme
+I[S1] had[V] the chance to sleep[V] a lot
+I[S1] had[V] [PossPro] chance to sleep[V] a lot
+the three candidates of the smaller parties[P3] had[V] the chance to talk[V] with Chancellor Merkel
+the three candidates of the smaller parties[P3] had[V] [PossPro] chance to talk[V] with Chancellor Merkel
+I[S1] had[V] the chance to represent[V] [PossPro] country
+I[S1] had[V] [PossPro] chance to represent[V] [PossPro] country
+the Congress[S3] had[V] the chance to observe[V] regional elections in Russia
+the Congress[S3] had[V] [PossPro] chance to observe[V] regional elections in Russia
+Abraham[M,S3] had[V] the chance to either reject[V] or accept the Quran
+Abraham[M,S3] had[V] [PossPro] chance to either reject[V] or accept the Quran
+he[M,S3] had[V] the chance to congratulate[V] our new MissUniverse
+he[M,S3] had[V] [PossPro] chance to congratulate[V] our new MissUniverse
+I[S1] just had[V] the chance to reward[V] him
+I[S1] just had[V] [PossPro] chance to reward[V] him
+I[S1] had[V] the chance to see[V] [PossPro] siblings or [PossPro] grandmother at night
+I[S1] had[V] [PossPro] chance to see[V] [PossPro] siblings or [PossPro] grandmother at night
+he[M,S3] had[V] the chance to bowl[V] collegiately
+he[M,S3] had[V] [PossPro] chance to bowl[V] collegiately
+you[S2] had[V] the chance to grab[V] a ticket for beyond tellerrand itself
+you[S2] had[V] [PossPro] chance to grab[V] a ticket for beyond tellerrand itself
+we[P1] had[V] the chance to say[V] goodbye
+we[P1] had[V] [PossPro] chance to say[V] goodbye
+she[F,S3] had[V] the chance to get[V] married
+she[F,S3] had[V] [PossPro] chance to get[V] married
+they[P3] had[V] the chance to understand[V] the new situation
+they[P3] had[V] [PossPro] chance to understand[V] the new situation
+we[P1] had[V] a chance to go[V] to the restaurant
+we[P1] had[V] [PossPro] chance to go[V] to the restaurant
+we[P1] had[V] a chance to talk[V] more
+we[P1] had[V] [PossPro] chance to talk[V] more
+I[S1] had[V] a chance to respond[V]
+I[S1] had[V] [PossPro] chance to respond[V]
+she[F,S3] had[V] a chance to discuss[V] it
+she[F,S3] had[V] [PossPro] chance to discuss[V] it
+I[S1] had[V] a chance to deactivate[V] [PossPro] Adobe Creative Suite
+I[S1] had[V] [PossPro] chance to deactivate[V] [PossPro] Adobe Creative Suite
+Obama[M,S3] had[V] a chance to watch[V] Prime Minister Netanyahu's speech
+Obama[M,S3] had[V] [PossPro] chance to watch[V] Prime Minister Netanyahu's speech
+Chip Kelly[M,S3] had[V] a chance to keep[V] his job
+Chip Kelly[M,S3] had[V] [PossPro] chance to keep[V] his job
+the South[S3] had[V] a chance to win[V] the war
+the South[S3] had[V] [PossPro] chance to win[V] the war
+they[P3] had[V] a chance to survive[V]
+they[P3] had[V] [PossPro] chance to survive[V]
+you[S2] had[V] a chance to ask[V] a question
+you[S2] had[V] [PossPro] chance to ask[V] a question
+we[P1] had[V] chance to try[V] the spa facilities
+we[P1] had[V] [PossPro] chance to try[V] the spa facilities
+it[S3] had[V] chance to catch[V] up with me
+it[S3] had[V] [PossPro] chance to catch[V] up with me
+husband[M,S3] had[V] chance to file[V] form 706
+husband[M,S3] had[V] [PossPro] chance to file[V] form 706
+I[S1] had[V] chance to take[V] lots of pictures to post
+I[S1] had[V] [PossPro] chance to take[V] lots of pictures to post
+Femando de Noronha[S3] had[V] chance to be[V] colonized
+Femando de Noronha[S3] had[V] [PossPro] chance to be[V] colonized
+Sansa[F,S3] had[V] chance to develop[V] [PossPro] abilities
+Sansa[F,S3] had[V] [PossPro] chance to develop[V] [PossPro] abilities
+me and my siblings[P1] had[V] chance to go[V] to school
+me and my siblings[P1] had[V] [PossPro] chance to go[V] to school
+mission control in Korolev[S3] had[V] chance to guide[V] the vehicle
+mission control in Korolev[S3] had[V] [PossPro] chance to guide[V] the vehicle
+she[F,S3] had[V] chance to rule[V] the whole world
+she[F,S3] had[V] [PossPro] chance to rule[V] the whole world
+you[S2] had[V] chance to be[V] there on your own
+you[S2] had[V] [PossPro] chance to be[V] there on your own
+I[S1] had[V] chance to study[V] in an international environment
+I[S1] had[V] [PossPro] chance to study[V] in an international environment
+local journalists[P3] had[V] chance to work[V] during governmental meetings
+local journalists[P3] had[V] [PossPro] chance to work[V] during governmental meetings
+she[F,S3] had[V] chance to say[V] goodbye to her dead cat
+she[F,S3] had[V] [PossPro] chance to say[V] goodbye to her dead cat
+I[S1] had[V] chance to travel[V] Austria's other cities
+I[S1] had[V] [PossPro] chance to travel[V] Austria's other cities
+he[M,S3] had[V] chance to consolidate[V] the iTunes media folder
+he[M,S3] had[V] [PossPro] chance to consolidate[V] the iTunes media folder
+we[P1] had[V] chance to speak[V] to you much on Saturday
+we[P1] had[V] [PossPro] chance to speak[V] to you much on Saturday
+that updated app[S3] had[V] chance to connect[V] to server is set up for
+that updated app[S3] had[V] [PossPro] chance to connect[V] to server is set up for
+she[F,S3] had[V] chance to visit[V] the desert
+she[F,S3] had[V] [PossPro] chance to visit[V] the desert
+they[P3] had[V] chance to be[V] a superhero
+they[P3] had[V] [PossPro] chance to be[V] a superhero
+the crew[S3] had[V] chance to send[V] a Mayday alert
+the crew[S3] had[V] [PossPro] chance to send[V] a Mayday alert

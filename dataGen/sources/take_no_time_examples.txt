@@ -1,0 +1,40 @@
+Implicatives:
+take (no,some) time [+|+]
+
+Examples:
+they[P3] took[V] no time to get[V] plates
+Ginger and our three cats[P3] took[V] no time to adjust[V] to each other
+Jeff Farmer, our demonstrator,[M,S3] took[V] no time to figure[V] out how to peel these mudbugs
+the front end executive[M,S3] took[V] no time to fill[V] all formalities
+MailMunch[S3] took[V] no time to pay[V] for [ReflPro]
+the cows[P3] took[V] no time to adapt[V] and make[V] [ReflPro] at home
+Grannis[F,S3] took[V] no time to immerse[V] [ReflPro] in a variety of programs to find [PossPro] calling
+Huw Jones[M,S3] took[V] no time to consider[V] whether [SubjPro] wanted to join up with the national team
+Laker head coach Byron Scott[M,S3] took[V] no time to take[V] shots at the Clippers .
+Yuvraj[M,S3] took[V] no time to put[V] the pressure on the bowler
+Donald Trump[M,S3] took[V] no time to respond[V] to Obama's speech
+this little monkey[F,S3] took[V] no time to be[V] settled back at home with us
+she[F,S3] took[V] no time to bounce[V] back to normal
+Ronaldo[M,S3] took[V] no time to lace[V] up some sneakers
+the judges[P3] took[V] no time to pack[V] in the punches
+Ann Putnam Sr.[F,S3] took[V] no time to accuse[V] Rebecca
+the 26-year-old singer[F,S3] took[V] no time to respond[V] to Kim's Snapchat video
+the New Jersey Governor[M,S3] took[V] no time to slam[V] Rubio, Cruz, and Kasich
+the video[S3] took[V] no time to buffer[V]
+Sussex[S3] took[V] no time to hand[V] him his debut
+MapCentrix[S3] took[V] no time to start[V] using the system properly
+Anderson[F,S3] took[V] no time to respond[V] to the posts
+the internet[S3] took[V] no time to make[V] it a hilarious viral sensation
+his oh la la film Porky's[S3] took[V] no time to gross[V] twenty times as much in the US
+I[S1] took[V] no time to learn[V] about Brazil's culture and its people
+he[M,S3] took[V] no time to make[V] [PossPro] way up from a team member to a group pioneer
+Matt[M,S3] took[V] no time to ask[V] around about me
+Kenny[M,S3] took[V] no time to start[V] enjoying the life changing win
+Susquehanna Heating[S3] took[V] no time to get[V] the new part under warranty
+they[P3] took[V] no time to establish[V] their dominance
+she[F,S3] took[V] no time to response to your problem
+he[M,S3] took[V] no time to wreak[V] havoc in the world
+the employees[P3] took[V] no time to start[V] looking for greener pastures
+the NBA veteran[M,S3] took[V] no time to adjust[V] to [PossPro] teammates
+Rayne Summers[M,S3] took[V] no time to stray[V]
+he[M,S3] public took[V] no time to react[V] to it vigorously

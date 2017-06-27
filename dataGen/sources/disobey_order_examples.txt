@@ -1,0 +1,124 @@
+Implicatives:
+disobey (an,the,~,PossPro) order(s) [-|+]
+
+Examples:
+Colonel Bates and command[P3] disobeyed[V] the order to retire[V]
+Colonel Bates and command[P3] disobeyed[V] [PossPro] order to retire[V]
+Krummel[M,S3] disobeyed[V] the order to come[V] out of the mine
+Krummel[M,S3] disobeyed[V] [PossPro] order to come[V] out of the mine
+they[P3] disobeyed[V] the order to disappear[V]
+they[P3] disobeyed[V] [PossPro] order to disappear[V]
+her captain[M,S3] disobeyed[V] the order to clear[V] for action
+her captain[M,S3] disobeyed[V] [PossPro] order to clear[V] for action
+the others[P3] disobeyed[V] the order to cultivate[V] only food crops and stayed on the land [SubjPro] occupied
+the others[P3] disobeyed[V] [PossPro] order to cultivate[V] only food crops and stayed on the land [SubjPro] occupied
+Georges[M,S3] (promptly) disobeyed[V] the order to change[V] from car to van
+Georges[M,S3] (promptly) disobeyed[V] [PossPro] order to change[V] from car to van
+the chaplain of the division[M,S3] disobeyed[V] the order to charge[V]
+the chaplain of the division[M,S3] disobeyed[V] [PossPro] order to charge[V]
+the ragged men[P3] disobeyed[V] the order to stack[V] arms only with great difficulty
+the ragged men[P3] disobeyed[V] [PossPro] order to stack[V] arms only with great difficulty
+they[P3] disobeyed[V] the order to advance[V]
+they[P3] disobeyed[V] [PossPro] order to advance[V]
+the men[P3] disobeyed[V] the order to quit[V] at once
+the men[P3] disobeyed[V] [PossPro] order to quit[V] at once
+only 189 men and officers[P3] disobeyed[V] the order to return[V]
+only 189 men and officers[P3] disobeyed[V] [PossPro] order to return[V]
+he[M,S3] disobeyed[V] the order to yield[V] obedience to Thurstan
+he[M,S3] disobeyed[V] [PossPro] order to yield[V] obedience to Thurstan
+the soldiers[P3] disobeyed[V] the order to slaughter[V] innocent people at Mai Lai
+the soldiers[P3] disobeyed[V] [PossPro] order to slaughter[V] innocent people at Mai Lai
+James Foley[M,S3] disobeyed[V] the order to come[V] closer
+James Foley[M,S3] disobeyed[V] [PossPro] order to come[V] closer
+her friends[P3] disobeyed[V] the order to sit[V] down
+her friends[P3] disobeyed[V] [PossPro] order to sit[V] down
+he[M,S3] disobeyed[V] the order to testify[V]
+he[M,S3] disobeyed[V] [PossPro] order to testify[V]
+Joseph[M,S3] disobeyed[V] the order to get[V] on the ground
+Joseph[M,S3] disobeyed[V] [PossPro] order to get[V] on the ground
+they[P3] disobeyed[V] the order to wear[V] the Juden logo
+they[P3] disobeyed[V] [PossPro] order to wear[V] the Juden logo
+he[M,S3] disobeyed[V] the order to stop[V] when he stopped
+he[M,S3] disobeyed[V] [PossPro] order to stop[V] when he stopped
+the night shift staff[P3] disobeyed[V] the order to evacuate[V] the Police Station without incident
+the night shift staff[P3] disobeyed[V] [PossPro] order to evacuate[V] the Police Station without incident
+the colonials[P3] disobeyed[V] the order to disperse[V]
+the colonials[P3] disobeyed[V] [PossPro] order to disperse[V]
+he[M,S3] disobeyed[V] the order to testify[V]
+he[M,S3] disobeyed[V] [PossPro] order to testify[V]
+most of the workers[P3] disobeyed[V] the order to get[V] down
+most of the workers[P3] disobeyed[V] [PossPro] order to get[V] down
+Padri[M,S3] disobeyed[V] the order to carry[V] a lantern
+Padri[M,S3] disobeyed[V] [PossPro] order to carry[V] a lantern
+the divisions[P3] disobeyed[V] the order to go[V] into battle
+the divisions[P3] disobeyed[V] [PossPro] order to go[V] into battle
+they[P3] disobeyed[V] the order to follow[V] them into No Man's Land
+they[P3] disobeyed[V] [PossPro] order to follow[V] them into No Man's Land
+most FARC units[P3] disobeyed[V] the order to halt kidnapping
+most FARC units[P3] disobeyed[V] [PossPro] order to halt kidnapping
+the deponent[F,S3] disobeyed[V] the order to appear[V] for the deposition
+the deponent[F,S3] disobeyed[V] [PossPro] order to appear[V] for the deposition
+Jack[M,S3] disobeyed[V] the order to kill[V] him
+Jack[M,S3] disobeyed[V] [PossPro] order to kill[V] him
+the old woman[F,S3] disobeyed[V] the order to get[V] him there
+the old woman[F,S3] disobeyed[V] [PossPro] order to get[V] him there
+I[S1] disobeyed[V] the order to report[V] to Gen. Grant that night
+I[S1] disobeyed[V] [PossPro] order to report[V] to Gen. Grant that night
+you[S2] disobeyed[V] the order to kill[V] all the Italians in your communities
+you[S2] disobeyed[V] [PossPro] order to kill[V] all the Italians in your communities
+she[F,S3] disobeyed[V] the order to put[V] down the weapon
+she[F,S3] disobeyed[V] [PossPro] order to put[V] down the weapon
+he[M,S3] disobeyed[V] an order to shoot[V] and kill[V] an elderly Vietnamese citizen
+he[M,S3] disobeyed[V] [PossPro] order to shoot[V] and kill[V] an elderly Vietnamese citizen
+he[M,S3] disobeyed[V] an order to lie[V] on the ground
+he[M,S3] disobeyed[V] [PossPro] order to lie[V] on the ground
+the next group[P3] disobeyed[V] an order to disobey[V] all orders
+the next group[P3] disobeyed[V] [PossPro] order to disobey[V] all orders
+American military commanders[P3] disobeyed[V] an order to strike[V] out of the blue
+American military commanders[P3] disobeyed[V] [PossPro] order to strike[V] out of the blue
+she[F,S3] disobeyed[V] an order to transfer[V] the stock
+she[F,S3] disobeyed[V] [PossPro] order to transfer[V] the stock
+Jim Lyerly[M,S3] disobeyed[V] an order to turn[V] away from the impending blast
+Jim Lyerly[M,S3] disobeyed[V] [PossPro] order to turn[V] away from the impending blast
+most people[P3] disobeyed[V] an order to leave[V] the area outside the rally
+most people[P3] disobeyed[V] [PossPro] order to leave[V] the area outside the rally
+Davis[F,S3] disobeyed[V] an order to return[V] to the field
+Davis[F,S3] disobeyed[V] [PossPro] order to return[V] to the field
+Father Nugent[M,S3] disobeyed[V] an order to silence[V] [ReflPro] on matters pertaining to homosexuality
+Father Nugent[M,S3] disobeyed[V] [PossPro] order to silence[V] [ReflPro] on matters pertaining to homosexuality
+the vessel[S3] disobeyed[V] an order to sail[V] to Fremantle
+the vessel[S3] disobeyed[V] [PossPro] order to sail[V] to Fremantle
+they[P3] disobeyed[V] an order to abandon[V] Sev
+they[P3] disobeyed[V] [PossPro] order to abandon[V] Sev
+German police officers[P3] disobeyed[V] order to kill[V] some 1500 jews in the village of Jozefow
+German police officers[P3] disobeyed[V] [PossPro] order to kill[V] some 1500 jews in the village of Jozefow
+they[P3] disobeyed[V] order to back[V] the Kremlin party
+they[P3] disobeyed[V] [PossPro] order to back[V] the Kremlin party
+the US soldiers[P3] disobeyed[V] the orders to drop[V] the atomic bombs on Hiroshima
+the US soldiers[P3] disobeyed[V] [PossPro] orders to drop[V] the atomic bombs on Hiroshima
+many of the military[P3] disobeyed[V] the orders to salute[V] the cross
+many of the military[P3] disobeyed[V] [PossPro] orders to salute[V] the cross
+the army ISIL has amassed[S3] disobeyed[V] the orders to seize[V] territory
+the army ISIL has amassed[S3] disobeyed[V] [PossPro] orders to seize[V] territory
+we quickly[P1] disobeyed[V] the orders to lie[V] down
+we quickly[P1] disobeyed[V] [PossPro] orders to lie[V] down
+many police executioners[P3] disobeyed[V] the orders to murder[V] Jews without compunction
+many police executioners[P3] disobeyed[V] [PossPro] orders to murder[V] Jews without compunction
+they[P3] finally disobeyed[V] the orders to kill[V] the animals
+they[P3] finally disobeyed[V] [PossPro] orders to kill[V] the animals
+the men[P3] disobeyed[V] the orders to rush[V] towards the Mud Gate
+the men[P3] disobeyed[V] [PossPro] orders to rush[V] towards the Mud Gate
+people[P3] disobeyed[V] the orders to leave[V] [PossPro] homes by 9a.m.
+people[P3] disobeyed[V] [PossPro] orders to leave[V] [PossPro] homes by 9a.m.
+Kim Davis[F,S3] disobeyed[V] orders to issue[V] marriage licenses to same-sex couples
+Kim Davis[F,S3] disobeyed[V] [PossPro] orders to issue[V] marriage licenses to same-sex couples
+they[P3] disobeyed[V] orders to conduct[V] brutal cleansing operations as part of the anti-partisan effort
+they[P3] disobeyed[V] [PossPro] orders to conduct[V] brutal cleansing operations as part of the anti-partisan effort
+people[P3] disobeyed[V] orders to deliver[V] shocks to other people
+people[P3] disobeyed[V] [PossPro] orders to deliver[V] shocks to other people
+Endo[F,S3] disobeyed[V] orders to go[V] to the Tanforan assembly center
+Endo[F,S3] disobeyed[V] [PossPro] orders to go[V] to the Tanforan assembly center
+the teen initially[M,S3] disobeyed[V] orders to show[V] [PossPro] hands
+the teen initially[M,S3] disobeyed[V] [PossPro] orders to show[V] [PossPro] hands
+she[F,S3] disobeyed[V] orders to sit[V] on the loo seat
+she[F,S3] disobeyed[V] [PossPro] orders to sit[V] on the loo seat

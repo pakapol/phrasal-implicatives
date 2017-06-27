@@ -1,0 +1,64 @@
+Implicatives:
+waste (the,~,PossPro) money [+|-]
+
+Examples:
+I[S1] wasted[V] money to turn[V] the phone into a portable hotspot
+I[S1] wasted[V] [PossPro] money to turn[V] the phone into a portable hotspot
+Ken Ham[M,S3] wasted[V] money to build[V] some damn ark
+Ken Ham[M,S3] wasted[V] [PossPro] money to build[V] some damn ark
+we[P1] wasted[V] money to save[V] time
+we[P1] wasted[V] [PossPro] money to save[V] time
+we[P1] wasted[V] money to educate[V] you
+we[P1] wasted[V] [PossPro] money to educate[V] you
+you[S2] wasted[V] money to pay[V] for the license
+you[S2] wasted[V] [PossPro] money to pay[V] for the license
+she[F,S3] wasted[V] money to buy[V] my name from a mailing list
+she[F,S3] wasted[V] [PossPro] money to buy[V] my name from a mailing list
+I[S1] wasted[V] money to get[V] the expansions
+I[S1] wasted[V] [PossPro] money to get[V] the expansions
+she[F,S3] wasted[V] money to go[V] to college
+she[F,S3] wasted[V] [PossPro] money to go[V] to college
+the government[S3] wasted[V] money to make[V] money
+the government[S3] wasted[V] [PossPro] money to make[V] money
+North Carolinians[P3] wasted[V] money to import[V] agricultural goods
+North Carolinians[P3] wasted[V] [PossPro] money to import[V] agricultural goods
+people[P3] wasted[V] money to see[V] a very lousy fight
+people[P3] wasted[V] [PossPro] money to see[V] a very lousy fight
+Mr. Smith[M,S3] wasted[V] the money to buy[V] an extra ticket
+Mr. Smith[M,S3] wasted[V] [PossPro] money to buy[V] an extra ticket
+I[S1] wasted[V] the money to buy[V] a game that I cannot play
+I[S1] wasted[V] [PossPro] money to buy[V] a game that I cannot play
+you[S2] wasted[V] the money to sign[V] up for a race
+you[S2] wasted[V] [PossPro] money to sign[V] up for a race
+he[M,S3] wasted[V] the money to try[V] to get the character he wanted
+he[M,S3] wasted[V] [PossPro] money to try[V] to get the character he wanted
+they[P3] shouldn't have wasted[V] the money to get[V] her in the game
+they[P3] shouldn't have wasted[V] [PossPro] money to get[V] her in the game
+the government[S3] wasted[V] the money to open[V] such an office
+the government[S3] wasted[V] [PossPro] money to open[V] such an office
+he[M,S3] wasted[V] the money to have[V] a vagina and tits
+he[M,S3] wasted[V] [PossPro] money to have[V] a vagina and tits
+they[P3] wasted[V] the money to train[V] someone who then decided to move on to greener pastures
+they[P3] wasted[V] [PossPro] money to train[V] someone who then decided to move on to greener pastures
+we[P1] wasted[V] the money to record[V] it
+we[P1] wasted[V] [PossPro] money to record[V] it
+Six Flags[S3] wasted[V] the money to build[V] so many of them
+Six Flags[S3] wasted[V] [PossPro] money to build[V] so many of them
+you[S2] wasted[V] the money to buy[V] the scanners
+you[S2] wasted[V] [PossPro] money to buy[V] the scanners
+the state government[S3] wasted[V] the money to install[V] the metal detectors
+the state government[S3] wasted[V] [PossPro] money to install[V] the metal detectors
+they[P3] wasted[V] the money to put[V] a high tech system
+they[P3] wasted[V] [PossPro] money to put[V] a high tech system
+my husband and I[P1] (actually) wasted[V] the money to watch[V] the Rolodex of Hate on Vimeo
+my husband and I[P1] (actually) wasted[V] [PossPro] money to watch[V] the Rolodex of Hate on Vimeo
+the state[S3] wasted[V] the money to pursue[V] that case
+the state[S3] wasted[V] [PossPro] money to pursue[V] that case
+Aunt Flora[F,S3] wasted[V] the money to have[V] the ring resized
+Aunt Flora[F,S3] wasted[V] [PossPro] money to have[V] the ring resized
+the publisher[S3] wasted[V] the money to print[V] Mr. Lawrence's serialized diatribe
+the publisher[S3] wasted[V] [PossPro] money to print[V] Mr. Lawrence's serialized diatribe
+you[S2] wasted[V] the money to ship[V] it over
+you[S2] wasted[V] [PossPro] money to ship[V] it over
+they[P3] wasted[V] the money to incorporate[V] it into the original design
+they[P3] wasted[V] [PossPro] money to incorporate[V] it into the original design

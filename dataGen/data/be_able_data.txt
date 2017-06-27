@@ -1,0 +1,2244 @@
+I was able to surprise my teacher yesterday
+entails
+I surprised my teacher yesterday
+
+I surprised my teacher yesterday
+permits
+I was able to surprise my teacher yesterday
+
+I was able to surprise my teacher yesterday
+permits
+this guy surprised his teacher yesterday
+
+I was able to surprise my teacher yesterday
+contradicts
+I did not surprise my teacher yesterday
+
+I did not surprise my teacher yesterday
+contradicts
+I was able to surprise my teacher yesterday
+
+I was able to surprise my teacher yesterday
+permits
+I did not wander away from school
+
+I was almost able to surprise my teacher yesterday
+entails
+I did not surprise my teacher yesterday
+
+I did not surprise my teacher yesterday
+permits
+I was almost able to surprise my teacher yesterday
+
+I was almost able to surprise my teacher yesterday
+contradicts
+I surprised my teacher yesterday
+
+I surprised my teacher yesterday
+contradicts
+I was almost able to surprise my teacher yesterday
+
+the shooter has been able to make the purchase
+entails
+the shooter has made the purchase
+
+the shooter has made the purchase
+permits
+the shooter has been able to make the purchase
+
+the shooter has been able to make the purchase
+contradicts
+the shooter has not made the purchase
+
+the shooter has not made the purchase
+contradicts
+the shooter has been able to make the purchase
+
+the shooter has been able to make the purchase
+permits
+she has not made the purchase
+
+the shooter was almost able to make the purchase
+entails
+the shooter did n't make the purchase
+
+the shooter did n't make the purchase
+permits
+the shooter was almost able to make the purchase
+
+the shooter was almost able to make the purchase
+permits
+the shooter did not disturb the vigil for the victims
+
+the shooter has never been able to make the purchase
+contradicts
+the shooter has made the purchase
+
+the shooter has made the purchase
+contradicts
+the shooter has never been able to make the purchase
+
+he was able to beat the establishment
+entails
+he beat the establishment
+
+he beat the establishment
+permits
+he was able to beat the establishment
+
+he was able to beat the establishment
+permits
+he invested in the resources he needed
+
+he has been able to beat the establishment
+contradicts
+he has not beaten the establishment
+
+he has not beaten the establishment
+contradicts
+he has been able to beat the establishment
+
+he has been able to beat the establishment
+permits
+the paedophile doctor has n't beaten the establishment
+
+he has almost been able to beat the establishment
+entails
+he has n't beaten the establishment
+
+he has n't beaten the establishment
+permits
+he has almost been able to beat the establishment
+
+he has never been able to beat the establishment
+contradicts
+he has beaten the establishment
+
+he has beaten the establishment
+contradicts
+he has never been able to beat the establishment
+
+he has never been able to beat the establishment
+permits
+the paedophile doctor has beaten the establishment
+
+her 5-year-old son has been able to wander away from school
+permits
+her 5-year-old son has wandered away from school
+
+her 5-year-old son had been able to wander away from school
+permits
+her 5-year-old son had n't wandered away from school
+
+her 5-year-old son had n't wandered away from school
+permits
+her 5-year-old son had been able to wander away from school
+
+her 5-year-old son had not been able to wander away from school
+entails
+her 5-year-old son had not wandered away from school
+
+her 5-year-old son had not wandered away from school
+permits
+her 5-year-old son had not been able to wander away from school
+
+her 5-year-old son had n't been able to wander away from school
+contradicts
+her 5-year-old son had wandered away from school
+
+her 5-year-old son had wandered away from school
+contradicts
+her 5-year-old son had n't been able to wander away from school
+
+her 5-year-old son had n't been able to wander away from school
+permits
+I had wandered away from school
+
+I had been able to run around with my son and my niece
+entails
+I had run around with my son and my niece
+
+I had run around with my son and my niece
+permits
+I had been able to run around with my son and my niece
+
+I had been able to run around with my son and my niece
+contradicts
+I had n't run around with my son and my niece
+
+I had n't run around with my son and my niece
+contradicts
+I had been able to run around with my son and my niece
+
+I had almost been able to run around with my son and my niece
+entails
+I had not run around with my son and my niece
+
+I had not run around with my son and my niece
+permits
+I had almost been able to run around with my son and my niece
+
+I had almost been able to run around with my son and my niece
+permits
+I had n't grabbed him myself and pulled him to my chest
+
+I was never able to run around with my son and my niece
+contradicts
+I ran around with my son and my niece
+
+I ran around with my son and my niece
+contradicts
+I was never able to run around with my son and my niece
+
+she was able to develop a more cordial relationship with Jennylyn
+entails
+she developed a more cordial relationship with Jennylyn
+
+she developed a more cordial relationship with Jennylyn
+permits
+she was able to develop a more cordial relationship with Jennylyn
+
+she had been able to develop a more cordial relationship with Jennylyn
+contradicts
+she had not developed a more cordial relationship with Jennylyn
+
+she had not developed a more cordial relationship with Jennylyn
+contradicts
+she had been able to develop a more cordial relationship with Jennylyn
+
+she was never able to develop a more cordial relationship with Jennylyn
+entails
+she never developed a more cordial relationship with Jennylyn
+
+she never developed a more cordial relationship with Jennylyn
+permits
+she was never able to develop a more cordial relationship with Jennylyn
+
+she had n't been able to develop a more cordial relationship with Jennylyn
+contradicts
+she had developed a more cordial relationship with Jennylyn
+
+she had developed a more cordial relationship with Jennylyn
+contradicts
+she had n't been able to develop a more cordial relationship with Jennylyn
+
+alumna Karen Brady was able to balance three teenagers, work, and school to earn her BSN
+entails
+alumna Karen Brady balanced three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady balanced three teenagers, work, and school to earn her BSN
+permits
+alumna Karen Brady was able to balance three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady was able to balance three teenagers, work, and school to earn her BSN
+permits
+he balanced three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady was able to balance three teenagers, work, and school to earn her BSN
+contradicts
+alumna Karen Brady did not balance three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady did not balance three teenagers, work, and school to earn her BSN
+contradicts
+alumna Karen Brady was able to balance three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady was almost able to balance three teenagers, work, and school to earn her BSN
+entails
+alumna Karen Brady almost balanced three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady almost balanced three teenagers, work, and school to earn her BSN
+permits
+alumna Karen Brady was almost able to balance three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady was almost able to balance three teenagers, work, and school to earn her BSN
+permits
+alumna Karen Brady did n't communicate
+
+alumna Karen Brady has never been able to balance three teenagers, work, and school to earn her BSN
+contradicts
+alumna Karen Brady has balanced three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady has balanced three teenagers, work, and school to earn her BSN
+contradicts
+alumna Karen Brady has never been able to balance three teenagers, work, and school to earn her BSN
+
+alumna Karen Brady has never been able to balance three teenagers, work, and school to earn her BSN
+permits
+alumna Karen Brady has developed a more cordial relationship with Jennylyn
+
+she has been able to pry the cat's jaws open
+entails
+she has pried the cat's jaws open
+
+she has pried the cat's jaws open
+permits
+she has been able to pry the cat's jaws open
+
+she has been able to pry the cat's jaws open
+permits
+the LAPD has pried the cat's jaws open
+
+she was able to pry the cat's jaws open
+contradicts
+she did not pry the cat's jaws open
+
+she did not pry the cat's jaws open
+contradicts
+she was able to pry the cat's jaws open
+
+she has not been able to pry the cat's jaws open
+entails
+she has n't pried the cat's jaws open
+
+she has n't pried the cat's jaws open
+permits
+she has not been able to pry the cat's jaws open
+
+she has almost been able to pry the cat's jaws open
+contradicts
+she has pried the cat's jaws open
+
+she has pried the cat's jaws open
+contradicts
+she has almost been able to pry the cat's jaws open
+
+she has almost been able to pry the cat's jaws open
+permits
+she has broken through party establishment firewalls
+
+this blind mom has been able to see her daughter get married
+entails
+this blind mom has seen her daughter get married
+
+this blind mom has seen her daughter get married
+permits
+this blind mom has been able to see her daughter get married
+
+this blind mom has been able to see her daughter get married
+permits
+Trump has seen his daughter get married
+
+this blind mom had been able to see her daughter get married
+contradicts
+this blind mom had n't seen her daughter get married
+
+this blind mom had n't seen her daughter get married
+contradicts
+this blind mom had been able to see her daughter get married
+
+this blind mom had been able to see her daughter get married
+permits
+the LAPD had n't seen its daughter get married
+
+this blind mom had almost been able to see her daughter get married
+entails
+this blind mom had almost seen her daughter get married
+
+this blind mom had almost seen her daughter get married
+permits
+this blind mom had almost been able to see her daughter get married
+
+this blind mom had almost been able to see her daughter get married
+permits
+this blind mom had n't run around with her son and my niece
+
+this blind mom has never been able to see her daughter get married
+contradicts
+this blind mom has seen her daughter get married
+
+this blind mom has seen her daughter get married
+contradicts
+this blind mom has never been able to see her daughter get married
+
+I was able to create an account
+entails
+I created an account
+
+I created an account
+permits
+I was able to create an account
+
+I was able to create an account
+permits
+the BIMcloud created an account
+
+I was able to create an account
+contradicts
+I did not create an account
+
+I did not create an account
+contradicts
+I was able to create an account
+
+I was able to create an account
+permits
+I did not return to its original position
+
+I almost was able to create an account
+entails
+I did not create an account
+
+I did not create an account
+permits
+I almost was able to create an account
+
+I almost was able to create an account
+permits
+I did n't develop a more cordial relationship with Jennylyn
+
+I was not able to create an account
+contradicts
+I created an account
+
+I created an account
+contradicts
+I was not able to create an account
+
+I was not able to create an account
+permits
+it created an account
+
+he was able to get a nursing license in Wyoming
+entails
+he got a nursing license in Wyoming
+
+he got a nursing license in Wyoming
+permits
+he was able to get a nursing license in Wyoming
+
+he was able to get a nursing license in Wyoming
+permits
+he moved further left
+
+he had been able to get a nursing license in Wyoming
+contradicts
+he had not gotten a nursing license in Wyoming
+
+he had not gotten a nursing license in Wyoming
+contradicts
+he had been able to get a nursing license in Wyoming
+
+he had been able to get a nursing license in Wyoming
+permits
+Tesla had not gotten a nursing license in Wyoming
+
+he has not been able to get a nursing license in Wyoming
+entails
+he has n't gotten a nursing license in Wyoming
+
+he has n't gotten a nursing license in Wyoming
+permits
+he has not been able to get a nursing license in Wyoming
+
+he has not been able to get a nursing license in Wyoming
+permits
+he has n't reserved a license
+
+he had almost been able to get a nursing license in Wyoming
+contradicts
+he had gotten a nursing license in Wyoming
+
+he had gotten a nursing license in Wyoming
+contradicts
+he had almost been able to get a nursing license in Wyoming
+
+he had almost been able to get a nursing license in Wyoming
+permits
+he had surprised his teacher yesterday
+
+you were able to have a positive influence on the actions of others
+entails
+you had a positive influence on the actions of others
+
+you had a positive influence on the actions of others
+permits
+you were able to have a positive influence on the actions of others
+
+you have been able to have a positive influence on the actions of others
+contradicts
+you have n't had a positive influence on the actions of others
+
+you have n't had a positive influence on the actions of others
+contradicts
+you have been able to have a positive influence on the actions of others
+
+you have been able to have a positive influence on the actions of others
+permits
+you have not by-passed the lock screen of an iPhone 5s
+
+you have n't been able to have a positive influence on the actions of others
+entails
+you have n't had a positive influence on the actions of others
+
+you have n't had a positive influence on the actions of others
+permits
+you have n't been able to have a positive influence on the actions of others
+
+you have n't been able to have a positive influence on the actions of others
+permits
+you have not beaten the establishment
+
+you were never able to have a positive influence on the actions of others
+contradicts
+you had a positive influence on the actions of others
+
+you had a positive influence on the actions of others
+contradicts
+you were never able to have a positive influence on the actions of others
+
+you had been able to build motivation in your co-workers or subordinates at work
+entails
+you had built motivation in your co-workers or subordinates at work
+
+you had built motivation in your co-workers or subordinates at work
+permits
+you had been able to build motivation in your co-workers or subordinates at work
+
+you have been able to build motivation in your co-workers or subordinates at work
+contradicts
+you have n't built motivation in your co-workers or subordinates at work
+
+you have n't built motivation in your co-workers or subordinates at work
+contradicts
+you have been able to build motivation in your co-workers or subordinates at work
+
+you were almost able to build motivation in your co-workers or subordinates at work
+entails
+you did not build motivation in your co-workers or subordinates at work
+
+you did not build motivation in your co-workers or subordinates at work
+permits
+you were almost able to build motivation in your co-workers or subordinates at work
+
+you have never been able to build motivation in your co-workers or subordinates at work
+contradicts
+you have built motivation in your co-workers or subordinates at work
+
+you have built motivation in your co-workers or subordinates at work
+contradicts
+you have never been able to build motivation in your co-workers or subordinates at work
+
+we at Big Ant have been able to succeed with niche sports
+entails
+we at Big Ant have succeeded with niche sports
+
+we at Big Ant have succeeded with niche sports
+permits
+we at Big Ant have been able to succeed with niche sports
+
+we at Big Ant have been able to succeed with niche sports
+contradicts
+we at Big Ant have not succeeded with niche sports
+
+we at Big Ant have not succeeded with niche sports
+contradicts
+we at Big Ant have been able to succeed with niche sports
+
+we at Big Ant have been able to succeed with niche sports
+permits
+we at Big Ant have not balanced three teenagers, work, and school to earn her BSN
+
+we at Big Ant had almost been able to succeed with niche sports
+entails
+we at Big Ant had not succeeded with niche sports
+
+we at Big Ant had not succeeded with niche sports
+permits
+we at Big Ant had almost been able to succeed with niche sports
+
+we at Big Ant had almost been able to succeed with niche sports
+permits
+the grandparents had almost succeeded with niche sports
+
+we at Big Ant never were able to succeed with niche sports
+contradicts
+we at Big Ant succeeded with niche sports
+
+we at Big Ant succeeded with niche sports
+contradicts
+we at Big Ant never were able to succeed with niche sports
+
+Caliphate soldiers had been able to target the platoon affiliated to apostate Egyptian Armed Forces
+entails
+Caliphate soldiers had targeted the platoon affiliated to apostate Egyptian Armed Forces
+
+Caliphate soldiers had targeted the platoon affiliated to apostate Egyptian Armed Forces
+permits
+Caliphate soldiers had been able to target the platoon affiliated to apostate Egyptian Armed Forces
+
+Caliphate soldiers had been able to target the platoon affiliated to apostate Egyptian Armed Forces
+permits
+Caliphate soldiers had done it on their own
+
+Caliphate soldiers have been able to target the platoon affiliated to apostate Egyptian Armed Forces
+contradicts
+Caliphate soldiers have n't targeted the platoon affiliated to apostate Egyptian Armed Forces
+
+Caliphate soldiers have n't targeted the platoon affiliated to apostate Egyptian Armed Forces
+contradicts
+Caliphate soldiers have been able to target the platoon affiliated to apostate Egyptian Armed Forces
+
+Caliphate soldiers never were able to target the platoon affiliated to apostate Egyptian Armed Forces
+entails
+Caliphate soldiers did n't target the platoon affiliated to apostate Egyptian Armed Forces
+
+Caliphate soldiers did n't target the platoon affiliated to apostate Egyptian Armed Forces
+permits
+Caliphate soldiers never were able to target the platoon affiliated to apostate Egyptian Armed Forces
+
+Caliphate soldiers never were able to target the platoon affiliated to apostate Egyptian Armed Forces
+permits
+Caliphate soldiers never stood and walked at their promotion ceremony
+
+Caliphate soldiers have almost been able to target the platoon affiliated to apostate Egyptian Armed Forces
+contradicts
+Caliphate soldiers have targeted the platoon affiliated to apostate Egyptian Armed Forces
+
+Caliphate soldiers have targeted the platoon affiliated to apostate Egyptian Armed Forces
+contradicts
+Caliphate soldiers have almost been able to target the platoon affiliated to apostate Egyptian Armed Forces
+
+Caliphate soldiers have almost been able to target the platoon affiliated to apostate Egyptian Armed Forces
+permits
+Caliphate soldiers have run around with their son and my niece
+
+we were able to achieve our aims and objectives
+entails
+we achieved our aims and objectives
+
+we achieved our aims and objectives
+permits
+we were able to achieve our aims and objectives
+
+we were able to achieve our aims and objectives
+permits
+the grandparents achieved their aims and objectives
+
+we had been able to achieve our aims and objectives
+contradicts
+we had not achieved our aims and objectives
+
+we had not achieved our aims and objectives
+contradicts
+we had been able to achieve our aims and objectives
+
+we have never been able to achieve our aims and objectives
+entails
+we have never achieved our aims and objectives
+
+we have never achieved our aims and objectives
+permits
+we have never been able to achieve our aims and objectives
+
+we had never been able to achieve our aims and objectives
+contradicts
+we had achieved our aims and objectives
+
+we had achieved our aims and objectives
+contradicts
+we had never been able to achieve our aims and objectives
+
+they have been able to do it on their own
+entails
+they have done it on their own
+
+they have done it on their own
+permits
+they have been able to do it on their own
+
+they have been able to do it on their own
+permits
+they have correctly identified autism in 80 percent of their subjects
+
+they were able to do it on their own
+contradicts
+they did n't do it on their own
+
+they did n't do it on their own
+contradicts
+they were able to do it on their own
+
+they were almost able to do it on their own
+entails
+they almost did it on their own
+
+they almost did it on their own
+permits
+they were almost able to do it on their own
+
+they were almost able to do it on their own
+permits
+the grandparents did not do it on their own
+
+they had almost been able to do it on their own
+contradicts
+they had done it on their own
+
+they had done it on their own
+contradicts
+they had almost been able to do it on their own
+
+they had been able to view the statue close up
+entails
+they had viewed the statue close up
+
+they had viewed the statue close up
+permits
+they had been able to view the statue close up
+
+they had been able to view the statue close up
+permits
+they had reserved a license
+
+they had been able to view the statue close up
+contradicts
+they had n't viewed the statue close up
+
+they had n't viewed the statue close up
+contradicts
+they had been able to view the statue close up
+
+they have never been able to view the statue close up
+entails
+they have n't viewed the statue close up
+
+they have n't viewed the statue close up
+permits
+they have never been able to view the statue close up
+
+they had n't been able to view the statue close up
+contradicts
+they had viewed the statue close up
+
+they had viewed the statue close up
+contradicts
+they had n't been able to view the statue close up
+
+they had n't been able to view the statue close up
+permits
+they had scuba dived in Antarctica
+
+hackers were able to make off with million from the central bank of Bangladesh
+entails
+hackers made off with $81 million from the central bank of Bangladesh
+
+hackers made off with $81 million from the central bank of Bangladesh
+permits
+hackers were able to make off with million from the central bank of Bangladesh
+
+hackers were able to make off with million from the central bank of Bangladesh
+contradicts
+hackers did n't make off with $81 million from the central bank of Bangladesh
+
+hackers did n't make off with $81 million from the central bank of Bangladesh
+contradicts
+hackers were able to make off with million from the central bank of Bangladesh
+
+hackers were n't able to make off with million from the central bank of Bangladesh
+entails
+hackers did not make off with $81 million from the central bank of Bangladesh
+
+hackers did not make off with $81 million from the central bank of Bangladesh
+permits
+hackers were n't able to make off with million from the central bank of Bangladesh
+
+hackers were n't able to make off with million from the central bank of Bangladesh
+permits
+Caliphate soldiers did n't make off with $81 million from the central bank of Bangladesh
+
+hackers never had been able to make off with million from the central bank of Bangladesh
+contradicts
+hackers had made off with $81 million from the central bank of Bangladesh
+
+hackers had made off with $81 million from the central bank of Bangladesh
+contradicts
+hackers never had been able to make off with million from the central bank of Bangladesh
+
+hackers never had been able to make off with million from the central bank of Bangladesh
+permits
+hackers had seen their daughter get married
+
+Georg Seelig and his team were able to store and retrieve digitized photos on strands of DNA
+entails
+Georg Seelig and his team stored and retrieved digitized photos on strands of DNA
+
+Georg Seelig and his team stored and retrieved digitized photos on strands of DNA
+permits
+Georg Seelig and his team were able to store and retrieve digitized photos on strands of DNA
+
+Georg Seelig and his team were able to store and retrieve digitized photos on strands of DNA
+permits
+Georg Seelig and his team developed a more cordial relationship with Jennylyn
+
+Georg Seelig and his team were able to store and retrieve digitized photos on strands of DNA
+contradicts
+Georg Seelig and his team did not store and retrieve digitized photos on strands of DNA
+
+Georg Seelig and his team did not store and retrieve digitized photos on strands of DNA
+contradicts
+Georg Seelig and his team were able to store and retrieve digitized photos on strands of DNA
+
+Georg Seelig and his team had n't been able to store and retrieve digitized photos on strands of DNA
+entails
+Georg Seelig and his team had not stored and retrieved digitized photos on strands of DNA
+
+Georg Seelig and his team had not stored and retrieved digitized photos on strands of DNA
+permits
+Georg Seelig and his team had n't been able to store and retrieve digitized photos on strands of DNA
+
+Georg Seelig and his team had n't been able to store and retrieve digitized photos on strands of DNA
+permits
+Georg Seelig and his team had not scuba dived in Antarctica
+
+Georg Seelig and his team had n't been able to store and retrieve digitized photos on strands of DNA
+contradicts
+Georg Seelig and his team had stored and retrieved digitized photos on strands of DNA
+
+Georg Seelig and his team had stored and retrieved digitized photos on strands of DNA
+contradicts
+Georg Seelig and his team had n't been able to store and retrieve digitized photos on strands of DNA
+
+Georg Seelig and his team had n't been able to store and retrieve digitized photos on strands of DNA
+permits
+Georg Seelig and his team had performed integral calculus in their head
+
+the six Canadians had been able to join ISIL
+permits
+the six Canadians had joined ISIL
+
+the six Canadians were able to join ISIL
+permits
+the six Canadians did n't join ISIL
+
+the six Canadians did n't join ISIL
+permits
+the six Canadians were able to join ISIL
+
+the six Canadians were n't able to join ISIL
+entails
+the six Canadians did not join ISIL
+
+the six Canadians did not join ISIL
+permits
+the six Canadians were n't able to join ISIL
+
+the six Canadians were n't able to join ISIL
+permits
+we did not join ISIL
+
+the six Canadians were never able to join ISIL
+contradicts
+the six Canadians joined ISIL
+
+the six Canadians joined ISIL
+contradicts
+the six Canadians were never able to join ISIL
+
+the six Canadians were never able to join ISIL
+permits
+Caliphate soldiers joined ISIL
+
+the grandparents were able to unload their luggage
+entails
+the grandparents unloaded their luggage
+
+the grandparents unloaded their luggage
+permits
+the grandparents were able to unload their luggage
+
+the grandparents were able to unload their luggage
+permits
+the grandparents related to their 'Bad Moms' role
+
+the grandparents had been able to unload their luggage
+contradicts
+the grandparents had not unloaded their luggage
+
+the grandparents had not unloaded their luggage
+contradicts
+the grandparents had been able to unload their luggage
+
+the grandparents had been able to unload their luggage
+permits
+the grandparents had not reserved a license
+
+the grandparents had n't been able to unload their luggage
+entails
+the grandparents had n't unloaded their luggage
+
+the grandparents had n't unloaded their luggage
+permits
+the grandparents had n't been able to unload their luggage
+
+the grandparents had never been able to unload their luggage
+contradicts
+the grandparents had unloaded their luggage
+
+the grandparents had unloaded their luggage
+contradicts
+the grandparents had never been able to unload their luggage
+
+Google Deep Mind had been able to beat a professional Go player
+entails
+Google Deep Mind had beaten a professional Go player
+
+Google Deep Mind had beaten a professional Go player
+permits
+Google Deep Mind had been able to beat a professional Go player
+
+Google Deep Mind had been able to beat a professional Go player
+contradicts
+Google Deep Mind had not beaten a professional Go player
+
+Google Deep Mind had not beaten a professional Go player
+contradicts
+Google Deep Mind had been able to beat a professional Go player
+
+Google Deep Mind almost had been able to beat a professional Go player
+entails
+Google Deep Mind had n't beaten a professional Go player
+
+Google Deep Mind had n't beaten a professional Go player
+permits
+Google Deep Mind almost had been able to beat a professional Go player
+
+Google Deep Mind had never been able to beat a professional Go player
+contradicts
+Google Deep Mind had beaten a professional Go player
+
+Google Deep Mind had beaten a professional Go player
+contradicts
+Google Deep Mind had never been able to beat a professional Go player
+
+the hosts were able to humiliate their beleaguered visitors
+entails
+the hosts humiliated their beleaguered visitors
+
+the hosts humiliated their beleaguered visitors
+permits
+the hosts were able to humiliate their beleaguered visitors
+
+the hosts had been able to humiliate their beleaguered visitors
+contradicts
+the hosts had not humiliated their beleaguered visitors
+
+the hosts had not humiliated their beleaguered visitors
+contradicts
+the hosts had been able to humiliate their beleaguered visitors
+
+the hosts have n't been able to humiliate their beleaguered visitors
+entails
+the hosts have n't humiliated their beleaguered visitors
+
+the hosts have n't humiliated their beleaguered visitors
+permits
+the hosts have n't been able to humiliate their beleaguered visitors
+
+the hosts have n't been able to humiliate their beleaguered visitors
+permits
+hackers have n't humiliated their beleaguered visitors
+
+the hosts were not able to humiliate their beleaguered visitors
+contradicts
+the hosts humiliated their beleaguered visitors
+
+the hosts humiliated their beleaguered visitors
+contradicts
+the hosts were not able to humiliate their beleaguered visitors
+
+the hosts were not able to humiliate their beleaguered visitors
+permits
+Georg Seelig and his team humiliated their beleaguered visitors
+
+the researchers have been able to correctly identify autism in 80 percent of their subjects
+entails
+the researchers have correctly identified autism in 80 percent of their subjects
+
+the researchers have correctly identified autism in 80 percent of their subjects
+permits
+the researchers have been able to correctly identify autism in 80 percent of their subjects
+
+the researchers had been able to correctly identify autism in 80 percent of their subjects
+contradicts
+the researchers had n't correctly identified autism in 80 percent of their subjects
+
+the researchers had n't correctly identified autism in 80 percent of their subjects
+contradicts
+the researchers had been able to correctly identify autism in 80 percent of their subjects
+
+the researchers had almost been able to correctly identify autism in 80 percent of their subjects
+entails
+the researchers had almost correctly identified autism in 80 percent of their subjects
+
+the researchers had almost correctly identified autism in 80 percent of their subjects
+permits
+the researchers had almost been able to correctly identify autism in 80 percent of their subjects
+
+the researchers had not been able to correctly identify autism in 80 percent of their subjects
+contradicts
+the researchers had correctly identified autism in 80 percent of their subjects
+
+the researchers had correctly identified autism in 80 percent of their subjects
+contradicts
+the researchers had not been able to correctly identify autism in 80 percent of their subjects
+
+the BIMcloud had been able to reserve a license
+permits
+the BIMcloud had reserved a license
+
+the BIMcloud had been able to reserve a license
+permits
+the BIMcloud had not reserved a license
+
+the BIMcloud had not reserved a license
+permits
+the BIMcloud had been able to reserve a license
+
+the BIMcloud never had been able to reserve a license
+entails
+the BIMcloud had n't reserved a license
+
+the BIMcloud had n't reserved a license
+permits
+the BIMcloud never had been able to reserve a license
+
+the BIMcloud never had been able to reserve a license
+permits
+her 5-year-old son had not reserved a license
+
+the BIMcloud had never been able to reserve a license
+contradicts
+the BIMcloud had reserved a license
+
+the BIMcloud had reserved a license
+contradicts
+the BIMcloud had never been able to reserve a license
+
+the BIMcloud had never been able to reserve a license
+permits
+Abdelslam had reserved a license
+
+the assailant had been able to get by his daughter's two dogs
+entails
+the assailant had gotten by his daughter's two dogs
+
+the assailant had gotten by his daughter's two dogs
+permits
+the assailant had been able to get by his daughter's two dogs
+
+the assailant had been able to get by his daughter's two dogs
+permits
+I had gotten by my daughter's two dogs
+
+the assailant has been able to get by his daughter's two dogs
+contradicts
+the assailant has n't gotten by his daughter's two dogs
+
+the assailant has n't gotten by his daughter's two dogs
+contradicts
+the assailant has been able to get by his daughter's two dogs
+
+the assailant has been able to get by his daughter's two dogs
+permits
+the assailant has not made the purchase
+
+the assailant has n't been able to get by his daughter's two dogs
+entails
+the assailant has not gotten by his daughter's two dogs
+
+the assailant has not gotten by his daughter's two dogs
+permits
+the assailant has n't been able to get by his daughter's two dogs
+
+the assailant has n't been able to get by his daughter's two dogs
+permits
+the assailant has not predicted the behavior of hydrogen
+
+the assailant had not been able to get by his daughter's two dogs
+contradicts
+the assailant had gotten by his daughter's two dogs
+
+the assailant had gotten by his daughter's two dogs
+contradicts
+the assailant had not been able to get by his daughter's two dogs
+
+Cpl. Joshua Burch was able to stand and walk at his promotion ceremony
+entails
+Cpl. Joshua Burch stood and walked at his promotion ceremony
+
+Cpl. Joshua Burch stood and walked at his promotion ceremony
+permits
+Cpl. Joshua Burch was able to stand and walk at his promotion ceremony
+
+Cpl. Joshua Burch was able to stand and walk at his promotion ceremony
+permits
+Cpl. Joshua Burch achieved his aims and objectives
+
+Cpl. Joshua Burch was able to stand and walk at his promotion ceremony
+contradicts
+Cpl. Joshua Burch did n't stand and walk at his promotion ceremony
+
+Cpl. Joshua Burch did n't stand and walk at his promotion ceremony
+contradicts
+Cpl. Joshua Burch was able to stand and walk at his promotion ceremony
+
+Cpl. Joshua Burch was able to stand and walk at his promotion ceremony
+permits
+this blind mom did n't stand and walk at her promotion ceremony
+
+Cpl. Joshua Burch has almost been able to stand and walk at his promotion ceremony
+entails
+Cpl. Joshua Burch has not stood and walked at his promotion ceremony
+
+Cpl. Joshua Burch has not stood and walked at his promotion ceremony
+permits
+Cpl. Joshua Burch has almost been able to stand and walk at his promotion ceremony
+
+Cpl. Joshua Burch has almost been able to stand and walk at his promotion ceremony
+permits
+James has n't stood and walked at his promotion ceremony
+
+Cpl. Joshua Burch was never able to stand and walk at his promotion ceremony
+contradicts
+Cpl. Joshua Burch stood and walked at his promotion ceremony
+
+Cpl. Joshua Burch stood and walked at his promotion ceremony
+contradicts
+Cpl. Joshua Burch was never able to stand and walk at his promotion ceremony
+
+Cpl. Joshua Burch was never able to stand and walk at his promotion ceremony
+permits
+Cpl. Joshua Burch got a nursing license in Wyoming
+
+the paedophile doctor had been able to dupe colleagues and manipulate hospital policy
+entails
+the paedophile doctor had duped colleagues and manipulated hospital policy
+
+the paedophile doctor had duped colleagues and manipulated hospital policy
+permits
+the paedophile doctor had been able to dupe colleagues and manipulate hospital policy
+
+the paedophile doctor has been able to dupe colleagues and manipulate hospital policy
+contradicts
+the paedophile doctor has n't duped colleagues and manipulated hospital policy
+
+the paedophile doctor has n't duped colleagues and manipulated hospital policy
+contradicts
+the paedophile doctor has been able to dupe colleagues and manipulate hospital policy
+
+the paedophile doctor was almost able to dupe colleagues and manipulate hospital policy
+entails
+the paedophile doctor did not dupe colleagues and manipulate hospital policy
+
+the paedophile doctor did not dupe colleagues and manipulate hospital policy
+permits
+the paedophile doctor was almost able to dupe colleagues and manipulate hospital policy
+
+the paedophile doctor was not able to dupe colleagues and manipulate hospital policy
+contradicts
+the paedophile doctor duped colleagues and manipulated hospital policy
+
+the paedophile doctor duped colleagues and manipulated hospital policy
+contradicts
+the paedophile doctor was not able to dupe colleagues and manipulate hospital policy
+
+the LAPD has been able to bypass the lock screen of an iPhone 5s
+entails
+the LAPD has by-passed the lock screen of an iPhone 5s
+
+the LAPD has by-passed the lock screen of an iPhone 5s
+permits
+the LAPD has been able to bypass the lock screen of an iPhone 5s
+
+the LAPD was able to bypass the lock screen of an iPhone 5s
+contradicts
+the LAPD did n't bypass the lock screen of an iPhone 5s
+
+the LAPD did n't bypass the lock screen of an iPhone 5s
+contradicts
+the LAPD was able to bypass the lock screen of an iPhone 5s
+
+the LAPD was able to bypass the lock screen of an iPhone 5s
+permits
+the LAPD did not achieve its aims and objectives
+
+the LAPD had n't been able to bypass the lock screen of an iPhone 5s
+entails
+the LAPD had n't by-passed the lock screen of an iPhone 5s
+
+the LAPD had n't by-passed the lock screen of an iPhone 5s
+permits
+the LAPD had n't been able to bypass the lock screen of an iPhone 5s
+
+the LAPD has never been able to bypass the lock screen of an iPhone 5s
+contradicts
+the LAPD has by-passed the lock screen of an iPhone 5s
+
+the LAPD has by-passed the lock screen of an iPhone 5s
+contradicts
+the LAPD has never been able to bypass the lock screen of an iPhone 5s
+
+I have been able to get back up to speed right away
+entails
+I have gotten back up to speed right away
+
+I have gotten back up to speed right away
+permits
+I have been able to get back up to speed right away
+
+I was able to get back up to speed right away
+contradicts
+I did n't get back up to speed right away
+
+I did n't get back up to speed right away
+contradicts
+I was able to get back up to speed right away
+
+I had n't been able to get back up to speed right away
+entails
+I had not gotten back up to speed right away
+
+I had not gotten back up to speed right away
+permits
+I had n't been able to get back up to speed right away
+
+I had n't been able to get back up to speed right away
+permits
+Google Deep Mind had not gotten back up to speed right away
+
+I have never been able to get back up to speed right away
+contradicts
+I have gotten back up to speed right away
+
+I have gotten back up to speed right away
+contradicts
+I have never been able to get back up to speed right away
+
+I have never been able to get back up to speed right away
+permits
+the mean American household has gotten back up to speed right away
+
+he had been able to make us see himself differently
+entails
+he had made us see himself differently
+
+he had made us see himself differently
+permits
+he had been able to make us see himself differently
+
+he had been able to make us see himself differently
+contradicts
+he had n't made us see himself differently
+
+he had n't made us see himself differently
+contradicts
+he had been able to make us see himself differently
+
+he had been able to make us see himself differently
+permits
+Cpl. Joshua Burch had n't made us see himself differently
+
+he had not been able to make us see himself differently
+entails
+he had not made us see himself differently
+
+he had not made us see himself differently
+permits
+he had not been able to make us see himself differently
+
+he had not been able to make us see himself differently
+permits
+Tesla had not made us see itself differently
+
+he was not able to make us see himself differently
+contradicts
+he made us see himself differently
+
+he made us see himself differently
+contradicts
+he was not able to make us see himself differently
+
+Abdelslam had been able to avoid capture for four months in his own neighborhood
+entails
+Abdelslam had avoided capture for four months in his own neighborhood
+
+Abdelslam had avoided capture for four months in his own neighborhood
+permits
+Abdelslam had been able to avoid capture for four months in his own neighborhood
+
+Abdelslam had been able to avoid capture for four months in his own neighborhood
+contradicts
+Abdelslam had not avoided capture for four months in his own neighborhood
+
+Abdelslam had not avoided capture for four months in his own neighborhood
+contradicts
+Abdelslam had been able to avoid capture for four months in his own neighborhood
+
+Abdelslam was never able to avoid capture for four months in his own neighborhood
+entails
+Abdelslam did not avoid capture for four months in his own neighborhood
+
+Abdelslam did not avoid capture for four months in his own neighborhood
+permits
+Abdelslam was never able to avoid capture for four months in his own neighborhood
+
+Abdelslam was almost able to avoid capture for four months in his own neighborhood
+contradicts
+Abdelslam avoided capture for four months in his own neighborhood
+
+Abdelslam avoided capture for four months in his own neighborhood
+contradicts
+Abdelslam was almost able to avoid capture for four months in his own neighborhood
+
+she had been able to see her daughter walk down the aisle
+entails
+she had seen her daughter walk down the aisle
+
+she had seen her daughter walk down the aisle
+permits
+she had been able to see her daughter walk down the aisle
+
+she has been able to see her daughter walk down the aisle
+contradicts
+she has n't seen her daughter walk down the aisle
+
+she has n't seen her daughter walk down the aisle
+contradicts
+she has been able to see her daughter walk down the aisle
+
+she almost had been able to see her daughter walk down the aisle
+entails
+she had almost seen her daughter walk down the aisle
+
+she had almost seen her daughter walk down the aisle
+permits
+she almost had been able to see her daughter walk down the aisle
+
+she almost had been able to see her daughter walk down the aisle
+permits
+Cpl. Joshua Burch had almost seen his daughter walk down the aisle
+
+she has n't been able to see her daughter walk down the aisle
+contradicts
+she has seen her daughter walk down the aisle
+
+she has seen her daughter walk down the aisle
+contradicts
+she has n't been able to see her daughter walk down the aisle
+
+she has n't been able to see her daughter walk down the aisle
+permits
+she has surprised her teacher yesterday
+
+I had been able to use my Comcast account and send emails
+entails
+I had used my Comcast account and sent emails
+
+I had used my Comcast account and sent emails
+permits
+I had been able to use my Comcast account and send emails
+
+I had been able to use my Comcast account and send emails
+permits
+Abdelslam had used my Comcast account and sent emails
+
+I have been able to use my Comcast account and send emails
+contradicts
+I have n't used my Comcast account and sent emails
+
+I have n't used my Comcast account and sent emails
+contradicts
+I have been able to use my Comcast account and send emails
+
+I have been able to use my Comcast account and send emails
+permits
+I have n't viewed the statue close up
+
+I have n't been able to use my Comcast account and send emails
+entails
+I have not used my Comcast account and sent emails
+
+I have not used my Comcast account and sent emails
+permits
+I have n't been able to use my Comcast account and send emails
+
+I have n't been able to use my Comcast account and send emails
+permits
+I have not done it on my own
+
+I was n't able to use my Comcast account and send emails
+contradicts
+I used my Comcast account and sent emails
+
+I used my Comcast account and sent emails
+contradicts
+I was n't able to use my Comcast account and send emails
+
+Lamar Odom has been able to communicate
+permits
+Lamar Odom has communicated
+
+Lamar Odom has been able to communicate
+permits
+Lamar Odom has not communicated
+
+Lamar Odom has not communicated
+permits
+Lamar Odom has been able to communicate
+
+Lamar Odom had n't been able to communicate
+entails
+Lamar Odom had not communicated
+
+Lamar Odom had not communicated
+permits
+Lamar Odom had n't been able to communicate
+
+Lamar Odom had n't been able to communicate
+permits
+you had n't communicated
+
+Lamar Odom has never been able to communicate
+contradicts
+Lamar Odom has communicated
+
+Lamar Odom has communicated
+contradicts
+Lamar Odom has never been able to communicate
+
+I have been able to grab him myself and pull him to my chest
+entails
+I have grabbed him myself and pulled him to my chest
+
+I have grabbed him myself and pulled him to my chest
+permits
+I have been able to grab him myself and pull him to my chest
+
+I have been able to grab him myself and pull him to my chest
+permits
+Google Deep Mind has grabbed him itself and pulled him to its chest
+
+I had been able to grab him myself and pull him to my chest
+contradicts
+I had n't grabbed him myself and pulled him to my chest
+
+I had n't grabbed him myself and pulled him to my chest
+contradicts
+I had been able to grab him myself and pull him to my chest
+
+I had been able to grab him myself and pull him to my chest
+permits
+Sarah Cafferkey's murderer had not grabbed him himself and pulled him to his chest
+
+I had not been able to grab him myself and pull him to my chest
+entails
+I had not grabbed him myself and pulled him to my chest
+
+I had not grabbed him myself and pulled him to my chest
+permits
+I had not been able to grab him myself and pull him to my chest
+
+I had not been able to grab him myself and pull him to my chest
+permits
+I had n't moved further left
+
+I was not able to grab him myself and pull him to my chest
+contradicts
+I grabbed him myself and pulled him to my chest
+
+I grabbed him myself and pulled him to my chest
+contradicts
+I was not able to grab him myself and pull him to my chest
+
+Mila Kunis was able to relate to her 'Bad Moms' role
+entails
+Mila Kunis related to her 'Bad Moms' role
+
+Mila Kunis related to her 'Bad Moms' role
+permits
+Mila Kunis was able to relate to her 'Bad Moms' role
+
+Mila Kunis has been able to relate to her 'Bad Moms' role
+contradicts
+Mila Kunis has not related to her 'Bad Moms' role
+
+Mila Kunis has not related to her 'Bad Moms' role
+contradicts
+Mila Kunis has been able to relate to her 'Bad Moms' role
+
+Mila Kunis was never able to relate to her 'Bad Moms' role
+entails
+Mila Kunis never related to her 'Bad Moms' role
+
+Mila Kunis never related to her 'Bad Moms' role
+permits
+Mila Kunis was never able to relate to her 'Bad Moms' role
+
+Mila Kunis was never able to relate to her 'Bad Moms' role
+permits
+Mila Kunis never created an account
+
+Mila Kunis had n't been able to relate to her 'Bad Moms' role
+contradicts
+Mila Kunis had related to her 'Bad Moms' role
+
+Mila Kunis had related to her 'Bad Moms' role
+contradicts
+Mila Kunis had n't been able to relate to her 'Bad Moms' role
+
+Mila Kunis had n't been able to relate to her 'Bad Moms' role
+permits
+the LAPD had related to its 'Bad Moms' role
+
+James was able to gather the system information and intended to save in a file called 'sysinfo.txt'
+entails
+James gathered the system information and intended to save in a file called 'sysinfo.txt'
+
+James gathered the system information and intended to save in a file called 'sysinfo.txt'
+permits
+James was able to gather the system information and intended to save in a file called 'sysinfo.txt'
+
+James was able to gather the system information and intended to save in a file called 'sysinfo.txt'
+permits
+James related to his 'Bad Moms' role
+
+James was able to gather the system information and intended to save in a file called 'sysinfo.txt'
+contradicts
+James did n't gather the system information and intend to save in a file called 'sysinfo.txt'
+
+James did n't gather the system information and intend to save in a file called 'sysinfo.txt'
+contradicts
+James was able to gather the system information and intended to save in a file called 'sysinfo.txt'
+
+James had not been able to gather the system information and intended to save in a file called 'sysinfo.txt'
+entails
+James had not gathered the system information and intended to save in a file called 'sysinfo.txt'
+
+James had not gathered the system information and intended to save in a file called 'sysinfo.txt'
+permits
+James had not been able to gather the system information and intended to save in a file called 'sysinfo.txt'
+
+James had not been able to gather the system information and intended to save in a file called 'sysinfo.txt'
+contradicts
+James had gathered the system information and intended to save in a file called 'sysinfo.txt'
+
+James had gathered the system information and intended to save in a file called 'sysinfo.txt'
+contradicts
+James had not been able to gather the system information and intended to save in a file called 'sysinfo.txt'
+
+Dr Webster has been able to scuba dive in Antarctica
+entails
+Dr Webster has scuba dived in Antarctica
+
+Dr Webster has scuba dived in Antarctica
+permits
+Dr Webster has been able to scuba dive in Antarctica
+
+Dr Webster had been able to scuba dive in Antarctica
+contradicts
+Dr Webster had not scuba dived in Antarctica
+
+Dr Webster had not scuba dived in Antarctica
+contradicts
+Dr Webster had been able to scuba dive in Antarctica
+
+Dr Webster has n't been able to scuba dive in Antarctica
+entails
+Dr Webster has n't scuba dived in Antarctica
+
+Dr Webster has n't scuba dived in Antarctica
+permits
+Dr Webster has n't been able to scuba dive in Antarctica
+
+Dr Webster has not been able to scuba dive in Antarctica
+contradicts
+Dr Webster has scuba dived in Antarctica
+
+Dr Webster has scuba dived in Antarctica
+contradicts
+Dr Webster has not been able to scuba dive in Antarctica
+
+Trump had been able to beat the establishment and beat them badly
+entails
+Trump had beaten the establishment and beaten them badly
+
+Trump had beaten the establishment and beaten them badly
+permits
+Trump had been able to beat the establishment and beat them badly
+
+Trump had been able to beat the establishment and beat them badly
+permits
+alumna Karen Brady had beaten the establishment and beaten them badly
+
+Trump was able to beat the establishment and beat them badly
+contradicts
+Trump did not beat the establishment and beat them badly
+
+Trump did not beat the establishment and beat them badly
+contradicts
+Trump was able to beat the establishment and beat them badly
+
+Trump had never been able to beat the establishment and beat them badly
+entails
+Trump had n't beaten the establishment and beaten them badly
+
+Trump had n't beaten the establishment and beaten them badly
+permits
+Trump had never been able to beat the establishment and beat them badly
+
+Trump had n't been able to beat the establishment and beat them badly
+contradicts
+Trump had beaten the establishment and beaten them badly
+
+Trump had beaten the establishment and beaten them badly
+contradicts
+Trump had n't been able to beat the establishment and beat them badly
+
+Trump had n't been able to beat the establishment and beat them badly
+permits
+Trump had reserved a license
+
+Tesla had been able to perform integral calculus in its head
+entails
+Tesla had performed integral calculus in its head
+
+Tesla had performed integral calculus in its head
+permits
+Tesla had been able to perform integral calculus in its head
+
+Tesla has been able to perform integral calculus in its head
+contradicts
+Tesla has not performed integral calculus in its head
+
+Tesla has not performed integral calculus in its head
+contradicts
+Tesla has been able to perform integral calculus in its head
+
+Tesla was n't able to perform integral calculus in its head
+entails
+Tesla did n't perform integral calculus in its head
+
+Tesla did n't perform integral calculus in its head
+permits
+Tesla was n't able to perform integral calculus in its head
+
+Tesla had n't been able to perform integral calculus in its head
+contradicts
+Tesla had performed integral calculus in its head
+
+Tesla had performed integral calculus in its head
+contradicts
+Tesla had n't been able to perform integral calculus in its head
+
+Tesla had n't been able to perform integral calculus in its head
+permits
+Abdelslam had performed integral calculus in his head
+
+party outsiders were able to break through party establishment firewalls
+entails
+party outsiders broke through party establishment firewalls
+
+party outsiders broke through party establishment firewalls
+permits
+party outsiders were able to break through party establishment firewalls
+
+party outsiders have been able to break through party establishment firewalls
+contradicts
+party outsiders have n't broken through party establishment firewalls
+
+party outsiders have n't broken through party establishment firewalls
+contradicts
+party outsiders have been able to break through party establishment firewalls
+
+party outsiders were not able to break through party establishment firewalls
+entails
+party outsiders did n't break through party establishment firewalls
+
+party outsiders did n't break through party establishment firewalls
+permits
+party outsiders were not able to break through party establishment firewalls
+
+party outsiders were not able to break through party establishment firewalls
+permits
+party outsiders did not achieve their aims and objectives
+
+party outsiders were almost able to break through party establishment firewalls
+contradicts
+party outsiders broke through party establishment firewalls
+
+party outsiders broke through party establishment firewalls
+contradicts
+party outsiders were almost able to break through party establishment firewalls
+
+the gunman had been able to buy an assault weapon and handgun
+entails
+the gunman had bought an assault weapon and handgun
+
+the gunman had bought an assault weapon and handgun
+permits
+the gunman had been able to buy an assault weapon and handgun
+
+the gunman has been able to buy an assault weapon and handgun
+contradicts
+the gunman has not bought an assault weapon and handgun
+
+the gunman has not bought an assault weapon and handgun
+contradicts
+the gunman has been able to buy an assault weapon and handgun
+
+the gunman has almost been able to buy an assault weapon and handgun
+entails
+the gunman has n't bought an assault weapon and handgun
+
+the gunman has n't bought an assault weapon and handgun
+permits
+the gunman has almost been able to buy an assault weapon and handgun
+
+the gunman has almost been able to buy an assault weapon and handgun
+contradicts
+the gunman has bought an assault weapon and handgun
+
+the gunman has bought an assault weapon and handgun
+contradicts
+the gunman has almost been able to buy an assault weapon and handgun
+
+this guy had been able to go fishing from his balcony
+entails
+this guy had gone fishing from his balcony
+
+this guy had gone fishing from his balcony
+permits
+this guy had been able to go fishing from his balcony
+
+this guy had been able to go fishing from his balcony
+permits
+this guy had played the system
+
+this guy had been able to go fishing from his balcony
+contradicts
+this guy had n't gone fishing from his balcony
+
+this guy had n't gone fishing from his balcony
+contradicts
+this guy had been able to go fishing from his balcony
+
+this guy was not able to go fishing from his balcony
+entails
+this guy did not go fishing from his balcony
+
+this guy did not go fishing from his balcony
+permits
+this guy was not able to go fishing from his balcony
+
+this guy was not able to go fishing from his balcony
+permits
+the far-right did not go fishing from its balcony
+
+this guy was not able to go fishing from his balcony
+contradicts
+this guy went fishing from his balcony
+
+this guy went fishing from his balcony
+contradicts
+this guy was not able to go fishing from his balcony
+
+it has been able to predict the behavior of hydrogen
+entails
+it has predicted the behavior of hydrogen
+
+it has predicted the behavior of hydrogen
+permits
+it has been able to predict the behavior of hydrogen
+
+it has been able to accurately predict the behavior of hydrogen
+entails
+it has accurately predicted the behavior of hydrogen
+
+it has accurately predicted the behavior of hydrogen
+permits
+it has been able to accurately predict the behavior of hydrogen
+
+it has been able to predict the behavior of hydrogen
+contradicts
+it has n't predicted the behavior of hydrogen
+
+it has n't predicted the behavior of hydrogen
+contradicts
+it has been able to predict the behavior of hydrogen
+
+it has been able to predict the behavior of hydrogen
+permits
+it has n't moved further left
+
+it has been able to predict the behavior of hydrogen
+permits
+it has n't gone fishing from its balcony
+
+it has been able to accurately predict the behavior of hydrogen
+contradicts
+it has n't accurately predicted the behavior of hydrogen
+
+it has n't accurately predicted the behavior of hydrogen
+contradicts
+it has been able to accurately predict the behavior of hydrogen
+
+it has been able to accurately predict the behavior of hydrogen
+permits
+the far-right has n't predicted the behavior of hydrogen
+
+it has been able to accurately predict the behavior of hydrogen
+permits
+the far-right has n't accurately predicted the behavior of hydrogen
+
+it has not been able to predict the behavior of hydrogen
+entails
+it has n't predicted the behavior of hydrogen
+
+it has n't predicted the behavior of hydrogen
+permits
+it has not been able to predict the behavior of hydrogen
+
+it has not been able to predict the behavior of hydrogen
+permits
+she has never predicted the behavior of hydrogen
+
+it has not been able to predict the behavior of hydrogen
+permits
+I have not accurately predicted the behavior of hydrogen
+
+it has never been able to accurately predict the behavior of hydrogen
+entails
+it has n't accurately predicted the behavior of hydrogen
+
+it has n't accurately predicted the behavior of hydrogen
+permits
+it has never been able to accurately predict the behavior of hydrogen
+
+it has never been able to accurately predict the behavior of hydrogen
+permits
+it has n't by-passed the lock screen of an iPhone 5s
+
+it has never been able to accurately predict the behavior of hydrogen
+permits
+it has never targeted the platoon affiliated to apostate Egyptian Armed Forces
+
+it had almost been able to predict the behavior of hydrogen
+contradicts
+it had predicted the behavior of hydrogen
+
+it had predicted the behavior of hydrogen
+contradicts
+it had almost been able to predict the behavior of hydrogen
+
+it had n't been able to accurately predict the behavior of hydrogen
+contradicts
+it had accurately predicted the behavior of hydrogen
+
+it had accurately predicted the behavior of hydrogen
+contradicts
+it had n't been able to accurately predict the behavior of hydrogen
+
+it had n't been able to accurately predict the behavior of hydrogen
+permits
+it had beaten the establishment
+
+it had n't been able to accurately predict the behavior of hydrogen
+permits
+it had gotten by its daughter's two dogs
+
+it has been able to invest in the resources it needed
+entails
+it has invested in the resources it needed
+
+it has invested in the resources it needed
+permits
+it has been able to invest in the resources it needed
+
+it has been able to invest in the resources it needed
+permits
+this blind mom has invested in the resources she needed
+
+it has been able to invest in the resources it needed
+contradicts
+it has not invested in the resources it needed
+
+it has not invested in the resources it needed
+contradicts
+it has been able to invest in the resources it needed
+
+it was never able to invest in the resources it needed
+entails
+it never invested in the resources it needed
+
+it never invested in the resources it needed
+permits
+it was never able to invest in the resources it needed
+
+it had never been able to invest in the resources it needed
+contradicts
+it had invested in the resources it needed
+
+it had invested in the resources it needed
+contradicts
+it had never been able to invest in the resources it needed
+
+we have been able to work around these problems
+entails
+we have worked around these problems
+
+we have worked around these problems
+permits
+we have been able to work around these problems
+
+we have been able to work around these problems
+permits
+we have targeted the platoon affiliated to apostate Egyptian Armed Forces
+
+we had been able to work around these problems
+contradicts
+we had n't worked around these problems
+
+we had n't worked around these problems
+contradicts
+we had been able to work around these problems
+
+we were n't able to work around these problems
+entails
+we did not work around these problems
+
+we did not work around these problems
+permits
+we were n't able to work around these problems
+
+we were n't able to work around these problems
+contradicts
+we worked around these problems
+
+we worked around these problems
+contradicts
+we were n't able to work around these problems
+
+we were n't able to work around these problems
+permits
+we bought an assault weapon and handgun
+
+they have been able to do it on their own
+entails
+they have done it on their own
+
+they have done it on their own
+permits
+they have been able to do it on their own
+
+they were able to do it on their own
+contradicts
+they did not do it on their own
+
+they did not do it on their own
+contradicts
+they were able to do it on their own
+
+they were able to do it on their own
+permits
+they did n't perform integral calculus in their head
+
+they were almost able to do it on their own
+entails
+they did n't do it on their own
+
+they did n't do it on their own
+permits
+they were almost able to do it on their own
+
+they were almost able to do it on their own
+permits
+the hosts did not do it on their own
+
+they had not been able to do it on their own
+contradicts
+they had done it on their own
+
+they had done it on their own
+contradicts
+they had not been able to do it on their own
+
+they had been able to rescue this puppy from a hot car
+entails
+they had rescued this puppy from a hot car
+
+they had rescued this puppy from a hot car
+permits
+they had been able to rescue this puppy from a hot car
+
+they had been able to rescue this puppy from a hot car
+permits
+Caliphate soldiers had rescued this puppy from a hot car
+
+they had been able to rescue this puppy from a hot car
+contradicts
+they had not rescued this puppy from a hot car
+
+they had not rescued this puppy from a hot car
+contradicts
+they had been able to rescue this puppy from a hot car
+
+they have never been able to rescue this puppy from a hot car
+entails
+they have not rescued this puppy from a hot car
+
+they have not rescued this puppy from a hot car
+permits
+they have never been able to rescue this puppy from a hot car
+
+they have never been able to rescue this puppy from a hot car
+permits
+they have never viewed the statue close up
+
+they had n't been able to rescue this puppy from a hot car
+contradicts
+they had rescued this puppy from a hot car
+
+they had rescued this puppy from a hot car
+contradicts
+they had n't been able to rescue this puppy from a hot car
+
+they had n't been able to rescue this puppy from a hot car
+permits
+they had gotten by their daughter's two dogs
+
+it had been able to return to its original position
+entails
+it had returned to its original position
+
+it had returned to its original position
+permits
+it had been able to return to its original position
+
+it was able to return to its original position
+contradicts
+it did n't return to its original position
+
+it did n't return to its original position
+contradicts
+it was able to return to its original position
+
+it was almost able to return to its original position
+entails
+it almost returned to its original position
+
+it almost returned to its original position
+permits
+it was almost able to return to its original position
+
+it was almost able to return to its original position
+permits
+it did n't get back up to speed right away
+
+it was not able to return to its original position
+contradicts
+it returned to its original position
+
+it returned to its original position
+contradicts
+it was not able to return to its original position
+
+the Democratic Party had been able to move further left
+entails
+the Democratic Party had moved further left
+
+the Democratic Party had moved further left
+permits
+the Democratic Party had been able to move further left
+
+the Democratic Party was able to move further left
+contradicts
+the Democratic Party did n't move further left
+
+the Democratic Party did n't move further left
+contradicts
+the Democratic Party was able to move further left
+
+the Democratic Party was able to move further left
+permits
+the Democratic Party did not gather the system information and intend to save in a file called 'sysinfo.txt'
+
+the Democratic Party has not been able to move further left
+entails
+the Democratic Party has n't moved further left
+
+the Democratic Party has n't moved further left
+permits
+the Democratic Party has not been able to move further left
+
+the Democratic Party has almost been able to move further left
+contradicts
+the Democratic Party has moved further left
+
+the Democratic Party has moved further left
+contradicts
+the Democratic Party has almost been able to move further left
+
+the Democratic Party has almost been able to move further left
+permits
+the Democratic Party has bought an assault weapon and handgun
+
+Sarah Cafferkey's murderer has been able to play the system
+entails
+Sarah Cafferkey's murderer has played the system
+
+Sarah Cafferkey's murderer has played the system
+permits
+Sarah Cafferkey's murderer has been able to play the system
+
+Sarah Cafferkey's murderer has been able to play the system
+permits
+Sarah Cafferkey's murderer has beaten the establishment and beaten them badly
+
+Sarah Cafferkey's murderer had been able to play the system
+contradicts
+Sarah Cafferkey's murderer had n't played the system
+
+Sarah Cafferkey's murderer had n't played the system
+contradicts
+Sarah Cafferkey's murderer had been able to play the system
+
+Sarah Cafferkey's murderer had been able to play the system
+permits
+Sarah Cafferkey's murderer had n't broken through party establishment firewalls
+
+Sarah Cafferkey's murderer has not been able to play the system
+entails
+Sarah Cafferkey's murderer has not played the system
+
+Sarah Cafferkey's murderer has not played the system
+permits
+Sarah Cafferkey's murderer has not been able to play the system
+
+Sarah Cafferkey's murderer has never been able to play the system
+contradicts
+Sarah Cafferkey's murderer has played the system
+
+Sarah Cafferkey's murderer has played the system
+contradicts
+Sarah Cafferkey's murderer has never been able to play the system
+
+the far-right was able to disturb the vigil for the victims
+entails
+the far-right disturbed the vigil for the victims
+
+the far-right disturbed the vigil for the victims
+permits
+the far-right was able to disturb the vigil for the victims
+
+the far-right was able to disturb the vigil for the victims
+contradicts
+the far-right did not disturb the vigil for the victims
+
+the far-right did not disturb the vigil for the victims
+contradicts
+the far-right was able to disturb the vigil for the victims
+
+the far-right was able to disturb the vigil for the victims
+permits
+the far-right did n't get by its daughter's two dogs
+
+the far-right had almost been able to disturb the vigil for the victims
+entails
+the far-right had almost disturbed the vigil for the victims
+
+the far-right had almost disturbed the vigil for the victims
+permits
+the far-right had almost been able to disturb the vigil for the victims
+
+the far-right had almost been able to disturb the vigil for the victims
+permits
+the far-right had not grabbed him itself and pulled him to its chest
+
+the far-right was not able to disturb the vigil for the victims
+contradicts
+the far-right disturbed the vigil for the victims
+
+the far-right disturbed the vigil for the victims
+contradicts
+the far-right was not able to disturb the vigil for the victims
+
+the far-right was not able to disturb the vigil for the victims
+permits
+the far-right bought an assault weapon and handgun
+
+I was able to overcome and let go of my fears
+entails
+I overcame and let go of my fears
+
+I overcame and let go of my fears
+permits
+I was able to overcome and let go of my fears
+
+I was able to overcome and let go of my fears
+permits
+I avoided capture for four months in my own neighborhood
+
+I had been able to overcome and let go of my fears
+contradicts
+I had not overcome and let go of my fears
+
+I had not overcome and let go of my fears
+contradicts
+I had been able to overcome and let go of my fears
+
+I was never able to overcome and let go of my fears
+entails
+I did n't overcome and let go of my fears
+
+I did n't overcome and let go of my fears
+permits
+I was never able to overcome and let go of my fears
+
+I had n't been able to overcome and let go of my fears
+contradicts
+I had overcome and let go of my fears
+
+I had overcome and let go of my fears
+contradicts
+I had n't been able to overcome and let go of my fears
+
+the mean American household had been able to save roughly last yea
+entails
+the mean American household had saved roughly $4,900 last yea
+
+the mean American household had saved roughly $4,900 last yea
+permits
+the mean American household had been able to save roughly last yea
+
+the mean American household has been able to save roughly last yea
+contradicts
+the mean American household has n't saved roughly $4,900 last yea
+
+the mean American household has n't saved roughly $4,900 last yea
+contradicts
+the mean American household has been able to save roughly last yea
+
+the mean American household has been able to save roughly last yea
+permits
+the mean American household has not overcome and let go of its fears
+
+the mean American household had not been able to save roughly last yea
+entails
+the mean American household had not saved roughly $4,900 last yea
+
+the mean American household had not saved roughly $4,900 last yea
+permits
+the mean American household had not been able to save roughly last yea
+
+the mean American household had not been able to save roughly last yea
+permits
+the mean American household had not wandered away from school
+
+the mean American household has almost been able to save roughly last yea
+contradicts
+the mean American household has saved roughly $4,900 last yea
+
+the mean American household has saved roughly $4,900 last yea
+contradicts
+the mean American household has almost been able to save roughly last yea
+

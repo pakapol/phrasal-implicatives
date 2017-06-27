@@ -1,0 +1,1400 @@
+she wasted some time to begin her daring venture
+entails
+she began her daring venture
+
+she began her daring venture
+permits
+she wasted some time to begin her daring venture
+
+she has wasted some time to begin her daring venture
+contradicts
+she has not begun her daring venture
+
+she has not begun her daring venture
+contradicts
+she has wasted some time to begin her daring venture
+
+she has wasted no time to begin her daring venture
+entails
+she has begun her daring venture
+
+she has begun her daring venture
+permits
+she has wasted no time to begin her daring venture
+
+she has wasted no time to begin her daring venture
+permits
+Woodley has begun his daring venture
+
+she wasted no time to begin her daring venture
+contradicts
+she did not begin her daring venture
+
+she did not begin her daring venture
+contradicts
+she wasted no time to begin her daring venture
+
+he wasted some time to meet Lauren
+entails
+he met Lauren
+
+he met Lauren
+permits
+he wasted some time to meet Lauren
+
+he wasted some time to meet Lauren
+permits
+Fergie met Lauren
+
+he wasted some time to meet Lauren
+contradicts
+he did not meet Lauren
+
+he did not meet Lauren
+contradicts
+he wasted some time to meet Lauren
+
+he wasted no time to meet Lauren
+entails
+he met Lauren
+
+he met Lauren
+permits
+he wasted no time to meet Lauren
+
+he wasted no time to meet Lauren
+permits
+he started his own business
+
+he has wasted no time to meet Lauren
+contradicts
+he has not met Lauren
+
+he has not met Lauren
+contradicts
+he has wasted no time to meet Lauren
+
+Draymond Green had wasted some time to start kicking people in the NBA Finals
+entails
+Draymond Green had started kicking people in the NBA Finals
+
+Draymond Green had started kicking people in the NBA Finals
+permits
+Draymond Green had wasted some time to start kicking people in the NBA Finals
+
+Draymond Green has wasted some time to start kicking people in the NBA Finals
+contradicts
+Draymond Green has not started kicking people in the NBA Finals
+
+Draymond Green has not started kicking people in the NBA Finals
+contradicts
+Draymond Green has wasted some time to start kicking people in the NBA Finals
+
+Draymond Green has wasted some time to start kicking people in the NBA Finals
+permits
+Woodley has not started kicking people in the NBA Finals
+
+Draymond Green has wasted no time to start kicking people in the NBA Finals
+entails
+Draymond Green has started kicking people in the NBA Finals
+
+Draymond Green has started kicking people in the NBA Finals
+permits
+Draymond Green has wasted no time to start kicking people in the NBA Finals
+
+Draymond Green has wasted no time to start kicking people in the NBA Finals
+permits
+Fergie has started kicking people in the NBA Finals
+
+Draymond Green wasted no time to start kicking people in the NBA Finals
+contradicts
+Draymond Green did not start kicking people in the NBA Finals
+
+Draymond Green did not start kicking people in the NBA Finals
+contradicts
+Draymond Green wasted no time to start kicking people in the NBA Finals
+
+Hillary had wasted some time to respond to Donald Trump
+entails
+Hillary had responded to Donald Trump
+
+Hillary had responded to Donald Trump
+permits
+Hillary had wasted some time to respond to Donald Trump
+
+Hillary had wasted some time to respond to Donald Trump
+contradicts
+Hillary had n't responded to Donald Trump
+
+Hillary had n't responded to Donald Trump
+contradicts
+Hillary had wasted some time to respond to Donald Trump
+
+Hillary had wasted some time to respond to Donald Trump
+permits
+Draymond Green had not responded to Donald Trump
+
+Hillary had wasted no time to respond to Donald Trump
+entails
+Hillary had responded to Donald Trump
+
+Hillary had responded to Donald Trump
+permits
+Hillary had wasted no time to respond to Donald Trump
+
+Hillary had wasted no time to respond to Donald Trump
+permits
+Rolanda had responded to Donald Trump
+
+Hillary wasted no time to respond to Donald Trump
+contradicts
+Hillary did n't respond to Donald Trump
+
+Hillary did n't respond to Donald Trump
+contradicts
+Hillary wasted no time to respond to Donald Trump
+
+Iulia Vantur had wasted some time to meet the actor
+entails
+Iulia Vantur had met the actor
+
+Iulia Vantur had met the actor
+permits
+Iulia Vantur had wasted some time to meet the actor
+
+Iulia Vantur had wasted some time to meet the actor
+permits
+Iulia Vantur had launched assaults on Sanders
+
+Iulia Vantur had wasted some time to meet the actor
+contradicts
+Iulia Vantur had n't met the actor
+
+Iulia Vantur had n't met the actor
+contradicts
+Iulia Vantur had wasted some time to meet the actor
+
+Iulia Vantur has wasted no time to meet the actor
+entails
+Iulia Vantur has met the actor
+
+Iulia Vantur has met the actor
+permits
+Iulia Vantur has wasted no time to meet the actor
+
+Iulia Vantur has wasted no time to meet the actor
+contradicts
+Iulia Vantur has n't met the actor
+
+Iulia Vantur has n't met the actor
+contradicts
+Iulia Vantur has wasted no time to meet the actor
+
+Budden wasted some time to strike back at Drake
+entails
+Budden struck back at Drake
+
+Budden struck back at Drake
+permits
+Budden wasted some time to strike back at Drake
+
+Budden had wasted some time to strike back at Drake
+contradicts
+Budden had n't struck back at Drake
+
+Budden had n't struck back at Drake
+contradicts
+Budden had wasted some time to strike back at Drake
+
+Budden had wasted some time to strike back at Drake
+permits
+Budden had not met Lauren
+
+Budden wasted no time to strike back at Drake
+entails
+Budden struck back at Drake
+
+Budden struck back at Drake
+permits
+Budden wasted no time to strike back at Drake
+
+Budden wasted no time to strike back at Drake
+permits
+Franco Law Group struck back at Drake
+
+Budden has wasted no time to strike back at Drake
+contradicts
+Budden has n't struck back at Drake
+
+Budden has n't struck back at Drake
+contradicts
+Budden has wasted no time to strike back at Drake
+
+he has wasted some time to abandon his home and settled down with his new found lover
+entails
+he has abandoned his home and settled down with his new found lover
+
+he has abandoned his home and settled down with his new found lover
+permits
+he has wasted some time to abandon his home and settled down with his new found lover
+
+he has wasted some time to abandon his home and settled down with his new found lover
+permits
+Rolanda has abandoned her home and settled down with her new found lover
+
+he has wasted some time to abandon his home and settled down with his new found lover
+contradicts
+he has not abandoned his home and settled down with his new found lover
+
+he has not abandoned his home and settled down with his new found lover
+contradicts
+he has wasted some time to abandon his home and settled down with his new found lover
+
+he had wasted no time to abandon his home and settled down with his new found lover
+entails
+he had abandoned his home and settled down with his new found lover
+
+he had abandoned his home and settled down with his new found lover
+permits
+he had wasted no time to abandon his home and settled down with his new found lover
+
+he had wasted no time to abandon his home and settled down with his new found lover
+contradicts
+he had n't abandoned his home and settled down with his new found lover
+
+he had n't abandoned his home and settled down with his new found lover
+contradicts
+he had wasted no time to abandon his home and settled down with his new found lover
+
+he had wasted no time to abandon his home and settled down with his new found lover
+permits
+he had not met Lauren
+
+she had wasted some time to enter the compound and enquired[V about her husband
+entails
+she had entered the compound and enquired[V about her husband
+
+she had entered the compound and enquired[V about her husband
+permits
+she had wasted some time to enter the compound and enquired[V about her husband
+
+she had wasted some time to enter the compound and enquired[V about her husband
+contradicts
+she had n't entered the compound and enquired[V about her husband
+
+she had n't entered the compound and enquired[V about her husband
+contradicts
+she had wasted some time to enter the compound and enquired[V about her husband
+
+she has wasted no time to enter the compound and enquired[V about her husband
+entails
+she has entered the compound and enquired[V about her husband
+
+she has entered the compound and enquired[V about her husband
+permits
+she has wasted no time to enter the compound and enquired[V about her husband
+
+she has wasted no time to enter the compound and enquired[V about her husband
+permits
+Iulia Vantur has entered the compound and enquired[V about her husband
+
+she had wasted no time to enter the compound and enquired[V about her husband
+contradicts
+she had n't entered the compound and enquired[V about her husband
+
+she had n't entered the compound and enquired[V about her husband
+contradicts
+she had wasted no time to enter the compound and enquired[V about her husband
+
+she had wasted no time to enter the compound and enquired[V about her husband
+permits
+she had n't taken her possessions
+
+they had wasted some time to capitalize on it and tied the game
+entails
+they had capitalized on it and tied the game
+
+they had capitalized on it and tied the game
+permits
+they had wasted some time to capitalize on it and tied the game
+
+they wasted some time to capitalize on it and tied the game
+contradicts
+they did not capitalize on it and tie the game
+
+they did not capitalize on it and tie the game
+contradicts
+they wasted some time to capitalize on it and tied the game
+
+they have wasted no time to capitalize on it and tied the game
+entails
+they have capitalized on it and tied the game
+
+they have capitalized on it and tied the game
+permits
+they have wasted no time to capitalize on it and tied the game
+
+they have wasted no time to capitalize on it and tied the game
+permits
+David Vitter and John Bel Edwards have capitalized on it and tied the game
+
+they wasted no time to capitalize on it and tied the game
+contradicts
+they did n't capitalize on it and tie the game
+
+they did n't capitalize on it and tie the game
+contradicts
+they wasted no time to capitalize on it and tied the game
+
+they wasted no time to capitalize on it and tied the game
+permits
+they did n't meet Lauren
+
+Portlanders have wasted some time to play in the snow
+entails
+Portlanders have played in the snow
+
+Portlanders have played in the snow
+permits
+Portlanders have wasted some time to play in the snow
+
+Portlanders had wasted some time to play in the snow
+contradicts
+Portlanders had n't played in the snow
+
+Portlanders had n't played in the snow
+contradicts
+Portlanders had wasted some time to play in the snow
+
+Portlanders had wasted some time to play in the snow
+permits
+Portlanders had not launched assaults on Sanders
+
+Portlanders have wasted no time to play in the snow
+entails
+Portlanders have played in the snow
+
+Portlanders have played in the snow
+permits
+Portlanders have wasted no time to play in the snow
+
+Portlanders have wasted no time to play in the snow
+permits
+Portlanders have violently stabbed Arya in her torso
+
+Portlanders had wasted no time to play in the snow
+contradicts
+Portlanders had not played in the snow
+
+Portlanders had not played in the snow
+contradicts
+Portlanders had wasted no time to play in the snow
+
+Sun Belt wasted some time to welcome its newest member
+entails
+Sun Belt welcomed its newest member
+
+Sun Belt welcomed its newest member
+permits
+Sun Belt wasted some time to welcome its newest member
+
+Sun Belt had wasted some time to welcome its newest member
+contradicts
+Sun Belt had not welcomed its newest member
+
+Sun Belt had not welcomed its newest member
+contradicts
+Sun Belt had wasted some time to welcome its newest member
+
+Sun Belt had wasted no time to welcome its newest member
+entails
+Sun Belt had welcomed its newest member
+
+Sun Belt had welcomed its newest member
+permits
+Sun Belt had wasted no time to welcome its newest member
+
+Sun Belt had wasted no time to welcome its newest member
+permits
+Sun Belt had furthered its education
+
+Sun Belt had wasted no time to welcome its newest member
+contradicts
+Sun Belt had not welcomed its newest member
+
+Sun Belt had not welcomed its newest member
+contradicts
+Sun Belt had wasted no time to welcome its newest member
+
+David Vitter and John Bel Edwards have wasted some time to kick off general election
+entails
+David Vitter and John Bel Edwards have kicked off general election
+
+David Vitter and John Bel Edwards have kicked off general election
+permits
+David Vitter and John Bel Edwards have wasted some time to kick off general election
+
+David Vitter and John Bel Edwards had wasted some time to kick off general election
+contradicts
+David Vitter and John Bel Edwards had n't kicked off general election
+
+David Vitter and John Bel Edwards had n't kicked off general election
+contradicts
+David Vitter and John Bel Edwards had wasted some time to kick off general election
+
+David Vitter and John Bel Edwards have wasted no time to kick off general election
+entails
+David Vitter and John Bel Edwards have kicked off general election
+
+David Vitter and John Bel Edwards have kicked off general election
+permits
+David Vitter and John Bel Edwards have wasted no time to kick off general election
+
+David Vitter and John Bel Edwards have wasted no time to kick off general election
+permits
+The Otters have kicked off general election
+
+David Vitter and John Bel Edwards have wasted no time to kick off general election
+contradicts
+David Vitter and John Bel Edwards have n't kicked off general election
+
+David Vitter and John Bel Edwards have n't kicked off general election
+contradicts
+David Vitter and John Bel Edwards have wasted no time to kick off general election
+
+he had wasted some time to take his possessions
+entails
+he had taken his possessions
+
+he had taken his possessions
+permits
+he had wasted some time to take his possessions
+
+he had wasted some time to take his possessions
+contradicts
+he had n't taken his possessions
+
+he had n't taken his possessions
+contradicts
+he had wasted some time to take his possessions
+
+he had wasted some time to take his possessions
+permits
+St Asaph Rotary Club had n't taken its possessions
+
+he has wasted no time to take his possessions
+entails
+he has taken his possessions
+
+he has taken his possessions
+permits
+he has wasted no time to take his possessions
+
+he had wasted no time to take his possessions
+contradicts
+he had n't taken his possessions
+
+he had n't taken his possessions
+contradicts
+he had wasted no time to take his possessions
+
+Fergie had wasted some time to give listeners a visual taste of her latest single
+entails
+Fergie had given listeners a visual taste of her latest single
+
+Fergie had given listeners a visual taste of her latest single
+permits
+Fergie had wasted some time to give listeners a visual taste of her latest single
+
+Fergie had wasted some time to give listeners a visual taste of her latest single
+contradicts
+Fergie had not given listeners a visual taste of her latest single
+
+Fergie had not given listeners a visual taste of her latest single
+contradicts
+Fergie had wasted some time to give listeners a visual taste of her latest single
+
+Fergie had wasted some time to give listeners a visual taste of her latest single
+permits
+Fergie had n't entered the compound and enquired[V about her husband
+
+Fergie has wasted no time to give listeners a visual taste of her latest single
+entails
+Fergie has given listeners a visual taste of her latest single
+
+Fergie has given listeners a visual taste of her latest single
+permits
+Fergie has wasted no time to give listeners a visual taste of her latest single
+
+Fergie has wasted no time to give listeners a visual taste of her latest single
+permits
+Adele has given listeners a visual taste of her latest single
+
+Fergie has wasted no time to give listeners a visual taste of her latest single
+contradicts
+Fergie has n't given listeners a visual taste of her latest single
+
+Fergie has n't given listeners a visual taste of her latest single
+contradicts
+Fergie has wasted no time to give listeners a visual taste of her latest single
+
+she had wasted some time to get started with her dream
+entails
+she had gotten started with her dream
+
+she had gotten started with her dream
+permits
+she had wasted some time to get started with her dream
+
+she has wasted some time to get started with her dream
+contradicts
+she has not gotten started with her dream
+
+she has not gotten started with her dream
+contradicts
+she has wasted some time to get started with her dream
+
+she has wasted some time to get started with her dream
+permits
+Obama has not gotten started with his dream
+
+she had wasted no time to get started with her dream
+entails
+she had gotten started with her dream
+
+she had gotten started with her dream
+permits
+she had wasted no time to get started with her dream
+
+she had wasted no time to get started with her dream
+permits
+she had gotten out and explored the site
+
+she wasted no time to get started with her dream
+contradicts
+she did n't get started with her dream
+
+she did n't get started with her dream
+contradicts
+she wasted no time to get started with her dream
+
+Boston Celtics fans wasted some time to embrace him
+entails
+Boston Celtics fans embraced him
+
+Boston Celtics fans embraced him
+permits
+Boston Celtics fans wasted some time to embrace him
+
+Boston Celtics fans wasted some time to embrace him
+contradicts
+Boston Celtics fans did n't embrace him
+
+Boston Celtics fans did n't embrace him
+contradicts
+Boston Celtics fans wasted some time to embrace him
+
+Boston Celtics fans wasted some time to embrace him
+permits
+Boston Celtics fans did n't start kicking people in the NBA Finals
+
+Boston Celtics fans had wasted no time to embrace him
+entails
+Boston Celtics fans had embraced him
+
+Boston Celtics fans had embraced him
+permits
+Boston Celtics fans had wasted no time to embrace him
+
+Boston Celtics fans had wasted no time to embrace him
+contradicts
+Boston Celtics fans had not embraced him
+
+Boston Celtics fans had not embraced him
+contradicts
+Boston Celtics fans had wasted no time to embrace him
+
+St Asaph Rotary Club had wasted some time to contribute to the relief effort
+entails
+St Asaph Rotary Club had contributed to the relief effort
+
+St Asaph Rotary Club had contributed to the relief effort
+permits
+St Asaph Rotary Club had wasted some time to contribute to the relief effort
+
+St Asaph Rotary Club has wasted some time to contribute to the relief effort
+contradicts
+St Asaph Rotary Club has not contributed to the relief effort
+
+St Asaph Rotary Club has not contributed to the relief effort
+contradicts
+St Asaph Rotary Club has wasted some time to contribute to the relief effort
+
+St Asaph Rotary Club wasted no time to contribute to the relief effort
+entails
+St Asaph Rotary Club contributed to the relief effort
+
+St Asaph Rotary Club contributed to the relief effort
+permits
+St Asaph Rotary Club wasted no time to contribute to the relief effort
+
+St Asaph Rotary Club wasted no time to contribute to the relief effort
+permits
+Sun Belt contributed to the relief effort
+
+St Asaph Rotary Club wasted no time to contribute to the relief effort
+contradicts
+St Asaph Rotary Club did not contribute to the relief effort
+
+St Asaph Rotary Club did not contribute to the relief effort
+contradicts
+St Asaph Rotary Club wasted no time to contribute to the relief effort
+
+Obama wasted some time to throw in references about Beyonce's "Lemonade"
+entails
+Obama threw in references about Beyonce's "Lemonade"
+
+Obama threw in references about Beyonce's "Lemonade"
+permits
+Obama wasted some time to throw in references about Beyonce's "Lemonade"
+
+Obama wasted some time to throw in references about Beyonce's "Lemonade"
+permits
+Obama contributed to the relief effort
+
+Obama has wasted some time to throw in references about Beyonce's "Lemonade"
+contradicts
+Obama has n't thrown in references about Beyonce's "Lemonade"
+
+Obama has n't thrown in references about Beyonce's "Lemonade"
+contradicts
+Obama has wasted some time to throw in references about Beyonce's "Lemonade"
+
+Obama has wasted no time to throw in references about Beyonce's "Lemonade"
+entails
+Obama has thrown in references about Beyonce's "Lemonade"
+
+Obama has thrown in references about Beyonce's "Lemonade"
+permits
+Obama has wasted no time to throw in references about Beyonce's "Lemonade"
+
+Obama has wasted no time to throw in references about Beyonce's "Lemonade"
+permits
+Obama has started kicking people in the NBA Finals
+
+Obama has wasted no time to throw in references about Beyonce's "Lemonade"
+contradicts
+Obama has n't thrown in references about Beyonce's "Lemonade"
+
+Obama has n't thrown in references about Beyonce's "Lemonade"
+contradicts
+Obama has wasted no time to throw in references about Beyonce's "Lemonade"
+
+Obama has wasted no time to throw in references about Beyonce's "Lemonade"
+permits
+Obama has n't shared what I needed to know
+
+we wasted some time to bring it into reality
+entails
+we brought it into reality
+
+we brought it into reality
+permits
+we wasted some time to bring it into reality
+
+we wasted some time to bring it into reality
+permits
+the Pearl bats brought it into reality
+
+we wasted some time to bring it into reality
+contradicts
+we did n't bring it into reality
+
+we did n't bring it into reality
+contradicts
+we wasted some time to bring it into reality
+
+we have wasted no time to bring it into reality
+entails
+we have brought it into reality
+
+we have brought it into reality
+permits
+we have wasted no time to bring it into reality
+
+we have wasted no time to bring it into reality
+permits
+The Otters have brought it into reality
+
+we wasted no time to bring it into reality
+contradicts
+we did not bring it into reality
+
+we did not bring it into reality
+contradicts
+we wasted no time to bring it into reality
+
+Franco Law Group has wasted some time to assist me in my time of need
+entails
+Franco Law Group has assisted me in my time of need
+
+Franco Law Group has assisted me in my time of need
+permits
+Franco Law Group has wasted some time to assist me in my time of need
+
+Franco Law Group wasted some time to assist me in my time of need
+contradicts
+Franco Law Group did not assist me in my time of need
+
+Franco Law Group did not assist me in my time of need
+contradicts
+Franco Law Group wasted some time to assist me in my time of need
+
+Franco Law Group wasted some time to assist me in my time of need
+permits
+Franco Law Group did n't abandon its home and settle down with its new found lover
+
+Franco Law Group had wasted no time to assist me in my time of need
+entails
+Franco Law Group had assisted me in my time of need
+
+Franco Law Group had assisted me in my time of need
+permits
+Franco Law Group had wasted no time to assist me in my time of need
+
+Franco Law Group had wasted no time to assist me in my time of need
+contradicts
+Franco Law Group had not assisted me in my time of need
+
+Franco Law Group had not assisted me in my time of need
+contradicts
+Franco Law Group had wasted no time to assist me in my time of need
+
+Franco Law Group had wasted no time to assist me in my time of need
+permits
+Franco Law Group had n't jumped out to an early lead
+
+Switzerland had wasted some time to respond to Brexit
+entails
+Switzerland had responded to Brexit
+
+Switzerland had responded to Brexit
+permits
+Switzerland had wasted some time to respond to Brexit
+
+Switzerland had wasted some time to respond to Brexit
+permits
+Switzerland had gotten started with its dream
+
+Switzerland has wasted some time to respond to Brexit
+contradicts
+Switzerland has n't responded to Brexit
+
+Switzerland has n't responded to Brexit
+contradicts
+Switzerland has wasted some time to respond to Brexit
+
+Switzerland has wasted some time to respond to Brexit
+permits
+Zeming has n't responded to Brexit
+
+Switzerland wasted no time to respond to Brexit
+entails
+Switzerland responded to Brexit
+
+Switzerland responded to Brexit
+permits
+Switzerland wasted no time to respond to Brexit
+
+Switzerland wasted no time to respond to Brexit
+contradicts
+Switzerland did n't respond to Brexit
+
+Switzerland did n't respond to Brexit
+contradicts
+Switzerland wasted no time to respond to Brexit
+
+the Pearl bats have wasted some time to light up the score board
+entails
+the Pearl bats have lighted up the score board
+
+the Pearl bats have lighted up the score board
+permits
+the Pearl bats have wasted some time to light up the score board
+
+the Pearl bats have wasted some time to light up the score board
+permits
+the Pearl bats have thrown in references about Beyonce's "Lemonade"
+
+the Pearl bats wasted some time to light up the score board
+contradicts
+the Pearl bats did not light up the score board
+
+the Pearl bats did not light up the score board
+contradicts
+the Pearl bats wasted some time to light up the score board
+
+the Pearl bats have wasted no time to light up the score board
+entails
+the Pearl bats have lighted up the score board
+
+the Pearl bats have lighted up the score board
+permits
+the Pearl bats have wasted no time to light up the score board
+
+the Pearl bats wasted no time to light up the score board
+contradicts
+the Pearl bats did not light up the score board
+
+the Pearl bats did not light up the score board
+contradicts
+the Pearl bats wasted no time to light up the score board
+
+the Pearl bats wasted no time to light up the score board
+permits
+the Pearl bats did not welcome its newest member
+
+Hillary Clinton has wasted some time to launch assaults on Sanders
+entails
+Hillary Clinton has launched assaults on Sanders
+
+Hillary Clinton has launched assaults on Sanders
+permits
+Hillary Clinton has wasted some time to launch assaults on Sanders
+
+Hillary Clinton wasted some time to launch assaults on Sanders
+contradicts
+Hillary Clinton did not launch assaults on Sanders
+
+Hillary Clinton did not launch assaults on Sanders
+contradicts
+Hillary Clinton wasted some time to launch assaults on Sanders
+
+Hillary Clinton wasted some time to launch assaults on Sanders
+permits
+Hillary Clinton did n't throw in references about Beyonce's "Lemonade"
+
+Hillary Clinton has wasted no time to launch assaults on Sanders
+entails
+Hillary Clinton has launched assaults on Sanders
+
+Hillary Clinton has launched assaults on Sanders
+permits
+Hillary Clinton has wasted no time to launch assaults on Sanders
+
+Hillary Clinton has wasted no time to launch assaults on Sanders
+permits
+Pontrello has launched assaults on Sanders
+
+Hillary Clinton had wasted no time to launch assaults on Sanders
+contradicts
+Hillary Clinton had not launched assaults on Sanders
+
+Hillary Clinton had not launched assaults on Sanders
+contradicts
+Hillary Clinton had wasted no time to launch assaults on Sanders
+
+Woodley has wasted some time to call out two fighters
+entails
+Woodley has called out two fighters
+
+Woodley has called out two fighters
+permits
+Woodley has wasted some time to call out two fighters
+
+Woodley had wasted some time to call out two fighters
+contradicts
+Woodley had not called out two fighters
+
+Woodley had not called out two fighters
+contradicts
+Woodley had wasted some time to call out two fighters
+
+Woodley had wasted no time to call out two fighters
+entails
+Woodley had called out two fighters
+
+Woodley had called out two fighters
+permits
+Woodley had wasted no time to call out two fighters
+
+Woodley had wasted no time to call out two fighters
+permits
+Woodley had given listeners a visual taste of his latest single
+
+Woodley wasted no time to call out two fighters
+contradicts
+Woodley did n't call out two fighters
+
+Woodley did n't call out two fighters
+contradicts
+Woodley wasted no time to call out two fighters
+
+Woodley wasted no time to call out two fighters
+permits
+Woodley did not spread the word and get as many prayers as we can get
+
+Pontrello wasted some time to capitalize on the advantage with his second goal of the night
+entails
+Pontrello capitalized on the advantage with his second goal of the night
+
+Pontrello capitalized on the advantage with his second goal of the night
+permits
+Pontrello wasted some time to capitalize on the advantage with his second goal of the night
+
+Pontrello has wasted some time to capitalize on the advantage with his second goal of the night
+contradicts
+Pontrello has n't capitalized on the advantage with his second goal of the night
+
+Pontrello has n't capitalized on the advantage with his second goal of the night
+contradicts
+Pontrello has wasted some time to capitalize on the advantage with his second goal of the night
+
+Pontrello has wasted no time to capitalize on the advantage with his second goal of the night
+entails
+Pontrello has capitalized on the advantage with his second goal of the night
+
+Pontrello has capitalized on the advantage with his second goal of the night
+permits
+Pontrello has wasted no time to capitalize on the advantage with his second goal of the night
+
+Pontrello has wasted no time to capitalize on the advantage with his second goal of the night
+permits
+Notch has capitalized on the advantage with his second goal of the night
+
+Pontrello wasted no time to capitalize on the advantage with his second goal of the night
+contradicts
+Pontrello did n't capitalize on the advantage with his second goal of the night
+
+Pontrello did n't capitalize on the advantage with his second goal of the night
+contradicts
+Pontrello wasted no time to capitalize on the advantage with his second goal of the night
+
+Zeming had wasted some time to convert to draw scores level 12-12
+entails
+Zeming had converted to draw scores level 12-12
+
+Zeming had converted to draw scores level 12-12
+permits
+Zeming had wasted some time to convert to draw scores level 12-12
+
+Zeming had wasted some time to convert to draw scores level 12-12
+permits
+St Asaph Rotary Club had converted to draw scores level 12-12
+
+Zeming has wasted some time to convert to draw scores level 12-12
+contradicts
+Zeming has not converted to draw scores level 12-12
+
+Zeming has not converted to draw scores level 12-12
+contradicts
+Zeming has wasted some time to convert to draw scores level 12-12
+
+Zeming has wasted some time to convert to draw scores level 12-12
+permits
+Obama has not converted to draw scores level 12-12
+
+Zeming had wasted no time to convert to draw scores level 12-12
+entails
+Zeming had converted to draw scores level 12-12
+
+Zeming had converted to draw scores level 12-12
+permits
+Zeming had wasted no time to convert to draw scores level 12-12
+
+Zeming had wasted no time to convert to draw scores level 12-12
+permits
+Draymond Green had converted to draw scores level 12-12
+
+Zeming wasted no time to convert to draw scores level 12-12
+contradicts
+Zeming did n't convert to draw scores level 12-12
+
+Zeming did n't convert to draw scores level 12-12
+contradicts
+Zeming wasted no time to convert to draw scores level 12-12
+
+The Otters have wasted some time to jump out to an early lead
+entails
+The Otters have jumped out to an early lead
+
+The Otters have jumped out to an early lead
+permits
+The Otters have wasted some time to jump out to an early lead
+
+The Otters had wasted some time to jump out to an early lead
+contradicts
+The Otters had not jumped out to an early lead
+
+The Otters had not jumped out to an early lead
+contradicts
+The Otters had wasted some time to jump out to an early lead
+
+The Otters had wasted no time to jump out to an early lead
+entails
+The Otters had jumped out to an early lead
+
+The Otters had jumped out to an early lead
+permits
+The Otters had wasted no time to jump out to an early lead
+
+The Otters wasted no time to jump out to an early lead
+contradicts
+The Otters did not jump out to an early lead
+
+The Otters did not jump out to an early lead
+contradicts
+The Otters wasted no time to jump out to an early lead
+
+The Otters wasted no time to jump out to an early lead
+permits
+The Otters did n't strike back at Drake
+
+Adele wasted some time to share what I needed to know
+entails
+Adele shared what I needed to know
+
+Adele shared what I needed to know
+permits
+Adele wasted some time to share what I needed to know
+
+Adele wasted some time to share what I needed to know
+contradicts
+Adele did not share what I needed to know
+
+Adele did not share what I needed to know
+contradicts
+Adele wasted some time to share what I needed to know
+
+Adele wasted some time to share what I needed to know
+permits
+Iulia Vantur did n't share what I needed to know
+
+Adele wasted no time to share what I needed to know
+entails
+Adele shared what I needed to know
+
+Adele shared what I needed to know
+permits
+Adele wasted no time to share what I needed to know
+
+Adele wasted no time to share what I needed to know
+permits
+Adele violently stabbed Arya in her torso
+
+Adele had wasted no time to share what I needed to know
+contradicts
+Adele had n't shared what I needed to know
+
+Adele had n't shared what I needed to know
+contradicts
+Adele had wasted no time to share what I needed to know
+
+Barry Anderson has wasted some time to start shooting new video footage
+entails
+Barry Anderson has started shooting new video footage
+
+Barry Anderson has started shooting new video footage
+permits
+Barry Anderson has wasted some time to start shooting new video footage
+
+Barry Anderson wasted some time to start shooting new video footage
+contradicts
+Barry Anderson did not start shooting new video footage
+
+Barry Anderson did not start shooting new video footage
+contradicts
+Barry Anderson wasted some time to start shooting new video footage
+
+Barry Anderson wasted some time to start shooting new video footage
+permits
+Waif did n't start shooting new video footage
+
+Barry Anderson has wasted no time to start shooting new video footage
+entails
+Barry Anderson has started shooting new video footage
+
+Barry Anderson has started shooting new video footage
+permits
+Barry Anderson has wasted no time to start shooting new video footage
+
+Barry Anderson has wasted no time to start shooting new video footage
+permits
+Barry Anderson has capitalized on the advantage with his second goal of the night
+
+Barry Anderson had wasted no time to start shooting new video footage
+contradicts
+Barry Anderson had n't started shooting new video footage
+
+Barry Anderson had n't started shooting new video footage
+contradicts
+Barry Anderson had wasted no time to start shooting new video footage
+
+Peterson and Fitzgibbons have wasted some time to put more points on the board
+entails
+Peterson and Fitzgibbons have put more points on the board
+
+Peterson and Fitzgibbons have put more points on the board
+permits
+Peterson and Fitzgibbons have wasted some time to put more points on the board
+
+Peterson and Fitzgibbons have wasted some time to put more points on the board
+permits
+Peterson and Fitzgibbons have violently stabbed Arya in her torso
+
+Peterson and Fitzgibbons had wasted some time to put more points on the board
+contradicts
+Peterson and Fitzgibbons had not put more points on the board
+
+Peterson and Fitzgibbons had not put more points on the board
+contradicts
+Peterson and Fitzgibbons had wasted some time to put more points on the board
+
+Peterson and Fitzgibbons have wasted no time to put more points on the board
+entails
+Peterson and Fitzgibbons have put more points on the board
+
+Peterson and Fitzgibbons have put more points on the board
+permits
+Peterson and Fitzgibbons have wasted no time to put more points on the board
+
+Peterson and Fitzgibbons have wasted no time to put more points on the board
+permits
+The Otters have put more points on the board
+
+Peterson and Fitzgibbons had wasted no time to put more points on the board
+contradicts
+Peterson and Fitzgibbons had not put more points on the board
+
+Peterson and Fitzgibbons had not put more points on the board
+contradicts
+Peterson and Fitzgibbons had wasted no time to put more points on the board
+
+they wasted some time to start their own business
+entails
+they started their own business
+
+they started their own business
+permits
+they wasted some time to start their own business
+
+they wasted some time to start their own business
+contradicts
+they did n't start their own business
+
+they did n't start their own business
+contradicts
+they wasted some time to start their own business
+
+they have wasted no time to start their own business
+entails
+they have started their own business
+
+they have started their own business
+permits
+they have wasted no time to start their own business
+
+they had wasted no time to start their own business
+contradicts
+they had n't started their own business
+
+they had n't started their own business
+contradicts
+they had wasted no time to start their own business
+
+Rolanda had wasted some time to further her education
+entails
+Rolanda had furthered her education
+
+Rolanda had furthered her education
+permits
+Rolanda had wasted some time to further her education
+
+Rolanda had wasted some time to further her education
+contradicts
+Rolanda had not furthered her education
+
+Rolanda had not furthered her education
+contradicts
+Rolanda had wasted some time to further her education
+
+Rolanda has wasted no time to further her education
+entails
+Rolanda has furthered her education
+
+Rolanda has furthered her education
+permits
+Rolanda has wasted no time to further her education
+
+Rolanda has wasted no time to further her education
+permits
+Rolanda has entered the compound and enquired[V about her husband
+
+Rolanda has wasted no time to further her education
+contradicts
+Rolanda has not furthered her education
+
+Rolanda has not furthered her education
+contradicts
+Rolanda has wasted no time to further her education
+
+Rolanda has wasted no time to further her education
+permits
+Hillary Clinton has not furthered her education
+
+Notch had wasted some time to continue to keep on being creative
+entails
+Notch had continued to keep on being creative
+
+Notch had continued to keep on being creative
+permits
+Notch had wasted some time to continue to keep on being creative
+
+Notch had wasted some time to continue to keep on being creative
+contradicts
+Notch had not continued to keep on being creative
+
+Notch had not continued to keep on being creative
+contradicts
+Notch had wasted some time to continue to keep on being creative
+
+Notch has wasted no time to continue to keep on being creative
+entails
+Notch has continued to keep on being creative
+
+Notch has continued to keep on being creative
+permits
+Notch has wasted no time to continue to keep on being creative
+
+Notch has wasted no time to continue to keep on being creative
+permits
+Franco Law Group has continued to keep on being creative
+
+Notch had wasted no time to continue to keep on being creative
+contradicts
+Notch had not continued to keep on being creative
+
+Notch had not continued to keep on being creative
+contradicts
+Notch had wasted no time to continue to keep on being creative
+
+Waif had wasted some time to violently stab Arya in her torso
+entails
+Waif had violently stabbed Arya in her torso
+
+Waif had violently stabbed Arya in her torso
+permits
+Waif had wasted some time to violently stab Arya in her torso
+
+Waif had wasted some time to violently stab Arya in her torso
+permits
+Waif had abandoned her home and settled down with her new found lover
+
+Waif had wasted some time to violently stab Arya in her torso
+contradicts
+Waif had n't violently stabbed Arya in her torso
+
+Waif had n't violently stabbed Arya in her torso
+contradicts
+Waif had wasted some time to violently stab Arya in her torso
+
+Waif had wasted some time to violently stab Arya in her torso
+permits
+Waif had not spread the word and gotten as many prayers as we can get
+
+Waif wasted no time to violently stab Arya in her torso
+entails
+Waif violently stabbed Arya in her torso
+
+Waif violently stabbed Arya in her torso
+permits
+Waif wasted no time to violently stab Arya in her torso
+
+Waif wasted no time to violently stab Arya in her torso
+permits
+Waif met the actor
+
+Waif wasted no time to violently stab Arya in her torso
+contradicts
+Waif did n't violently stab Arya in her torso
+
+Waif did n't violently stab Arya in her torso
+contradicts
+Waif wasted no time to violently stab Arya in her torso
+
+Waif wasted no time to violently stab Arya in her torso
+permits
+Waif did not begin her daring venture
+
+she had wasted some time to spread the word and get as many prayers as we can get
+entails
+she had spread the word and gotten as many prayers as we can get
+
+she had spread the word and gotten as many prayers as we can get
+permits
+she had wasted some time to spread the word and get as many prayers as we can get
+
+she had wasted some time to spread the word and get as many prayers as we can get
+contradicts
+she had not spread the word and gotten as many prayers as we can get
+
+she had not spread the word and gotten as many prayers as we can get
+contradicts
+she had wasted some time to spread the word and get as many prayers as we can get
+
+she had wasted no time to spread the word and get as many prayers as we can get
+entails
+she had spread the word and gotten as many prayers as we can get
+
+she had spread the word and gotten as many prayers as we can get
+permits
+she had wasted no time to spread the word and get as many prayers as we can get
+
+she had wasted no time to spread the word and get as many prayers as we can get
+contradicts
+she had n't spread the word and gotten as many prayers as we can get
+
+she had n't spread the word and gotten as many prayers as we can get
+contradicts
+she had wasted no time to spread the word and get as many prayers as we can get
+
+they had wasted some time to get out and explore the site
+entails
+they had gotten out and explored the site
+
+they had gotten out and explored the site
+permits
+they had wasted some time to get out and explore the site
+
+they had wasted some time to get out and explore the site
+contradicts
+they had not gotten out and explored the site
+
+they had not gotten out and explored the site
+contradicts
+they had wasted some time to get out and explore the site
+
+they had wasted some time to get out and explore the site
+permits
+Boston Celtics fans had n't gotten out and explored the site
+
+they have wasted no time to get out and explore the site
+entails
+they have gotten out and explored the site
+
+they have gotten out and explored the site
+permits
+they have wasted no time to get out and explore the site
+
+they have wasted no time to get out and explore the site
+permits
+they have violently stabbed Arya in her torso
+
+they wasted no time to get out and explore the site
+contradicts
+they did not get out and explore the site
+
+they did not get out and explore the site
+contradicts
+they wasted no time to get out and explore the site
+

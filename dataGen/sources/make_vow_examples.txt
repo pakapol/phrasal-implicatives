@@ -1,0 +1,54 @@
+Implicatives:
+make (a,the,~,no) vow [o|o]
+
+Examples:
+the mayor[M,S3] made[V] a vow to reduce[V] crime
+God[M,S3] made[V] a vow to remain[V] married to Israel no matter what she did
+the Nazarites[P3] made[V] a vow to dedicate[V] [PossPro] lives to God
+he and all the crew[P3] made[V] a vow to go[V] in procession clothed in penitential garments
+the man[M,S3] made[V] a vow to sacrifice[V] a camel at a certain location
+I[S1] made[V] a vow to carry[V] you home
+the otter[S3] made[V] the vow to catch[V] fish and give all [PossPro] fish away
+she[F,S3] made[V] a vow to continue[V] to break the internet
+John Brown[M,S3] made[V] a vow to end[V] slavery
+I[S1] once made[V] a vow to love[V] her to the end
+she[F,S3] made[V] a vow to be[V] a virgin forever
+Hannah[F,S3] made[V] a vow to give[V] God back the son He will bless [ObjPro] with
+we all[P1] made[V] a vow to return[V]
+you[S2] made[V] the vow to wait[V] until marriage to have sex
+I[S1] made[V] a vow to love[V] [ReflPro] more so that [SubjPro] would be ready for [PossPro] next relationship
+we[P1] made[V] a vow to meet[V] up after [SubjPro] left Goldings
+Manziel[M,S3] (once again) made[V] the vow to stay[V] sober
+the mistress[F,S3] made[V] a vow to stay[V] faithful
+we[P1] made[V] a vow to defend[V] the Constitution just for some people of one race
+we[P1] made[V] the vow to stay[V] together for ever
+he[M,S3] made[V] a vow to become[V] stronger to protect someone else
+she[F,S3] made[V] a vow to be[V] perfect
+St. Paul[M,S3] made[V] a vow to abstain[V]
+you[S2] made[V] a vow to serve[V] whoever would own the bones
+Gabrielle[F,S3] made[V] a vow to distrust[V] Xena
+they[P3] made[V] the vow to observe[V] these training rules
+he[M,S3] made[V] the vow to focus[V] on [PossPro] career more than anything else
+Kristine and her husband Michael[P3] made[V] the vow to stay[V] true to the meaning of Solo
+we[P1] made[V] the vow to no longer ride[V] elephants
+he[M,S3] made[V] the vow to help[V] Harry as much as possible
+I[S1] made[V] no vow to eat[V] chicken wings only two Fridays per month
+Hannah[F,S3] made[V] no vow to return[V] him to the Lord
+the Beguines[P3] made[V] no vow to abandon[V] [PossPro] possessions
+Obama[M,S3] made[V] no vow to bankrupt[V] coal operators
+Satoko[F,S3] made[V] no vow to avoid[V] meeting with Honda
+I[S1] made[V] no vow to live[V] an unidentifiable life
+the company[S3] made[V] no vow to remove[V] antibiotics from beef
+the PSC[S3] made[V] no vow to keep[V] the build server going
+Teukros[M,S3] made[V] no vow to offer[V] a famous hecatomb of firstling lambs to the Lord of archery
+I[S1] made[V] no vow to obey[V] my husband
+Eduardo Verástegui[M,S3] made[V] vow to save[V] sex for marriage
+I[S1] made[V] vow to be[V] reborn in pure Land of master Amitaba
+we[P1] made[V] vow to assist[V] and defend[V] all those that should enter with [ObjPro] into this league
+the rescued men[P3] made[V] vow to live[V] or die[V] as a group
+he[M,S3] made[V] vow to kill[V] [ReflPro] on [PossPro] 37th birthday
+Sariputra[M,S3] made[V] vow to achieve[V] the Supreme Enlightenment in Buddhahood
+we[P1] made[V] vow to uplift[V] the down-trodden and the less-privileged individuals
+Cruise[M,S3] made[V] vow to fill[V] in every seat in theaters
+you[S2] made[V] vow to despise[V] 3.5 and rail[V] against it every chance you got
+she[F,S3] made[V] vow to offer[V] me to God

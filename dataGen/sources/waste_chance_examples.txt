@@ -1,0 +1,160 @@
+Implicatives:
+waste (a,the,~,no,PossPro) chance [-|+]
+
+Examples:
+she[F,S3] wasted[V] no chance to seduce[V] him with [PossPro] beauty
+she[F,S3] wasted[V] [PossPro] chance to seduce[V] him with [PossPro] beauty
+the Europa League holders[P3] wasted[V] the chance to move[V] clear at the top of the standings
+the Europa League holders[P3] wasted[V] [PossPro] chance to move[V] clear at the top of the standings
+Crystal Palace[S3] wasted[V] the chance to climb[V] clear of the Premier League's relegation zone
+Crystal Palace[S3] wasted[V] [PossPro] chance to climb[V] clear of the Premier League's relegation zone
+they[P3] wasted[V] the chance to administer[V] a crippling blow to the entire Army of the Potomac
+they[P3] wasted[V] [PossPro] chance to administer[V] a crippling blow to the entire Army of the Potomac
+they[P3] wasted[V] the chance to blood[V] a new batsman
+they[P3] wasted[V] [PossPro] chance to blood[V] a new batsman
+Manchester City[P3] wasted[V] the chance to get[V] [PossPro] Premier League title challenge back on track
+Manchester City[P3] wasted[V] [PossPro] chance to get[V] [PossPro] Premier League title challenge back on track
+they[P3] wasted[V] the chance to befriend[V] him
+they[P3] wasted[V] [PossPro] chance to befriend[V] him
+Britain[S3] wasted[V] the chance to avoid[V] unnecessary wars
+Britain[S3] wasted[V] [PossPro] chance to avoid[V] unnecessary wars
+his Los Blancos club-mate Ronaldo[M,S3] wasted[V] the chance to level[V] the score
+his Los Blancos club-mate Ronaldo[M,S3] wasted[V] [PossPro] chance to level[V] the score
+the Greens[P3] wasted[V] the chance to score[V] first win this season
+the Greens[P3] wasted[V] [PossPro] chance to score[V] first win this season
+they[P3] (once again) wasted[V] the chance to get[V] a stranglehold on a place in Europe next season
+they[P3] (once again) wasted[V] [PossPro] chance to get[V] a stranglehold on a place in Europe next season
+Sanders[M,S3] wasted[V] the chance to close[V] the match in New York
+Sanders[M,S3] wasted[V] [PossPro] chance to close[V] the match in New York
+Ajax[S3] wasted[V] the chance to win[V] the Eredivisie title on the final day of the season
+Ajax[S3] wasted[V] [PossPro] chance to win[V] the Eredivisie title on the final day of the season
+Thabiso Kutumela[M,S3] wasted[V] the chance to put[V] the hosts ahead
+Thabiso Kutumela[M,S3] wasted[V] [PossPro] chance to put[V] the hosts ahead
+the Red Devils[P3] wasted[V] the chance to wrest[V] fourth spot from Manchester City
+the Red Devils[P3] wasted[V] [PossPro] chance to wrest[V] fourth spot from Manchester City
+I[S1] (totally) wasted[V] the chance to show[V] skills to a huge audience of viewers and management
+I[S1] (totally) wasted[V] [PossPro] chance to show[V] skills to a huge audience of viewers and management
+they[P3] wasted[V] the chance to prove[V] that the tide really had turned
+they[P3] wasted[V] [PossPro] chance to prove[V] that the tide really had turned
+the council[S3] wasted[V] the chance to build[V] the route around the trees
+the council[S3] wasted[V] [PossPro] chance to build[V] the route around the trees
+the Canucks[P3] wasted[V] the chance to trade[V] two aging players for young assets
+the Canucks[P3] wasted[V] [PossPro] chance to trade[V] two aging players for young assets
+the Giants[P3] wasted[V] the chance to take[V] control of the woeful NFC East last Sunday
+the Giants[P3] wasted[V] [PossPro] chance to take[V] control of the woeful NFC East last Sunday
+she[F,S3] wasted[V] the chance to say[V] goodbye
+she[F,S3] wasted[V] [PossPro] chance to say[V] goodbye
+he[M,S3] wasted[V] the chance to take[V] in as much as [SubjPro] could
+he[M,S3] wasted[V] [PossPro] chance to take[V] in as much as [SubjPro] could
+Galileo[M,S3] wasted[V] the chance to aim[V] a funny mock-syllogism at Grassi's flying eggs
+Galileo[M,S3] wasted[V] [PossPro] chance to aim[V] a funny mock-syllogism at Grassi's flying eggs
+she[F,S3] wasted[V] the chance to have[V] [ReflPro] healed [AND,OR] defeat possessed Dillon
+she[F,S3] wasted[V] [PossPro] chance to have[V] [ReflPro] healed [AND,OR] defeat possessed Dillon
+I[S1] wasted[V] the chance to walk[V] the lady out
+I[S1] wasted[V] [PossPro] chance to walk[V] the lady out
+you[S2] wasted[V] the chance to pounce[V]
+you[S2] wasted[V] [PossPro] chance to pounce[V]
+the National Front[S3] wasted[V] the chance to denounce[V] and ridicule[V] the President
+the National Front[S3] wasted[V] [PossPro] chance to denounce[V] and ridicule[V] the President
+the president's supporters in parliament[P3] wasted[V] the chance to silence[V] journalists
+the president's supporters in parliament[P3] wasted[V] [PossPro] chance to silence[V] journalists
+Timisoara Saracens' Vali Calafeteanu[M,S3] wasted[V] the chance to get[V] back the lead
+Timisoara Saracens' Vali Calafeteanu[M,S3] wasted[V] [PossPro] chance to get[V] back the lead
+he[M,S3] wasted[V] the chance to make[V] point to Lenagan this week
+he[M,S3] wasted[V] [PossPro] chance to make[V] point to Lenagan this week
+Oregon State[S3] wasted[V] the chance to create[V] a little breathing room
+Oregon State[S3] wasted[V] [PossPro] chance to create[V] a little breathing room
+Carter[M,S3] wasted[V] the chance to heap[V] praise on the Boks
+Carter[M,S3] wasted[V] [PossPro] chance to heap[V] praise on the Boks
+Obama[M,S3] wasted[V] the chance to isolate[V] the Russian leader
+Obama[M,S3] wasted[V] [PossPro] chance to isolate[V] the Russian leader
+New Britain[S3] wasted[V] the chance to take[V] advantage
+New Britain[S3] wasted[V] [PossPro] chance to take[V] advantage
+the actors[P3] wasted[V] the chance to pose[V] in character at Saturday night's awards ceremony
+the actors[P3] wasted[V] [PossPro] chance to pose[V] in character at Saturday night's awards ceremony
+he[M,S3] wasted[V] the chance to express[V] a growing twentysomething bitterness
+he[M,S3] wasted[V] [PossPro] chance to express[V] a growing twentysomething bitterness
+Oriskany[M,S3] wasted[V] the chance to put[V] the pressure on early
+Oriskany[M,S3] wasted[V] [PossPro] chance to put[V] the pressure on early
+I[S1] wasted[V] the chance to make[V] [PossPro] photography skill used
+I[S1] wasted[V] [PossPro] chance to make[V] [PossPro] photography skill used
+Walcott[M,S3] wasted[V] the chance to boost[V] [PossPro] case for a place in the FA Cup final team
+Walcott[M,S3] wasted[V] [PossPro] chance to boost[V] [PossPro] case for a place in the FA Cup final team
+they[P3] wasted[V] the chance to shine[V]
+they[P3] wasted[V] [PossPro] chance to shine[V]
+I[S1] (definitely) wasted[V] the chance to fulfill[V] [PossPro] childhood dream
+I[S1] (definitely) wasted[V] [PossPro] chance to fulfill[V] [PossPro] childhood dream
+the Braves[P3] wasted[V] a chance to score[V] early on Madison Bumgarner
+the Braves[P3] wasted[V] [PossPro] chance to score[V] early on Madison Bumgarner
+we[P1] wasted[V] a chance to upgrade[V] [PossPro] infrastructure for free
+we[P1] wasted[V] [PossPro] chance to upgrade[V] [PossPro] infrastructure for free
+we[P1] wasted[V] a chance to keep[V] him behind bars
+we[P1] wasted[V] [PossPro] chance to keep[V] him behind bars
+McClellan[M,S3] wasted[V] a chance to inflict[V] a crippling defeat on Robert E. Lee's Army
+McClellan[M,S3] wasted[V] [PossPro] chance to inflict[V] a crippling defeat on Robert E. Lee's Army
+they[P3] wasted[V] a chance to expand[V] the lead
+they[P3] wasted[V] [PossPro] chance to expand[V] the lead
+they[P3] wasted[V] a chance to go[V] top for the first time in seven years
+they[P3] wasted[V] [PossPro] chance to go[V] top for the first time in seven years
+you[S2] wasted[V] a chance to hold[V] [PossPro] tongue
+you[S2] wasted[V] [PossPro] chance to hold[V] [PossPro] tongue
+you[S2] wasted[V] a chance to introduce[V] Batman into this mythos
+you[S2] wasted[V] [PossPro] chance to introduce[V] Batman into this mythos
+I[S1] wasted[V] a chance to flirt[V] with a guy for the first time in [PossPro] life
+I[S1] wasted[V] [PossPro] chance to flirt[V] with a guy for the first time in [PossPro] life
+I[S1] wasted[V] a chance to learn[V] the intricacies of [PossPro] filter
+I[S1] wasted[V] [PossPro] chance to learn[V] the intricacies of [PossPro] filter
+she[F,S3] wasted[V] a chance to move[V] ahead
+she[F,S3] wasted[V] [PossPro] chance to move[V] ahead
+president Milos Zeman[M,S3] wasted[V] a chance to support[V] Czech-French relations
+president Milos Zeman[M,S3] wasted[V] [PossPro] chance to support[V] Czech-French relations
+Benzema[M,S3] wasted[V] a chance to double[V] [PossPro] tally
+Benzema[M,S3] wasted[V] [PossPro] chance to double[V] [PossPro] tally
+Missouri authorities[P3] wasted[V] a chance to fix[V] a deeply troubled psyche
+Missouri authorities[P3] wasted[V] [PossPro] chance to fix[V] a deeply troubled psyche
+the President[M,S3] wasted[V] a chance to advance[V] [PossPro] gun control agenda
+the President[M,S3] wasted[V] [PossPro] chance to advance[V] [PossPro] gun control agenda
+the Warriors[P3] wasted[V] a chance to pop[V] the Champagne at home Monday
+the Warriors[P3] wasted[V] [PossPro] chance to pop[V] the Champagne at home Monday
+she[F,S3] wasted[V] a chance to do[V] a really good thing
+she[F,S3] wasted[V] [PossPro] chance to do[V] a really good thing
+Obama[M,S3] wasted[V] chance to have[V] influence
+Obama[M,S3] wasted[V] [PossPro] chance to have[V] influence
+Manchester City[P3] wasted[V] chance to keep[V] up with Chelsea post Everton draw
+Manchester City[P3] wasted[V] [PossPro] chance to keep[V] up with Chelsea post Everton draw
+Assam government[S3] wasted[V] chance to stop[V] violence
+Assam government[S3] wasted[V] [PossPro] chance to stop[V] violence
+Municipal leaders[P3] wasted[V] chance to effect[V] change
+Municipal leaders[P3] wasted[V] [PossPro] chance to effect[V] change
+U.S.[S3] wasted[V] chance to improve[V] the world
+U.S.[S3] wasted[V] [PossPro] chance to improve[V] the world
+Trollier[M,S3] wasted[V] chance to put[V] us one up
+Trollier[M,S3] wasted[V] [PossPro] chance to put[V] us one up
+Benzema[M,S3] (twice) wasted[V] chance to double[V] [PossPro] tally
+Benzema[M,S3] (twice) wasted[V] [PossPro] chance to double[V] [PossPro] tally
+you[S2] wasted[V] chance to try[V]
+you[S2] wasted[V] [PossPro] chance to try[V]
+the man-eater[F,S3] wasted[V] chance to pin[V] one of them down to the ground
+the man-eater[F,S3] wasted[V] [PossPro] chance to pin[V] one of them down to the ground
+Kezironi Kizito[M,S3] wasted[V] chance to prove[V] [SubjPro] can dominate a very physical opponent
+Kezironi Kizito[M,S3] wasted[V] [PossPro] chance to prove[V] [SubjPro] can dominate a very physical opponent
+he[M,S3] wasted[V] no chance to gain[V] publicity for [PossPro] company [AND,OR] [ReflPro]
+he[M,S3] wasted[V] [PossPro] chance to gain[V] publicity for [PossPro] company [AND,OR] [ReflPro]
+Trump[M,S3] wasted[V] no chance to insult[V] President Obama in the past
+Trump[M,S3] wasted[V] [PossPro] chance to insult[V] President Obama in the past
+Soros[M,S3] wasted[V] no chance to provide[V] assistance to the backbone of Ukraine's society
+Soros[M,S3] wasted[V] [PossPro] chance to provide[V] assistance to the backbone of Ukraine's society
+the US[S3] wasted[V] no chance to undermine[V] China's interest
+the US[S3] wasted[V] [PossPro] chance to undermine[V] China's interest
+the choir[S3] wasted[V] no chance to execute[V] jointly with a symphony orchestra
+the choir[S3] wasted[V] [PossPro] chance to execute[V] jointly with a symphony orchestra
+Benedict[M,S3] wasted[V] no chance to slot[V] the ball home to make the score 1-1
+Benedict[M,S3] wasted[V] [PossPro] chance to slot[V] the ball home to make the score 1-1
+Trump[M,S3] wasted[V] no chance to laud[V] the ability of [PossPro] 36-hole facility to host a major championship
+Trump[M,S3] wasted[V] [PossPro] chance to laud[V] the ability of [PossPro] 36-hole facility to host a major championship
+Johnson[M,S3] wasted[V] no chance to hand[V] [PossPro] tormentors more ammunition
+Johnson[M,S3] wasted[V] [PossPro] chance to hand[V] [PossPro] tormentors more ammunition
+the lackey[M,S3] wasted[V] no chance to profane[V] the dead
+the lackey[M,S3] wasted[V] [PossPro] chance to profane[V] the dead
+they[P3] wasted[V] no chance to tender[V] [PossPro] apologies whenever [SubjPro] fell short of expectations
+they[P3] wasted[V] [PossPro] chance to tender[V] [PossPro] apologies whenever [SubjPro] fell short of expectations

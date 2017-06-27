@@ -1,0 +1,74 @@
+Implicatives:
+break (a,the,~,PossPro) pledge [-|+]
+
+Examples:
+Nancy Pelosi[F,S3] broke[V] the pledge to post[V] the "final" House health care bill online
+Nancy Pelosi[F,S3] broke[V] [PossPro] pledge to post[V] the "final" House health care bill online
+Yasser Arafat[M,S3] broke[V] a pledge to end[V] terrorism
+Yasser Arafat[M,S3] broke[V] [PossPro] pledge to end[V] terrorism
+Libya[S3] broke[V] the pledge to give[V] the Lockerbie bomber a "low key" reception
+Libya[S3] broke[V] [PossPro] pledge to give[V] the Lockerbie bomber a "low key" reception
+the government[S3] broke[V] a pledge to open[V] GP surgeries from 8am to 8pm
+the government[S3] broke[V] [PossPro] pledge to open[V] GP surgeries from 8am to 8pm
+Scotland Yard[S3] broke[V] the pledge to hand[V] over all material officers collated on him
+Scotland Yard[S3] broke[V] [PossPro] pledge to hand[V] over all material officers collated on him
+the hockey club[S3] broke[V] a pledge to send[V] no more than three text messages per week
+the hockey club[S3] broke[V] [PossPro] pledge to send[V] no more than three text messages per week
+he[M,S3] broke[V] the pledge to maintain[V] insurance cover for suppliers
+he[M,S3] broke[V] [PossPro] pledge to maintain[V] insurance cover for suppliers
+he[M,S3] broke[V] a pledge to accept[V] taxpayer money from the public financing system
+he[M,S3] broke[V] [PossPro] pledge to accept[V] taxpayer money from the public financing system
+Capps[F,S3] broke[V] the pledge to serve[V] only three terms in office
+Capps[F,S3] broke[V] [PossPro] pledge to serve[V] only three terms in office
+Cathy[F,S3] broke[V] a pledge to stop[V] funding anti-gay groups
+Cathy[F,S3] broke[V] [PossPro] pledge to stop[V] funding anti-gay groups
+Rep. Jackson Lee[M,S3] broke[V] the pledge to accommodate[V] her visual impairmentt
+Rep. Jackson Lee[M,S3] broke[V] [PossPro] pledge to accommodate[V] her visual impairmentt
+General Hurley[M,S3] broke[V] a pledge to give[V] the stone to the Australian War Memorial
+General Hurley[M,S3] broke[V] [PossPro] pledge to give[V] the stone to the Australian War Memorial
+Bush[M,S3] broke[V] the pledge to oppose[V] amnesty
+Bush[M,S3] broke[V] [PossPro] pledge to oppose[V] amnesty
+Goneril[F,S3] broke[V] a pledge to love[V] him exclusively
+Goneril[F,S3] broke[V] [PossPro] pledge to love[V] him exclusively
+the premier[M,S3] broke[V] the pledge to review[V] an MCP policy
+the premier[M,S3] broke[V] [PossPro] pledge to review[V] an MCP policy
+you[S2] broke[V] a pledge to work[V] for me indefinitely
+you[S2] broke[V] [PossPro] pledge to work[V] for me indefinitely
+she[F,S3] broke[V] the pledge to run[V] a positive campaign
+she[F,S3] broke[V] [PossPro] pledge to run[V] a positive campaign
+they[P3] broke[V] a pledge to teach[V] [PossPro] children manual trades
+they[P3] broke[V] [PossPro] pledge to teach[V] [PossPro] children manual trades
+I[S1] broke[V] the pledge to only allow[V] [ReflPro] three drinks a night
+I[S1] broke[V] [PossPro] pledge to only allow[V] [ReflPro] three drinks a night
+I[S1] broke[V] a pledge to get[V] a fairer system
+I[S1] broke[V] [PossPro] pledge to get[V] a fairer system
+we[P1] broke[V] the pledge to maintain[V] at full strength [PossPro] five divisions
+we[P1] broke[V] [PossPro] pledge to maintain[V] at full strength [PossPro] five divisions
+Jeb Bush[M,S3] broke[V] a pledge to support[V] the Republican nominee
+Jeb Bush[M,S3] broke[V] [PossPro] pledge to support[V] the Republican nominee
+Obama[M,S3] broke[V] the pledge to refuse[V] donations
+Obama[M,S3] broke[V] [PossPro] pledge to refuse[V] donations
+British leaders[P3] broke[V] a pledge to deliver[V] more powers to Scotland
+British leaders[P3] broke[V] [PossPro] pledge to deliver[V] more powers to Scotland
+they[P3] broke[V] the pledge to go[V] on with the Customs Duties Bill
+they[P3] broke[V] [PossPro] pledge to go[V] on with the Customs Duties Bill
+the Danes[P3] broke[V] a pledge to depart[V] out of Alfred's realm
+the Danes[P3] broke[V] [PossPro] pledge to depart[V] out of Alfred's realm
+they[P3] broke[V] the pledge to vote[V] for the Party nominee
+they[P3] broke[V] [PossPro] pledge to vote[V] for the Party nominee
+they[P3] broke[V] a pledge to axe[V] tuition fees
+they[P3] broke[V] [PossPro] pledge to axe[V] tuition fees
+the organizers[P3] broke[V] the pledge to put[V] on [PossPro] gathering without corporate donations
+the organizers[P3] broke[V] [PossPro] pledge to put[V] on [PossPro] gathering without corporate donations
+the Germans[P3] broke[V] a pledge to discontinue[V] unrestricted submarine warfare
+the Germans[P3] broke[V] [PossPro] pledge to discontinue[V] unrestricted submarine warfare
+Pelosi[F,S3] broke[V] pledge to post[V] health care bill online
+Pelosi[F,S3] broke[V] [PossPro] pledge to post[V] health care bill online
+Zac[M,S3] broke[V] pledge to stand[V] down over hospital cuts
+Zac[M,S3] broke[V] [PossPro] pledge to stand[V] down over hospital cuts
+Lib Dem MPs[P3] broke[V] pledge to oppose[V] fee rises in 2010
+Lib Dem MPs[P3] broke[V] [PossPro] pledge to oppose[V] fee rises in 2010
+George Osborne[M,S3] broke[V] pledge to protect[V] NHS budget
+George Osborne[M,S3] broke[V] [PossPro] pledge to protect[V] NHS budget
+Obama[M,S3] broke[V] pledge to force[V] banks to help homeowners
+Obama[M,S3] broke[V] [PossPro] pledge to force[V] banks to help homeowners

@@ -1,0 +1,160 @@
+Implicatives:
+take (the,a,~,no,PossPro) chance [+|-]
+
+Examples:
+we[P1] took[V] no chance to let[V] this become public
+we[P1] took[V] [PossPro] chance to let[V] this become public
+the students[P3] (then) took[V] the chance to interview[V] Leigh and Brian
+the students[P3] (then) took[V] [PossPro] chance to interview[V] Leigh and Brian
+I[S1] took[V] the chance to shoot[V] an M1 carbine in it's ww2 trim
+I[S1] took[V] [PossPro] chance to shoot[V] an M1 carbine in it's ww2 trim
+you[S2] took[V] the chance to study[V] abroad
+you[S2] took[V] [PossPro] chance to study[V] abroad
+I[S1] took[V] the chance to practice[V] body diversity with Annabeth and Piper
+I[S1] took[V] [PossPro] chance to practice[V] body diversity with Annabeth and Piper
+I[S1] took[V] the chance to obtain[V] an individual mouthpiece
+I[S1] took[V] [PossPro] chance to obtain[V] an individual mouthpiece
+I[S1] took[V] the chance to climb[V] at the top of the church
+I[S1] took[V] [PossPro] chance to climb[V] at the top of the church
+we[P1] took[V] the chance to make[V] up [PossPro] own minds
+we[P1] took[V] [PossPro] chance to make[V] up [PossPro] own minds
+Rangers[P3] took[V] the chance to extend[V] lead at the top away to Dundee
+Rangers[P3] took[V] [PossPro] chance to extend[V] lead at the top away to Dundee
+Vanessa and Wayne Bosua[P3] took[V] the chance to check[V] out the famous Greenpeace ship
+Vanessa and Wayne Bosua[P3] took[V] [PossPro] chance to check[V] out the famous Greenpeace ship
+our skin therapist Katherine[F,S3] took[V] the chance to have[V] a rejuvenating body treatment in our spa.
+our skin therapist Katherine[F,S3] took[V] [PossPro] chance to have[V] a rejuvenating body treatment in our spa.
+she[F,S3] took[V] the chance to (at least) put[V] it on
+she[F,S3] took[V] [PossPro] chance to (at least) put[V] it on
+I[S1] took[V] the chance to have[V] that conversation
+I[S1] took[V] [PossPro] chance to have[V] that conversation
+presenter Paul Topping[M,S3] took[V] the chance to go[V] up in the air with the tiger
+presenter Paul Topping[M,S3] took[V] [PossPro] chance to go[V] up in the air with the tiger
+Donald Trump[M,S3] took[V] the chance to attack[V] Ted Cruz one more time
+Donald Trump[M,S3] took[V] [PossPro] chance to attack[V] Ted Cruz one more time
+we finally[P1] took[V] the chance to ask[V] some direct questions
+we finally[P1] took[V] [PossPro] chance to ask[V] some direct questions
+you[S2] took[V] the chance to get[V] [PossPro] story out there
+you[S2] took[V] [PossPro] chance to get[V] [PossPro] story out there
+she[F,S3] took[V] the chance to transfer[V] to UMBC
+she[F,S3] took[V] [PossPro] chance to transfer[V] to UMBC
+the squad[S3] (also) took[V] the chance to take[V] it to the track with Davide Giugliano
+the squad[S3] (also) took[V] [PossPro] chance to take[V] it to the track with Davide Giugliano
+the Saints[P3] took[V] the chance to empty[V] [PossPro] replacements bench
+the Saints[P3] took[V] [PossPro] chance to empty[V] [PossPro] replacements bench
+the students[P3] (then) took[V] the chance to interview[V] Leigh and Brian
+the students[P3] (then) took[V] [PossPro] chance to interview[V] Leigh and Brian
+my colleagues[P3] took[V] the chance to do[V] so
+my colleagues[P3] took[V] [PossPro] chance to do[V] so
+Tsunami[F,S3] took[V] the chance to set[V] the record straight about Debbie
+Tsunami[F,S3] took[V] [PossPro] chance to set[V] the record straight about Debbie
+the commission[S3] took[V] the chance to plan[V] on a rolling basis
+the commission[S3] took[V] [PossPro] chance to plan[V] on a rolling basis
+I[S1] took[V] the chance to explore[V] the world
+I[S1] took[V] [PossPro] chance to explore[V] the world
+he[M,S3] took[V] the chance to reprise[V] [PossPro] very effective attack about her speeches
+he[M,S3] took[V] [PossPro] chance to reprise[V] [PossPro] very effective attack about her speeches
+I[S1] took[V] the chance to prevent[V] it
+I[S1] took[V] [PossPro] chance to prevent[V] it
+Hudson[M,S3] took[V] the chance to bring[V] the score within a converted try
+Hudson[M,S3] took[V] [PossPro] chance to bring[V] the score within a converted try
+I[S1] took[V] the chance to try[V] out an induction stove for a full month
+I[S1] took[V] [PossPro] chance to try[V] out an induction stove for a full month
+you[S2] took[V] the chance to engage[V] in discussions about rape
+you[S2] took[V] [PossPro] chance to engage[V] in discussions about rape
+she[F,S3] took[V] the chance to explain[V] how fulfilling [PossPro] job is
+she[F,S3] took[V] [PossPro] chance to explain[V] how fulfilling [PossPro] job is
+he[M,S3] took[V] the chance to transfer[V] to American football
+he[M,S3] took[V] [PossPro] chance to transfer[V] to American football
+we[P1] took[V] the chance to sleep[V] in the car
+we[P1] took[V] [PossPro] chance to sleep[V] in the car
+Solomon[M,S3] took[V] the chance to be[V] specific
+Solomon[M,S3] took[V] [PossPro] chance to be[V] specific
+Clinton[F,S3] took[V] the chance to suggest[V] [SubjPro] would follow in the footsteps of Trudeau
+Clinton[F,S3] took[V] [PossPro] chance to suggest[V] [SubjPro] would follow in the footsteps of Trudeau
+I[S1] took[V] the chance to ask[V] for more time off
+I[S1] took[V] [PossPro] chance to ask[V] for more time off
+the book[S3] took[V] the chance to examine[V] exclusively empirical research
+the book[S3] took[V] [PossPro] chance to examine[V] exclusively empirical research
+this person[F,S3] took[V] the chance to get[V] to know me
+this person[F,S3] took[V] [PossPro] chance to get[V] to know me
+Poe[F,S3] took[V] the chance to attack[V] [PossPro] rivals
+Poe[F,S3] took[V] [PossPro] chance to attack[V] [PossPro] rivals
+we[P1] took[V] the chance to take[V] full advantage of his great wisdom
+we[P1] took[V] [PossPro] chance to take[V] full advantage of his great wisdom
+the council[S3] took[V] the chance to buy[V] the site
+the council[S3] took[V] [PossPro] chance to buy[V] the site
+I[S1] took[V] a chance to re-invent [ReflPro]
+I[S1] took[V] [PossPro] chance to re-invent [ReflPro]
+I[S1] took[V] a chance to make[V] a change
+I[S1] took[V] [PossPro] chance to make[V] a change
+you[S2] took[V] a chance to believe[V] in me
+you[S2] took[V] [PossPro] chance to believe[V] in me
+you[S2] took[V] a chance to visit[V] our website
+you[S2] took[V] [PossPro] chance to visit[V] our website
+she[F,S3] took[V] a chance to add[V] some colour to [PossPro] home
+she[F,S3] took[V] [PossPro] chance to add[V] some colour to [PossPro] home
+she[F,S3] took[V] a chance to impress[V] the judges in other ways
+she[F,S3] took[V] [PossPro] chance to impress[V] the judges in other ways
+we[P1] took[V] a chance to visit[V] Christo's floating piers
+we[P1] took[V] [PossPro] chance to visit[V] Christo's floating piers
+we[P1] took[V] a chance to do[V] something totally new & fun
+we[P1] took[V] [PossPro] chance to do[V] something totally new & fun
+they[P3] took[V] a chance to express[V] [ObjPro] as a serious and perspective company
+they[P3] took[V] [PossPro] chance to express[V] [ObjPro] as a serious and perspective company
+they[P3] took[V] a chance to compete[V] in [PossPro] skill on a regional level
+they[P3] took[V] [PossPro] chance to compete[V] in [PossPro] skill on a regional level
+Cinelinx[S3] took[V] a chance to ask[V] him about the new Star Wars trilogy
+Cinelinx[S3] took[V] [PossPro] chance to ask[V] him about the new Star Wars trilogy
+Billy[M,S3] took[V] a chance to go[V] to the trip
+Billy[M,S3] took[V] [PossPro] chance to go[V] to the trip
+Kyle[M,S3] took[V] a chance to email me
+Kyle[M,S3] took[V] [PossPro] chance to email me
+Kyle Marshall[M,S3] took[V] a chance to add[V] [PossPro] name to the scoresheet
+Kyle Marshall[M,S3] took[V] [PossPro] chance to add[V] [PossPro] name to the scoresheet
+Mrs. Snyder's 1st Grade Class[P3] took[V] a chance to remind[V] us that Jesus is the Reason for the season
+Mrs. Snyder's 1st Grade Class[P3] took[V] [PossPro] chance to remind[V] us that Jesus is the Reason for the season
+Laboratories' John Meyer[M,S3] took[V] a chance to follow[V] [PossPro] dream
+Laboratories' John Meyer[M,S3] took[V] [PossPro] chance to follow[V] [PossPro] dream
+Hosmer[M,S3] took[V] a chance to score[V]
+Hosmer[M,S3] took[V] [PossPro] chance to score[V]
+we[P1] took[V] chance to go[V] on a boat to Australia
+we[P1] took[V] [PossPro] chance to go[V] on a boat to Australia
+they[P3] took[V] chance to win[V] a family canoe trip
+they[P3] took[V] [PossPro] chance to win[V] a family canoe trip
+Gray[M,S3] took[V] chance to expand[V] [PossPro] horizons
+Gray[M,S3] took[V] [PossPro] chance to expand[V] [PossPro] horizons
+I[S1] took[V] chance to try[V] a new airline
+I[S1] took[V] [PossPro] chance to try[V] a new airline
+he[M,S3] took[V] chance to grab[V] a quick nap
+he[M,S3] took[V] [PossPro] chance to grab[V] a quick nap
+the victim[F,S3] took[V] chance to escape[V] when assailant passed out
+the victim[F,S3] took[V] [PossPro] chance to escape[V] when assailant passed out
+we[P1] took[V] chance to wash[V] [PossPro] clothes and dry[V] [PossPro] tent
+we[P1] took[V] [PossPro] chance to wash[V] [PossPro] clothes and dry[V] [PossPro] tent
+she[F,S3] took[V] chance to do[V] things differently
+she[F,S3] took[V] [PossPro] chance to do[V] things differently
+Baba[M,S3] took[V] chance to step[V] on the international scene
+Baba[M,S3] took[V] [PossPro] chance to step[V] on the international scene
+they[P3] took[V] no chance to risk[V] losing [PossPro] A
+they[P3] took[V] [PossPro] chance to risk[V] losing [PossPro] A
+he[M,S3] took[V] no chance to listen[V] to you
+he[M,S3] took[V] [PossPro] chance to listen[V] to you
+this great Dutch actress[F,S3] took[V] no chance to compromise[V] [PossPro] role's quality
+this great Dutch actress[F,S3] took[V] [PossPro] chance to compromise[V] [PossPro] role's quality
+Vidya[F,S3] took[V] no chance to make[V] [ReflPro] look hot and prominent
+Vidya[F,S3] took[V] [PossPro] chance to make[V] [ReflPro] look hot and prominent
+K. Natwar Singh[M,S3] took[V] no chance to clarify[V] [PossPro] remarks on the 1998 Pokhran nuclear tests
+K. Natwar Singh[M,S3] took[V] [PossPro] chance to clarify[V] [PossPro] remarks on the 1998 Pokhran nuclear tests
+we[P1] took[V] no chance to be[V] relaxed
+we[P1] took[V] [PossPro] chance to be[V] relaxed
+I[S1] took[V] no chance to text him to remind[V] him to be back early
+I[S1] took[V] [PossPro] chance to text him to remind[V] him to be back early
+SEGA[S3] took[V] no chance to allow[V] for some meaty DLC to expand it all further
+SEGA[S3] took[V] [PossPro] chance to allow[V] for some meaty DLC to expand it all further
+the couple[P3] took[V] no chance to survive[V]
+the couple[P3] took[V] [PossPro] chance to survive[V]
+it[S3] took[V] no chance to ensure that the exercise[V] was peaceful
+it[S3] took[V] [PossPro] chance to ensure that the exercise[V] was peaceful
+we[P1] took[V] no chance to miss[V] filling up and refresh[V] from the relentless heat
+we[P1] took[V] [PossPro] chance to miss[V] filling up and refresh[V] from the relentless heat

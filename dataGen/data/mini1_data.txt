@@ -1,0 +1,72 @@
+I was prevented to leave
+entails
+I did not leave
+
+I was prevented to leave
+permits
+I did not do something completely different
+
+I was prevented to leave
+contradicts
+I left
+
+I was prevented to leave
+permits
+someone other than me left
+
+I have been prevented to leave
+entails
+I have not left
+
+I have been prevented to leave
+contradicts
+I have left
+
+I had been prevented to leave
+entails
+I had not left
+
+I had been prevented to leave
+contradicts
+I had left
+
+I had been prevented to leave
+permits
+someone other than me had left
+
+I was not prevented to leave
+entails
+I left
+
+I was not prevented to leave
+permits
+I did something completely different
+
+I was not prevented to leave
+contradicts
+I did not leave
+
+I have not been prevented to leave
+entails
+I have left
+
+I have not been prevented to leave
+contradicts
+I have not left
+
+I have not been prevented to leave
+permits
+someone other than me have not left
+
+I had not been prevented to leave
+entails
+I had left
+
+I had not been prevented to leave
+permits
+someone other than me had left
+
+I had not been prevented to leave
+contradicts
+I had not left
+

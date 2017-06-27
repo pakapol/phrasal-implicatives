@@ -1,0 +1,64 @@
+Implicatives:
+meet (a,the,PossPro) promise [+|-]
+
+Examples:
+the Liberals[P3] (also) met[V] a promise to split[V] the portfolios of agriculture and fisheries
+the Liberals[P3] (also) met[V] [PossPro] promise to split[V] the portfolios of agriculture and fisheries
+Gordon Brown[M,S3] met[V] a promise to share[V] a list of terrorism suspects
+Gordon Brown[M,S3] met[V] [PossPro] promise to share[V] a list of terrorism suspects
+The Tasman District Council[S3] met[V] a promise to keep[V] rate increases down
+The Tasman District Council[S3] met[V] [PossPro] promise to keep[V] rate increases down
+Saudi officials[P3] met[V] a promise to create[V] a commission to oversee Saudi charities
+Saudi officials[P3] met[V] [PossPro] promise to create[V] a commission to oversee Saudi charities
+I[S1] met[V] a promise to help[V] them
+I[S1] met[V] [PossPro] promise to help[V] them
+HF[S3] met[V] a promise to provide[V] heavy-duty printers to the region of Kibaale
+HF[S3] met[V] [PossPro] promise to provide[V] heavy-duty printers to the region of Kibaale
+Canada[S3] met[V] a promise to lift[V] visa requirements for Mexicans
+Canada[S3] met[V] [PossPro] promise to lift[V] visa requirements for Mexicans
+Portsmouth[S3] met[V] a promise to pay[V] players their December wages
+Portsmouth[S3] met[V] [PossPro] promise to pay[V] players their December wages
+the coalition government[S3] met[V] a promise to reduce[V] net annual migration to less than 100,000
+the coalition government[S3] met[V] [PossPro] promise to reduce[V] net annual migration to less than 100,000
+we[P1] met[V] the promise to deliver[V] a good show
+we[P1] met[V] [PossPro] promise to deliver[V] a good show
+we[P1] met[V] the promise to check[V] the condition of the car
+we[P1] met[V] [PossPro] promise to check[V] the condition of the car
+you[S2] met[V] the promise to despatch[V] it as soon as you could
+you[S2] met[V] [PossPro] promise to despatch[V] it as soon as you could
+they[P3] met[V] the promise to pay[V] me a cash prize
+they[P3] met[V] [PossPro] promise to pay[V] me a cash prize
+they[P3] met[V] the promise to deliver[V] the job on time
+they[P3] met[V] [PossPro] promise to deliver[V] the job on time
+the brand[S3] met[V] the promise to sustain[V] [PossPro] reputation
+the brand[S3] met[V] [PossPro] promise to sustain[V] [PossPro] reputation
+we[P1] met[V] the promise to help[V] the deacon
+we[P1] met[V] [PossPro] promise to help[V] the deacon
+we[P1] met[V] the promise to deliver[V] high quality and more affordable health care
+we[P1] met[V] [PossPro] promise to deliver[V] high quality and more affordable health care
+I[S1] met[V] the promise to produce[V] a dubstep beat
+I[S1] met[V] [PossPro] promise to produce[V] a dubstep beat
+Obama[M,S3] met[V] the promise to transfer[V] prisoners from detention facility in Cuba
+Obama[M,S3] met[V] [PossPro] promise to transfer[V] prisoners from detention facility in Cuba
+the President[M,S3] met[V] the promise to withdraw[V] the military (entirely) from Afghanistan
+the President[M,S3] met[V] [PossPro] promise to withdraw[V] the military (entirely) from Afghanistan
+he[M,S3] met[V] a promise to cut[V] debt as a share of GDP this year
+he[M,S3] met[V] [PossPro] promise to cut[V] debt as a share of GDP this year
+Juncker[M,S3] met[V] the promise to put[V] more women in senior roles
+Juncker[M,S3] met[V] [PossPro] promise to put[V] more women in senior roles
+Carter[M,S3] met[V] the promise to increase[V] education funding
+Carter[M,S3] met[V] [PossPro] promise to increase[V] education funding
+Shona Robison[F,S3] met[V] the promise to eradicate[V] delayed discharge from our NHS
+Shona Robison[F,S3] met[V] [PossPro] promise to eradicate[V] delayed discharge from our NHS
+she[F,S3] met[V] the promise to end[V] bedblocking by the end of the year
+she[F,S3] met[V] [PossPro] promise to end[V] bedblocking by the end of the year
+she[F,S3] met[V] the promise to give[V] financial assistance in the establishment of the Sydney Sanitarium
+she[F,S3] met[V] [PossPro] promise to give[V] financial assistance in the establishment of the Sydney Sanitarium
+we[P1] met[V] the promise to encourage[V] our staff to be creative and innovative
+we[P1] met[V] [PossPro] promise to encourage[V] our staff to be creative and innovative
+the Commission[S3] met[V] the promise to prevent[V] improper blocking and discrimination
+the Commission[S3] met[V] [PossPro] promise to prevent[V] improper blocking and discrimination
+China[S3] met[V] the promise to give[V] a new improved offer on tariff reduction
+China[S3] met[V] [PossPro] promise to give[V] a new improved offer on tariff reduction
+state and local authorities[P3] met[V] the promise to fully educate[V] every student
+state and local authorities[P3] met[V] [PossPro] promise to fully educate[V] every student

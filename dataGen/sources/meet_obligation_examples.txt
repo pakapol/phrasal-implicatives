@@ -1,0 +1,64 @@
+Implicatives:
+meet (an,the,PossPro) obligation [+|-]
+
+Examples:
+Verizon[S3] met[V] an obligation to bring[V] FiOS service to all residents of the city
+Verizon[S3] met[V] [PossPro] obligation to bring[V] FiOS service to all residents of the city
+the client[F,S3] met[V] an obligation to pay[V]
+the client[F,S3] met[V] [PossPro] obligation to pay[V]
+you[S2] met[V] an obligation to make[V] a monthly payment
+you[S2] met[V] [PossPro] obligation to make[V] a monthly payment
+the SGX[S3] met[V] an obligation to maintain[V] orderly markets
+the SGX[S3] met[V] [PossPro] obligation to maintain[V] orderly markets
+they[P3] met[V] an obligation to defend[V] what [SubjPro] believed to be right
+they[P3] met[V] [PossPro] obligation to defend[V] what [SubjPro] believed to be right
+Russia[S3] met[V] an obligation to withdraw[V] [PossPro] forces to positions held before the conflict
+Russia[S3] met[V] [PossPro] obligation to withdraw[V] [PossPro] forces to positions held before the conflict
+EE, Three and O2[P3] met[V] an obligation to cover[V] 90% of UK homes by June 2013
+EE, Three and O2[P3] met[V] [PossPro] obligation to cover[V] 90% of UK homes by June 2013
+Ankara[S3] met[V] an obligation to open[V] ports to ships from Cyprus
+Ankara[S3] met[V] [PossPro] obligation to open[V] ports to ships from Cyprus
+the applicator[M,S3] met[V] the obligation to provide[V] a written notification
+the applicator[M,S3] met[V] [PossPro] obligation to provide[V] a written notification
+we[P1] met[V] the obligation to pass[V] a balanced, on-time budget
+we[P1] met[V] [PossPro] obligation to pass[V] a balanced, on-time budget
+Euris Consult[S3] met[V] the obligation to submit[V] the tender under double cover
+Euris Consult[S3] met[V] [PossPro] obligation to submit[V] the tender under double cover
+ENRC[S3] met[V] the obligation to address[V] human rights
+ENRC[S3] met[V] [PossPro] obligation to address[V] human rights
+the applicant[M,S3] met[V] the obligation to show[V] cause
+the applicant[M,S3] met[V] [PossPro] obligation to show[V] cause
+the employer[S3] met[V] the obligation to submit[V] a certified RMP to the regulator
+the employer[S3] met[V] [PossPro] obligation to submit[V] a certified RMP to the regulator
+the parties[P3] met[V] the obligation to publish[V] future reports of internal audits
+the parties[P3] met[V] [PossPro] obligation to publish[V] future reports of internal audits
+I[S1] met[V] the obligation to answer[V] the summons
+I[S1] met[V] [PossPro] obligation to answer[V] the summons
+you[S2] met[V] the obligation to act[V] as quickly as [SubjPro] can
+you[S2] met[V] [PossPro] obligation to act[V] as quickly as [SubjPro] can
+he[M,S3] met[V] the obligation to follow[V] the laws
+he[M,S3] met[V] [PossPro] obligation to follow[V] the laws
+he[M,S3] met[V] the obligation to obtain[V] the required number of settlers
+he[M,S3] met[V] [PossPro] obligation to obtain[V] the required number of settlers
+she[F,S3] met[V] the obligation to provide[V]
+she[F,S3] met[V] [PossPro] obligation to provide[V]
+she[F,S3] met[V] the obligation to pay[V] the fine
+she[F,S3] met[V] [PossPro] obligation to pay[V] the fine
+we[P1] met[V] the obligation to outrank[V] other institutions fully
+we[P1] met[V] [PossPro] obligation to outrank[V] other institutions fully
+we[P1] met[V] the obligation to provide[V] a cleaning service for the service you paid for
+we[P1] met[V] [PossPro] obligation to provide[V] a cleaning service for the service you paid for
+they[P3] met[V] the obligation to let[V] people evolve on their own
+they[P3] met[V] [PossPro] obligation to let[V] people evolve on their own
+they[P3] met[V] the obligation to teach[V] [PossPro] pupils basic subjects
+they[P3] met[V] [PossPro] obligation to teach[V] [PossPro] pupils basic subjects
+the state organs[P3] met[V] the obligation to enforce[V] the law
+the state organs[P3] met[V] [PossPro] obligation to enforce[V] the law
+the Board[S3] met[V] the obligation to appoint[V] the BOI members in a timely manner
+the Board[S3] met[V] [PossPro] obligation to appoint[V] the BOI members in a timely manner
+the document[S3] met[V] the obligation to report[V] an assessment of such risks
+the document[S3] met[V] [PossPro] obligation to report[V] an assessment of such risks
+the operator[S3] met[V] the obligation to carry[V] out such maintenance
+the operator[S3] met[V] [PossPro] obligation to carry[V] out such maintenance
+the student[F,S3] met[V] the obligation to repay[V] the loan
+the student[F,S3] met[V] [PossPro] obligation to repay[V] the loan

@@ -1,0 +1,2780 @@
+they had had plenty of time to prepare for this downturn
+entails
+they had prepared for this downturn
+
+they had prepared for this downturn
+permits
+they had had plenty of time to prepare for this downturn
+
+they had had plenty of time to prepare for this downturn
+contradicts
+they had n't prepared for this downturn
+
+they had n't prepared for this downturn
+contradicts
+they had had plenty of time to prepare for this downturn
+
+they never had plenty of time to prepare for this downturn
+entails
+they did not prepare for this downturn
+
+they did not prepare for this downturn
+permits
+they never had plenty of time to prepare for this downturn
+
+they never had plenty of time to prepare for this downturn
+permits
+millennials did not prepare for this downturn
+
+they never had plenty of time to prepare for this downturn
+contradicts
+they prepared for this downturn
+
+they prepared for this downturn
+contradicts
+they never had plenty of time to prepare for this downturn
+
+we had the time to experience the pool and hot tub
+entails
+we experienced the pool and hot tub
+
+we experienced the pool and hot tub
+permits
+we had the time to experience the pool and hot tub
+
+we had the time to experience the pool and hot tub
+permits
+we figured out who we am and who we want to be
+
+we had had the time to experience the pool and hot tub
+contradicts
+we had n't experienced the pool or hot tub
+
+we had n't experienced the pool or hot tub
+contradicts
+we had had the time to experience the pool and hot tub
+
+we had had the time to experience the pool and hot tub
+permits
+we had n't moved our daughter
+
+we did n't have the time to experience the pool or hot tub
+entails
+we did not experience the pool or hot tub
+
+we did not experience the pool or hot tub
+permits
+we did n't have the time to experience the pool or hot tub
+
+we did n't have the time to experience the pool or hot tub
+permits
+their bodies did n't experience the pool or hot tub
+
+we had almost had the time to experience the pool or hot tub
+contradicts
+we had experienced the pool and hot tub
+
+we had experienced the pool and hot tub
+contradicts
+we had almost had the time to experience the pool or hot tub
+
+I had the time to uncover the secrets of traffic generation on this platform
+entails
+I uncovered the secrets of traffic generation on this platform
+
+I uncovered the secrets of traffic generation on this platform
+permits
+I had the time to uncover the secrets of traffic generation on this platform
+
+I have had the time to uncover the secrets of traffic generation on this platform
+contradicts
+I have n't uncovered the secrets of traffic generation on this platform
+
+I have n't uncovered the secrets of traffic generation on this platform
+contradicts
+I have had the time to uncover the secrets of traffic generation on this platform
+
+I had n't had the time to uncover the secrets of traffic generation on this platform
+entails
+I had n't uncovered the secrets of traffic generation on this platform
+
+I had n't uncovered the secrets of traffic generation on this platform
+permits
+I had n't had the time to uncover the secrets of traffic generation on this platform
+
+I never had the time to uncover the secrets of traffic generation on this platform
+contradicts
+I uncovered the secrets of traffic generation on this platform
+
+I uncovered the secrets of traffic generation on this platform
+contradicts
+I never had the time to uncover the secrets of traffic generation on this platform
+
+I had the time to deposit my cheque in the bank
+entails
+I deposited my cheque in the bank
+
+I deposited my cheque in the bank
+permits
+I had the time to deposit my cheque in the bank
+
+I had had the time to deposit my cheque in the bank
+contradicts
+I had not deposited my cheque in the bank
+
+I had not deposited my cheque in the bank
+contradicts
+I had had the time to deposit my cheque in the bank
+
+I almost had had the time to deposit my cheque in the bank
+entails
+I had almost deposited my cheque in the bank
+
+I had almost deposited my cheque in the bank
+permits
+I almost had had the time to deposit my cheque in the bank
+
+I almost had had the time to deposit my cheque in the bank
+permits
+I had not picked up memories or attracted local spirits
+
+I have n't had the time to deposit my cheque in the bank
+contradicts
+I have deposited my cheque in the bank
+
+I have deposited my cheque in the bank
+contradicts
+I have n't had the time to deposit my cheque in the bank
+
+Kazakhstan had had the time to upgrade its refineries as scheduled
+entails
+Kazakhstan had upgraded its refineries as scheduled
+
+Kazakhstan had upgraded its refineries as scheduled
+permits
+Kazakhstan had had the time to upgrade its refineries as scheduled
+
+Kazakhstan had had the time to upgrade its refineries as scheduled
+permits
+Kazakhstan had feared for his life
+
+Kazakhstan has had the time to upgrade its refineries as scheduled
+contradicts
+Kazakhstan has n't upgraded its refineries as scheduled
+
+Kazakhstan has n't upgraded its refineries as scheduled
+contradicts
+Kazakhstan has had the time to upgrade its refineries as scheduled
+
+Kazakhstan has had the time to upgrade its refineries as scheduled
+permits
+Kazakhstan has n't built up that relationship
+
+Kazakhstan has n't had the time to upgrade its refineries as scheduled
+entails
+Kazakhstan has not upgraded its refineries as scheduled
+
+Kazakhstan has not upgraded its refineries as scheduled
+permits
+Kazakhstan has n't had the time to upgrade its refineries as scheduled
+
+Kazakhstan has n't had the time to upgrade its refineries as scheduled
+permits
+the car has n't upgraded its refineries as scheduled
+
+Kazakhstan has almost had the time to upgrade its refineries as scheduled
+contradicts
+Kazakhstan has upgraded its refineries as scheduled
+
+Kazakhstan has upgraded its refineries as scheduled
+contradicts
+Kazakhstan has almost had the time to upgrade its refineries as scheduled
+
+the sample has had the time to completely cool down
+entails
+the sample has completely cooled down
+
+the sample has completely cooled down
+permits
+the sample has had the time to completely cool down
+
+the sample has had the time to completely cool down
+contradicts
+the sample has n't completely cooled down
+
+the sample has n't completely cooled down
+contradicts
+the sample has had the time to completely cool down
+
+the sample has never had the time to completely cool down
+entails
+the sample has n't completely cooled down
+
+the sample has n't completely cooled down
+permits
+the sample has never had the time to completely cool down
+
+the sample almost had the time to completely cool down
+contradicts
+the sample completely cooled down
+
+the sample completely cooled down
+contradicts
+the sample almost had the time to completely cool down
+
+you have had the time to set up these automation capabilities
+entails
+you have set up these automation capabilities
+
+you have set up these automation capabilities
+permits
+you have had the time to set up these automation capabilities
+
+you have had the time to set up these automation capabilities
+contradicts
+you have n't set up these automation capabilities
+
+you have n't set up these automation capabilities
+contradicts
+you have had the time to set up these automation capabilities
+
+you have had the time to set up these automation capabilities
+permits
+you have n't deposited my cheque in the bank
+
+you did not have the time to set up these automation capabilities
+entails
+you did not set up these automation capabilities
+
+you did not set up these automation capabilities
+permits
+you did not have the time to set up these automation capabilities
+
+you did not have the time to set up these automation capabilities
+permits
+the Haitian National Police did n't set up these automation capabilities
+
+you had not had the time to set up these automation capabilities
+contradicts
+you had set up these automation capabilities
+
+you had set up these automation capabilities
+contradicts
+you had not had the time to set up these automation capabilities
+
+you had not had the time to set up these automation capabilities
+permits
+you had burnt her fingers
+
+the team had the time to maintain the project
+entails
+the team maintained the project
+
+the team maintained the project
+permits
+the team had the time to maintain the project
+
+the team had the time to really maintain the project
+entails
+the team really maintained the project
+
+the team really maintained the project
+permits
+the team had the time to really maintain the project
+
+the team had the time to actively maintain the project
+entails
+the team actively maintained the project
+
+the team actively maintained the project
+permits
+the team had the time to actively maintain the project
+
+the team had the time to actively maintain the project
+permits
+he maintained the project
+
+the team had the time to actively maintain the project
+permits
+light really maintained the project
+
+the team had the time to actively maintain the project
+permits
+light actively maintained the project
+
+the team had the time to actively maintain the project
+permits
+he really actively maintained the project
+
+the team had the time to really actively maintain the project
+entails
+the team really actively maintained the project
+
+the team really actively maintained the project
+permits
+the team had the time to really actively maintain the project
+
+the team had the time to really actively maintain the project
+permits
+the team considered sterilization carefully
+
+the team had the time to really actively maintain the project
+permits
+the team maintained the project
+
+the team had the time to really actively maintain the project
+permits
+the team upgraded its refineries as scheduled
+
+the team had the time to really actively maintain the project
+permits
+the team warmed up to sex
+
+the team had had the time to maintain the project
+contradicts
+the team had not maintained the project
+
+the team had not maintained the project
+contradicts
+the team had had the time to maintain the project
+
+the team had had the time to really maintain the project
+contradicts
+the team had n't really maintained the project
+
+the team had n't really maintained the project
+contradicts
+the team had had the time to really maintain the project
+
+the team had had the time to really maintain the project
+permits
+the team had not chilled when it made its Christmas EP
+
+the team had had the time to really maintain the project
+permits
+the team had not reacted before the collision
+
+the team had had the time to really maintain the project
+permits
+the team had n't done his homework
+
+the team had had the time to really maintain the project
+permits
+the team had not warmed up to sex
+
+the team had had the time to actively maintain the project
+contradicts
+the team had not actively maintained the project
+
+the team had not actively maintained the project
+contradicts
+the team had had the time to actively maintain the project
+
+the team had had the time to really actively maintain the project
+contradicts
+the team had not really actively maintained the project
+
+the team had not really actively maintained the project
+contradicts
+the team had had the time to really actively maintain the project
+
+the team has not had the time to maintain the project
+entails
+the team has not maintained the project
+
+the team has not maintained the project
+permits
+the team has not had the time to maintain the project
+
+the team has almost had the time to really maintain the project
+entails
+the team has n't really maintained the project
+
+the team has n't really maintained the project
+permits
+the team has almost had the time to really maintain the project
+
+the team has not had the time to actively maintain the project
+entails
+the team has n't actively maintained the project
+
+the team has n't actively maintained the project
+permits
+the team has not had the time to actively maintain the project
+
+the team has not had the time to actively maintain the project
+permits
+she has not maintained the project
+
+the team has not had the time to actively maintain the project
+permits
+light has not really maintained the project
+
+the team has not had the time to actively maintain the project
+permits
+Ariana Grande has not actively maintained the project
+
+the team has not had the time to actively maintain the project
+permits
+Eunyong Park has n't really actively maintained the project
+
+the team has n't had the time to really actively maintain the project
+entails
+the team has not really actively maintained the project
+
+the team has not really actively maintained the project
+permits
+the team has n't had the time to really actively maintain the project
+
+the team had almost had the time to maintain the project
+contradicts
+the team had maintained the project
+
+the team had maintained the project
+contradicts
+the team had almost had the time to maintain the project
+
+the team had almost had the time to maintain the project
+permits
+the team had really maintained the project
+
+the team had almost had the time to maintain the project
+permits
+the team had drunk that beer
+
+the team had almost had the time to maintain the project
+permits
+the team had really actively maintained the project
+
+the team had almost had the time to maintain the project
+permits
+the team had used the pool
+
+the team had never had the time to really maintain the project
+contradicts
+the team had really maintained the project
+
+the team had really maintained the project
+contradicts
+the team had never had the time to really maintain the project
+
+the team had never had the time to really maintain the project
+permits
+the team had set up additional effective defences
+
+the team had never had the time to really maintain the project
+permits
+the team had readjusted from its corrupt past
+
+the team had never had the time to really maintain the project
+permits
+the team had considered sterilization carefully
+
+the team had never had the time to really maintain the project
+permits
+the team had maintained the project
+
+the team had n't had the time to actively maintain the project
+contradicts
+the team had actively maintained the project
+
+the team had actively maintained the project
+contradicts
+the team had n't had the time to actively maintain the project
+
+the team had not had the time to really actively maintain the project
+contradicts
+the team had really actively maintained the project
+
+the team had really actively maintained the project
+contradicts
+the team had not had the time to really actively maintain the project
+
+the team had not had the time to really actively maintain the project
+permits
+his Majesty's government had maintained the project
+
+the team had not had the time to really actively maintain the project
+permits
+Sevilla had really maintained the project
+
+the team had not had the time to really actively maintain the project
+permits
+Toomey had actively maintained the project
+
+the team had not had the time to really actively maintain the project
+permits
+Einstein had really actively maintained the project
+
+they had had the time to figure it all out
+entails
+they had figured it all out
+
+they had figured it all out
+permits
+they had had the time to figure it all out
+
+they had had the time to figure it all out
+permits
+the victims had figured it all out
+
+they had had the time to figure it all out
+permits
+people had figured it all out
+
+they had just had the time to figure it all out
+entails
+they had figured it all out
+
+they had figured it all out
+permits
+they had just had the time to figure it all out
+
+they had the time to figure it all out
+contradicts
+they did not figure it all out
+
+they did not figure it all out
+contradicts
+they had the time to figure it all out
+
+they had the time to figure it all out
+permits
+they did not furnish the report on this subject
+
+they had the time to figure it all out
+permits
+they did not really maintain the project
+
+they just had the time to figure it all out
+contradicts
+they did not figure it all out
+
+they did not figure it all out
+contradicts
+they just had the time to figure it all out
+
+they have n't had the time to figure it all out
+entails
+they have not figured it all out
+
+they have not figured it all out
+permits
+they have n't had the time to figure it all out
+
+they have n't just had the time to figure it all out
+entails
+they have n't figured it all out
+
+they have n't figured it all out
+permits
+they have n't just had the time to figure it all out
+
+they did n't have the time to figure it all out
+contradicts
+they figured it all out
+
+they figured it all out
+contradicts
+they did n't have the time to figure it all out
+
+they did n't have the time to figure it all out
+permits
+they burnt her fingers
+
+they did n't have the time to figure it all out
+permits
+they baked bread that night
+
+they never just had the time to figure it all out
+contradicts
+they figured it all out
+
+they figured it all out
+contradicts
+they never just had the time to figure it all out
+
+those photons had had the time to travel across the entire universe
+permits
+those photons had travelled across the entire universe
+
+those photons had the time to travel across the entire universe
+permits
+those photons did not travel across the entire universe
+
+those photons did not travel across the entire universe
+permits
+those photons had the time to travel across the entire universe
+
+those photons almost have had the time to travel across the entire universe
+entails
+those photons have n't travelled across the entire universe
+
+those photons have n't travelled across the entire universe
+permits
+those photons almost have had the time to travel across the entire universe
+
+those photons almost have had the time to travel across the entire universe
+permits
+those photons have n't practiced
+
+those photons had n't had the time to travel across the entire universe
+contradicts
+those photons had travelled across the entire universe
+
+those photons had travelled across the entire universe
+contradicts
+those photons had n't had the time to travel across the entire universe
+
+millennials have had the time to build up that relationship
+permits
+millennials have built up that relationship
+
+millennials have just had the time to build up that relationship
+permits
+millennials have built up that relationship
+
+millennials had the time to build up that relationship
+permits
+millennials did n't build up that relationship
+
+millennials did n't build up that relationship
+permits
+millennials had the time to build up that relationship
+
+millennials just had the time to build up that relationship
+permits
+millennials did not build up that relationship
+
+millennials did not build up that relationship
+permits
+millennials just had the time to build up that relationship
+
+millennials almost had the time to build up that relationship
+entails
+millennials did not build up that relationship
+
+millennials did not build up that relationship
+permits
+millennials almost had the time to build up that relationship
+
+millennials did not just have the time to build up that relationship
+entails
+millennials did n't build up that relationship
+
+millennials did n't build up that relationship
+permits
+millennials did not just have the time to build up that relationship
+
+millennials did not just have the time to build up that relationship
+permits
+millennials did n't move their daughter
+
+millennials did not just have the time to build up that relationship
+permits
+millennials did not further their ideas
+
+millennials did n't have the time to build up that relationship
+contradicts
+millennials built up that relationship
+
+millennials built up that relationship
+contradicts
+millennials did n't have the time to build up that relationship
+
+millennials did n't just have the time to build up that relationship
+contradicts
+millennials built up that relationship
+
+millennials built up that relationship
+contradicts
+millennials did n't just have the time to build up that relationship
+
+we had had time to convince our daughter to marry you
+entails
+we had convinced our daughter to marry you
+
+we had convinced our daughter to marry you
+permits
+we had had time to convince our daughter to marry you
+
+we had had time to convince our daughter to marry you
+permits
+Posh fans had convinced their daughter to marry you
+
+we had time to convince our daughter to marry you
+contradicts
+we did n't convince our daughter to marry you
+
+we did n't convince our daughter to marry you
+contradicts
+we had time to convince our daughter to marry you
+
+we almost had time to convince our daughter to marry you
+entails
+we almost convinced our daughter to marry you
+
+we almost convinced our daughter to marry you
+permits
+we almost had time to convince our daughter to marry you
+
+we had n't had time to convince our daughter to marry you
+contradicts
+we had convinced our daughter to marry you
+
+we had convinced our daughter to marry you
+contradicts
+we had n't had time to convince our daughter to marry you
+
+I have had time to practice
+permits
+I have practiced
+
+I had had time to practice
+permits
+I had not practiced
+
+I had not practiced
+permits
+I had had time to practice
+
+I did not have time to practice
+entails
+I did n't practice
+
+I did n't practice
+permits
+I did not have time to practice
+
+I had never had time to practice
+contradicts
+I had practiced
+
+I had practiced
+contradicts
+I had never had time to practice
+
+his Majesty's government has had time to furnish the report on this subject
+entails
+his Majesty's government has furnished the report on this subject
+
+his Majesty's government has furnished the report on this subject
+permits
+his Majesty's government has had time to furnish the report on this subject
+
+his Majesty's government had had time to furnish the report on this subject
+contradicts
+his Majesty's government had n't furnished the report on this subject
+
+his Majesty's government had n't furnished the report on this subject
+contradicts
+his Majesty's government had had time to furnish the report on this subject
+
+his Majesty's government did not have time to furnish the report on this subject
+entails
+his Majesty's government did n't furnish the report on this subject
+
+his Majesty's government did n't furnish the report on this subject
+permits
+his Majesty's government did not have time to furnish the report on this subject
+
+his Majesty's government did not have time to furnish the report on this subject
+permits
+the ship did n't furnish the report on this subject
+
+his Majesty's government has almost had time to furnish the report on this subject
+contradicts
+his Majesty's government has furnished the report on this subject
+
+his Majesty's government has furnished the report on this subject
+contradicts
+his Majesty's government has almost had time to furnish the report on this subject
+
+his Majesty's government has almost had time to furnish the report on this subject
+permits
+his Majesty's government has picked up additional hobbies
+
+they had time to get familiar with the neighborhood
+entails
+they got familiar with the neighborhood
+
+they got familiar with the neighborhood
+permits
+they had time to get familiar with the neighborhood
+
+they had had time to get familiar with the neighborhood
+contradicts
+they had not gotten familiar with the neighborhood
+
+they had not gotten familiar with the neighborhood
+contradicts
+they had had time to get familiar with the neighborhood
+
+they had never had time to get familiar with the neighborhood
+entails
+they had never gotten familiar with the neighborhood
+
+they had never gotten familiar with the neighborhood
+permits
+they had never had time to get familiar with the neighborhood
+
+they had never had time to get familiar with the neighborhood
+permits
+millennials had n't gotten familiar with the neighborhood
+
+they have never had time to get familiar with the neighborhood
+contradicts
+they have gotten familiar with the neighborhood
+
+they have gotten familiar with the neighborhood
+contradicts
+they have never had time to get familiar with the neighborhood
+
+he had time to do his homework
+entails
+he did his homework
+
+he did his homework
+permits
+he had time to do his homework
+
+he had time to do his homework
+permits
+he chilled when he made his Christmas EP
+
+he has had time to do his homework
+contradicts
+he has n't done his homework
+
+he has n't done his homework
+contradicts
+he has had time to do his homework
+
+he has had time to do his homework
+permits
+he has not read the full story behind the headline
+
+he has never had time to do his homework
+entails
+he has never done his homework
+
+he has never done his homework
+permits
+he has never had time to do his homework
+
+he never had time to do his homework
+contradicts
+he did his homework
+
+he did his homework
+contradicts
+he never had time to do his homework
+
+Heather Cowan had time to review the latest dear colleague letter
+permits
+Heather Cowan reviewed the latest dear colleague letter
+
+Heather Cowan had time to thoroughly review the latest dear colleague letter
+permits
+Heather Cowan thoroughly reviewed the latest dear colleague letter
+
+Heather Cowan had time to review the latest dear colleague letter
+permits
+Heather Cowan did n't review the latest dear colleague letter
+
+Heather Cowan did n't review the latest dear colleague letter
+permits
+Heather Cowan had time to review the latest dear colleague letter
+
+Heather Cowan had time to thoroughly review the latest dear colleague letter
+permits
+Heather Cowan did n't thoroughly review the latest dear colleague letter
+
+Heather Cowan did n't thoroughly review the latest dear colleague letter
+permits
+Heather Cowan had time to thoroughly review the latest dear colleague letter
+
+Heather Cowan has almost had time to review the latest dear colleague letter
+entails
+Heather Cowan has n't reviewed the latest dear colleague letter
+
+Heather Cowan has n't reviewed the latest dear colleague letter
+permits
+Heather Cowan has almost had time to review the latest dear colleague letter
+
+Heather Cowan has almost had time to thoroughly review the latest dear colleague letter
+entails
+Heather Cowan has not thoroughly reviewed the latest dear colleague letter
+
+Heather Cowan has not thoroughly reviewed the latest dear colleague letter
+permits
+Heather Cowan has almost had time to thoroughly review the latest dear colleague letter
+
+Heather Cowan has almost had time to thoroughly review the latest dear colleague letter
+permits
+the sample has n't reviewed the latest dear colleague letter
+
+Heather Cowan has almost had time to thoroughly review the latest dear colleague letter
+permits
+his Majesty's government has not thoroughly reviewed the latest dear colleague letter
+
+Heather Cowan has not had time to review the latest dear colleague letter
+contradicts
+Heather Cowan has reviewed the latest dear colleague letter
+
+Heather Cowan has reviewed the latest dear colleague letter
+contradicts
+Heather Cowan has not had time to review the latest dear colleague letter
+
+Heather Cowan has almost had time to thoroughly review the latest dear colleague letter
+contradicts
+Heather Cowan has thoroughly reviewed the latest dear colleague letter
+
+Heather Cowan has thoroughly reviewed the latest dear colleague letter
+contradicts
+Heather Cowan has almost had time to thoroughly review the latest dear colleague letter
+
+the Haitian National Police has had time to readjust from its corrupt past
+entails
+the Haitian National Police has readjusted from its corrupt past
+
+the Haitian National Police has readjusted from its corrupt past
+permits
+the Haitian National Police has had time to readjust from its corrupt past
+
+the Haitian National Police has had time to readjust from its corrupt past
+permits
+the Haitian National Police has deposited my cheque in the bank
+
+the Haitian National Police had time to readjust from its corrupt past
+contradicts
+the Haitian National Police did not readjust from its corrupt past
+
+the Haitian National Police did not readjust from its corrupt past
+contradicts
+the Haitian National Police had time to readjust from its corrupt past
+
+the Haitian National Police had n't had time to readjust from its corrupt past
+entails
+the Haitian National Police had not readjusted from its corrupt past
+
+the Haitian National Police had not readjusted from its corrupt past
+permits
+the Haitian National Police had n't had time to readjust from its corrupt past
+
+the Haitian National Police had n't had time to readjust from its corrupt past
+permits
+Sevilla had n't readjusted from its corrupt past
+
+the Haitian National Police had not had time to readjust from its corrupt past
+contradicts
+the Haitian National Police had readjusted from its corrupt past
+
+the Haitian National Police had readjusted from its corrupt past
+contradicts
+the Haitian National Police had not had time to readjust from its corrupt past
+
+the Haitian National Police had not had time to readjust from its corrupt past
+permits
+I had readjusted from my corrupt past
+
+light has had time to reach us
+entails
+light has reached us
+
+light has reached us
+permits
+light has had time to reach us
+
+light has had time to reach us
+permits
+light has picked up memories and attracted local spirits
+
+light has had time to reach us
+contradicts
+light has n't reached us
+
+light has n't reached us
+contradicts
+light has had time to reach us
+
+light did not have time to reach us
+entails
+light did not reach us
+
+light did not reach us
+permits
+light did not have time to reach us
+
+light almost had time to reach us
+contradicts
+light reached us
+
+light reached us
+contradicts
+light almost had time to reach us
+
+light almost had time to reach us
+permits
+light reloaded
+
+she had time to consider sterilization carefully
+permits
+she considered sterilization carefully
+
+she has had time to consider sterilization carefully
+permits
+she has n't considered sterilization carefully
+
+she has n't considered sterilization carefully
+permits
+she has had time to consider sterilization carefully
+
+she has n't had time to consider sterilization carefully
+entails
+she has n't considered sterilization carefully
+
+she has n't considered sterilization carefully
+permits
+she has n't had time to consider sterilization carefully
+
+she almost had time to consider sterilization carefully
+contradicts
+she considered sterilization carefully
+
+she considered sterilization carefully
+contradicts
+she almost had time to consider sterilization carefully
+
+Matt Kilgallon had time to focus on his Blackburn Rovers future
+entails
+Matt Kilgallon focussed on his Blackburn Rovers future
+
+Matt Kilgallon focussed on his Blackburn Rovers future
+permits
+Matt Kilgallon had time to focus on his Blackburn Rovers future
+
+Matt Kilgallon had time to focus on his Blackburn Rovers future
+contradicts
+Matt Kilgallon did not focus on his Blackburn Rovers future
+
+Matt Kilgallon did not focus on his Blackburn Rovers future
+contradicts
+Matt Kilgallon had time to focus on his Blackburn Rovers future
+
+Matt Kilgallon did not have time to focus on his Blackburn Rovers future
+entails
+Matt Kilgallon did not focus on his Blackburn Rovers future
+
+Matt Kilgallon did not focus on his Blackburn Rovers future
+permits
+Matt Kilgallon did not have time to focus on his Blackburn Rovers future
+
+Matt Kilgallon did not have time to focus on his Blackburn Rovers future
+permits
+Ariana Grande did not focus on her Blackburn Rovers future
+
+Matt Kilgallon never had time to focus on his Blackburn Rovers future
+contradicts
+Matt Kilgallon focussed on his Blackburn Rovers future
+
+Matt Kilgallon focussed on his Blackburn Rovers future
+contradicts
+Matt Kilgallon never had time to focus on his Blackburn Rovers future
+
+Matt Kilgallon never had time to focus on his Blackburn Rovers future
+permits
+Matt Kilgallon readjusted from his corrupt past
+
+I have had the time to figure out who i am and who i want to be
+entails
+I have figured out who i am and who i want to be
+
+I have figured out who i am and who i want to be
+permits
+I have had the time to figure out who i am and who i want to be
+
+I have had the time to figure out who i am and who i want to be
+permits
+I have taken hold
+
+I had the time to figure out who i am and who i want to be
+contradicts
+I did not figure out who i am or who i want to be
+
+I did not figure out who i am or who i want to be
+contradicts
+I had the time to figure out who i am and who i want to be
+
+I had the time to figure out who i am and who i want to be
+permits
+Heather Cowan did not figure out who she am or who she want to be
+
+I had n't had the time to figure out who i am or who i want to be
+entails
+I had not figured out who i am or who i want to be
+
+I had not figured out who i am or who i want to be
+permits
+I had n't had the time to figure out who i am or who i want to be
+
+I had n't had the time to figure out who i am or who i want to be
+permits
+I had n't written letters of invitation
+
+I never had had the time to figure out who i am or who i want to be
+contradicts
+I had figured out who i am and who i want to be
+
+I had figured out who i am and who i want to be
+contradicts
+I never had had the time to figure out who i am or who i want to be
+
+people had had the time to read the full story behind the headline
+entails
+people had read the full story behind the headline
+
+people had read the full story behind the headline
+permits
+people had had the time to read the full story behind the headline
+
+people had had the time to read the full story behind the headline
+permits
+new ideas had read the full story behind the headline
+
+people had the time to read the full story behind the headline
+contradicts
+people did not read the full story behind the headline
+
+people did not read the full story behind the headline
+contradicts
+people had the time to read the full story behind the headline
+
+people had the time to read the full story behind the headline
+permits
+those photons did n't read the full story behind the headline
+
+people have never had the time to read the full story behind the headline
+entails
+people have not read the full story behind the headline
+
+people have not read the full story behind the headline
+permits
+people have never had the time to read the full story behind the headline
+
+people have never had the time to read the full story behind the headline
+permits
+people have not figured out who they am or who they want to be
+
+people had n't had the time to read the full story behind the headline
+contradicts
+people had read the full story behind the headline
+
+people had read the full story behind the headline
+contradicts
+people had n't had the time to read the full story behind the headline
+
+people had n't had the time to read the full story behind the headline
+permits
+the Israelites had read the full story behind the headline
+
+the repair man had had the time to fix it
+entails
+the repair man had fixed it
+
+the repair man had fixed it
+permits
+the repair man had had the time to fix it
+
+the repair man had the time to fix it
+contradicts
+the repair man did n't fix it
+
+the repair man did n't fix it
+contradicts
+the repair man had the time to fix it
+
+the repair man had almost had the time to fix it
+entails
+the repair man had not fixed it
+
+the repair man had not fixed it
+permits
+the repair man had almost had the time to fix it
+
+the repair man had almost had the time to fix it
+permits
+Matt Kilgallon had not fixed it
+
+the repair man had almost had the time to fix it
+contradicts
+the repair man had fixed it
+
+the repair man had fixed it
+contradicts
+the repair man had almost had the time to fix it
+
+the repair man had almost had the time to fix it
+permits
+the repair man had welcomed us
+
+new ideas had had the time to take hold
+permits
+new ideas had taken hold
+
+new ideas had the time to take hold
+permits
+new ideas did not take hold
+
+new ideas did not take hold
+permits
+new ideas had the time to take hold
+
+new ideas have not had the time to take hold
+entails
+new ideas have n't taken hold
+
+new ideas have n't taken hold
+permits
+new ideas have not had the time to take hold
+
+new ideas have n't had the time to take hold
+contradicts
+new ideas have taken hold
+
+new ideas have taken hold
+contradicts
+new ideas have n't had the time to take hold
+
+they have had the time to pick up additional hobbies
+entails
+they have picked up additional hobbies
+
+they have picked up additional hobbies
+permits
+they have had the time to pick up additional hobbies
+
+they have had the time to pick up additional hobbies
+permits
+they have reached us
+
+they had the time to pick up additional hobbies
+contradicts
+they did n't pick up additional hobbies
+
+they did n't pick up additional hobbies
+contradicts
+they had the time to pick up additional hobbies
+
+they had the time to pick up additional hobbies
+permits
+they did not fix it
+
+they have n't had the time to pick up additional hobbies
+entails
+they have n't picked up additional hobbies
+
+they have n't picked up additional hobbies
+permits
+they have n't had the time to pick up additional hobbies
+
+they had n't had the time to pick up additional hobbies
+contradicts
+they had picked up additional hobbies
+
+they had picked up additional hobbies
+contradicts
+they had n't had the time to pick up additional hobbies
+
+employees had had the time to settle in
+entails
+employees had settled in
+
+employees had settled in
+permits
+employees had had the time to settle in
+
+employees had the time to settle in
+contradicts
+employees did n't settle in
+
+employees did n't settle in
+contradicts
+employees had the time to settle in
+
+employees had n't had the time to settle in
+entails
+employees had not settled in
+
+employees had not settled in
+permits
+employees had n't had the time to settle in
+
+employees had n't had the time to settle in
+permits
+the Israelites had not settled in
+
+employees have never had the time to settle in
+contradicts
+employees have settled in
+
+employees have settled in
+contradicts
+employees have never had the time to settle in
+
+employees have never had the time to settle in
+permits
+employees have written letters of invitation
+
+they have had the time to sit by brooks and listen to them babble
+entails
+they have sat by brooks and listened to them babble
+
+they have sat by brooks and listened to them babble
+permits
+they have had the time to sit by brooks and listen to them babble
+
+they have had the time to sit by brooks and listen to them babble
+permits
+employees have sat by brooks and listened to them babble
+
+they have had the time to sit by brooks and listen to them babble
+contradicts
+they have not sat by brooks or listened to them babble
+
+they have not sat by brooks or listened to them babble
+contradicts
+they have had the time to sit by brooks and listen to them babble
+
+they almost had the time to sit by brooks or listen to them babble
+entails
+they did n't sit by brooks or listen to them babble
+
+they did n't sit by brooks or listen to them babble
+permits
+they almost had the time to sit by brooks or listen to them babble
+
+they almost had the time to sit by brooks or listen to them babble
+permits
+the Israelites did not sit by brooks or listen to them babble
+
+they almost had the time to sit by brooks or listen to them babble
+contradicts
+they sat by brooks and listened to them babble
+
+they sat by brooks and listened to them babble
+contradicts
+they almost had the time to sit by brooks or listen to them babble
+
+they almost had the time to sit by brooks or listen to them babble
+permits
+muslim shooters sat by brooks and listened to them babble
+
+their bodies had had the time to warm up to sex
+entails
+their bodies had warmed up to sex
+
+their bodies had warmed up to sex
+permits
+their bodies had had the time to warm up to sex
+
+their bodies had had the time to warm up to sex
+permits
+the victims had warmed up to sex
+
+their bodies had the time to warm up to sex
+contradicts
+their bodies did not warm up to sex
+
+their bodies did not warm up to sex
+contradicts
+their bodies had the time to warm up to sex
+
+their bodies had the time to warm up to sex
+permits
+Posh fans did not warm up to sex
+
+their bodies have n't had the time to warm up to sex
+entails
+their bodies have not warmed up to sex
+
+their bodies have not warmed up to sex
+permits
+their bodies have n't had the time to warm up to sex
+
+their bodies have n't had the time to warm up to sex
+permits
+the Israelites have n't warmed up to sex
+
+their bodies have almost had the time to warm up to sex
+contradicts
+their bodies have warmed up to sex
+
+their bodies have warmed up to sex
+contradicts
+their bodies have almost had the time to warm up to sex
+
+their bodies have almost had the time to warm up to sex
+permits
+their bodies have maintained the project
+
+Einstein has had the time to further his ideas
+entails
+Einstein has furthered his ideas
+
+Einstein has furthered his ideas
+permits
+Einstein has had the time to further his ideas
+
+Einstein has had the time to further his ideas
+permits
+the canvas has furthered its ideas
+
+Einstein has had the time to further his ideas
+contradicts
+Einstein has n't furthered his ideas
+
+Einstein has n't furthered his ideas
+contradicts
+Einstein has had the time to further his ideas
+
+Einstein almost has had the time to further his ideas
+entails
+Einstein has not furthered his ideas
+
+Einstein has not furthered his ideas
+permits
+Einstein almost has had the time to further his ideas
+
+Einstein almost had the time to further his ideas
+contradicts
+Einstein furthered his ideas
+
+Einstein furthered his ideas
+contradicts
+Einstein almost had the time to further his ideas
+
+Einstein almost had the time to further his ideas
+permits
+she furthered her ideas
+
+my 5th graders had time to write letters of invitation
+entails
+my 5th graders wrote letters of invitation
+
+my 5th graders wrote letters of invitation
+permits
+my 5th graders had time to write letters of invitation
+
+my 5th graders had time to write letters of invitation
+permits
+the Israelites wrote letters of invitation
+
+my 5th graders had had time to write letters of invitation
+contradicts
+my 5th graders had not written letters of invitation
+
+my 5th graders had not written letters of invitation
+contradicts
+my 5th graders had had time to write letters of invitation
+
+my 5th graders have n't had time to write letters of invitation
+entails
+my 5th graders have n't written letters of invitation
+
+my 5th graders have n't written letters of invitation
+permits
+my 5th graders have n't had time to write letters of invitation
+
+my 5th graders almost had time to write letters of invitation
+contradicts
+my 5th graders wrote letters of invitation
+
+my 5th graders wrote letters of invitation
+contradicts
+my 5th graders almost had time to write letters of invitation
+
+Sevilla had time to beat Barcelona
+entails
+Sevilla beat Barcelona
+
+Sevilla beat Barcelona
+permits
+Sevilla had time to beat Barcelona
+
+Sevilla had time to beat Barcelona
+permits
+Einstein beat Barcelona
+
+Sevilla has had time to beat Barcelona
+contradicts
+Sevilla has n't beaten Barcelona
+
+Sevilla has n't beaten Barcelona
+contradicts
+Sevilla has had time to beat Barcelona
+
+Sevilla did n't have time to beat Barcelona
+entails
+Sevilla did n't beat Barcelona
+
+Sevilla did n't beat Barcelona
+permits
+Sevilla did n't have time to beat Barcelona
+
+Sevilla almost had time to beat Barcelona
+contradicts
+Sevilla beat Barcelona
+
+Sevilla beat Barcelona
+contradicts
+Sevilla almost had time to beat Barcelona
+
+muslim shooters had had time to reload
+entails
+muslim shooters had reloaded
+
+muslim shooters had reloaded
+permits
+muslim shooters had had time to reload
+
+muslim shooters had had time to reload
+permits
+muslim shooters had considered sterilization carefully
+
+muslim shooters had had time to reload
+permits
+muslim shooters had dried over night
+
+muslim shooters had had enough time to reload
+entails
+muslim shooters had reloaded
+
+muslim shooters had reloaded
+permits
+muslim shooters had had enough time to reload
+
+muslim shooters had had time to reload
+contradicts
+muslim shooters had n't reloaded
+
+muslim shooters had n't reloaded
+contradicts
+muslim shooters had had time to reload
+
+muslim shooters had had time to reload
+permits
+employees had n't reloaded
+
+muslim shooters had had time to reload
+permits
+we had n't reloaded
+
+muslim shooters had had enough time to reload
+contradicts
+muslim shooters had not reloaded
+
+muslim shooters had not reloaded
+contradicts
+muslim shooters had had enough time to reload
+
+muslim shooters have almost had time to reload
+entails
+muslim shooters have not reloaded
+
+muslim shooters have not reloaded
+permits
+muslim shooters have almost had time to reload
+
+muslim shooters have almost had time to reload
+permits
+muslim shooters have n't picked up additional hobbies
+
+muslim shooters have almost had time to reload
+permits
+muslim shooters have not focussed on their Blackburn Rovers future
+
+muslim shooters have n't had enough time to reload
+entails
+muslim shooters have n't reloaded
+
+muslim shooters have n't reloaded
+permits
+muslim shooters have n't had enough time to reload
+
+muslim shooters have n't had enough time to reload
+permits
+muslim shooters have n't defended themselves
+
+muslim shooters have n't had enough time to reload
+permits
+muslim shooters have not travelled across the entire universe
+
+muslim shooters have almost had time to reload
+contradicts
+muslim shooters have reloaded
+
+muslim shooters have reloaded
+contradicts
+muslim shooters have almost had time to reload
+
+muslim shooters have almost had time to reload
+permits
+people have reloaded
+
+muslim shooters have almost had time to reload
+permits
+we have reloaded
+
+muslim shooters have never had enough time to reload
+contradicts
+muslim shooters have reloaded
+
+muslim shooters have reloaded
+contradicts
+muslim shooters have never had enough time to reload
+
+muslim shooters have never had enough time to reload
+permits
+muslim shooters have thoroughly reviewed the latest dear colleague letter
+
+muslim shooters have never had enough time to reload
+permits
+muslim shooters have upgraded their refineries as scheduled
+
+Toomey had time to give pop the good news
+entails
+Toomey gave pop the good news
+
+Toomey gave pop the good news
+permits
+Toomey had time to give pop the good news
+
+Toomey has had time to give pop the good news
+contradicts
+Toomey has n't given pop the good news
+
+Toomey has n't given pop the good news
+contradicts
+Toomey has had time to give pop the good news
+
+Toomey has had time to give pop the good news
+permits
+Eunyong Park has not given pop the good news
+
+Toomey did not have time to give pop the good news
+entails
+Toomey did n't give pop the good news
+
+Toomey did n't give pop the good news
+permits
+Toomey did not have time to give pop the good news
+
+Toomey did not have time to give pop the good news
+contradicts
+Toomey gave pop the good news
+
+Toomey gave pop the good news
+contradicts
+Toomey did not have time to give pop the good news
+
+Toomey did not have time to give pop the good news
+permits
+Toomey considered sterilization carefully
+
+we have had time to use the pool
+entails
+we have used the pool
+
+we have used the pool
+permits
+we have had time to use the pool
+
+we have had time to use the pool
+permits
+we have sat by brooks and listened to them babble
+
+we had time to use the pool
+contradicts
+we did n't use the pool
+
+we did n't use the pool
+contradicts
+we had time to use the pool
+
+we have almost had time to use the pool
+entails
+we have not used the pool
+
+we have not used the pool
+permits
+we have almost had time to use the pool
+
+we did not have time to use the pool
+contradicts
+we used the pool
+
+we used the pool
+contradicts
+we did not have time to use the pool
+
+we did not have time to use the pool
+permits
+we download good clips and audio
+
+he had time to develop a marketing plan
+entails
+he developed a marketing plan
+
+he developed a marketing plan
+permits
+he had time to develop a marketing plan
+
+he had time to develop a marketing plan
+permits
+she developed a marketing plan
+
+he had time to develop a marketing plan
+permits
+the ship developed a marketing plan
+
+he finally had time to develop a marketing plan
+entails
+he developed a marketing plan
+
+he developed a marketing plan
+permits
+he finally had time to develop a marketing plan
+
+he finally had time to develop a marketing plan
+permits
+Ariana Grande developed a marketing plan
+
+he finally had time to develop a marketing plan
+permits
+the driver developed a marketing plan
+
+he has had time to develop a marketing plan
+contradicts
+he has n't developed a marketing plan
+
+he has n't developed a marketing plan
+contradicts
+he has had time to develop a marketing plan
+
+he has had time to develop a marketing plan
+permits
+he has not given pop the good news
+
+he has had time to develop a marketing plan
+permits
+he has not feared for his life
+
+he has finally had time to develop a marketing plan
+contradicts
+he has not developed a marketing plan
+
+he has not developed a marketing plan
+contradicts
+he has finally had time to develop a marketing plan
+
+he had not had time to develop a marketing plan
+entails
+he had n't developed a marketing plan
+
+he had n't developed a marketing plan
+permits
+he had not had time to develop a marketing plan
+
+he had almost finally had time to develop a marketing plan
+entails
+he had not developed a marketing plan
+
+he had not developed a marketing plan
+permits
+he had almost finally had time to develop a marketing plan
+
+he had almost finally had time to develop a marketing plan
+permits
+the team had n't developed a marketing plan
+
+he had almost finally had time to develop a marketing plan
+permits
+Heather Cowan had n't developed a marketing plan
+
+he had not had time to develop a marketing plan
+contradicts
+he had developed a marketing plan
+
+he had developed a marketing plan
+contradicts
+he had not had time to develop a marketing plan
+
+he had almost finally had time to develop a marketing plan
+contradicts
+he had developed a marketing plan
+
+he had developed a marketing plan
+contradicts
+he had almost finally had time to develop a marketing plan
+
+Eunyong Park had time to change her mind
+entails
+Eunyong Park changed her mind
+
+Eunyong Park changed her mind
+permits
+Eunyong Park had time to change her mind
+
+Eunyong Park had had time to change her mind
+contradicts
+Eunyong Park had not changed her mind
+
+Eunyong Park had not changed her mind
+contradicts
+Eunyong Park had had time to change her mind
+
+Eunyong Park had had time to change her mind
+permits
+Einstein had not changed his mind
+
+Eunyong Park has not had time to change her mind
+entails
+Eunyong Park has not changed her mind
+
+Eunyong Park has not changed her mind
+permits
+Eunyong Park has not had time to change her mind
+
+Eunyong Park has not had time to change her mind
+permits
+the car has n't changed its mind
+
+Eunyong Park did n't have time to change her mind
+contradicts
+Eunyong Park changed her mind
+
+Eunyong Park changed her mind
+contradicts
+Eunyong Park did n't have time to change her mind
+
+Eunyong Park did n't have time to change her mind
+permits
+light changed its mind
+
+the canvas has had time to dry over night
+entails
+the canvas has dried over night
+
+the canvas has dried over night
+permits
+the canvas has had time to dry over night
+
+the canvas has had time to dry over night
+permits
+Ariana Grande has dried over night
+
+the canvas had time to dry over night
+contradicts
+the canvas did not dry over night
+
+the canvas did not dry over night
+contradicts
+the canvas had time to dry over night
+
+the canvas has not had time to dry over night
+entails
+the canvas has n't dried over night
+
+the canvas has n't dried over night
+permits
+the canvas has not had time to dry over night
+
+the canvas has not had time to dry over night
+permits
+he has not dried over night
+
+the canvas did n't have time to dry over night
+contradicts
+the canvas dried over night
+
+the canvas dried over night
+contradicts
+the canvas did n't have time to dry over night
+
+they have had plenty of time to prepare for this downturn
+permits
+they have prepared for this downturn
+
+they had had plenty of time to prepare for this downturn
+permits
+they had not prepared for this downturn
+
+they had not prepared for this downturn
+permits
+they had had plenty of time to prepare for this downturn
+
+they almost had plenty of time to prepare for this downturn
+entails
+they did n't prepare for this downturn
+
+they did n't prepare for this downturn
+permits
+they almost had plenty of time to prepare for this downturn
+
+they almost had plenty of time to prepare for this downturn
+contradicts
+they prepared for this downturn
+
+they prepared for this downturn
+contradicts
+they almost had plenty of time to prepare for this downturn
+
+they almost had plenty of time to prepare for this downturn
+permits
+they upgraded their refineries as scheduled
+
+the car had had time to refuel on the route
+entails
+the car had refuelled on the route
+
+the car had refuelled on the route
+permits
+the car had had time to refuel on the route
+
+the car had even had time to refuel on the route
+entails
+the car had refuelled on the route
+
+the car had refuelled on the route
+permits
+the car had even had time to refuel on the route
+
+the car has had time to refuel on the route
+contradicts
+the car has not refuelled on the route
+
+the car has not refuelled on the route
+contradicts
+the car has had time to refuel on the route
+
+the car has even had time to refuel on the route
+contradicts
+the car has n't refuelled on the route
+
+the car has n't refuelled on the route
+contradicts
+the car has even had time to refuel on the route
+
+the car has almost had time to refuel on the route
+entails
+the car has n't refuelled on the route
+
+the car has n't refuelled on the route
+permits
+the car has almost had time to refuel on the route
+
+the car has not even had time to refuel on the route
+entails
+the car has not refuelled on the route
+
+the car has not refuelled on the route
+permits
+the car has not even had time to refuel on the route
+
+the car has never had time to refuel on the route
+contradicts
+the car has refuelled on the route
+
+the car has refuelled on the route
+contradicts
+the car has never had time to refuel on the route
+
+the car has never had time to refuel on the route
+permits
+the car has travelled across the entire universe
+
+the car has never had time to refuel on the route
+permits
+the car has defended itself
+
+the car has not even had time to refuel on the route
+contradicts
+the car has refuelled on the route
+
+the car has refuelled on the route
+contradicts
+the car has not even had time to refuel on the route
+
+the car has not even had time to refuel on the route
+permits
+the car has reached us
+
+the car has not even had time to refuel on the route
+permits
+the car has sat by brooks and listened to them babble
+
+I had some time to hate
+entails
+I hated
+
+I hated
+permits
+I had some time to hate
+
+I had some time to hate
+permits
+Eunyong Park hated
+
+I had some time to hate
+contradicts
+I did n't hate
+
+I did n't hate
+contradicts
+I had some time to hate
+
+I have had no time to hate
+entails
+I have not hated
+
+I have not hated
+permits
+I have had no time to hate
+
+I have had no time to hate
+contradicts
+I have hated
+
+I have hated
+contradicts
+I have had no time to hate
+
+I have had no time to hate
+permits
+it has hated
+
+we had had some time to go after the rich
+entails
+we had gone after the rich
+
+we had gone after the rich
+permits
+we had had some time to go after the rich
+
+we had had some time to go after the rich
+permits
+we had welcomed us
+
+we have had some time to go after the rich
+contradicts
+we have n't gone after the rich
+
+we have n't gone after the rich
+contradicts
+we have had some time to go after the rich
+
+we have had some time to go after the rich
+permits
+muslim shooters have not gone after the rich
+
+we had no time to go after the rich
+entails
+we did not go after the rich
+
+we did not go after the rich
+permits
+we had no time to go after the rich
+
+we had no time to go after the rich
+permits
+new ideas did n't go after the rich
+
+we have had no time to go after the rich
+contradicts
+we have gone after the rich
+
+we have gone after the rich
+contradicts
+we have had no time to go after the rich
+
+we have had some time to move our daughter
+entails
+we have moved our daughter
+
+we have moved our daughter
+permits
+we have had some time to move our daughter
+
+we have had some time to move our daughter
+permits
+we have feared for his life
+
+we had had some time to move our daughter
+contradicts
+we had not moved our daughter
+
+we had not moved our daughter
+contradicts
+we had had some time to move our daughter
+
+we had had some time to move our daughter
+permits
+my 5th graders had not moved their daughter
+
+we have had no time to move our daughter
+entails
+we have n't moved our daughter
+
+we have n't moved our daughter
+permits
+we have had no time to move our daughter
+
+we had no time to move our daughter
+contradicts
+we moved our daughter
+
+we moved our daughter
+contradicts
+we had no time to move our daughter
+
+we had no time to move our daughter
+permits
+we travelled across the entire universe
+
+the Israelites have had some time to bake bread that night
+entails
+the Israelites have baked bread that night
+
+the Israelites have baked bread that night
+permits
+the Israelites have had some time to bake bread that night
+
+the Israelites have had some time to bake bread that night
+permits
+the Israelites have suited up Javi Garc
+
+the Israelites have had some time to bake bread that night
+contradicts
+the Israelites have not baked bread that night
+
+the Israelites have not baked bread that night
+contradicts
+the Israelites have had some time to bake bread that night
+
+the Israelites have had no time to bake bread that night
+entails
+the Israelites have not baked bread that night
+
+the Israelites have not baked bread that night
+permits
+the Israelites have had no time to bake bread that night
+
+the Israelites have had no time to bake bread that night
+contradicts
+the Israelites have baked bread that night
+
+the Israelites have baked bread that night
+contradicts
+the Israelites have had no time to bake bread that night
+
+the Israelites have had no time to bake bread that night
+permits
+we have baked bread that night
+
+Ariana Grande had had some time to chill when she made her Christmas EP
+entails
+Ariana Grande had chilled when she made her Christmas EP
+
+Ariana Grande had chilled when she made her Christmas EP
+permits
+Ariana Grande had had some time to chill when she made her Christmas EP
+
+Ariana Grande had had some time to chill when she made her Christmas EP
+contradicts
+Ariana Grande had not chilled when she made her Christmas EP
+
+Ariana Grande had not chilled when she made her Christmas EP
+contradicts
+Ariana Grande had had some time to chill when she made her Christmas EP
+
+Ariana Grande had had no time to chill when she made her Christmas EP
+entails
+Ariana Grande had n't chilled when she made her Christmas EP
+
+Ariana Grande had n't chilled when she made her Christmas EP
+permits
+Ariana Grande had had no time to chill when she made her Christmas EP
+
+Ariana Grande had had no time to chill when she made her Christmas EP
+permits
+Ariana Grande had not practiced
+
+Ariana Grande had no time to chill when she made her Christmas EP
+contradicts
+Ariana Grande chilled when she made her Christmas EP
+
+Ariana Grande chilled when she made her Christmas EP
+contradicts
+Ariana Grande had no time to chill when she made her Christmas EP
+
+the receptionist Sami had some time to welcome us
+entails
+the receptionist Sami welcomed us
+
+the receptionist Sami welcomed us
+permits
+the receptionist Sami had some time to welcome us
+
+the receptionist Sami has had some time to welcome us
+contradicts
+the receptionist Sami has n't welcomed us
+
+the receptionist Sami has n't welcomed us
+contradicts
+the receptionist Sami has had some time to welcome us
+
+the receptionist Sami has had some time to welcome us
+permits
+Sevilla has n't welcomed us
+
+the receptionist Sami has had no time to welcome us
+entails
+the receptionist Sami has not welcomed us
+
+the receptionist Sami has not welcomed us
+permits
+the receptionist Sami has had no time to welcome us
+
+the receptionist Sami had no time to welcome us
+contradicts
+the receptionist Sami welcomed us
+
+the receptionist Sami welcomed us
+contradicts
+the receptionist Sami had no time to welcome us
+
+the receptionist Sami had no time to welcome us
+permits
+Heather Cowan welcomed us
+
+the victims have had some time to defend themselves
+entails
+the victims have defended themselves
+
+the victims have defended themselves
+permits
+the victims have had some time to defend themselves
+
+the victims had some time to defend themselves
+contradicts
+the victims did not defend themselves
+
+the victims did not defend themselves
+contradicts
+the victims had some time to defend themselves
+
+the victims had some time to defend themselves
+permits
+new ideas did n't defend themselves
+
+the victims have had no time to defend themselves
+entails
+the victims have not defended themselves
+
+the victims have not defended themselves
+permits
+the victims have had no time to defend themselves
+
+the victims had had no time to defend themselves
+contradicts
+the victims had defended themselves
+
+the victims had defended themselves
+contradicts
+the victims had had no time to defend themselves
+
+Posh fans have had some time to catch they breath
+entails
+Posh fans have caught they breath
+
+Posh fans have caught they breath
+permits
+Posh fans have had some time to catch they breath
+
+Posh fans have had some time to catch they breath
+contradicts
+Posh fans have n't caught they breath
+
+Posh fans have n't caught they breath
+contradicts
+Posh fans have had some time to catch they breath
+
+Posh fans have had some time to catch they breath
+permits
+we have n't caught we breath
+
+Posh fans have had no time to catch they breath
+entails
+Posh fans have not caught they breath
+
+Posh fans have not caught they breath
+permits
+Posh fans have had no time to catch they breath
+
+Posh fans have had no time to catch they breath
+permits
+my 5th graders have n't caught they breath
+
+Posh fans had had no time to catch they breath
+contradicts
+Posh fans had caught they breath
+
+Posh fans had caught they breath
+contradicts
+Posh fans had had no time to catch they breath
+
+Posh fans had had no time to catch they breath
+permits
+Posh fans had developed a marketing plan
+
+the brave firefighter has had some time to fear for his life
+permits
+the brave firefighter has feared for his life
+
+the brave firefighter had had some time to fear for his life
+permits
+the brave firefighter had not feared for his life
+
+the brave firefighter had not feared for his life
+permits
+the brave firefighter had had some time to fear for his life
+
+the brave firefighter had had no time to fear for his life
+entails
+the brave firefighter had not feared for his life
+
+the brave firefighter had not feared for his life
+permits
+the brave firefighter had had no time to fear for his life
+
+the brave firefighter had no time to fear for his life
+contradicts
+the brave firefighter feared for his life
+
+the brave firefighter feared for his life
+contradicts
+the brave firefighter had no time to fear for his life
+
+the driver has had some time to react before the collision
+entails
+the driver has reacted before the collision
+
+the driver has reacted before the collision
+permits
+the driver has had some time to react before the collision
+
+the driver had had some time to react before the collision
+contradicts
+the driver had not reacted before the collision
+
+the driver had not reacted before the collision
+contradicts
+the driver had had some time to react before the collision
+
+the driver had had some time to react before the collision
+permits
+Ariana Grande had n't reacted before the collision
+
+the driver had no time to react before the collision
+entails
+the driver did not react before the collision
+
+the driver did not react before the collision
+permits
+the driver had no time to react before the collision
+
+the driver had no time to react before the collision
+permits
+the driver did n't pick up additional hobbies
+
+the driver has had no time to react before the collision
+contradicts
+the driver has reacted before the collision
+
+the driver has reacted before the collision
+contradicts
+the driver has had no time to react before the collision
+
+we have had some time to drink that beer
+entails
+we have drunk that beer
+
+we have drunk that beer
+permits
+we have had some time to drink that beer
+
+we had some time to drink that beer
+contradicts
+we did not drink that beer
+
+we did not drink that beer
+contradicts
+we had some time to drink that beer
+
+we have had no time to drink that beer
+entails
+we have n't drunk that beer
+
+we have n't drunk that beer
+permits
+we have had no time to drink that beer
+
+we had had no time to drink that beer
+contradicts
+we had drunk that beer
+
+we had drunk that beer
+contradicts
+we had had no time to drink that beer
+
+I had some time to download good clips and audio
+entails
+I download good clips and audio
+
+I download good clips and audio
+permits
+I had some time to download good clips and audio
+
+I had had some time to download good clips and audio
+contradicts
+I download good clips or audio
+
+I download good clips or audio
+contradicts
+I had had some time to download good clips and audio
+
+I had had no time to download good clips or audio
+entails
+I download good clips or audio
+
+I download good clips or audio
+permits
+I had had no time to download good clips or audio
+
+I had had no time to download good clips or audio
+permits
+his Majesty's government download good clips or audio
+
+I have had no time to download good clips or audio
+contradicts
+I download good clips and audio
+
+I download good clips and audio
+contradicts
+I have had no time to download good clips or audio
+
+I have had some time to pick out the worms
+entails
+I have picked out the worms
+
+I have picked out the worms
+permits
+I have had some time to pick out the worms
+
+I have had some time to pick out the worms
+permits
+I have dried over night
+
+I had some time to pick out the worms
+contradicts
+I did not pick out the worms
+
+I did not pick out the worms
+contradicts
+I had some time to pick out the worms
+
+I had no time to pick out the worms
+entails
+I did n't pick out the worms
+
+I did n't pick out the worms
+permits
+I had no time to pick out the worms
+
+I have had no time to pick out the worms
+contradicts
+I have picked out the worms
+
+I have picked out the worms
+contradicts
+I have had no time to pick out the worms
+
+it has had some time to burn her fingers
+entails
+it has burnt her fingers
+
+it has burnt her fingers
+permits
+it has had some time to burn her fingers
+
+it has had some time to burn her fingers
+permits
+the ship has burnt her fingers
+
+it had had some time to burn her fingers
+contradicts
+it had not burnt her fingers
+
+it had not burnt her fingers
+contradicts
+it had had some time to burn her fingers
+
+it had had some time to burn her fingers
+permits
+his Majesty's government had not burnt her fingers
+
+it has had no time to burn her fingers
+entails
+it has n't burnt her fingers
+
+it has n't burnt her fingers
+permits
+it has had no time to burn her fingers
+
+it has had no time to burn her fingers
+permits
+the car has not burnt her fingers
+
+it had no time to burn her fingers
+contradicts
+it burnt her fingers
+
+it burnt her fingers
+contradicts
+it had no time to burn her fingers
+
+it has had some time to do its work
+entails
+it has done its work
+
+it has done its work
+permits
+it has had some time to do its work
+
+it had had some time to do its work
+contradicts
+it had not done its work
+
+it had not done its work
+contradicts
+it had had some time to do its work
+
+it had had some time to do its work
+permits
+she had not done her work
+
+it had had no time to do its work
+entails
+it had n't done its work
+
+it had n't done its work
+permits
+it had had no time to do its work
+
+it had no time to do its work
+contradicts
+it did its work
+
+it did its work
+contradicts
+it had no time to do its work
+
+the Soviet high command had some time to set up additional effective defences
+entails
+the Soviet high command set up additional effective defences
+
+the Soviet high command set up additional effective defences
+permits
+the Soviet high command had some time to set up additional effective defences
+
+the Soviet high command had some time to set up additional effective defences
+permits
+light set up additional effective defences
+
+the Soviet high command had some time to set up additional effective defences
+contradicts
+the Soviet high command did n't set up additional effective defences
+
+the Soviet high command did n't set up additional effective defences
+contradicts
+the Soviet high command had some time to set up additional effective defences
+
+the Soviet high command had some time to set up additional effective defences
+permits
+light did not set up additional effective defences
+
+the Soviet high command has had no time to set up additional effective defences
+entails
+the Soviet high command has not set up additional effective defences
+
+the Soviet high command has not set up additional effective defences
+permits
+the Soviet high command has had no time to set up additional effective defences
+
+the Soviet high command had had no time to set up additional effective defences
+contradicts
+the Soviet high command had set up additional effective defences
+
+the Soviet high command had set up additional effective defences
+contradicts
+the Soviet high command had had no time to set up additional effective defences
+
+the Soviet high command had had no time to set up additional effective defences
+permits
+the Soviet high command had reloaded
+
+it had had some time to pick up memories and attract local spirits
+entails
+it had picked up memories and attracted local spirits
+
+it had picked up memories and attracted local spirits
+permits
+it had had some time to pick up memories and attract local spirits
+
+it had had some time to pick up memories and attract local spirits
+permits
+Sevilla had picked up memories and attracted local spirits
+
+it had some time to pick up memories and attract local spirits
+contradicts
+it did n't pick up memories or attract local spirits
+
+it did n't pick up memories or attract local spirits
+contradicts
+it had some time to pick up memories and attract local spirits
+
+it had some time to pick up memories and attract local spirits
+permits
+it did not change its mind
+
+it had no time to pick up memories or attract local spirits
+entails
+it did not pick up memories or attract local spirits
+
+it did not pick up memories or attract local spirits
+permits
+it had no time to pick up memories or attract local spirits
+
+it has had no time to pick up memories or attract local spirits
+contradicts
+it has picked up memories and attracted local spirits
+
+it has picked up memories and attracted local spirits
+contradicts
+it has had no time to pick up memories or attract local spirits
+
+it had had some time to suit up Javi Garc
+entails
+it had suited up Javi Garc
+
+it had suited up Javi Garc
+permits
+it had had some time to suit up Javi Garc
+
+it had had some time to suit up Javi Garc
+contradicts
+it had not suited up Javi Garc
+
+it had not suited up Javi Garc
+contradicts
+it had had some time to suit up Javi Garc
+
+it had had some time to suit up Javi Garc
+permits
+the brave firefighter had n't suited up Javi Garc
+
+it has had no time to suit up Javi Garc
+entails
+it has not suited up Javi Garc
+
+it has not suited up Javi Garc
+permits
+it has had no time to suit up Javi Garc
+
+it has had no time to suit up Javi Garc
+permits
+the ship has n't suited up Javi Garc
+
+it had had no time to suit up Javi Garc
+contradicts
+it had suited up Javi Garc
+
+it had suited up Javi Garc
+contradicts
+it had had no time to suit up Javi Garc
+
+it had had some time to assess the importance of the military measures undertaken by Moscow
+permits
+it had assessed the importance of the military measures undertaken by Moscow
+
+it had had some time to assess the importance of the military measures undertaken by Moscow
+permits
+it had n't assessed the importance of the military measures undertaken by Moscow
+
+it had n't assessed the importance of the military measures undertaken by Moscow
+permits
+it had had some time to assess the importance of the military measures undertaken by Moscow
+
+it had no time to assess the importance of the military measures undertaken by Moscow
+entails
+it did n't assess the importance of the military measures undertaken by Moscow
+
+it did n't assess the importance of the military measures undertaken by Moscow
+permits
+it had no time to assess the importance of the military measures undertaken by Moscow
+
+it had no time to assess the importance of the military measures undertaken by Moscow
+permits
+it did n't warm up to sex
+
+it had no time to assess the importance of the military measures undertaken by Moscow
+contradicts
+it assessed the importance of the military measures undertaken by Moscow
+
+it assessed the importance of the military measures undertaken by Moscow
+contradicts
+it had no time to assess the importance of the military measures undertaken by Moscow
+
+the ship had had some time to send out signals
+permits
+the ship had sent out signals
+
+the ship had had some time to send out signals
+permits
+the ship had n't sent out signals
+
+the ship had n't sent out signals
+permits
+the ship had had some time to send out signals
+
+the ship had no time to send out signals
+entails
+the ship did n't send out signals
+
+the ship did n't send out signals
+permits
+the ship had no time to send out signals
+
+the ship has had no time to send out signals
+contradicts
+the ship has sent out signals
+
+the ship has sent out signals
+contradicts
+the ship has had no time to send out signals
+
+the ship has had no time to send out signals
+permits
+the ship has uncovered the secrets of traffic generation on this platform
+

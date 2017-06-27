@@ -1,0 +1,64 @@
+Implicatives:
+be prevented [-|.7]
+
+Examples:
+she[F,S3] was[V] prevented to occupy[V] [PossPro] current office
+Wintershall[M,S3] was[V] prevented to drill[V] in the Structure A area
+Aljazeera TV channel[S3] was[V] prevented to enter[V] Tel-Rumieda
+I[S1] was[V] prevented to go[V] to [PossPro] airplane by four officers
+the actor[M,S3] was[V] prevented to do[V] it because of [PossPro] short size
+the light[S3] was[V] prevented to reach[V] the edges of the rectangular sensor
+his former mistress[F,S3] was[V] prevented to set[V] him free
+Turkish Cypriot expat[M,S3] was[V] prevented to visit[V] [PossPro] grandmother in occupied Louroudjina
+Babul Supriya[M,S3] was[V] prevented to enter[V] in a school at Ranjganj
+I[S1] was[V] prevented to access[V] [PossPro] facebook account
+Russia[S3] was[V] prevented to acquire[V] the whole of Poland
+Moshe[M,S3] was[V] prevented to enter[V] the land
+she[F,S3] was[V] prevented to cry[V]
+Chris Brown[M,S3] was[V] prevented to leave[V] the Manila Airport
+Mr K.A[M,S3] was[V] prevented to exercise[V] [PossPro] right to vote in the 2006 general elections
+he[M,S3] was[V] prevented to come[V] backstage
+gas cooling[S3] was[V] prevented to generate[V] galactic winds without explicit wind particles
+he[M,S3] was[V] prevented to choose[V] his own lawyer
+the Vendean army[S3] was[V] prevented to enter[V] the town by women
+he[M,S3] was[V] prevented to paint[V] with big brush strokes
+she[F,S3] was[V] prevented to go[V] to school by [PossPro] own mother
+the company[S3] was[V] prevented to sell[V] some prime assets
+they[P3] were[V] prevented to come[V] to my table
+children and teachers[P3] were[V] prevented to return[V] home
+they[P3] were[V] prevented to appear[V] in court on due date
+we[P1] were[V] prevented to see[V] the hand that touched [ObjPro]
+the Scriptures[P3] were[V] prevented to support[V] the trinity myths
+we[P1] were[V] prevented to meet[V]
+the agitators[P3] were[V] prevented to march[V] further by police near Sishu Bhawan square
+the Palestinians[P3] were[V] prevented to reach[V] the pool
+the British[P3] were[V] prevented to give[V] [PossPro] full effort against the relatively weak Americans
+Murle men and women[P3] were[V] prevented to enter[V] into the city
+women[P3] were[V] prevented to manage[V] money [AND,OR] property
+the people[P3] were[V] prevented to come[V] onto the premises
+they[P3] were[V] prevented to return[V] to the destination country in the future
+participants[P3] were[V] prevented to assign[V] a lower certainty equivalent to xpy than to xp'y
+the authorities[P3] were[V] prevented to proceed[V] with further enquiry
+we[P1] were[V] prevented to deliberate[V]
+they[P3] were[V] prevented to do[V] so by the partisans of the only truth
+the men[P3] were[V] prevented to take[V] the same job
+the counsels[P3] were[V] prevented to make[V] submissions as interveners
+the boys[P3] were[V] prevented to purchase[V] cigares
+first larvae of the Codling moth[P3] were[V] prevented to penetrate[V] into an apple with up to 5,000 mg/l Citral
+hot air balloons[P3] were[V] prevented to take[V] flight
+the leaders of Hungarian minority parties[P3] were[V] prevented to be[V] politically active abroad
+member states[P3] were[V] prevented to adopt[V] domestic conditions that are more favourable for the beneficiary
+you[S2] were[V] prevented to do[V] the same
+we[P1] were[V] prevented to collect[V] grapes from the outdoor terrace
+the bars in the free ends of the flange[P3] were[V] prevented to buckle[V]
+the blacks[P3] were[V] prevented to become[V] a ballerina
+the extreme leftwing people[P3] were[V] prevented to speak[V]
+we[P1] were[V] prevented to hang[V] out with my Protestant grandparents
+Muslims of the subcontinent[P3] were[V] prevented to practice[V] [PossPro] religion
+Riek[M,S3] was[V] prevented to go[V] to [PossPro] office
+Girija[M,S3] was[V] prevented to ride[V] the plane to Bhairawa
+I[S1] was[V] prevented to enter[V] by the North Koreans
+she[F,S3] was[V] prevented to leave[V] Chile
+Josep Borrell[M,S3] was[V] prevented to challenge[V] Joaquin Almunia
+my server[S3] was[V] prevented to automatically shutdown
+he[M,S3] was[V] prevented to realize[V] [PossPro] dreams [AND,OR] patents about free energy
