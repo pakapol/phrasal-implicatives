@@ -2,11 +2,11 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-import reader,  os, glove
+import tensorflow as tf
+import reader, os, glove
 from model import PIModel
 
 import numpy as np
-import tensorflow as tf
 
 flags = tf.flags
 logging = tf.logging
