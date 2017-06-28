@@ -22,11 +22,11 @@ def retrieve_from(path, prefix="pi"):
     return ret_dict
 
 def _sent_to_id(sent, word_to_id, max_len):
-    ret = map(lambda x: word_to_id[x], sent.split(' ')[:max_len])
+    ret = list(map(lambda x: word_to_id[x], sent.split(' ')[:max_len]))
     return ret + [1] * (max_len -len(ret)), min(len(ret), max_len)
 
 def _id_to_sent(ids, id_to_word):
-    return ' '.join(map(lambda x: id_to_word[x], ids))
+    return ' '.join(list(map(lambda x: id_to_word[x], ids)))
 
 def _label_to_num(l):
     d = {'entails':0, 'contradicts':1, 'permits':2}
@@ -43,21 +43,21 @@ def get_masked_data(path, **kwargs):
     mode = kwargs['mode']
     prefix = kwargs['prefix']
     dat = retrieve_from(path, prefix=prefix)
-    prem, prem_len = zip(*map(lambda x: _sent_to_id(x, word_to_id, max_prem_len), dat['prem.{}'.format(mode)]))
-    hyp, hyp_len = zip(*map(lambda x: _sent_to_id(x, word_to_id, max_hyp_len), dat['hyp.{}'.format(mode)]))
+    prem, prem_len = zip(*list(map(lambda x: _sent_to_id(x, word_to_id, max_prem_len), dat['prem.{}'.format(mode)])))
+    hyp, hyp_len = zip(*list(map(lambda x: _sent_to_id(x, word_to_id, max_hyp_len), dat['hyp.{}'.format(mode)])))
     return {
         "prem": prem,
         "prem_len": prem_len,
         "hyp": hyp,
         "hyp_len": hyp_len,
-        "label": map(_label_to_num, dat['label.{}'.format(mode)]),
+        "label": list(map(_label_to_num, dat['label.{}'.format(mode)])),
         "constr": dat['constr.{}'.format(mode)]
     }
 
 def get_feed(path, batch_size, **kwargs):
     dat = get_masked_data(path, **kwargs)
     if kwargs['shuffle']:
-        ind = range(len(dat["label"]))
+        ind = list(range(len(dat["label"])))
         random.shuffle(ind)
         dat = {l:[dat[l][i] for i in ind] for l in dat}
     num_iter = int(math.ceil(len(dat["label"]) / batch_size))
