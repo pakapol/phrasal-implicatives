@@ -11,21 +11,21 @@ import glove
 # Converting each label to numeric notation
 def _convert(label):
     if label == 'entails':
-        return 1
-    elif label == 'contradicts':
-        return 2
-    elif label == 'permits':
         return 0
+    elif label == 'contradicts':
+        return 1
+    elif label == 'permits':
+        return 2
     else:
         raise Exception('LabelError: {}'.format(label))
 
 def _revert(label):
     if label == 0:
-        return 'permits'
-    elif label == 1:
         return 'entails'
-    elif label == 2:
+    elif label == 1:
         return 'contradicts'
+    elif label == 2:
+        return 'permits'
     else:
         raise Exception('LabelError: {}'.format(label))
 
