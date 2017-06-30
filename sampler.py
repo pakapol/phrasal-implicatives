@@ -2,7 +2,7 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 from builtins import input
-
+import util
 import tensorflow as tf
 import reader, os, glove
 from model import PIModel
@@ -25,13 +25,13 @@ flags.DEFINE_string("config_path", None, "config_path")
 
 FLAGS = flags.FLAGS
 
-def run_sample(session, s1, s2, mask1, mask2, eval_op):
+def run_sample(session, m, s1, s2, mask1, mask2, eval_op):
     """Runs the model on the given data."""
-    pred, _ = session.run([session.graph.get_operation_by_name("add_1").outputs[0], eval_op], # eliminated m.acc
-                                      {"Placeholder:0": s1,
-                                          "Placeholder_2:0": s2,
-                                          "Placeholder_1:0": [mask1],
-                                          "Placeholder_3:0": [mask2]})
+    pred, _ = session.run([m.logits, eval_op], 
+                                      {m.prem_placeholder: s1,
+                                          m.hyp_placeholder: s2,
+                                          m.hyp_len_placeholder: [mask1],
+                                          m.prem_len_placeholder: [mask2]})
     print (pred)
     return np.argmax(pred, axis=1)
 
@@ -47,13 +47,15 @@ def get_config(config_path):
 def main(_):
     single_preset = config
     single_preset.batch_size = 1
+    len_cap =single_preset.max_prem_len - 1
     word_to_id = glove._get_glove_vocab(r"glove/glove.6B.list", single_preset.vocab_limit)
     id_to_word = {}
     for word in word_to_id:
         id_to_word[word_to_id[word]] = word
     with tf.Session() as session:
-        len_cap = int(input("Enter Length Cap: "))
-        saver = tf.train.import_meta_graph(FLAGS.checkpoint_path + ".meta")
+        pretrained_embeddings = util._get_glove_vec("glove/glove.6B.300d.txt", vocab_limit=config.vocab_limit)
+        m = PIModel(config, pretrained_embeddings)
+        saver = tf.train.Saver()
         saver.restore(session, FLAGS.checkpoint_path)
         while 1:
             print('')
@@ -62,7 +64,7 @@ def main(_):
             print('')
             s1 = np.array([reader._sentence_to_word_id((in1 + ["<eos>"] + ["<blank>"] * (len_cap - len(in1)))[:len_cap + 1], word_to_id)])
             s2 = np.array([reader._sentence_to_word_id((in2 + ["<eos>"] + ["<blank>"] * (len_cap - len(in2)))[:len_cap + 1], word_to_id)])
-            pred = run_sample(session, s1, s2, len_cap, len_cap, tf.no_op())
+            pred = run_sample(session, m, s1, s2, len_cap, len_cap, tf.no_op())
             print(" ".join([id_to_word[ids] for ids in s1[0]][:len(in1)+1]))
             print(reader._revert(pred))
             print(" ".join([id_to_word[ids] for ids in s2[0]][:len(in2)+1]))
