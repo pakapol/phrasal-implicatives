@@ -64,7 +64,7 @@ def main(_):
             print('')
             s1 = np.array([reader._sentence_to_word_id((in1 + ["<eos>"] + ["<blank>"] * (len_cap - len(in1)))[:len_cap + 1], word_to_id)])
             s2 = np.array([reader._sentence_to_word_id((in2 + ["<eos>"] + ["<blank>"] * (len_cap - len(in2)))[:len_cap + 1], word_to_id)])
-            pred = run_sample(session, m, s1, s2, len_cap, len_cap, tf.no_op())
+            pred = run_sample(session, m, s1, s2, len(in1), len(in2), tf.no_op())
             print(" ".join([id_to_word[ids] for ids in s1[0]][:len(in1)+1]))
             print(reader._revert(pred))
             print(" ".join([id_to_word[ids] for ids in s2[0]][:len(in2)+1]))
