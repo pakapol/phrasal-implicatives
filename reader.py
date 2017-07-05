@@ -31,7 +31,7 @@ def _revert(label):
 
 # Read premises and hypotheses
 def _read_sent(filename):
-    with open(filename, "r") as f:
+    with open(filename, "r", encoding= "utf8") as f:
         lines = f.read().lower().split('\n')
         lines.remove("")
         sentences = [i.split() for i in lines]
@@ -77,7 +77,7 @@ def _sentences_to_word_ids(sentences, word_to_id):
 def _sentence_to_word_id(sentence, word_to_id):
     return [word_to_id[word] for word in sentence]
 
-def pi_raw_data(data_path=None):
+def pi_raw_data(config, data_path=None):
     """Load PI raw data from data directory "data_path".
 
     Reads PI text files, converts strings to integer ids,
@@ -117,7 +117,7 @@ def pi_raw_data(data_path=None):
     hyp_test, hyp_test_len = _read_hyps(hyp_test_path)
     label_test = _read_labels(label_test_path)
 
-    word_to_id = glove._get_glove_vocab("glove.6B.list", conf.vocab_size)
+    word_to_id = glove._get_glove_vocab("glove/glove.6B.list", config.vocab_limit)
     # word_to_id = _get_vocab(prem_train, hyp_train)
 
     train_data = (_sentences_to_word_ids(prem_train, word_to_id), _sentences_to_word_ids(hyp_train, word_to_id), prem_train_len, hyp_train_len, label_train)
@@ -179,8 +179,16 @@ def pi_iterator(raw_data, batch_size, reshuffle=True):
         hypmask = hypmasks[i * batch_size: (i+1) * batch_size]
 
         label = labels[i * batch_size: (i+1) * batch_size]
+        prem_lens = []
+        for mask in premmask:
+            print(mask)
+            print(len(mask))
+            prem_len.append(len(mask))
 
-        yield (prem, hyp, premmask, hypmask, label)
+        hyp_lens = []
+        for mask in hypmask:
+            hyp_len.append(len(mask))
+        yield (prem, hyp, prem_lens, hyp_lens, label)
 
 
 def pi_remainder(raw_data, original_batch_size):
