@@ -10,10 +10,14 @@ from model import PIModel
 import numpy as np
 import tensorflow as tf
 import glove
-
+import util
+from configs.standard_conf import config
 test_data = {}
-github_path = "/Users/laurik/eacl-2017-implicatives/"
-data_path = "data0.10/0.80-block/"
+flags = tf.flags
+logging = tf.logging
+flags.DEFINE_string("checkpoint_path", None, "checkpoint_path")
+github_path = "test/"
+data_path = "data/idk/"
 
 class example:
     
@@ -35,20 +39,20 @@ probabilistic = ["be able", "be forced", "be prevented", "get chance", "have cha
 counts = {"deterministic":0, "probabilistic":0}
 
 constructions = ["be able", "be forced", "be prevented", "bother", "break pledge",
-"break promise", "dare", "fail", "fail obligation", "follow order", "forget",
-"fulfill promise", "get chance", "have chance", "have courage",
+"break promise", "dare", "disobey order", "fail", "fail obligation", "follow order", "forget",
+"fulfill promise", "get chance", "happen","have chance", "have courage",
 "have foresight", "have time", "hesitate", "keep promise", "lack foresight",
-"lose opportunity","make promise", "make vow", "manage", "meet duty",
+"lose opportunity","make promise", "make vow","make take vow", "manage", "meet duty",
 "meet obligation", "meet promise", "miss chance", "miss opportunity",
 "neglect", "obey order", "remember", "take chance", "take no time",
 "take opportunity", "take time", "take vow", "waste chance", "waste money",
 "waste no time", "waste opportunity", "waste time"]
 
 correct = {"be able" : 0, "be forced" : 0, "be prevented" : 0, "bother" : 0, "break pledge" : 0,
-"break promise" : 0, "dare" : 0, "fail" : 0, "fail obligation" : 0, "follow order" : 0, "forget" : 0,
-"fulfill promise" : 0, "get chance" : 0, "have chance" : 0, "have courage" : 0,
-"have foresight" : 0, "have time" : 0, "hesitate" : 0, "keep promise" : 0, "lack foresight" : 0,
-"lose opportunity" : 0,"make promise" : 0, "make vow" : 0, "manage" : 0, "meet duty" : 0,
+        "break promise" : 0, "dare" : 0, "disobey order": 0, "fail" : 0, "fail obligation" : 0, "follow order" : 0, "forget" : 0,
+"fulfill promise" : 0, "get chance" : 0,"happen": 0, "have chance" : 0, "have courage" : 0,
+ "have foresight" : 0, "have time" : 0, "hesitate" : 0, "keep promise" : 0, "lack foresight" : 0,
+"lose opportunity" : 0,"make promise" : 0, "make vow" : 0,"make take vow":0, "manage" : 0, "meet duty" : 0,
 "meet obligation" : 0, "meet promise" : 0, "miss chance" : 0, "miss opportunity" : 0,
 "neglect" : 0, "obey order" : 0, "remember" : 0, "take chance" : 0, "take no time" : 0,
 "take opportunity" : 0, "take time" : 0, "take vow" : 0, "waste chance" : 0, "waste money" : 0,
@@ -56,10 +60,10 @@ correct = {"be able" : 0, "be forced" : 0, "be prevented" : 0, "bother" : 0, "br
 "contradicts":0, "total" : 0}
 
 error = {"be able" : 0, "be forced" : 0, "be prevented" : 0, "bother" : 0, "break pledge" : 0,
-"break promise" : 0, "dare" : 0, "fail" : 0, "fail obligation" : 0, "follow order" : 0, "forget" : 0,
-"fulfill promise" : 0, "get chance" : 0, "have chance" : 0, "have courage" : 0,
+        "break promise" : 0, "dare" : 0, "disobey order": 0, "fail" : 0, "fail obligation" : 0, "follow order" : 0, "forget" : 0,
+        "fulfill promise" : 0, "get chance" : 0, "happen": 0, "have chance" : 0, "have courage" : 0,
 "have foresight" : 0, "have time" : 0, "hesitate" : 0, "keep promise" : 0, "lack foresight" : 0,
-"lose opportunity" : 0,"make promise" : 0, "make vow" : 0, "manage" : 0, "meet duty" : 0,
+"lose opportunity" : 0,"make promise" : 0, "make vow" : 0,"make take vow":0, "manage" : 0, "meet duty" : 0,
 "meet obligation" : 0, "meet promise" : 0, "miss chance" : 0, "miss opportunity" : 0,
 "neglect" : 0, "obey order" : 0, "remember" : 0, "take chance" : 0, "take no time" : 0,
 "take opportunity" : 0, "take time" : 0, "take vow" : 0, "waste chance" : 0, "waste money" : 0,
@@ -68,10 +72,10 @@ error = {"be able" : 0, "be forced" : 0, "be prevented" : 0, "bother" : 0, "brea
 "contradicts" : {"entails": 0, "permits":0, "contradicts":0}}
 
 examples = {"be able" : [], "be forced" : [], "be prevented" : [], "bother" : [], "break pledge" : [],
-"break promise" : [], "dare" : [], "fail" : [], "fail obligation" : [], "follow order" : [], "forget" : [],
-"fulfill promise" : [], "get chance" : [], "have chance" : [], "have courage" : [],
+        "break promise" : [], "dare" : [], "disobey order": [],  "fail" : [], "fail obligation" : [], "follow order" : [], "forget" : [],
+        "fulfill promise" : [], "get chance" : [], "happen":[], "have chance" : [], "have courage" : [],
 "have foresight" : [], "have time" : [], "hesitate" : [], "keep promise" : [], "lack foresight" : [],
-"lose opportunity" : [],"make promise" : [], "make vow" : [], "manage" : [], "meet duty" : [],
+"lose opportunity" : [],"make promise" : [], "make vow" : [],"make take vow":[], "manage" : [], "meet duty" : [],
 "meet obligation" : [], "meet promise" : [], "miss chance" : [], "miss opportunity" : [],
 "neglect" : [], "obey order" : [], "remember" : [], "take chance" : [], "take no time" : [],
 "take opportunity" : [], "take time" : [], "take vow" : [], "waste chance" : [], "waste money" : [],
@@ -85,6 +89,8 @@ flags.DEFINE_string("config_path", None, "config_path")
 FLAGS = flags.FLAGS
 
 def accuracy(e, c):
+    if c == 0: 
+        return 0 
     return (1.0 - (float(e)/c)) * 100
     
 def table_results_by_construction(constr_type, num_tests, path):
@@ -173,30 +179,29 @@ def print_test_data(path, num_tests):
             f.write("---------------------------------------------------------------------\n\n")
             for ex in exampls:
                 ex_str = ex.__str__()
-                f.write("{}\n".format(ex_str))
+                f.write("{}\n".format(ex_str.encode("utf-8")))
             f.write("=====================================================================\n\n")
 
 
 def run_eval(session, m, data, eval_op):   
-    with open(data_path + "pi.prem.test") as g, open(data_path + "pi.hyp.test") as f, open(data_path + "pi.label.test") as h, open(data_path + "pi.constr.test") as e:
+    with open(data_path + "pi.prem.test", encoding="utf8") as g, open(data_path + "pi.hyp.test", encoding = "utf8") as f, open(data_path + "pi.label.test", encoding = "utf8") as h, open(data_path + "pi.constr.test", encoding = "utf8") as e:
         prems = g.read().split('\n')
         hyps = f.read().split('\n')
         labels = h.read().split('\n')
         constructions = e.read().split('\n')
     
     """Runs the model on the given data."""
-    num_epoch = len(data[0]) // m.batch_size
     costs = 0.0
     iters = 0
-    totalacc = 0.0
     preds = []
-    for step, (prem, hyp, premmask, hypmask, label) in enumerate(reader.pi_iterator(data, m.batch_size, reshuffle=False)):
-        pred, cost, state, acc, _ = session.run([m.pred, m.cost, m.final_state, m.acc, eval_op], # eliminated m.acc
-                                     {m.input_prem: prem,
-                                      m.input_hyp: hyp,
-                                      m.prem_mask: premmask,
-                                      m.hyp_mask: hypmask,
-                                      m.targets: label})
+    for prem, hyp, premlen,  hyplen, label in zip(*data):
+        logits, cost, _ = session.run([m.logits, m.loss, eval_op], 
+                                      {m.prem_placeholder: [prem],
+                                          m.hyp_placeholder: [hyp],
+                                          m.hyp_len_placeholder: [premlen],
+                                          m.prem_len_placeholder: [hyplen],
+                                          m.label_placeholder: [label]})
+        pred = np.argmax(logits, axis=1)
         lab = reader._revert(pred[0])
         #print("{}: {}\n{} - {} - {}\n{}\n".format(constructions[iters], prems[iters], labels[iters], lab, acc, hyps[iters]))
         constr = constructions[iters]
@@ -206,23 +211,20 @@ def run_eval(session, m, data, eval_op):
             counts["probabilistic"] += 1
         else:
             counts["deterministic"] += 1
-        if acc == 1.0:
+        if pred[0] == label:
             correct[constr] += 1
             correct[lab] += 1
             correct["total"] += 1
-        elif acc == 0.0:
+        else: 
             error[constr] += 1
             error["total"] += 1
             exp = labels[iters]
             cell = error[exp]
-            cell[lab] += 1            
-        else:
-            print("Weird error. acc = {}".format(acc))
+            cell[lab] += 1         
         costs += cost
-        totalacc += acc
         iters += 1
         preds += list(pred)
-    return preds, costs / iters, totalacc / iters, correct, error, iters
+    return preds, costs / iters, correct, error, iters
 
 def get_config(config_path):
     class conf(object): pass
@@ -233,43 +235,24 @@ def get_config(config_path):
     return conf
 
 def main(_):
-    if not FLAGS.config_path:
-        raise ValueError("Must set --config_path")
-
-    single_preset = get_config(FLAGS.config_path)
-    raw_data = reader.pi_raw_data(single_preset.data_path)
+    single_preset = config
+    raw_data = reader.pi_raw_data(config.max_prem_len, data_path = single_preset.data_path)
     train_data, valid_data, test_data = raw_data
 
     single_preset.batch_size = 1
 
     with tf.Graph().as_default(), tf.Session() as session:
-        initializer = tf.random_normal_initializer(mean=0.0,
-                                                   stddev=single_preset.init_scale)
-
-        with tf.variable_scope("model", reuse=None, initializer=initializer):
-            m_val = PIModel(is_training=False, num_steps_prem=max(valid_data[2])+1,
-                             num_steps_hyp=max(valid_data[3])+1, preset=single_preset)
-
-        with tf.variable_scope("model", reuse=True, initializer=initializer):
-            m_test = PIModel(is_training=False, num_steps_prem=max(test_data[2])+1,
-                            num_steps_hyp=max(test_data[3])+1, preset=single_preset)
-        tf.initialize_all_variables().run()
-
-        # Retrieving model checkpoint
+        pretrained_embeddings = util._get_glove_vec("glove/glove.6B.300d.txt", vocab_limit=config.vocab_limit)
+        m = PIModel(config, pretrained_embeddings)
         saver = tf.train.Saver()
-        ckpt = tf.train.get_checkpoint_state(single_preset.checkpoint_path)
-        if ckpt and ckpt.model_checkpoint_path:
-            saver.restore(session, ckpt.model_checkpoint_path)
-        else:
-            raise ValueError("No checkpoint found. Set a valid --checkpoint_path for model evaluation")
-
+        saver.restore(session, FLAGS.checkpoint_path)
         # m.assign_lr(session, batch_preset.learning_rate)
 
         #val_pred, valid_loss, valid_acc = run_eval(session, m_val, valid_data, tf.no_op())
         #print("Val loss: %.3f, acc: %.3f\n" % (valid_loss, valid_acc))
 
-        test_pred, test_loss, test_acc, correct, error, num_tests = run_eval(session, m_test, test_data, tf.no_op())
-        print("Test loss: %.3f, acc: %.3f\n" % (test_loss, test_acc))
+        test_pred, test_loss, correct, error, num_tests =  run_eval(session, m, test_data, tf.no_op())
+        print("Test loss: %.3f\n" % (test_loss))
         
         # print separate tables for deterministic and probabilistic constructions
         table_results_by_construction("deterministic", num_tests, github_path)

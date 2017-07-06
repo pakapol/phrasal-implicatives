@@ -6,7 +6,8 @@ import collections, itertools
 import os, random
 
 import numpy as np
-import glove, conf
+import glove
+from configs.standard_conf import config as conf
 
 # Converting each label to numeric notation
 def _convert(label):
@@ -31,7 +32,7 @@ def _revert(label):
 
 # Read premises and hypotheses
 def _read_sent(filename):
-    with open(filename, "r") as f:
+    with open(filename, "r", encoding = "utf8") as f:
         lines = f.read().lower().split('\n')
         lines.remove("")
         sentences = [i.split() for i in lines]
@@ -54,7 +55,7 @@ def _read_hyps(filename, len_cap=None):
 
 # Read in the labels: return a numerical
 def _read_labels(filename):
-    with open(filename, "r") as f:
+    with open(filename, "r", encoding="utf8") as f:
         result = f.read().split('\n')
         result.remove("")
         return [_convert(label) for label in result]
@@ -77,7 +78,7 @@ def _sentences_to_word_ids(sentences, word_to_id):
 def _sentence_to_word_id(sentence, word_to_id):
     return [word_to_id[word] for word in sentence]
 
-def pi_raw_data(data_path=None):
+def pi_raw_data(max_len, data_path=None):
     """Load PI raw data from data directory "data_path".
 
     Reads PI text files, converts strings to integer ids,
@@ -105,21 +106,20 @@ def pi_raw_data(data_path=None):
     label_test_path = os.path.join(data_path, "pi.label.test")
 
     # read train, val, test data
-    prem_train, prem_train_len = _read_prems(prem_train_path)
-    hyp_train, hyp_train_len = _read_hyps(hyp_train_path)
+    prem_train, prem_train_len = _read_prems(prem_train_path, max_len)
+    hyp_train, hyp_train_len = _read_hyps(hyp_train_path, max_len)
     label_train = _read_labels(label_train_path)
 
-    prem_val, prem_val_len = _read_prems(prem_val_path) # originally has len_cap=max(prem_train_len)
-    hyp_val, hyp_val_len = _read_hyps(hyp_val_path)
+    prem_val, prem_val_len = _read_prems(prem_val_path, max_len) # originally has len_cap=max(prem_train_len)
+    hyp_val, hyp_val_len = _read_hyps(hyp_val_path, max_len)
     label_val = _read_labels(label_val_path)
 
-    prem_test, prem_test_len = _read_prems(prem_test_path)
-    hyp_test, hyp_test_len = _read_hyps(hyp_test_path)
+    prem_test, prem_test_len = _read_prems(prem_test_path, max_len)
+    hyp_test, hyp_test_len = _read_hyps(hyp_test_path, max_len)
     label_test = _read_labels(label_test_path)
 
-    word_to_id = glove._get_glove_vocab("glove.6B.list", conf.vocab_size)
+    word_to_id = glove._get_glove_vocab("glove/glove.6B.list", conf.vocab_limit)
     # word_to_id = _get_vocab(prem_train, hyp_train)
-
     train_data = (_sentences_to_word_ids(prem_train, word_to_id), _sentences_to_word_ids(hyp_train, word_to_id), prem_train_len, hyp_train_len, label_train)
     valid_data = (_sentences_to_word_ids(prem_val, word_to_id), _sentences_to_word_ids(hyp_val, word_to_id), prem_val_len, hyp_val_len, label_val)
     test_data = (_sentences_to_word_ids(prem_test, word_to_id), _sentences_to_word_ids(hyp_test, word_to_id), prem_test_len, hyp_test_len, label_test)
@@ -173,14 +173,14 @@ def pi_iterator(raw_data, batch_size, reshuffle=True):
 
     for i in range(num_epoch):
         prem = prems[i * batch_size: (i+1) * batch_size]
-        premmask = premmasks[i * batch_size: (i+1) * batch_size]
+        premlens = prem_len[i * batch_size: (i+1) * batch_size]
 
         hyp = hyps[i * batch_size: (i+1) * batch_size]
-        hypmask = hypmasks[i * batch_size: (i+1) * batch_size]
+        hyplens = hyp_len[i * batch_size: (i+1) * batch_size]
 
         label = labels[i * batch_size: (i+1) * batch_size]
 
-        yield (prem, hyp, premmask, hypmask, label)
+        yield (prem, hyp, premlens, hyplens, label)
 
 
 def pi_remainder(raw_data, original_batch_size):
