@@ -1,0 +1,54 @@
+%\title{emnlp 2017 instructions}
+% File emnlp2017.tex
+%
+
+\documentclass[11pt,letterpaper]{article}
+\usepackage{times}
+\usepackage{latexsym}
+
+\usepackage[utf8x]{inputenc} 
+\usepackage{xspace}
+\usepackage{url}
+\usepackage{multirow}
+\usepackage{graphicx}
+
+%  Enter the EMNLP Paper ID here:
+
+\newcommand{\gru}{\textsc{gru}\xspace}
+\newcommand{\ci}{\textsc{ci}\xspace}
+\newcommand{\scand}{\textsc{and}\xspace}
+\newcommand{\scor}{\textsc{or}\xspace}
+\newcommand{\scandor}{\textsc{and,or}\xspace}
+\newcommand{\snli}{\textsc{snli}\xspace}
+\newcommand{\lstm}{\textsc{lstm}\xspace}
+\newcommand{\nlp}{\textsc{nlp}\xspace}
+\newcommand{\rnn}{\textsc{rnn}\xspace}
+\newcommand{\rte}{\textsc{rte}\xspace}
+\newcommand{\Not}{$\neg$\xspace}
+\newcommand{\entails}{\emph{entails}\xspace}
+\newcommand{\permits}{\emph{permits}\xspace}
+\newcommand{\contradicts}{\emph{contradicts}\xspace}
+\newcommand{\sttt}[1]{\begin{small}{#1}\end{small}\xspace}
+\newcommand{\tref}[1]{Table {\ref{#1}}\xspace}
+\newcommand{\fref}[1]{Figure {\ref{#1}}\xspace}
+
+
+\title{Evaluation of Results}
+\author{Atticus Geiger \\
+  Stanford University \\
+  {\tt atticusg@stanford.edu}\And
+  Lauri Karttunen\\
+  Stanford University \\
+  }
+
+\date{}
+
+\begin{document}
+%\maketitle
+
+\input{deterministic_results.tex}
+\input{probabilistic_results.tex}
+\input{confusion_matrix}
+
+
+\end{document}
