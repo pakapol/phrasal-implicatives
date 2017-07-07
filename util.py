@@ -15,18 +15,18 @@ def retrieve_from(path, prefix="pi"):
     ret_dict = {}
     for fname, name in zip(file_paths, potential_names):
         try:
-            with open(fname,'r') as f:
+            with open(fname,'r', encoding = "utf8") as f:
                 ret_dict[name] = f.read().split('\n')[:-1]
         except IOError:
             pass
     return ret_dict
 
 def _sent_to_id(sent, word_to_id, max_len):
-    ret = list(map(lambda x: word_to_id[x], sent.split(' ')[:max_len]))
+    ret = list(map(lambda x: word_to_id[x], *zip(*itertools.zip_longest(sent.split(' ')[:max_len]))))
     return ret + [1] * (max_len -len(ret)), min(len(ret), max_len)
 
 def _id_to_sent(ids, id_to_word):
-    return ' '.join(list(map(lambda x: id_to_word[x], ids)))
+    return ' '.join(list(map(lambda x: id_to_word[x], *zip(*itertools.zip_longest(ids)))))
 
 def _label_to_num(l):
     d = {'entails':0, 'contradicts':1, 'permits':2}
@@ -43,14 +43,14 @@ def get_masked_data(path, **kwargs):
     mode = kwargs['mode']
     prefix = kwargs['prefix']
     dat = retrieve_from(path, prefix=prefix)
-    prem, prem_len = zip(*list(map(lambda x: _sent_to_id(x, word_to_id, max_prem_len), dat['prem.{}'.format(mode)])))
-    hyp, hyp_len = zip(*list(map(lambda x: _sent_to_id(x, word_to_id, max_hyp_len), dat['hyp.{}'.format(mode)])))
+    prem, prem_len = zip(*list(map(lambda x: _sent_to_id(x, word_to_id, max_prem_len), *zip(*itertools.zip_longest(dat['prem.{}'.format(mode)])))))
+    hyp, hyp_len = zip(*list(map(lambda x: _sent_to_id(x, word_to_id, max_hyp_len), *zip(*itertools.zip_longest(dat['hyp.{}'.format(mode)])))))
     return {
         "prem": prem,
         "prem_len": prem_len,
         "hyp": hyp,
         "hyp_len": hyp_len,
-        "label": list(map(_label_to_num, dat['label.{}'.format(mode)])),
+        "label": list(map(_label_to_num, *zip(*itertools.zip_longest(dat['label.{}'.format(mode)])))),
         "constr": dat['constr.{}'.format(mode)]
     }
 
@@ -72,7 +72,7 @@ def get_feed(path, batch_size, **kwargs):
 def _get_word_to_id(glovepath, vocab_limit=None):
     word_to_id = collections.defaultdict(lambda: 0)
     word_to_id['<blank>'] = 1
-    with open(glovepath, 'r') as f:
+    with open(glovepath, 'r', encoding = "utf8") as f:
         i = 2
         for line in f:
             word_to_id[line[:-1]] = i
@@ -90,10 +90,10 @@ def _get_id_to_word(glovepath, vocab_limit=None):
 
 def _get_glove_vec(glovepath, vocab_limit=None):
     mat = []
-    with open(glovepath, "r") as f:
+    with open(glovepath, "r", encoding = "utf8") as f:
         i = 0
         for line in f:
-            mat.append(list(map(float, line[:-1].split(' ')[1:])))
+            mat.append(list(map(float, *zip(*itertools.zip_longest(line[:-1].split(' ')[1:])))))
             i += 1
             #if i % 20000 == 0: print("{} words read".format(i))
             if vocab_limit is not None and i + 2 >= vocab_limit:

@@ -5,7 +5,7 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-import reader, os
+import os
 from model import PIModel
 import numpy as np
 import tensorflow as tf
@@ -17,7 +17,7 @@ flags = tf.flags
 logging = tf.logging
 flags.DEFINE_string("checkpoint_path", None, "checkpoint_path")
 github_path = "test/"
-data_path = "data/idk/"
+data_path = "data/standard/"
 
 class example:
     
@@ -184,38 +184,34 @@ def print_test_data(path, num_tests):
 
 
 def run_eval(session, m, data, eval_op):   
-    with open(data_path + "pi.prem.test", encoding="utf8") as g, open(data_path + "pi.hyp.test", encoding = "utf8") as f, open(data_path + "pi.label.test", encoding = "utf8") as h, open(data_path + "pi.constr.test", encoding = "utf8") as e:
-        prems = g.read().split('\n')
-        hyps = f.read().split('\n')
-        labels = h.read().split('\n')
-        constructions = e.read().split('\n')
-    
+    with open(data_path + "pi.prem.test", encoding="utf8") as g, open(data_path + "pi.hyp.test", encoding = "utf8") as f, open(data_path + "pi.label.test", encoding = "utf8") as h:
+        prems = [line.strip() for line in g]
+        hyps = [line.strip() for line in f]
+        labels = [line.strip() for line in h]
+    preds, answers, constructions = m.run_test_epoch(session, data) 
     """Runs the model on the given data."""
     costs = 0.0
+    cost = 0.0
     iters = 0
-    preds = []
-    for prem, hyp, premlen,  hyplen, label in zip(*data):
-        logits, cost, _ = session.run([m.logits, m.loss, eval_op], 
-                                      {m.prem_placeholder: [prem],
-                                          m.hyp_placeholder: [hyp],
-                                          m.hyp_len_placeholder: [premlen],
-                                          m.prem_len_placeholder: [hyplen],
-                                          m.label_placeholder: [label]})
-        pred = np.argmax(logits, axis=1)
-        lab = reader._revert(pred[0])
-        #print("{}: {}\n{} - {} - {}\n{}\n".format(constructions[iters], prems[iters], labels[iters], lab, acc, hyps[iters]))
-        constr = constructions[iters]
+    temp1 = 0
+    temp2 =0
+    for i in range(len(preds)):
+        pred = preds[i]
+        lab = util._num_to_label(pred)
+        constr = constructions[i]
         exampls = examples[constr]
         exampls.append(example(prems[iters], labels[iters], hyps[iters], lab))
         if constr in probabilistic:
             counts["probabilistic"] += 1
         else:
             counts["deterministic"] += 1
-        if pred[0] == label:
+        if pred== answers[i]:
+            temp1 +=1
             correct[constr] += 1
             correct[lab] += 1
             correct["total"] += 1
         else: 
+            temp2 +=1
             error[constr] += 1
             error["total"] += 1
             exp = labels[iters]
@@ -223,7 +219,7 @@ def run_eval(session, m, data, eval_op):
             cell[lab] += 1         
         costs += cost
         iters += 1
-        preds += list(pred)
+    print(temp1, temp2, temp1 + temp2,iters)
     return preds, costs / iters, correct, error, iters
 
 def get_config(config_path):
@@ -236,10 +232,8 @@ def get_config(config_path):
 
 def main(_):
     single_preset = config
-    raw_data = reader.pi_raw_data(config.max_prem_len, data_path = single_preset.data_path)
-    train_data, valid_data, test_data = raw_data
-
-    single_preset.batch_size = 1
+    word_to_id = util._get_word_to_id("glove/glove.6B.list", vocab_limit=config.vocab_limit)
+    test_data = util.get_feed(data_path, batch_size = config.batch_size, max_prem_len = config.max_prem_len, max_hyp_len = config.max_hyp_len, word_to_id=word_to_id, mode='test', prefix='pi',shuffle=False)
 
     with tf.Graph().as_default(), tf.Session() as session:
         pretrained_embeddings = util._get_glove_vec("glove/glove.6B.300d.txt", vocab_limit=config.vocab_limit)
@@ -261,11 +255,6 @@ def main(_):
         print_test_data("test_data.txt", num_tests)
         print_test_data(github_path +"test_data.txt", num_tests)
         
-        #    for p in val_pred:
-        #        f.write(reader._revert(p) + '\n')
-        #with open(os.path.join(single_preset.data_path,'pred.test'), 'w') as g:
-        #    for p in test_pred:
-        #        g.write(reader._revert(p) + '\n')
 
 if __name__ == "__main__":
     tf.app.run()
