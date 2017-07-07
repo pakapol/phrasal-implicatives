@@ -219,7 +219,6 @@ def run_eval(session, m, data, eval_op):
             cell[lab] += 1         
         costs += cost
         iters += 1
-    print(temp1, temp2, temp1 + temp2,iters)
     return preds, costs / iters, correct, error, iters
 
 def get_config(config_path):
@@ -246,7 +245,6 @@ def main(_):
         #print("Val loss: %.3f, acc: %.3f\n" % (valid_loss, valid_acc))
 
         test_pred, test_loss, correct, error, num_tests =  run_eval(session, m, test_data, tf.no_op())
-        print("Test loss: %.3f\n" % (test_loss))
         
         # print separate tables for deterministic and probabilistic constructions
         table_results_by_construction("deterministic", num_tests, github_path)
