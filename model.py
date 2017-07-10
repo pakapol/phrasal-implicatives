@@ -48,7 +48,6 @@ class PIModel(object):
             hyp_cell = tf.contrib.rnn.GRUCell(self.config.state_size)
             _, outputs = tf.nn.dynamic_rnn(hyp_cell, self.embed_hyps,\
                          sequence_length=self.hyp_len_placeholder, initial_state=prem_out)
-       
         # softmax
         
         Ws = tf.Variable(initer([self.config.state_size,3]))
@@ -86,7 +85,7 @@ class PIModel(object):
         input_feed = self.create_feed_dict(prem_batch, prem_len, hyp_batch, hyp_len)
         output_feed = [self.logits]
         logits = sess.run(output_feed, input_feed)
-        return np.argmax(logits, axis=1)
+        return np.argmax(logits[0], axis=1)
 
     def run_train_epoch(self, sess, dataset):
         preds = []
@@ -120,7 +119,7 @@ class PIModel(object):
         constrs = []
         losses = 0.
         for prem, prem_len, hyp, hyp_len, label, constr in dataset:
-            pred = self.predict(sess, (prem, prem_len, hyp, hyp_len))
+            pred  = self.predict(sess, (prem, prem_len, hyp, hyp_len))
             preds.extend(pred)
             labels.extend(label)
             constrs.extend(constr)
