@@ -28,8 +28,8 @@ FLAGS = flags.FLAGS
 def run_sample(session, m, s1, s2, mask1, mask2, eval_op):
     """Runs the model on the given data."""
     pred, _ = session.run([m.logits, eval_op], 
-                                      {m.prem_placeholder: s1[0][0],
-                                          m.hyp_placeholder: s2[0][0],
+                                      {m.prem_placeholder: [s1[0][0]],
+                                          m.hyp_placeholder: [s2[0][0]],
                                           m.hyp_len_placeholder: [mask1],
                                           m.prem_len_placeholder: [mask2]})
     print (pred)
@@ -64,10 +64,10 @@ def main(_):
             print('')
             s1 = np.array([util._sent_to_id(in1, word_to_id, len_cap+1)])
             s2 = np.array([util._sent_to_id(in2, word_to_id, len_cap+1)])
-            pred = run_sample(session, m, s1, s2, len(in1), len(in2), tf.no_op())
-            print(" ".join([id_to_word[ids] for ids in s1[0]][:len(in1)+1]))
-            print(util._num_to_label(pred))
-            print(" ".join([id_to_word[ids] for ids in s2[0]][:len(in2)+1]))
+            pred = run_sample(session, m, s1, s2, len(in1.split()), len(in2.split()), tf.no_op())
+            print(" ".join([id_to_word[ids] for ids in s1[0][0]][:len(in1.split())]))
+            print(util._num_to_label(pred[0]))
+            print(" ".join([id_to_word[ids] for ids in s2[0][0]][:len(in2.split())]))
 	 
 if __name__ == "__main__":
     tf.app.run()
