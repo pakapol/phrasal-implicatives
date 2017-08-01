@@ -5,7 +5,7 @@ from builtins import input
 import util
 import tensorflow as tf
 import os, glove
-from model import PIModel
+from attentionmodel import PIModel
 from configs.standard_conf import config
 import numpy as np
 
@@ -31,7 +31,8 @@ def run_sample(session, m, s1, s2, mask1, mask2, eval_op):
                                       {m.prem_placeholder: [s1[0][0]],
                                           m.hyp_placeholder: [s2[0][0]],
                                           m.hyp_len_placeholder: [mask1],
-                                          m.prem_len_placeholder: [mask2]})
+                                          m.prem_len_placeholder: [mask2],
+                                          m.dropout_placeholder: 1})
     print (pred)
     return np.argmax(pred, axis=1)
 
