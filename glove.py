@@ -6,7 +6,7 @@ def _get_glove_vocab(glovepath, vocab_limit=None):
     word_to_id['<unk>'] = 0
     word_to_id['<blank>'] = 1
     word_to_id['<eos>'] = 2
-    with open(glovepath, 'r') as f:
+    with open(glovepath, 'r', encoding = "utf8") as f:
         i = 3
         for line in f:
             word_to_id[line[:-1]] = i
@@ -17,7 +17,7 @@ def _get_glove_vocab(glovepath, vocab_limit=None):
 
 def _get_glove_vec(dim=300, vocab_limit=None):
     mat = []
-    with open("glove.6B.{}d.txt".format(dim), "r") as f:
+    with open(r"glove\glove.6B.{}d.txt".format(dim), "r", encoding="utf8") as f:
         i = 0
         for line in f:
             mat.append(list(map(float, line[:-1].split(' ')[1:])))
