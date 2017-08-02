@@ -28,12 +28,13 @@ FLAGS = flags.FLAGS
 def run_sample(session, m, s1, s2, mask1, mask2, eval_op):
     """Runs the model on the given data."""
     pred, _ = session.run([m.logits, eval_op], 
-                                      {m.prem_placeholder: [s1[0][0]],
-                                          m.hyp_placeholder: [s2[0][0]],
+                                      {m.prem_placeholder: [[ x -1 for x in s1[0][0]] ],
+                                          m.hyp_placeholder: [[ x - 1 for x in s2[0][0]] ],
                                           m.hyp_len_placeholder: [mask1],
                                           m.prem_len_placeholder: [mask2],
                                           m.dropout_placeholder: 1})
     print (pred)
+
     return np.argmax(pred, axis=1)
 
 
