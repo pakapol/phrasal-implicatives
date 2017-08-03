@@ -27,15 +27,15 @@ FLAGS = flags.FLAGS
 
 def run_sample(session, m, s1, s2, mask1, mask2, eval_op):
     """Runs the model on the given data."""
-    pred, _ = session.run([m.logits, eval_op], 
-                                      {m.prem_placeholder: [[ x -1 for x in s1[0][0]] ],
-                                          m.hyp_placeholder: [[ x - 1 for x in s2[0][0]] ],
-                                          m.hyp_len_placeholder: [mask1],
-                                          m.prem_len_placeholder: [mask2],
-                                          m.dropout_placeholder: 1})
-    print (pred)
-
-    return np.argmax(pred, axis=1)
+    preds, answers, constructions = m.run_test_epoch(session, [([[ x -1 if x != 1 else x for x in s1[0][0]] ],[mask1],[[ x -1 if x != 1 else x for x in s2[0][0]] ],  [mask2], [0], ["nope"])])
+    return preds
+    #pred, _ = session.run([m.logits, eval_op], 
+    #                                  {m.prem_placeholder: [[ x -1 if x != 1 else x for x in s1[0][0]] ],
+    #                                      m.hyp_placeholder: [[ x - 1 if x != 1 else x for x in s2[0][0]] ],
+    #                                      m.hyp_len_placeholder: [mask1],
+    #                                      m.prem_len_placeholder: [mask2],
+    #                                      m.dropout_placeholder: 1})
+    #return np.argmax(pred, axis=1)
 
 
 def get_config(config_path):
