@@ -1,0 +1,743 @@
+we lacked any foresight to see what would happen
+entails
+we did not see what would happen
+
+we lacked any foresight to see what would happen
+entails
+we never what would happen
+
+we lacked any foresight to see what would happen
+contradicts
+we had the gall to see what would happen
+
+we lacked any foresight to see what would happen
+contradicts
+we had the chutzpah to see what would happen
+
+we lacked any foresight to see what would happen
+permits
+we did not have the strength to see what would happen
+
+we lacked any foresight to see what would happen
+permits
+we did not have the means to see what would happen
+
+the management lacked the foresight to appropriately forecast interest rate increases
+entails
+the management did not appropriately forecast interest rate increases
+
+the management lacked the foresight to appropriately forecast interest rate increases
+entails
+we were not warned about late-stage capitalism by the management 
+
+the management lacked the foresight to appropriately forecast interest rate increases
+contradicts
+the management did not have the wherewithal to appropriately forecast interest rate increases
+
+the management lacked the foresight to appropriately forecast interest rate increases
+contradicts
+the management did not have the impudence to appropriately forecast interest rate increases
+
+the management lacked the foresight to appropriately forecast interest rate increases
+permits
+the management was able to appropriately forecast interest rate increases
+
+the management lacked the foresight to appropriately forecast interest rate increases
+permits
+the management was not forced to appropriately forecast interest rate increases
+
+our parents lacked the foresight to warn us about late-stage capitalism
+entails
+our parents did not helpfully warn us about late-stage capitalism
+
+our parents lacked the foresight to warn us about late-stage capitalism
+entails
+we were not stealthily warned about late-stage capitalism by our parents
+
+our parents lacked the foresight to warn us about late-stage capitalism
+contradicts
+we were warned about late-stage capitalism by our parents
+
+our parents lacked the foresight to warn us about late-stage capitalism
+contradicts
+our parents bothered to warn us about late-stage capitalism
+
+our parents lacked the foresight to warn us about late-stage capitalism
+permits
+our parents broke a pledge to warn us about late-stage capitalism
+
+our parents lacked the foresight to warn us about late-stage capitalism
+permits
+our parents were prevented to warn us about late-stage capitalism
+
+the moderately well-off parents lacked the foresight to provide for their son's education
+entails
+their son's education was not provided for by the moderately well-off parents
+
+the moderately well-off parents lacked the foresight to provide for their son's education
+entails
+the moderately well-off parents had not provided for their son's education
+
+the moderately well-off parents lacked the foresight to provide for their son's education
+contradicts
+the moderately well-off parents always provided for their son's education
+
+the moderately well-off parents lacked the foresight to provide for their son's education
+contradicts
+the moderately well-off parents dared to proved for their son's education
+
+the moderately well-off parents lacked the foresight to provide for their son's education
+permits
+the moderately well-off parents did not disobey orders to provide for their son's education
+
+the moderately well-off parents lacked the foresight to provide for their son's education
+permits
+the moderately well-off parents broke a promise to provide for their son's education
+
+he lacked the foresight to get his crops in the ground at exactly the right time
+entails
+he did not properly get his crops in the group at exactly the right time
+
+he lacked the foresight to get his crops in the ground at exactly the right time
+entails
+he never exactly got his crops in the group at exactly the right time
+
+he lacked the foresight to get his crops in the ground at exactly the right time
+contradicts
+he did happily get his crops in the ground at exactly the right time
+
+he lacked the foresight to get his crops in the ground at exactly the right time
+contradicts
+he had sadly gotten his crops in the ground at exactly the right time
+
+he lacked the foresight to get his crops in the ground at exactly the right time
+permits
+he failed to get his crops in the ground at exactly the right time
+
+he lacked the foresight to get his crops in the ground at exactly the right time
+permits
+he failed an obligation to get his crops in the ground at exactly the right time
+
+most jews simply lacked the foresight to envision the fate awaiting them
+entails
+most jews did not envision the fate awaiting them
+
+most jews simply lacked the foresight to envision the fate awaiting them
+entails
+most jews had not slowly envisioned the fate awaiting them
+
+most jews simply lacked the foresight to envision the fate awaiting them
+contradicts
+most jews enthusiastically envisioned the fate awaiting them
+
+most jews simply lacked the foresight to envision the fate awaiting them
+contradicts
+most jews did not break their pledge to envision the fate awaiting them
+
+most jews simply lacked the foresight to envision the fate awaiting them
+permits
+most jews did not followed the order to envision the fate awaiting them
+
+most jews simply lacked the foresight to envision the fate awaiting them
+permits
+most jews forgot to envision the fate awaiting them
+
+the younger locals lacked the foresight to stock up on beer and liquor before the storm hit 
+entails
+the younger locals did not stock up on beer and liquor before the storm hit
+
+the younger locals lacked the foresight to stock up on beer and liquor before the storm hit 
+entails
+the younger locals had not smartly stocked up on beer and liquor before the storm hit
+
+the younger locals lacked the foresight to stock up on beer and liquor before the storm hit 
+contradicts
+the younger locals cleverly stocked up on beer and liquor before the storm hit 
+
+the younger locals lacked the foresight to stock up on beer and liquor before the storm hit 
+permits
+the younger locals did not fulfill a promise to stock up on beer and liquor before the storm hit
+
+the younger locals lacked the foresight to stock up on beer and liquor before the storm hit 
+permits
+the younger locals got the chance to stock up on beer and liquor before the storm hit
+
+the obama administration lacked the foresight to proactively act before the current crisis point
+entails
+the obama administration did not proactively act before the current crisis point
+
+the obama administration lacked the foresight to proactively act before the current crisis point
+entails
+the obama administration had not proactively acted before the current crisis point
+
+the obama administration lacked the foresight to proactively act before the current crisis point
+contradicts
+the obama administration happened to proactively act before the current crisis point
+
+the obama administration lacked the foresight to proactively act before the current crisis point
+contradicts
+the obama administration had the courage to proactively act before the current crisis point
+
+the obama administration lacked the foresight to proactively act before the current crisis point
+permits
+the obama administration had the chance to proactively act before the current crisis point
+
+the obama administration lacked the foresight to proactively act before the current crisis point
+permits
+the obama administration helpfully acted before the current crisis point
+
+I lacked the foresight to bring it in pennies
+entails
+I had not brought it in pennies
+
+I lacked the foresight to bring it in pennies
+entails
+it was not brought in pennies by me
+
+I lacked the foresight to bring it in pennies
+contradicts
+I had the foresight to bring it in pennies
+
+I lacked the foresight to bring it in pennies
+contradicts
+I did not hesitate to quickly bring it in pennies
+
+I lacked the foresight to bring it in pennies
+permits
+I had the time to cleverly bring it in pennies
+
+I lacked the foresight to bring it in pennies
+permits
+I never stupidly brought it in pennies
+
+we lacked the foresight to aggregate the data by all these dimensions
+entails
+we did not aggregated the data by all these dimensions
+
+we lacked the foresight to aggregate the data by all these dimensions
+entails
+the data was not aggregated by all these dimensions by us
+
+we lacked the foresight to aggregate the data by all these dimensions
+contradicts
+we kept a promise to aggregate the data by all these dimensions
+
+we lacked the foresight to aggregate the data by all these dimensions
+contradicts
+we always hurriedly aggregated the data by all these dimensions
+
+we lacked the foresight to aggregate the data by all these dimensions
+permits
+we lost the opportunity to aggregate the data by all these dimensions
+
+we lacked the foresight to aggregate the data by all these dimensions
+permits
+we made a promise to quickly aggregate the data by all these dimensions
+
+we lacked the foresight to aggregate the data by all these dimensions
+permits
+we did not make a promise to stealthily aggregate the data by all these dimensions
+
+we lacked the foresight to anticipate y2k
+entails
+y2k was not anticipated by us
+
+we lacked the foresight to anticipate y2k
+entails
+we had not anticipated y2k
+
+we lacked the foresight to anticipate y2k
+contradicts
+we meet a duty to anticipate y2k
+
+we lacked the foresight to anticipate y2k
+contradicts
+we managed to smartly anticipate y2k
+
+we lacked the foresight to anticipate y2k
+permits
+we missed a chance to anticipate y2k
+
+we lacked the foresight to anticipate y2k
+permits
+we neglected to anticipate y2k
+
+they lacked the foresight to implement a positive change
+entails
+a positive change was not implemented by them
+
+they lacked the foresight to implement a positive change
+entails
+someone did not implemented a positive change
+
+they lacked the foresight to implement a positive change
+contradicts
+they obeyed an order to implement a positive change
+
+they lacked the foresight to implement a positive change
+contradicts
+they remembered to implement a positive change
+
+they lacked the foresight to implement a positive change
+permits
+the river ran deep into the forest where no human had gone before
+
+they lacked the foresight to implement a positive change
+permits
+they smartly did not implemented a positive change
+
+the industrialized countries lacked the foresight to face up to the fast action of the oil-producing countries
+entails
+the industrialized countries had not faced up to the fast action of the oil-producing countries
+
+the industrialized countries lacked the foresight to face up to the fast action of the oil-producing countries
+entails
+the industrialized countries did not face up to the fast action of the oil-producing countries
+
+the industrialized countries lacked the foresight to face up to the fast action of the oil-producing countries
+contradicts
+the industrialized countries did face up to the fast action of the oil-producing countries
+
+the industrialized countries lacked the foresight to face up to the fast action of the oil-producing countries
+contradicts
+the industrialized countries remembered to face up to the fast action of the oil-producing countries
+
+the industrialized countries lacked the foresight to face up to the fast action of the oil-producing countries
+permits
+the young duck pecked at the bread crumbs until it was full
+
+the industrialized countries lacked the foresight to face up to the fast action of the oil-producing countries
+permits
+the industrialized countries quickly faced up to the fast action of the oil-producing countries
+
+the bp execs lacked the foresight to oversee proper rig safety measures in the gulf
+entails
+the bp execs did not oversee proper rig safety measures in the gulf
+
+the bp execs lacked the foresight to oversee proper rig safety measures in the gulf
+entails
+the bp execs had not overseen proper rig safety measures in the gulf
+
+the bp execs lacked the foresight to oversee proper rig safety measures in the gulf
+contradicts
+the bp execs took no time to oversee proper rig safety measures in the gulf
+
+the bp execs lacked the foresight to oversee proper rig safety measures in the gulf
+contradicts
+the bp execs took the opportunity to oversee proper rig safety measures in the gulf
+
+the bp execs lacked the foresight to oversee proper rig safety measures in the gulf
+permits
+the bp execs took a vow to oversee proper rig safety measures in the gulf
+
+the bp execs lacked the foresight to oversee proper rig safety measures in the gulf
+permits
+the bp execs wasted the chance to oversee proper rig safety measures in the gulf
+
+the city fathers lacked the foresight to purchase the property for one dollar
+entails
+the city fathers had not slyly purchased the property for one dollar
+
+the city fathers lacked the foresight to purchase the property for one dollar
+entails
+the property was not unexpectedly purchased by the city fathers for one dollar
+
+the city fathers lacked the foresight to purchase the property for one dollar
+contradicts
+the property was happily purchased by the city fathers for one dollar
+
+the city fathers lacked the foresight to purchase the property for one dollar
+contradicts
+the city fathers wasted no time to purchase the property for one dollar
+
+the city fathers lacked the foresight to purchase the property for one dollar
+permits
+the city fathers wasted the opportunity to purchase the property for one dollar
+
+the city fathers lacked the foresight to purchase the property for one dollar
+permits
+the city fathers wasted time to purchase the property for one dollar
+
+we lacked the foresight to have put one in the fridge earlier that day
+entails
+we did not intelligently put one in the fridge earlier that day
+
+we lacked the foresight to have put one in the fridge earlier that day
+entails
+we had not angrily put one in the fridge earlier that day
+
+we lacked the foresight to have put one in the fridge earlier that day
+contradicts
+one was put in the fridge earlier that day by us
+
+we lacked the foresight to have put one in the fridge earlier that day
+contradicts
+we did not waste money to put one in the fridge earlier that day
+
+we lacked the foresight to have put one in the fridge earlier that day
+permits
+we did not wasted time to hesitantly put one in the fridge earlier
+
+we lacked the foresight to have put one in the fridge earlier that day
+permits
+the compass did not point north and so they were lost
+
+the agency lacked the foresight to employ a private company to transport our astronauts to space
+entails
+a private company was not employed by the agency to transport our astronauts to space
+
+the agency lacked the foresight to employ a private company to transport our astronauts to space
+entails
+then agency did not employ a private company to transport our astronauts to space
+
+the agency lacked the foresight to employ a private company to transport our astronauts to space
+contradicts
+the agency had the chutzpah to employ a private company to transport our astronauts to space
+
+the agency lacked the foresight to employ a private company to transport our astronauts to space
+contradicts
+the agency had the impudence to employ a private company to transport our astronauts to space
+
+the agency lacked the foresight to employ a private company to transport our astronauts to space
+permits
+the agency did not have the means to employ a private company to transport our astronauts to space
+
+the agency lacked the foresight to employ a private company to transport our astronauts to space
+permits
+a private company was  employed by the agency to transport our astronauts to space
+ 
+I lacked the foresight to bring a mat
+entails
+a mat was not brought by me
+
+I lacked the foresight to bring a mat
+entails
+I did not unexpectedly bring a mat
+
+I lacked the foresight to bring a mat
+contradicts
+I was able to bring a mat
+
+I lacked the foresight to bring a mat
+contradicts
+I was forced to bring a mat
+
+I lacked the foresight to bring a mat
+permits
+I did not have the gall to bring a mat
+
+I lacked the foresight to bring a mat
+permits
+I did not have the strength to bring a mat
+
+they lacked the foresight track progress along the way
+entails
+they did not tracked progress along the way
+
+they lacked the foresight track progress along the way
+entails
+progress along the way was not tracked by them
+
+they lacked the foresight track progress along the way
+contradicts
+they had the wherewithal to track progress along the way
+
+they lacked the foresight track progress along the way
+contradicts
+they bothered to track progress along the way
+
+they lacked the foresight track progress along the way
+permits
+they did not dare to track progress along the way
+
+they lacked the foresight track progress along the way
+permits
+they failed to track progress along the way
+
+our leadership lacked the foresight to see the problems plaguing the african american community
+entails
+our leadership did not see the problems plaguing the african american community
+
+our leadership lacked the foresight to see the problems plaguing the african american community
+entails
+the problems plaguing the african american community were not seen by our leadership
+
+our leadership lacked the foresight to see the problems plaguing the african american community
+contradicts
+our leadership always saw the problems plaguing th african american community
+
+our leadership lacked the foresight to see the problems plaguing the african american community
+contradicts
+our leadership have clearly seen the problems plaguing the african american community
+
+our leadership lacked the foresight to see the problems plaguing the african american community
+permits
+our leadership broke a pledge to see the problems plaguing the african american community
+
+our leadership lacked the foresight to see the problems plaguing the african american community
+permits
+our leadership did not dare to quickly see the problems plaguing the african american community
+
+nancy johnson lacked the foresight to have her invention patented
+entails
+Nancy johnson's invention was not patented by her
+
+nancy johnson lacked the foresight to have her invention patented
+entails
+someone did not have her invention patented
+
+nancy johnson lacked the foresight to have her invention patented
+contradicts
+nancy johnson quickly had her invention patented
+
+nancy johnson lacked the foresight to have her invention patented
+contradicts
+nancy johnson dared to have her invention patented
+
+nancy johnson lacked the foresight to have her invention patented
+permits
+nancy johnson disobeyed orders to have her invention patented
+
+nancy johnson lacked the foresight to have her invention patented
+permits
+nancy johnson failed to have her invention patented
+
+I lacked the foresight to understand that I would soon outgrow the space I just purchased
+entails
+that I would soon outgrow the space I just purchased was not understood by me
+
+I lacked the foresight to understand that I would soon outgrow the space I just purchased
+entails
+I had understood that I would soon outgrow the space I just purchsed
+
+I lacked the foresight to understand that I would soon outgrow the space I just purchased
+contradicts
+I did understand that I would soon outgrow the space I just purchased
+
+I lacked the foresight to understand that I would soon outgrow the space I just purchased
+contradicts
+I did not fail to understand that I would soon outgrow the space I just purchased
+
+I lacked the foresight to understand that I would soon outgrow the space I just purchased
+permits
+I immediately understood that I would soon out grow the space I just purchased
+
+I lacked the foresight to understand that I would soon outgrow the space I just purchased
+permits
+the colors red and blue mix to become the best color which is purple
+
+the company lacked the foresight to diversify themselves geographically
+entails
+the company had not diversified themselves geographically
+
+the company lacked the foresight to diversify themselves geographically
+entails
+the company did not diversify themselves geographically
+
+the company lacked the foresight to diversify themselves geographically
+contradicts
+the company followed the order to diversify themselves geographically
+
+the company lacked the foresight to diversify themselves geographically
+contradicts
+the company happily diversified themselves geographically
+
+the company lacked the foresight to diversify themselves geographically
+permits
+the company forgot to diversify themselves geographically
+
+the company lacked the foresight to diversify themselves geographically
+permits
+the company did not fulfill a promise to happily diversify themselves
+
+it lacked the foresight to make contingency plans for funding
+entails
+contingency plans for funding were not made by it
+
+it lacked the foresight to make contingency plans for funding
+entails
+it had not angrily made contingency plans for funding
+
+it lacked the foresight to make contingency plans for funding
+contradicts
+it pleasantly made contingency plans for funding
+
+it lacked the foresight to make contingency plans for funding
+contradicts
+contingency plans for funding were smartly made by it
+
+it lacked the foresight to make contingency plans for funding
+permits
+it got the chance to made contingency plans for funding
+
+it lacked the foresight to make contingency plans for funding
+permits
+it did not happen to make contingency plans for funding
+
+they lacked the foresight to prepare the book
+entails
+they did not prepare the book
+
+they lacked the foresight to prepare the book
+entails
+the book was not effectively prepared by them
+
+they lacked the foresight to prepare the book
+contradicts
+the book was ineffectively prepared by them
+
+they lacked the foresight to prepare the book
+contradicts
+they happened to prepare the book
+
+they lacked the foresight to prepare the book
+permits
+they had the chance to prepare the book
+
+they lacked the foresight to prepare the book
+permits
+they did not have the chance to prepare the book
+
+the fcc lacked the foresight to prohibit zero rating in our net neutrality rules
+entails
+the fcc lacked did not prohibit zero rating in our net neutrality rules
+
+the fcc lacked the foresight to prohibit zero rating in our net neutrality rules
+entails
+the fcc had not prohibited zero rating in our net neutrality rules
+
+the fcc lacked the foresight to prohibit zero rating in our net neutrality rules
+contradicts
+the fcc prohibited zero rating in our net neutrality rules
+
+the fcc lacked the foresight to prohibit zero rating in our net neutrality rules
+contradicts
+the fcc had the courage to prohibit zero rating in our net neutrality rules
+
+the fcc lacked the foresight to prohibit zero rating in our net neutrality rules
+permits
+the stars in the night lit her path as she continued
+
+the fcc lacked the foresight to prohibit zero rating in our net neutrality rules
+permits
+the fcc did not have the time to prohibit zero rating in our net neutrality rules
+
+we lacked the foresight to predict the results of our immigration policies
+entails
+we did not predicts the results of our immigration policies
+
+we lacked the foresight to predict the results of our immigration policies
+entails
+the results of our immigration policies were not predicted by us
+
+we lacked the foresight to predict the results of our immigration policies
+contradicts
+the results of our immigration policies were properly predicted by us
+
+we lacked the foresight to predict the results of our immigration policies
+contradicts
+we correctly predicted the results of our immigration policies
+
+we lacked the foresight to predict the results of our immigration policies
+permits
+we did not keep a promise to predict the results of our immigration policies
+
+we lacked the foresight to predict the results of our immigration policies
+permits
+we lost an opportunity to predict the results of our immigration policies
+
+they lacked the foresight to pay for earthquake insurance
+entails
+earthquake insurance was not payed for by them
+
+they lacked the foresight to pay for earthquake insurance
+entails
+they had not payed for earthquake insurance
+
+they lacked the foresight to pay for earthquake insurance
+contradicts
+they did not hesitate to pay for earthquake insurance
+
+they lacked the foresight to pay for earthquake insurance
+contradicts
+they had always responsibly payed for earthquake insurance
+
+they lacked the foresight to pay for earthquake insurance
+permits
+they really should have payed for earthquake insurance
+
+they lacked the foresight to pay for earthquake insurance
+permits
+they lost an opportunity to efficiently pay for earthquake insurance
+
+he lacked the foresight to choose linux as the back bone operating system
+entails
+linux was not chosen as the back bone operating system by him
+
+he lacked the foresight to choose linux as the back bone operating system
+entails
+he had not smartly chosen linux as the back bone operating system
+
+he lacked the foresight to choose linux as the back bone operating system
+contradicts
+he managed to choose linux as the back bone operating system
+
+he lacked the foresight to choose linux as the back bone operating system
+contradicts
+linux was stupidly chosen as the back bone operating system by him
+
+he lacked the foresight to choose linux as the back bone operating system
+permits
+he made a vow to choose linus as the back bone operating system
+
+he lacked the foresight to choose linux as the back bone operating system
+permits
+he did not make a promise to choose linux as the back bone perating system
+
+it lacked the foresight to beef up its network
+entails
+it did not beef up its network
+
+it lacked the foresight to beef up its network
+entails
+its network was not beefed up by it
+
+it lacked the foresight to beef up its network
+contradicts
+it met its duty to beef up its network
+
+it lacked the foresight to beef up its network
+contradicts
+it met its obligation to beef up its network
+
+it lacked the foresight to beef up its network
+permits
+it took a vow to beef up its network
+
+it lacked the foresight to beef up its network
+permits
+it missed a chance to beef up its network
+
+we lacked the foresight to call ahead and introduce ourselves
+entails
+we had not called ahead and introduced ourselves
+
+we lacked the foresight to call ahead and introduce ourselves
+entails
+we did not call ahead and introduce ourselves
+
+we lacked the foresight to call ahead and introduce ourselves
+contradicts
+we did not miss the chance to call ahead and introduce ourselves
+
+we lacked the foresight to call ahead and introduce ourselves
+contradicts
+we did not neglect to call ahead and introduce ourselves
+
+we lacked the foresight to call ahead and introduce ourselves
+permits
+we did not remember to call ahead and introduce ourselves
+
+we lacked the foresight to call ahead and introduce ourselves
+permits
+we did not take a chance to call ahead an introduce ourselves

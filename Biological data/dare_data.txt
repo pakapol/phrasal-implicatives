@@ -1,0 +1,1341 @@
+they dared to register blacks to vote
+entails
+they did register blacks to vote
+
+they dared to register blacks to vote
+entails
+they had registered blacks to vote
+
+they dared to register blacks to vote
+contradicts
+they did not register blacks to vote
+
+they dared to register blacks to vote
+contradicts
+they were not able to register blacks to vote
+
+they dared to register blacks to vote
+permits
+they were not forced to register blacks to vote
+
+they dared to register blacks to vote
+permits
+they were not prevented to register blacks to vote
+
+the 31-year-old dared to say three nice things about Amber rose
+entails
+the 31-year-old dais three nice things about Amber rose
+
+the 31-year-old dared to say three nice things about Amber rose
+entails
+someone dared to say three nice things about Amber rose
+
+the 31-year-old dared to say three nice things about Amber rose
+contradicts
+the 31-year-old had not said three nice things about amber rose
+
+the 31-year-old dared to say three nice things about Amber rose
+contradicts
+the 31-year-old did not bother to say three nice things about amber rose
+
+the 31-year-old dared to say three nice things about Amber rose
+permits
+the 31-year-old did not break a pledge to say three nice things about amber rose
+
+the 31-year-old dared to say three nice things about Amber rose
+permits
+the castle fell with in a day of the siege beginning
+
+he dared to affirm the beauty of blackness
+entails
+he affirmed the beauty of blackness
+
+he dared to affirm the beauty of blackness
+entails
+the beauty of blackness was affirmed by him
+
+he dared to affirm the beauty of blackness
+contradicts
+the beauty of blackness was not affirmed by him
+
+he dared to affirm the beauty of blackness
+contradicts
+he broke a promise to affirm the beauty of blackness
+
+he dared to affirm the beauty of blackness
+permits
+he was able to affirm the beauty of blackness
+
+he dared to affirm the beauty of blackness
+permits
+he bothered to affirm the beauty of blackness
+
+sweden's feminist foreign minister dared to tell the truth about saudi arabia
+entails
+the truth about saudi arabia was told by sweden's feminist foreign minister
+
+sweden's feminist foreign minister dared to tell the truth about saudi arabia
+entails
+sweden's feminist foreign minister had told the truth about saudi arabia
+
+sweden's feminist foreign minister dared to tell the truth about saudi arabia
+contradicts
+sweden's feminist foreign minister disobeyed an order to tell the truth about saudi arabia
+
+sweden's feminist foreign minister dared to tell the truth about saudi arabia
+permits
+sweden's feminist foreign minister did not immediately tell the truth about saudi arabia
+
+sweden's feminist foreign minister dared to tell the truth about saudi arabia
+permits
+the truth about saudi arabis was not quickly told by sweden's feminist foreign minister
+
+michael cimino dared to dream big
+entails
+michael cimino dreamt big
+
+michael cimino dared to dream big
+entails
+someone dreamt big
+
+michael cimino dared to dream big
+contradicts
+michael cimino did not dream
+
+michael cimino dared to dream big
+contradicts
+michael cimino had not dreamt
+
+michael cimino dared to dream big
+permits
+michael cimino quickly dreamt big
+
+michael cimino dared to dream big
+permits
+michael cimino did not quickly dream big
+
+pharaoh dared to vex the saints
+entails
+the saints were vexed by the pharaoh
+
+pharaoh dared to vex the saints
+entails
+pharaoh did vex the saints
+
+pharaoh dared to vex the saints
+contradicts
+pharaoh did not vex the saints
+
+pharaoh dared to vex the saints
+contradicts
+pharaoh had not vexed the saints
+
+pharaoh dared to vex the saints
+permits
+pharaoh did not disobey an order to vex the saints
+
+pharaoh dared to vex the saints
+permits
+pharaoh did not fail to vex the saints
+
+they dared to pick up the torch of protest that had been lit in montgomery
+entails
+they picked up the torch of protest that had been lit in montgomery
+
+they dared to pick up the torch of protest that had been lit in montgomery
+entails
+the torch of protest that had been lit in montgomery was picked up by them
+
+they dared to pick up the torch of protest that had been lit in montgomery
+contradicts
+the torch of protest that had been lit in montgomery was not picked up by them
+
+they dared to pick up the torch of protest that had been lit in montgomery
+permits
+they did not fail an obligation to pick up the torch of protest that had been lit in montgomery
+
+they dared to pick up the torch of protest that had been lit in montgomery
+permits
+they did not sneakily pick up the torch of protest that had been lit in
+montgomery
+
+she dared to teach black girls
+entails
+she tought black girls
+
+she dared to teach black girls
+entails
+black girls were taught by her
+
+she dared to teach black girls
+contradicts
+black girls were not taught by her
+
+she dared to teach black girls
+contradicts
+she did not follow an order to teach black girls
+
+she dared to teach black girls
+permits
+she had effectively taught black girls
+
+she dared to teach black girls
+permits
+she had not quietly taught black girls
+
+amir khan dared to be great against canela alvarez
+entails
+amir khan was great against canela alvarez
+
+amir khan dared to be great against canela alvarez
+entails
+amir khan had been great against canela alvarez
+
+amir khan dared to be great against canela alvarez
+contradicts
+amir khan was not great against canela alvarez
+
+amir khan dared to be great against canela alvarez
+contradicts
+amir khan did not forget to be great against canela alvarez
+
+amir khan dared to be great against canela alvarez
+permits
+amir khan was not always great against canela alvarez
+
+amir khan dared to be great against canela alvarez
+permits
+amir khan had the courage to be great against canela alvarez
+
+she dared to unapologetically center her blackness in western pop
+entails
+she unapologetically centered her blackness in western pop
+
+she dared to unapologetically center her blackness in western pop
+entails
+she dared to center her blackness in western pop
+
+she dared to unapologetically center her blackness in western pop
+contradicts
+she did not have the courage to center her blackness in western pop
+
+she dared to unapologetically center her blackness in western pop
+contradicts
+she did not have the foresight to center her blackness in western pop
+
+she dared to unapologetically center her blackness in western pop
+permits
+she did not stupidly center her blackness in wester pop
+
+she dared to unapologetically center her blackness in western pop
+permits
+she did smartly center her blackness in western pop
+
+the gymnast dared to try a breathtaking difficult move
+entails
+the gymnast tried a difficult move
+
+the gymnast dared to try a breathtaking difficult move
+entails
+a move was tried by the gymnast
+
+the gymnast dared to try a breathtaking difficult move
+contradicts
+a move was never tried by the gymnast
+
+the gymnast dared to try a breathtaking difficult move
+contradicts
+the gymnast did not have the time to try a breathtaking difficult move
+
+the gymnast dared to try a breathtaking difficult move
+contradicts
+the gymnast had not tried a breathtaking difficult move
+
+the gymnast dared to try a breathtaking difficult move
+permits
+the gymnast did not try an easy move
+
+the gymnast dared to try a breathtaking difficult move
+permits
+the gymnast hesitated to try a breathtaking difficult move
+
+trump and carter both dared to rush in where angels fear to tread
+entails
+trump rushed in where angels fear to tread
+
+trump and carter both dared to rush in where angels fear to tread
+entails
+trump and carter did rush in where angels fear to tread
+
+trump and carter both dared to rush in where angels fear to tread
+contradicts
+trump did not rush in where angels fear to tread
+
+trump and carter both dared to rush in where angels fear to tread
+contradicts
+trump and carter kept a promise to not rush in where angels fear to tread
+
+trump and carter both dared to rush in where angels fear to tread
+permits
+trump and carter both made a vow to rush in where angels fear to tread
+
+trump and carter both dared to rush in where angels fear to tread
+permits
+trump and carted both did not make a promise
+
+she dared to wear pants in the rodeo ring
+entails
+she did wear pants in the rodeo ring
+
+she dared to wear pants in the rodeo ring
+entails
+pants were worn by her in the rodeo ring
+
+she dared to wear pants in the rodeo ring
+contradicts
+pants were not worn by her in the rodeo ring
+
+she dared to wear pants in the rodeo ring
+contradicts
+she did not manage to wear pants in the rodeo ring
+
+she dared to wear pants in the rodeo ring
+permits
+pants were not slyly worn by her in the rodeo ring
+
+she dared to wear pants in the rodeo ring
+permits
+pants were immediately worn by her in the rodeo ring
+
+I dared to tell them they were eating garbage
+entails
+I had told them they were eating garbage
+
+I dared to tell them they were eating garbage
+entails
+they were told by me that they were eating garbage
+
+I dared to tell them they were eating garbage
+contradicts
+I missed my chance to tell them they were eating garbage
+
+I dared to tell them they were eating garbage
+contradicts
+They were not told by me that they were eating garbage
+
+I dared to tell them they were eating garbage
+permits
+I met a promise to tell them they were eating garbage
+
+I dared to tell them they were eating garbage
+permits
+I did not quickly tell them they were eating garbage
+
+I dared to tell him what I thought
+entails
+he was told what I thought by me
+
+I dared to tell him what I thought
+entails
+I did tell him what I thought
+
+I dared to tell him what I thought
+contradicts
+I had not told him what I thought
+
+I dared to tell him what I thought
+contradicts
+I neglected to tell him what I thought
+
+I dared to tell him what I thought
+permits
+I obeyed an order to tell him what I thought
+
+I dared to tell him what I thought
+permits
+I happily told him what I thought
+
+she dared to tell him what had happened
+entails
+she told him what had happened
+
+she dared to tell him what had happened
+entails
+he was told what had happened by her
+
+she dared to tell him what had happened
+contradicts
+she did not miss an opportunity to tell him what had happened
+
+she dared to tell him what had happened
+contradicts
+she did not meet her promise to tell him what had happened
+
+she dared to tell him what had happened
+permits
+he was eventually told what had happened by her
+
+she dared to tell him what had happened
+permits
+she meet an obligation to tell him what had happened
+
+the farmer dared to look under the hay
+entails
+the farmer looked under the hay
+
+the farmer dared to look under the hay
+entails
+the farmer did look under the hay
+
+the farmer dared to look under the hay
+contradicts
+the farmer never looked under the hay
+
+the farmer dared to look under the hay
+contradicts
+the farmer did not remember to look under the hay
+
+the farmer dared to look under the hay
+permits
+they farmer remembered to look under the hay
+
+the farmer dared to look under the hay
+permits
+the farmer did not sadly look under the hay
+
+he dared to show at his old gym
+entails
+he had shown at his old gym
+
+he dared to show at his old gym
+entails
+he did show at his old gym
+
+he dared to show at his old gym
+contradicts
+he did not take the chance to show at his old gym
+
+he dared to show at his old gym
+contradicts
+he had not shown at his old gym
+
+he dared to show at his old gym
+permits
+he took no time to show at his old gym
+
+he dared to show at his old gym
+permits
+he did not excitedly show at his old gym
+
+they dared to carry out their threat
+entails
+a threat was carried out by them
+
+they dared to carry out their threat
+entails
+they carried out their threat
+
+they dared to carry out their threat
+contradicts
+they did not carry out their threat
+
+they dared to carry out their threat
+contradicts
+their threat was not carried out by them
+
+they dared to carry out their threat
+permits
+they took an opportunity to carry out their threat
+
+they dared to carry out their threat
+permits
+they took a vow to carry out their threat
+
+This chinese singer dared to publicly propose to her boyfriend
+entails
+this chinese singer proposed to her boyfriend
+
+This chinese singer dared to publicly propose to her boyfriend
+entails
+this chinese singer did propose to her boyfriend
+
+This chinese singer dared to publicly propose to her boyfriend
+contradicts
+this chinese singer never proposed to her boyfriend
+
+This chinese singer dared to publicly propose to her boyfriend
+contradicts
+this chinese singer did not publicly propose to her boyfriend
+
+This chinese singer dared to publicly propose to her boyfriend
+permits
+this chinese singer took her time to publicly propose to her boyfriend
+
+This chinese singer dared to publicly propose to her boyfriend
+permits
+this chinese singer did not waste her chance to propose to her boyfriend
+
+he dared to see the value in all human life
+entails
+he saw the value in all human life
+
+he dared to see the value in all human life
+entails
+the value in all human life was seen by him
+
+he dared to see the value in all human life
+contradicts
+he never seen the value in all human life
+
+he dared to see the value in all human life
+contradicts
+he had not seen the value in all human life
+
+he dared to see the value in all human life
+permits
+the axe swung with great speed and split the log
+
+he dared to see the value in all human life
+permits
+he did not waste time to see the value in all human life
+
+we dared to take in the storm
+entails
+the storm was taken in by us
+
+we dared to take in the storm
+entails
+we did take in the storm
+
+we dared to take in the storm
+contradicts
+we never took in the storm
+
+we dared to take in the storm
+contradicts
+we wasted a chance to take in the storm
+
+we dared to take in the storm
+contradicts
+the storm was not taken in by us
+
+we dared to take in the storm
+permits
+we took no time to take in the storm
+
+we dared to take in the storm
+permits
+we did not take any time to take in the storm
+
+we dared to ask a financial expert the truth about our shopping
+entails
+we asked a financial expert the truth about our shopping
+
+we dared to ask a financial expert the truth about our shopping
+entails
+a financial expert was asked the truth about our shopping by us
+
+we dared to ask a financial expert the truth about our shopping
+contradicts
+we were not able to ask a financial expert the truth about our shopping
+
+we dared to ask a financial expert the truth about our shopping
+contradicts
+a financial advisor was not asked the truth about our shopping by us
+
+we dared to ask a financial expert the truth about our shopping
+permits
+we did not joyfully ask a financial expert the truth about our shopping
+
+we dared to ask a financial expert the truth about our shopping
+permits
+the tree stones were of different sizes but the same substance
+
+you dared to pick a date and a venue
+entails
+a date and a venue were picked by you
+
+you dared to pick a date and a venue
+entails
+you had picked a date and a venue
+
+you dared to pick a date and a venue
+contradicts
+you were prevented to pick a date and a venue
+
+you dared to pick a date and a venue
+contradicts
+a date and venue were not picked by you
+
+you dared to pick a date and a venue
+permits
+you were not forced to pick a date and venue
+
+you dared to pick a date and a venue
+permits
+you were forced to pick a date and venue
+
+you dared to call yourself an artist loser
+entails
+you called yourself an artist
+
+you dared to call yourself an artist loser
+entails
+you did call yourself an artist
+
+you dared to call yourself an artist loser
+contradicts
+you had not called yourself an artist
+
+you dared to call yourself an artist loser
+contradicts
+you did not bother to call yourself an artist
+
+you dared to call yourself an artist loser
+permits
+you bombastically called yourself an artist
+
+you dared to call yourself an artist loser
+permits
+you did not bombastically call yourself an artist
+
+I dared to say that a forgery had been committed
+entails
+I did say that a forgery had been committed
+
+I dared to say that a forgery had been committed
+entails
+I had said that a forgery had been committed
+
+I dared to say that a forgery had been committed
+contradicts
+I broke a pledge to say that a forgery had been committed
+
+I dared to say that a forgery had been committed
+contradicts
+I broke a promise to say that a forgery had been committed
+
+I dared to say that a forgery had been committed
+permits
+the dog was obedient to its owner
+
+I dared to say that a forgery had been committed
+permits
+I bothered to say that a forgery had been committed
+
+Mike Lombardi dared to resign as Vancouver school board chair over the education budget crisis
+entails
+Mike lombardi resigned
+
+Mike Lombardi dared to resign as Vancouver school board chair over the education budget crisis
+entails
+mike lombardi resigned as vancouver school board chair
+
+Mike Lombardi dared to resign as Vancouver school board chair over the education budget crisis
+contradicts
+Mike lombardi did not resign as vancouver school board chair
+
+Mike Lombardi dared to resign as Vancouver school board chair over the education budget crisis
+contradicts
+mike lombardi did not dare to resign
+
+Mike Lombardi dared to resign as Vancouver school board chair over the education budget crisis
+permits
+mike lombardi did not disobey an order to resign as vancouver school board chair
+
+Mike Lombardi dared to resign as Vancouver school board chair over the education budget crisis
+permits
+mike lombardi did not fail to resign as vancouver school board chair over the education budget crisis
+
+Haiti dared to be free
+entails
+Haiti was free
+
+Haiti dared to be free
+entails
+haiti had been free
+
+Haiti dared to be free
+contradicts
+haiti had not been free
+
+Haiti dared to be free
+contradicts
+haiti was not free
+
+Haiti dared to be free
+permits
+haiti got the chance to be free
+
+Haiti dared to be free
+permits
+haiti had the chance to be free
+
+I dared to go to sleep
+entails
+I did go to sleep
+
+I dared to go to sleep
+entails
+I had gone to sleep
+
+I dared to go to sleep
+contradicts
+I dared did not go to sleep
+
+I dared to go to sleep
+contradicts
+I did not follow an order to go sleep
+
+I dared to go to sleep
+permits
+I happened to go to sleep
+
+I dared to go to sleep
+permits
+I did not nicely go to sleep
+
+they dared to attack the emperor publicly
+entails
+they did not attack the emperor publicly
+
+they dared to attack the emperor publicly
+entails
+the emperor was attacked by them publicly
+
+they dared to attack the emperor publicly
+contradicts
+the emperor was not attacked by them
+
+they dared to attack the emperor publicly
+contradicts
+they had the courage to attack the emperor publicly
+
+they dared to attack the emperor publicly
+permits
+they brutally attacked the emperor publicly
+
+they dared to attack the emperor publicly
+permits
+they did not brutally attack the emperor publicly
+
+you dared to do it
+entails
+it was done by you
+
+you dared to do it
+entails
+you did do it
+
+you dared to do it
+contradicts
+you did not do it
+
+you dared to do it
+contradicts
+it was not done by you
+
+you dared to do it
+permits
+you quietly did it
+
+you dared to do it
+permits
+you did not slowly do it
+
+archangel michael dared to bring against him a blasphemous judgement
+entails
+someone brought against him a blasphemous judgement
+
+archangel michael dared to bring against him a blasphemous judgement
+entails
+a blasphemous judgement was brought against him by archangel michael
+
+archangel michael dared to bring against him a blasphemous judgement
+contradicts
+archangel michael forgot to bring against him a blasphemous judgement
+
+archangel michael dared to bring against him a blasphemous judgement
+contradicts
+a plasphemous judgement was not brought against him by archangel michael
+
+archangel michael dared to bring against him a blasphemous judgement
+permits
+the one true god is donald trump
+
+archangel michael dared to bring against him a blasphemous judgement
+permits
+archangel michael had the foresight to bring against him a blasphemous judgement
+
+she dared to leave the gun in her son's room
+entails
+the gun was left in her son's room by her
+
+she dared to leave the gun in her son's room
+entails
+she had left the gun in her son's room
+
+she dared to leave the gun in her son's room
+contradicts
+the gun was not left in her son's room by her
+
+she dared to leave the gun in her son's room
+contradicts
+she had the time to leave the gun in her son's room
+
+she dared to leave the gun in her son's room
+permits
+she hesitated to leave the fun in her son's room
+
+she dared to leave the gun in her son's room
+permits
+she loudly left the gun in her son's room
+
+they dared to condemn what he had done
+entails
+they condemned what he had done
+
+they dared to condemn what he had done
+entails
+what he had done was condemned by them
+
+they dared to condemn what he had done
+contradicts
+what he had done was not condemned by them
+
+they dared to condemn what he had done
+contradicts
+they did not manage to condemn what he had done
+
+they dared to condemn what he had done
+permits
+they made a vow to condemn what he had done
+
+they dared to condemn what he had done
+permits
+they met a duty to condemn what he had done
+
+herod dared to write on such a document the verdict
+entails
+the verdict was written on such a document by herod
+
+herod dared to write on such a document the verdict
+entails
+herod wrote on such a document the verdict
+
+herod dared to write on such a document the verdict
+contradicts
+herod lacked the foresight to write on such a document the verdict
+
+herod dared to write on such a document the verdict
+contradicts
+herod did not keep his promise to write on such a document the verdict
+
+herod dared to write on such a document the verdict
+permits
+herod took a vow to write on such a document the verdict
+
+herod dared to write on such a document the verdict
+permits
+herod exuberantly wrote on such a document the verdict
+
+I dared to let her sense my fear and horror
+entails
+I let her sense my fear and horror
+
+I dared to let her sense my fear and horror
+entails
+I did let her sense my fear and horror
+
+I dared to let her sense my fear and horror
+contradicts
+I did not let her sense my fear and horror
+
+I dared to let her sense my fear and horror
+contradicts
+I lost my opportunity to let her sense my fear and horror
+
+I dared to let her sense my fear and horror
+permits
+I made a promise to let her sense my fear and horro
+
+I dared to let her sense my fear and horror
+permits
+I met a duty to let her sense my fear and horror
+
+I dared to let her sense my fear and horror
+permits
+I did not crazily let her sense my fear and horror
+
+archangel michael dared to slander satan
+entails
+satan was slandered
+
+archangel michael dared to slander satan
+entails
+satan was slandered by archangel michael
+
+archangel michael dared to slander satan
+contradicts
+archangel michael was never slandered by satan
+
+archangel michael dared to slander satan
+contradicts
+archangel michael did not clander satan
+
+archangel michael dared to slander satan
+permits
+archangel michael was in love with sata
+
+archangel michael dared to slander satan
+permits
+archangel michael stealthily slandered satan
+
+Kim dared to tell them so
+entails
+kim told them so
+
+Kim dared to tell them so
+entails
+Kim did tell them so
+
+Kim dared to tell them so
+contradicts
+they were not told so by Kim
+
+Kim dared to tell them so
+contradicts
+kim met her duty to tell them so
+
+Kim dared to tell them so
+permits
+Kim met an obligation to tell them so
+
+Kim dared to tell them so
+permits
+kim eagerly told them so
+
+we dared to use the pool 
+entails
+the pool was used by us
+
+we dared to use the pool 
+entails
+the pool was used
+
+we dared to use the pool 
+contradicts
+we did not use the pool
+
+we dared to use the pool 
+contradicts
+we did not miss the chance to use the pool
+
+we dared to use the pool 
+permits
+we met our promise to use the pool
+
+we dared to use the pool 
+permits
+we did not always use the pool
+
+you dared to mention my reply to danny
+entails
+my reply was mentioned to danny by you
+
+you dared to mention my reply to danny
+entails
+you did mention my reply to danny
+
+you dared to mention my reply to danny
+contradicts
+you missed the opportunity to mention my reply to danny
+
+you dared to mention my reply to danny
+contradicts
+you did not meet your obligation to mention my reply to danny
+
+you dared to mention my reply to danny
+permits
+you subtly mentioned my reply to danny
+
+you dared to mention my reply to danny
+permits
+you did not crazily mention my reply to danny
+
+the pirates dared to rape her
+entails
+she was raped by the pirates
+
+the pirates dared to rape her
+entails
+she was raped
+
+the pirates dared to rape her
+contradicts
+the pirates neglected to rape her
+
+the pirates dared to rape her
+contradicts
+the pirates did not obey the order to rape her
+
+the pirates dared to rape her
+permits
+the pirates obeyed an order to rape her
+
+the pirates dared to rape her
+permits
+the pirates remembered to rape her
+
+the engineers dared to tell him that this would be difficult to achieve
+entails
+the engineers told him that this would be difficult to achieve
+
+the engineers dared to tell him that this would be difficult to achieve
+entails
+he was told that this would be difficult to achieve
+
+the engineers dared to tell him that this would be difficult to achieve
+contradicts
+he was not told that this would be difficult to achieve
+
+the engineers dared to tell him that this would be difficult to achieve
+contradicts
+the engineers wasted a chance to tell him that this would be difficult to achieve
+
+the engineers dared to tell him that this would be difficult to achieve
+permits
+the engineers took a vow to tell him that this would be difficult to achieve
+
+the engineers dared to tell him that this would be difficult to achieve
+permits
+her was not immediately told that this would be difficult to achieve
+
+he dared to console her
+entails
+she was consoled by him
+
+he dared to console her
+entails
+he did console her
+
+he dared to console her
+contradicts
+he had not consoled her
+
+he dared to console her
+contradicts
+she was never consoled by him
+
+he dared to console her
+permits
+she was a beautiful sun who lit up his life
+
+he dared to console her
+permits
+he took no time to console her
+
+the parliamentary majority dared to mention russia
+entails
+russia was mentioned
+
+the parliamentary majority dared to mention russia
+entails
+the parliamentary majority did mention russia
+
+the parliamentary majority dared to mention russia
+contradicts
+russia was not mentioned
+
+the parliamentary majority dared to mention russia
+contradicts
+russia was not mentioned by the parliamentary majority
+
+the communists dared to claim their rights
+entails
+rights were claimed by the communists
+
+the communists dared to claim their rights
+entails
+the communists claimed their rights
+
+the communists dared to claim their rights
+contradicts
+rights were not claimed by the communists
+
+the communists dared to claim their rights
+contradicts
+the communists had not claimed their rights
+
+the communists dared to claim their rights
+permits
+the communists took a vow to claim their rights
+
+the communists dared to claim their rights
+permits
+the communists wasted money to claim their rights
+
+he dared to return
+entails
+he returned
+
+he dared to return
+entails
+he did return
+
+he dared to return
+contradicts
+he never returned
+
+he dared to return
+contradicts
+he wasted an opportunity to return
+
+he dared to return
+permits
+he took a chance to return
+
+he dared to return
+permits
+he did not eagerly return
+
+Assad dared to use chemical weapons
+entails
+Assad had used chemical weapons
+
+Assad dared to use chemical weapons
+entails
+chemical weapons were used by assad
+
+Assad dared to use chemical weapons
+contradicts
+chemical weapons were not used by assad
+
+Assad dared to use chemical weapons
+contradicts
+assad did not take the time to use chemical weapons
+
+Assad dared to use chemical weapons
+permits
+assad wasted no time use chemical weapons
+
+Assad dared to use chemical weapons
+permits
+assad wasted money to use chemical weapons
+
+he dared to walk upright in the dark
+entails
+he walked upright in the dark
+
+he dared to walk upright in the dark
+entails
+someone walked upright in the dark
+
+he dared to walk upright in the dark
+contradicts
+he had never walked upright in the dark
+
+he dared to walk upright in the dark
+contradicts
+he was not able to walk upright in the dark
+
+he dared to walk upright in the dark
+permits
+he wasted no time to walk upright in the dark
+
+he dared to walk upright in the dark
+permits
+he was forced to walk upright in the dark
+
+she dared to laugh
+entails
+she laughed
+
+she dared to laugh
+entails
+she did laugh
+
+she dared to laugh
+contradicts
+she she never laughed
+
+she dared to laugh
+contradicts
+she did not bother to laugh
+
+she dared to laugh
+permits
+she quickly laughed
+
+she dared to laugh
+permits
+she did not loudly laugh
+
+I dared to go back towards the pit
+entails
+I went back towards the pit
+
+I dared to go back towards the pit
+entails
+I did go back towards the pit
+
+I dared to go back towards the pit
+contradicts
+I did not dare to go back towards the pit
+
+I dared to go back towards the pit
+contradicts
+I broke a promise to go back towards the pit
+
+I dared to go back towards the pit
+permits
+I did not fail to go back towards the pit
+
+I dared to go back towards the pit
+permits
+the moon sat among the stars watching over us
+
+they dared to take a long last look at their homes
+entails
+they took a long last look at their homes
+
+they dared to take a long last look at their homes
+entails
+they did take a long last look at their homes
+
+they dared to take a long last look at their homes
+contradicts
+they never took a long last look at their homes
+
+they dared to take a long last look at their homes
+contradicts
+they failed an obligation to take a long last look at their homes
+
+they dared to take a long last look at their homes
+permits
+they stupidly took a long last look at their homes
+
+they dared to take a long last look at their homes
+permits
+they did not smartly take a long last look at their homes
+
+he dared to accept the challenge
+entails
+the challenge was accepted
+
+he dared to accept the challenge
+entails
+the challenge was accepted by him
+
+he dared to accept the challenge
+contradicts
+the challenge was not accepted
+
+he dared to accept the challenge
+contradicts
+the challenge was not accepted by him
+
+he dared to accept the challenge
+permits
+he bothered to accept the challenge
+
+he dared to accept the challenge
+permits
+obama accepted the challenge
+
+the angry young people dared to call on chiang kai-shek to visit the islands and declare sovereignty
+entails
+the angry young people called on chiang kai-shek to visit the islands and declare sovereignty
+
+the angry young people dared to call on chiang kai-shek to visit the islands and declare sovereignty
+entails
+the angry young people did call on chiang kai-shek to visit the islands and declare sovereignty
+
+the angry young people dared to call on chiang kai-shek to visit the islands and declare sovereignty
+contradicts
+the angry young people never called on chiang kai-shek to visit the islands and declare sovereignty
+
+the angry young people dared to call on chiang kai-shek to visit the islands and declare sovereignty
+contradicts
+the angry young people had not called on chiang kai-shek to visit the islands and declare sovereignty
+
+the angry young people dared to call on chiang kai-shek to visit the islands and declare sovereignty
+permits
+the road was long so long that you could not see the end
+
+the angry young people dared to call on chiang kai-shek to visit the islands and declare sovereignty
+permits
+the angry young people did not immediately call on chiang kai-shek to visit the islands and declare sovereignty
+
+he dared to ask a question
+entails
+a question was asked
+
+he dared to ask a question
+entails
+he did ask a question
+
+he dared to ask a question
+contradicts
+a question was not asked
+
+he dared to ask a question
+contradicts
+he failed to ask a question
+ 
+he dared to ask a question
+permits
+he did not break his promise to ask a question
+
+he dared to ask a question
+permits
+he did not disobey an order to ask a question
+
+my good guy friend dared to hug me and touch me
+entails
+my good guy friend hugged and touched me
+
+my good guy friend dared to hug me and touch me
+entails
+someone hugged and touched me
+
+my good guy friend dared to hug me and touch me
+contradicts
+my good guy friend did not hug me
+
+my good guy friend dared to hug me and touch me
+contradicts
+my good guy friend did not hug me
+
+my good guy friend dared to hug me and touch me
+permits
+the sun set on the long hard day
+
+my good guy friend dared to hug me and touch me
+permits
+my good guy friend followed an order to hug and touch me
+
+they dared to do so
+entails
+they did so
+
+they dared to do so
+entails
+they did do so
+
+they dared to do so
+contradicts
+they forgot to do so
+
+they dared to do so
+contradicts
+they never did do so
+
+they dared to do so
+permits
+they brilliantly did so
+
+they dared to do so
+permits
+they did not intelligently do so
+
