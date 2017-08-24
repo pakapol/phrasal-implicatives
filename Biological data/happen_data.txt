@@ -1,0 +1,752 @@
+easy rider happened to become the film of the moment
+entails
+easy rider became the film of the moment
+
+easy rider happened to become the film of the moment
+entails
+easy rider did become the film of the moment
+
+easy rider happened to become the film of the moment
+contradicts
+easy rider was not able to become the film of the moment
+
+easy rider happened to become the film of the moment
+contradicts
+easy rider never was the film of the moment
+
+easy rider happened to become the film of the moment
+contradicts
+easy rider failed to become the film of the moment
+
+easy rider happened to become the film of the moment
+permits
+easy rider quickly became the film of the moment
+
+easy rider happened to become the film of the moment
+permits
+easy rider did not fail to become the film of the moment
+
+I happened to encounter miss kenton in the back corridor
+entails
+I encountered miss kenton in the back corridor
+
+I happened to encounter miss kenton in the back corridor
+entails
+miss kenton was encountered by me in the back corridor
+
+I happened to encounter miss kenton in the back corridor
+contradicts
+I did not bother to encounter miss kenton in the back corridor
+
+I happened to encounter miss kenton in the back corridor
+contradicts
+I did not dare to encounter miss kenton in the back corridor
+
+I happened to encounter miss kenton in the back corridor
+permits
+I was forced to encounter miss kenton in the back corridor
+
+I happened to encounter miss kenton in the back corridor
+permits
+I surprisingly encountered miss kenton in the back corridor
+
+he happened to leave his watch on the window-sill of his chamber
+entails
+he did leave his watch on the window-sill of his chamber
+
+he happened to leave his watch on the window-sill of his chamber
+entails
+his watch was left by him on the window-sill of his chamber
+
+he happened to leave his watch on the window-sill of his chamber
+contradicts
+he never left his watch on the window-sill of his chamber
+
+he happened to leave his watch on the window-sill of his chamber
+contradicts
+he was prevented to leave his watch on the window-sill of his chamber
+
+he happened to leave his watch on the window-sill of his chamber
+permits
+he was not forced to leave his watch on the window-sill
+
+he happened to leave his watch on the window-sill of his chamber
+permits
+he exuberantly left his watch on the window-sill of his chamber
+
+you happened to come here on one of our meatless days
+entails
+you came here on one of our meatless days
+
+you happened to come here on one of our meatless days
+entails
+you had came here on one of our meatless days
+
+you happened to come here on one of our meatless days
+contradicts
+you broke a pledge to come here on one of our meatless days
+
+you happened to come here on one of our meatless days
+contradicts
+you disobeyed an order to come here on one of our meatless days
+
+you happened to come here on one of our meatless days
+permits
+you did not fail an obligation to come here on one of our meatless days
+
+you happened to come here on one of our meatless days
+permits
+you did not crazily come here on one of our meatless days
+
+he also happened to enjoy affairs with women
+entails
+he enjoyed affairs with women
+
+he also happened to enjoy affairs with women
+entails
+he had enjoyed affairs with women
+
+he also happened to enjoy affairs with women
+contradicts
+he did not enjoy affairs with women
+
+he also happened to enjoy affairs with women
+contradicts
+he did not follow an order to enjoy affairs with women
+
+he also happened to enjoy affairs with women
+permits
+he fulfilled a promise to enjoy affairs with women
+
+he also happened to enjoy affairs with women
+permits
+my water bottle is to large to fit in my pocket
+
+you happened to come here on one of our meatless days
+entails
+you had came here on one of our meatless days
+
+you happened to come here on one of our meatless days
+entails
+you did come here on one of our meatless days
+
+you happened to come here on one of our meatless days
+contradicts
+you did not happen to come here on one of our meatless days
+
+you happened to come here on one of our meatless days
+contradicts
+you did not fulfill a promise to come here on one of our meatless days
+
+you happened to come here on one of our meatless days
+permits
+you angrily came here on one of our meatless days
+
+you happened to come here on one of our meatless days
+permits
+you never slowly came here on one of our meatless days
+
+they happened to pass through the narrow side-street again
+entails
+the narrow side-street was passed through by them
+
+they happened to pass through the narrow side-street again
+entails
+they did pass through the narrow side-street again
+
+they happened to pass through the narrow side-street again
+contradicts
+the narrow side-street was not passed through by them
+
+they happened to pass through the narrow side-street again
+contradicts
+they did not have the chutzpah to pass through the narrow side-street again
+
+they happened to pass through the narrow side-street again
+permits
+they had the means to pass through the narrow side-street again
+
+they happened to pass through the narrow side-street again
+permits
+they had the wherewithal to pass through the narrow side-street again
+
+something happened to shock you out of your ignorance
+entails
+you were shocked out of your ignorance by something
+
+something happened to shock you out of your ignorance
+entails
+something had shocked you our of your ignarance
+
+something happened to shock you out of your ignorance
+contradicts
+you were not shocked out of your ignorance
+
+something happened to shock you out of your ignorance
+contradicts
+nothing shocked you out of your ignorance
+
+something happened to shock you out of your ignorance
+permits
+phones are ruining kids these days
+
+something happened to shock you out of your ignorance
+permits
+you were immediately shocked our of your ignorance by something
+
+he and I happened to bump into eachother
+entails
+he and I bumped into eachother
+
+he and I happened to bump into eachother
+entails
+he and I did bump into eachother
+
+he and I happened to bump into eachother
+contradicts
+he and I never bumped into eachother
+
+he and I happened to bump into eachother
+contradicts
+he and I did not have the time to bump into eachtother
+
+he and I happened to bump into eachother
+permits
+he and I got the chance to bump into eachother
+
+he and I happened to bump into eachother
+permits
+he and I did not forget to bump into eachother
+
+ianthe happened to turn his head slightly
+entails
+ianthe turned his head slightly
+
+ianthe happened to turn his head slightly
+entails
+ianthe did turn his head slightly
+
+ianthe happened to turn his head slightly
+contradicts
+ianthe did not have the gall to turn his head slightly
+
+ianthe happened to turn his head slightly
+contradicts
+ianthe did not have the wherewithal to turn his head slightly
+
+ianthe happened to turn his head slightly
+permits
+ianthe had the strength to turn his head slightly
+
+ianthe happened to turn his head slightly
+permits
+ianthe had the chutzpah to turn his head slightly
+
+ling happened to see doreen clinging to your arm last evening
+entails
+doreen clinging to your arm last evening was seen by ling
+
+ling happened to see doreen clinging to your arm last evening
+entails
+ling had seen doreen clinging to your arm last evening
+
+ling happened to see doreen clinging to your arm last evening
+contradicts
+ling did not have the courage to see doreen clinging to your arm last evening
+
+ling happened to see doreen clinging to your arm last evening
+contradicts
+ling did not see doreen clinging to your arm last evening
+
+ling happened to see doreen clinging to your arm last evening
+permits
+ling did not immediately see doreen clinging to your arm last evening
+
+ling happened to see doreen clinging to your arm last evening
+permits
+ling subtly saw doreen clinging to your arm last evening
+
+horses and litopterns happened to exploit four-legged galloping
+entails
+horses and litopterns exploited four-legged galloping
+
+horses and litopterns happened to exploit four-legged galloping
+entails
+horses did exploit four-legged galloping
+
+horses and litopterns happened to exploit four-legged galloping
+contradicts
+litopterns never exploited four-legged galloping
+
+horses and litopterns happened to exploit four-legged galloping
+contradicts
+horses did not exploit four-legged galloping
+
+horses and litopterns happened to exploit four-legged galloping
+permits
+horses and litoperns had the gall to exploit four-legged galloping
+
+horses and litopterns happened to exploit four-legged galloping
+permits
+horses had the wherewithal to exploit four-legged galloping
+
+you happened to hit on a sore subject
+entails
+a sore subject was hit on by you
+
+you happened to hit on a sore subject
+entails
+you hit on a sore subject
+
+you happened to hit on a sore subject
+contradicts
+a sore subject was not hit on by you
+
+you happened to hit on a sore subject
+contradicts
+you did not have the chutzpah to hit on a sore subject
+
+you happened to hit on a sore subject
+permits
+you had the strength to hit on a sore subject
+
+you happened to hit on a sore subject
+permits
+you had the means to hit on a sore subject
+
+lowell happened to find the original photograph
+entails
+the original photograph was found by lowell
+
+lowell happened to find the original photograph
+entails
+lowell had found the original photograph
+
+lowell happened to find the original photograph
+contradicts
+lowell did not have the impudence to find the original photograph
+
+lowell happened to find the original photograph
+contradicts
+lowell did not have the gall to find the original photograph
+
+lowell happened to find the original photograph
+permits
+lowell did not lose the opportunity to find the original photograph
+
+lowell happened to find the original photograph
+permits
+lowell cleverly found the original photograph
+
+the bus station happened to be close to the museum
+entails
+the bus station was close to the museum
+
+the bus station happened to be close to the museum
+entails
+the bus station had been close to the museum
+
+the bus station happened to be close to the museum
+contradicts
+the bus station was not close to the museum
+
+the bus station happened to be close to the museum
+contradicts
+the bus station never was close to the museum
+
+the bus station happened to be close to the museum
+permits
+the bus station was not really a bus station
+
+the bus station happened to be close to the museum
+permits
+the bus station was barely close to the museum
+
+we just happened to start when cable was starting
+entails
+we started when cable was starting
+
+we just happened to start when cable was starting
+entails
+when cable was starting we started
+
+we just happened to start when cable was starting
+contradicts
+we did not start when cable was starting
+
+we just happened to start when cable was starting
+contradicts
+we did not have the foresight to start when cable was starting
+
+we just happened to start when cable was starting
+permits
+we made a promise to start when cable was starting
+
+we just happened to start when cable was starting
+permits
+we took a vow to start when cable was starting
+
+we also happened to leave the room without our keys
+entails
+we left the room without our keys
+
+we also happened to leave the room without our keys
+entails
+we did leave the room without our keys
+
+we also happened to leave the room without our keys
+contradicts
+the room was not left by us with out our keys
+
+we also happened to leave the room without our keys
+contradicts
+we did not manage to leave the room without our keys
+
+we also happened to leave the room without our keys
+permits
+we managed to leave the room without our keys
+
+we also happened to leave the room without our keys
+permits
+we did not quietly leave the room without our keys
+
+bradley G happened to register it as a european trade mark
+entails
+it was registered as a european trade mark by bradley G
+
+bradley G happened to register it as a european trade mark
+entails
+it had been registered as a european trade mark by bradley G
+
+bradley G happened to register it as a european trade mark
+contradicts
+bradley G did not meet his duty to register it as a european trade mark
+
+bradley G happened to register it as a european trade mark
+contradicts
+bradley G never registered it as a eurpean trademark
+
+bradley G happened to register it as a european trade mark
+permits
+it was not stupidly registered as a european trade mark by bradley g
+
+bradley G happened to register it as a european trade mark
+permits
+it was smartly registered as a european trade mark
+
+orwell just happened to register it very acutely
+entails
+orwell registered it
+
+orwell just happened to register it very acutely
+entails
+it was registered acutely by orwell
+
+orwell just happened to register it very acutely
+contradicts
+orwell missed his chance to register it 
+
+orwell just happened to register it very acutely
+contradicts
+it was never registered by orwell
+
+orwell just happened to register it very acutely
+permits
+orwell did not neglect to register it
+
+orwell just happened to register it very acutely
+permits
+orwell remembered to register it very acutely
+
+the current resident happened to hear our guide talking
+entails
+the current resident did hear our guide talking
+
+the current resident happened to hear our guide talking
+entails
+our guide was heard talking by the current resident
+
+the current resident happened to hear our guide talking
+contradicts
+the current resident did not obey an order to hear our guide talking
+
+the current resident happened to hear our guide talking
+contradicts
+the current resident did not remember to hear our guide talking
+
+the current resident happened to hear our guide talking
+permits
+the current resident stealthily heard our guide talking
+
+the current resident happened to hear our guide talking
+permits
+the current resident never joyously heard our guide talking
+
+john rogers happened to fear heights
+entails
+heights were feared by john rogers
+
+john rogers happened to fear heights
+entails
+john rogers had feared heights
+
+john rogers happened to fear heights
+contradicts
+john rogers had never feared heights
+
+john rogers happened to fear heights
+contradicts
+heights were never feared by john rogers
+
+john rogers happened to fear heights
+permits
+heights were manfully feared by john rogers
+
+john rogers happened to fear heights
+permits
+john rogers was not afraid of anything else other than heights
+
+I happened to encounter an essay from bertrand russell
+entails
+an essay from bertrand russell was encountered by me
+
+I happened to encounter an essay from bertrand russell
+entails
+I did encounter an essay from bertrand russell
+
+I happened to encounter an essay from bertrand russell
+contradicts
+I did not take a chance to encounter an essay from bertrand russell
+
+I happened to encounter an essay from bertrand russell
+contradicts
+I neglected to encounter an essay from bertrand russell
+
+I happened to encounter an essay from bertrand russell
+permits
+I slowly encountered an essay from bertrand russell
+
+I happened to encounter an essay from bertrand russell
+permits
+an essay  from bertrand russell was loudly encountered by me
+
+we just happened to meet paul
+entails
+we met paul
+
+we just happened to meet paul
+entails
+pauls was met by us
+
+we just happened to meet paul
+contradicts
+we wasted a chance to meet paul
+
+we just happened to meet paul
+contradicts
+we never met paul
+
+we just happened to meet paul
+permits
+we took no time to meet paul
+
+we just happened to meet paul
+permits
+we took time to meet paul
+
+I just happened to remember her name
+entails
+I did remember her name
+
+I just happened to remember her name
+entails
+her name was remembered by me
+
+I just happened to remember her name
+contradicts
+her name was never remembered by me
+
+I just happened to remember her name
+contradicts
+I had not remembered her name
+
+I just happened to remember her name
+permits
+I never quickly remembered her name
+
+I just happened to remember her name
+permits
+I always remember names
+
+I happened to remember the lecture on geometry by carl friedrich geiser
+entails
+I remembered the lecture on geometry by carl friedrich geiser
+
+I happened to remember the lecture on geometry by carl friedrich geiser
+entails
+I did remember the lecture on geometry by carl friedrich geiser
+
+I happened to remember the lecture on geometry by carl friedrich geiser
+contradicts
+I wasted an opportunity to remember the lecture on geometry by carl friedrich geiser
+
+I happened to remember the lecture on geometry by carl friedrich geiser
+contradicts
+I did not waste time to remember the lecture on geometry by carl friedrich geiser
+
+I happened to remember the lecture on geometry by carl friedrich geiser
+permits
+I unexpectedly remembered the lecture on geometry by carl friedrich geiser
+
+I happened to remember the lecture on geometry by carl friedrich geiser
+permits
+I took a vow to remember the lecture on geometry by carl friedrich geiser
+
+the unicorn's eye happened to fall upon alice
+entails
+the unicorn's eye did fall upon alice
+
+the unicorn's eye happened to fall upon alice
+entails
+the unicorn's eye had fallen upon alice
+
+the unicorn's eye happened to fall upon alice
+contradicts
+the unicorn's eye was not able to fall upon alice
+
+the unicorn's eye happened to fall upon alice
+contradicts
+the unicorn's eye was prevented to fall upon alice
+
+the unicorn's eye happened to fall upon alice
+permits
+the unicorn's eye dared to fall upon alice
+
+the unicorn's eye happened to fall upon alice
+contradicts
+the unicorn's eye failed to fall upon alice
+
+the old witch happened to rise before him
+entails
+the old witch did rise before him
+
+the old witch happened to rise before him
+entails
+the old witch had risen before him
+
+the old witch happened to rise before him
+contradicts
+the old witch broke a pledge to rise before him
+
+the old witch happened to rise before him
+contradicts
+the old witch did not dare to rise before him
+
+the old witch happened to rise before him
+permits
+the old witch rose solemnly before him
+
+the old witch happened to rise before him
+permits
+the old with never rose scarily before him
+
+we just happened to exist in two different circles
+entails
+we had existed in two different circles
+
+we just happened to exist in two different circles
+entails
+we did exist in two different circles
+
+we just happened to exist in two different circles
+contradicts
+we did not dare to exist in two different circles
+
+we just happened to exist in two different circles
+contradicts
+we failed to exist in two different circles
+
+we just happened to exist in two different circles
+permits
+we unluckily existed in two different circles
+
+we just happened to exist in two different circles
+permits
+we never happily existed in two different circles
+
+I happened to call him at a bad time
+entails
+he was called by me at a bad time
+
+I happened to call him at a bad time
+entails
+I did call him at a bad time
+
+I happened to call him at a bad time
+contradicts
+he was not called by me
+
+I happened to call him at a bad time
+contradicts
+I forgot to call him at a bad time
+
+I happened to call him at a bad time
+contradicts
+I did not get the chance to call him
+
+I happened to call him at a bad time
+permits
+I fulfilled a promise to call him
+
+I happened to call him at a bad time
+permits
+I got the chance to call him at a bad time
+
+one caller happened to mention that his granddaughter was getting married
+entails
+that his granddaughter was getting married was mentioned by one caller
+
+one caller happened to mention that his granddaughter was getting married
+entails
+one caller did happen to mention that his granddaughter was getting married
+
+one caller happened to mention that his granddaughter was getting married
+contradicts
+one caller did not have the courage to mention that his granddaughter was getting married
+
+one caller happened to mention that his granddaughter was getting married
+contradicts
+one caller did not have the foresight to mention that his granddaughter was getting married
+
+one caller happened to mention that his granddaughter was getting married
+permits
+one caller hesitantly mentioned that his granddaughter was getting married
+
+one caller happened to mention that his granddaughter was getting married
+permits
+one caller sadly mentioned that his granddaughter was getting married
+
+they happened to forget what came next
+entails
+they forgot what came next
+
+they happened to forget what came next
+entails
+they had forgotten what came next
+
+they happened to forget what came next
+contradicts
+they never forgot what came next
+
+they happened to forget what came next
+contradicts
+they always did not forget what came next
+
+they happened to forget what came next
+permits
+the coin was heavy but worthless in this place
+
+they happened to forget what came next
+permits
+they hesitated to forget what came next
+

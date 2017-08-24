@@ -1,0 +1,743 @@
+she did not waste any time to begin her daring venture
+entails
+she began her daring venture
+
+she never wasted any time to begin her daring venture
+entails
+she did begin her daring venture
+
+she had not wasted any time to begin her daring venture
+contradicts
+she had not began her daring venture
+
+she never wasted any time to begin her daring venture
+contradicts
+she never began her daring venture
+
+she never wasted any time to begin her daring venture
+permits
+she did not fail to begin her daring venture
+
+she had not wasted any time to begin her daring venture
+permits
+she did happily begin her daring venture
+
+he did not waste any time to meet lauren
+entails
+he met lauren
+
+he did not waste any time to meet lauren
+entails
+lauren was met by him
+
+he did not waste any time to meet lauren
+contradicts
+he did not meet lauren
+
+he did not waste any time to meet lauren
+contradicts
+lauren was not met by him
+
+he never wasted any time to meet lauren
+permits
+he quickly met lauren
+
+he had not wasted any time to meet lauren
+permits
+lauren was not slyly met by him
+
+draymond green had not wasted any time to start kicking people in the nba finals
+entails
+draymond green started kicking people in the nba finals
+
+draymond green did not waste any time to start kicking people in the nba finals
+entails
+draymond green had started kicking people in the nba finals
+
+draymond green did not waste any time to start kicking people in the nba finals
+contradicts
+draymond green did not fulfill his promise to start kicking people in the nba finals
+
+draymond green did not waste any time to start kicking people in the nba finals
+contradicts
+draymond green did not get the chance to start kicking people in the nba finals
+
+draymond green did not waste any time to start kicking people in the nba finals
+permits
+draymond green did not forget to start kicking people in the nba finals
+
+draymond green did not waste any time to start kicking people in the nba finals
+permits
+the numbers seven and five add to 12
+
+Hillary never wasted any time to respond to donald trump
+entails
+donald trump was responded to by hillary clinton
+
+Hillary had not wasted any time to respond to donald trump
+entails
+hillary clinton did respond to donald trump
+
+Hillary had not wasted any time to respond to donald trump
+contradicts
+hillary clinton had not responded to donald trump
+
+Hillary had not wasted any time to respond to donald trump
+contradicts
+donald trump was not responded to by hillary clinton
+
+Hillary did not waste any time to respond to donald trump
+permits
+donald trump was not immediately responded to by hillary clinton
+
+Hillary had not wasted any time to respond to donald trump
+permits
+hillary clinton got the chance to respond to donald trump
+
+iulia vantur did not waste any time to meet the actor
+entails
+someone met the actor
+
+iulia vantur did not waste any time to meet the actor
+entails
+the actor was met by iulia vantur
+
+iulia vantur did not waste any time to meet the actor
+contradicts
+the actor was not met
+
+iulia vantur never wasted any time to meet the actor
+contradicts
+iulia vantur did not happen to meet the actor
+
+iulia vantur did not waste any time to meet the actor
+permits
+iulia vantur happened to meet the actor
+
+iulia vantur never wasted any time to meet the actor
+permits
+iulia vantur had the chance to meet the actor
+
+budden did not waste any time to strike back at drake
+entails
+drake was struck back at by budden
+
+budden did not waste any time to strike back at drake
+entails
+budden did strike back at drake
+
+budden had not wasted any time to strike back at drake
+contradicts
+budden did not stirke back at drake
+
+budden had not wasted any time to strike back at drake
+contradicts
+budden did not have the courage to strike back at drake
+
+budden had not wasted any time to strike back at drake
+permits
+budden had the foresight to strik back at drake
+
+budden did not waste any time to strike back at drake
+permits
+drake was not quickly struck back at by budden
+
+he did not waste any time to abandon his home and settled down with his new found love
+entails
+he abandonned his home
+
+he never wasted any time to abandon his home and settled down with his new found love
+entails
+he settled down with his new found love
+
+he never wasted any time to abandon his home and settled down with his new found love
+contradicts
+he did not have the time to abandon his home
+
+he never wasted any time to abandon his home and settled down with his new found love
+contradicts
+he never abandonned his home
+
+he never wasted any time to abandon his home and settled down with his new found love
+permits
+he hesitated to abandon his home and settle down with his new found love
+
+he did not waste any time to abandon his home and settled down with his new found love
+permits
+the hous glass was small enough to fit in a child's pocket
+
+she had not wasted any time to enter the compound and enquire about her husband
+entails
+she enquired about her husband
+
+she did not waste any time to enter the compound and enquire about her husband
+entails
+she entered the compound
+
+she had not wasted any time to enter the compound and enquire about her husband
+contradicts
+she did not enquire about her husband or enter the compound
+
+she never wasted any time to enter the compound and enquire about her husband
+contradicts
+she did not keep her promise to enter the compound and enquire about her husband
+
+she never wasted any time to enter the compound and enquire about her husband
+permits
+she did not lose the opportunity to enter the compound and enquire about her husband
+
+she never wasted any time to enter the compound and enquire about her husband
+permits
+she quietly entered the compound
+
+they had not wasted any time to capitalize on it and tied the game
+entails
+they tied the game
+
+they never wasted any time to capitalize on it and tied the game
+entails
+they capitalized on it
+
+they never wasted any time to capitalize on it and tied the game
+contradicts
+they did not tie the game
+
+they never wasted any time to capitalize on it and tied the game
+contradicts
+they had not capitalized on it
+  
+they did not waste any time to capitalize on it and tied the game
+permits
+they did not lack the foresight to capitalize on it and tied the game
+
+they did not waste any time to capitalize on it and tied the game
+permits
+they superbly capitalized on it
+
+portlanders never wasted any time to play in the snow
+entails
+portlanders played in the snow
+
+portlanders never wasted any time to play in the snow
+entails
+the snow was played in by portlanders
+
+portlanders did not waste any time to play in the snow
+contradicts
+the snow was never played in
+
+portlanders did not waste any time to play in the snow
+contradicts
+portlanders lost the opportunity to play in the snow
+
+portlanders did not waste any time to play in the snow
+permits
+portlanders made a promise to play in the snow
+
+portlanders did not waste any time to play in the snow
+permits
+the snow was joyfully played in by portlanders
+
+sun belt had not wasted any time to welcome its newest member
+entails
+Its newest member was welcomed by sun belt
+
+sun belt had not wasted any time to welcome its newest member
+entails
+sun belt did welcome its newest member
+
+sun belt never wasted any time to welcome its newest member
+contradicts
+sun belt did not welcome its newest member
+
+sun belt had not wasted any time to welcome its newest member
+contradicts
+sun belt did not manage to welcome its newest member
+
+sun belt never wasted any time to welcome its newest member
+permits
+sun belt made a vow to welcome its newest member
+
+sun belt never wasted any time to welcome its newest member
+permits
+sun belt did not take a vow to welcome its newest member
+
+David vitter and john bel edwards had not wasted any time to kick off the general election
+entails
+someone kicked off the general election
+
+David vitter and john bel edwards had not wasted any time to kick off the general election
+entails
+the general election was kicked off by david vitter and john bel edwards
+
+David vitter and john bel edwards never wasted any time to kick off the general election
+contradicts
+the general election was never kicked off by david vitter and john bel edwards
+
+David vitter and john bel edwards did not waste any time to kick off the general election
+contradicts
+david vitter and john bel edwards did not meet their duty to kick off the general election
+
+David vitter and john bel edwards had not wasted any time to kick off the general election
+permits
+the rock and the tree were close friends and the river was jealous
+
+David vitter and john bel edwards did not waste any time to kick off the general election
+permits
+david vitter and john bel edwards did not angrily kick off the general election
+
+he did not waste any time to take his possessions
+entails
+his possessions were taken by him
+
+he had not wasted any time to take his possessions
+entails
+he had taken his possessions
+
+he had not wasted any time to take his possessions
+contradicts
+he had not taken his possessions
+
+he had not wasted any time to take his possessions
+contradicts
+his possessions were not taken by him
+
+he had not wasted any time to take his possessions
+permits
+he managed to take his possessions
+
+he never wasted any time to take his possessions
+permits
+he met his obligation to take his possessions
+
+fergie never wasted any time to give listeners a visual taste of her latest single
+entails
+listeners were given a visual taste of her latest single by fergie
+
+fergie had not wasted any time to give listeners a visual taste of her latest single
+entails
+fergie did give listeners a visual taste of her lastest single
+
+fergie never wasted any time to give listeners a visual taste of her latest single
+contradicts
+listeners were not given a visual taste of her latest single by fergie
+
+fergie never wasted any time to give listeners a visual taste of her latest single
+contradicts
+fergie did not meet her duty to give listeners a visual taste of her latest single
+
+fergie had not wasted any time to give listeners a visual taste of her latest single
+permits
+the black eye peas are a group that fergie was in
+
+fergie never wasted any time to give listeners a visual taste of her latest single
+permits
+ferrgie met her promise to give listeners a visual taste of her latest single
+
+she did not waste any time to get started with her dream
+entails
+she had gotten started with her dream
+
+she had not wasted any time to get started with her dream
+entails
+she got started with her dream
+
+she never wasted any time to get started with her dream
+contradicts
+she never got started with her dream
+
+she did not waste any time to get started with her dream
+contradicts
+she missed the opportunity to get started with her dream
+
+she never wasted any time to get started with her dream
+permits
+she did not neglect to get started with her dream
+
+she did not waste any time to get started with her dream
+permits
+she obeyed an order to get started with her dream
+
+boston celtics fans never wasted any time to embrace him
+entails
+boston celtics fans embraced him
+
+boston celtics fans never wasted any time to embrace him
+entails
+he was embraced by boston celtics fans
+
+boston celtics fans had not wasted any time to embrace him
+contradicts
+he was not embraced by boston celtics fans
+
+boston celtics fans never wasted any time to embrace him
+contradicts
+boston celtics fans never embraced him
+
+boston celtics fans did not waste any time to embrace him
+permits
+boston celtics fans remembered to embrace him
+
+boston celtics fans had not wasted any time to embrace him
+permits
+boston celtics fans take a chance to embrace him
+
+St asaph rotary club had not wasted any time to contribute to the relief effort
+entails
+St asaph rotary club did contribute to the relief effort
+
+St asaph rotary club did not waste any time to contribute to the relief effort
+entails
+the relief effort was contributed to by st asaph rotary club
+
+St asaph rotary club had not wasted any time to contribute to the relief effort
+contradicts
+the relief effort was never contributed to by st asaph rotary club
+
+St asaph rotary club never wasted any time to contribute to the relief effort
+contradicts
+st asaph rotary club did not take an opportunity to contribute to the relief effort
+
+St asaph rotary club did not waste any time to contribute to the relief effort
+permits
+st asaph rotary club took the time to contribute to the relief effort
+
+St asaph rotary club had not wasted any time to contribute to the relief effort
+permits
+the relief effort was slyly contributed to by st asaph rotary club
+
+obama had not wasted any time to throw in references about beyonce's lemonade
+entails
+obama threw in references about beyonce's lemonade
+
+obama had not wasted any time to throw in references about beyonce's lemonade
+entails
+references about beyonce's lemonade were thrown in by obama
+
+obama had not wasted any time to throw in references about beyonce's lemonade
+contradicts
+references about beyonce's lemonade were not thrown in by obama
+
+obama did not waste any time to throw in references about beyonce's lemonade
+contradicts
+obama wasted the chance to throw in references about beyonce'es lemonade
+
+obama never wasted any time to throw in references about beyonce's lemonade
+permits
+obama took a vow to throw in reference about beyonce's lemonade
+
+obama never wasted any time to throw in references about beyonce's lemonade
+permits
+obama did not waste time to throw in reference about beyonce's lemonade
+
+we never wasted any time to bring it into reality
+entails
+it was brought into reality by us
+
+we had not wasted any time to bring it into reality
+entails
+we did bring it into reality
+
+we did not waste any time to bring it into reality
+contradicts
+we wasted an opportunity to bring it into reality
+
+we had not wasted any time to bring it into reality
+contradicts
+we were not able to bring it into reality
+
+we never wasted any time to bring it into reality
+permits
+we were able to bring it into reality
+
+we never wasted any time to bring it into reality
+permits
+it was sneakily brought into reality by us
+
+Franco law group did not waste any time to assist me in my time of need
+entails
+Franco law group did assist me in my time of need
+
+Franco law group did not waste any time to assist me in my time of need
+entails
+I was assisted by franco law group
+
+Franco law group did not waste any time to assist me in my time of need
+contradicts
+Franco law group did not assist me in my time of need
+
+Franco law group had not wasted any time to assist me in my time of need
+contradicts
+Franco wasted time to assist me in my time of need
+
+Franco law group had not wasted any time to assist me in my time of need
+permits
+Franco law group was able to assist me in my time of need
+
+Franco law group had not wasted any time to assist me in my time of need
+permits
+franco law group was not forced to assist me in my time of needo
+
+switzerland had not wasted any time to respond to brexit
+entails
+brexit was responded to by switerland
+
+switzerland never wasted any time to respond to brexit
+entails
+switzerland had responded to brexit
+
+switzerland did not waste any time to respond to brexit
+contradicts
+switzerland did respond to brexit
+
+switzerland never wasted any time to respond to brexit
+contradicts
+brexit was not responded to by switzerland
+
+switzerland did not waste any time to respond to brexit
+permits
+brexit was not smartly responded to by switaerland
+
+switzerland did not waste any time to respond to brexit
+permits
+switzerland properly responded to brexit
+
+the pearl bats did not waste any time to light up the score board
+entails
+the score board was lit up by the pearl bats
+
+the pearl bats did not waste any time to light up the score board
+entails
+the pearl bats lit up the score board
+
+the pearl bats never wasted any time to light up the score board
+contradicts
+the pearl bats were prevented to light up the score board
+
+the pearl bats did not waste any time to light up the score board
+contradicts
+the pearl bats did not dare to light up the score baord
+
+the pearl bats had not wasted any time to light up the score board
+permits
+the pearl bats did not happily light up the score board
+
+the pearl bats did not waste any time to light up the score board
+permits
+the pearl bats bothered to light up the score board
+
+hillarly clinton never wasted any time to launch assaults on sanders
+entails
+assaults were launched by hillarly clinton on sanders
+
+hillarly clinton had not wasted any time to launch assaults on sanders
+entails
+someone launched assaults on sanders
+
+hillarly clinton never wasted any time to launch assaults on sanders
+contradicts
+hillary clinton broke a promise to launch assaults on sanders
+
+hillarly clinton had not wasted any time to launch assaults on sanders
+contradicts
+hillary clinton forgot to launch assaults on sanders
+
+hillarly clinton had not wasted any time to launch assaults on sanders
+permits
+hillary clinton did not fail to launch assaults on sanders
+
+hillarly clinton did not waste any time to launch assaults on sanders
+permits
+the sun is a big ball of burning gas
+
+woodley had not wasted any time to call out two fighters
+entails
+woodley did call out two fighters
+
+woodley did not waste any time to call out two fighters
+entails
+woodley had called out two fighters
+
+woodley did not waste any time to call out two fighters
+contradicts
+woodley did not fulfill a promise to call out two fighters
+
+woodley had not wasted any time to call out two fighters
+contradicts
+woodley never called out two fighters
+
+woodley never wasted any time to call out two fighters
+permits
+woodley exuberantly called out two fighters
+
+woodley did not waste any time to call out two fighters
+permits
+woodley never immediately called out two fighters
+
+pontrello had not wasted any time to capitalize on the advantage with his second goal of the night
+entails
+pontrello capitalized on the advantage with his seccond goal of the night
+
+pontrello did not waste any time to capitalize on the advantage with his second goal of the night
+entails
+pontrello did capitalize on the advantage with his second goal of the night
+
+pontrello never wasted any time to capitalize on the advantage with his second goal of the night
+contradicts
+pontrello had not capitalized on the advantage with his second goal of the night
+
+pontrello did not waste any time to capitalize on the advantage with his second goal of the night
+contradicts
+pontrello failed to capitalize on the advantage with his second goal of the night
+
+pontrello did not waste any time to capitalize on the advantage with his second goal of the night
+permits
+pontrello never quietly capitalized on the advantage with his second goal of the night
+
+pontrello did not waste any time to capitalize on the advantage with his second goal of the night
+permits
+pontrello had the courage to capitalize on the advantage with his second goal of the night
+
+the otters had not wasted any time to jump out to an early lead
+entails
+the otters jumped out to an early lead
+
+the otters had not wasted any time to jump out to an early lead
+entails
+the otters did jump out to an early lead
+
+the otters had not wasted any time to jump out to an early lead
+contradicts
+the otters did not jump out to an early lead
+
+the otters had not wasted any time to jump out to an early lead
+contradicts
+the otters never jumped out to an early lead
+
+the otters did not waste any time to jump out to an early lead
+permits
+the otters got the chance to jump out to an early lead
+
+the otters had not wasted any time to jump out to an early lead
+permits
+the otters never quietly jumped out to an early lead
+
+adele never wasted any time to share what I needed to know 
+entails
+adele shared what I needed to know
+
+adele did not waste any time to share what I needed to know 
+entails
+what I needed to know was shared by adele
+
+adele did not waste any time to share what I needed to know 
+contradicts
+what I needed to know was not shared by adele
+
+adele had not wasted any time to share what I needed to know 
+contradicts
+adele did not have the foresight to share what I needed to know
+
+adele had not wasted any time to share what I needed to know 
+permits
+adele followed an order to share what I needed to know
+
+adele did not waste any time to share what I needed to know 
+permits
+adele had the chance to share what I needed to know
+
+barry anderson did not waste any time to start shooting new video footage
+entails
+barry anderson started shooting new video footage
+
+barry anderson did not waste any time to start shooting new video footage
+entails
+barry anderson had started shooting new video footage
+
+barry anderson never wasted any time to start shooting new video footage
+contradicts
+barry anderson never started shooting new video footage
+
+barry anderson had not wasted any time to start shooting new video footage
+contradicts
+barry anderson did not have the courage to start shooting new video footage
+
+barry anderson never wasted any time to start shooting new video footage
+permits
+barry anderson quickly started shooting new video footage
+
+barry anderson did not waste any time to start shooting new video footage
+permits
+barry anderson did not happily start shooting new video footage
+
+peterson and fitzgibbons never wasted any time to put more points on the board
+entails
+someone wasted no time to put more points on the board
+
+peterson and fitzgibbons did not waste any time to put more points on the board
+entails
+more points were put on the board by peterson and fitz gibbons
+
+peterson and fitzgibbons did not waste any time to put more points on the board
+contradicts
+more points were never put on the board by peterson and fitz gibbons
+
+peterson and fitzgibbons never wasted any time to put more points on the board
+contradicts
+peterson and fitzgibbons did not happen to put more points on the board
+
+peterson and fitzgibbons had not wasted any time to put more points on the board
+permits
+peterson and fitzgibbons kept a promise to put more points on the board
+
+petersom and fitzgibbons did not waste any time to put more points on the board
+permits
+peterson and fitzgibbons hesitated to put more points on the board
+
+they never wasted any time to start their own business
+entails
+they started their own business
+
+they never wasted any time to start their own business
+entails
+a business was started by them
+
+they never wasted any time to start their own business
+contradicts
+they never started their own business
+
+they did not waste any time to start their own business
+contradicts
+a business was not started by them
+
+they never wasted any time to start their own business
+permits
+they made a vow to start their own business
+
+they had not wasted any time to start their own business
+permits
+they did not lack the foresight to start their own business
+
+rolanda never wasted any time to further her education
+entails
+rolanda's education as furthered by her
+
+rolanda did not waste any time to further her education
+entails
+rolanda did further her education
+
+rolanda had not wasted any time to further her education
+contradicts
+rolanda did not  further her education
+
+rolanda never wasted any time to further her education
+contradicts
+rolanda lost the opportunity to further her education
+
+rolanda did not waste any time to further her education
+permits
+the laws of physics do not apply here in my dreams
+
+rolanda did not waste any time to further her education
+permits
+rolanda took a vow to further her education

@@ -24,7 +24,7 @@ they were not prevented to register blacks to vote
 
 the 31-year-old dared to say three nice things about Amber rose
 entails
-the 31-year-old dais three nice things about Amber rose
+the 31-year-old said three nice things about Amber rose
 
 the 31-year-old dared to say three nice things about Amber rose
 entails
@@ -156,8 +156,7 @@ they did not fail an obligation to pick up the torch of protest that had been li
 
 they dared to pick up the torch of protest that had been lit in montgomery
 permits
-they did not sneakily pick up the torch of protest that had been lit in
-montgomery
+they did not sneakily pick up the torch of protest that had been lit in montgomery
 
 she dared to teach black girls
 entails
@@ -196,7 +195,7 @@ contradicts
 amir khan was not great against canela alvarez
 
 amir khan dared to be great against canela alvarez
-contradicts
+permits
 amir khan did not forget to be great against canela alvarez
 
 amir khan dared to be great against canela alvarez
@@ -272,7 +271,7 @@ contradicts
 trump did not rush in where angels fear to tread
 
 trump and carter both dared to rush in where angels fear to tread
-contradicts
+permits
 trump and carter kept a promise to not rush in where angels fear to tread
 
 trump and carter both dared to rush in where angels fear to tread
@@ -364,7 +363,7 @@ entails
 he was told what had happened by her
 
 she dared to tell him what had happened
-contradicts
+permits
 she did not miss an opportunity to tell him what had happened
 
 she dared to tell him what had happened
@@ -681,7 +680,7 @@ I had gone to sleep
 
 I dared to go to sleep
 contradicts
-I dared did not go to sleep
+I did not dare go to sleep
 
 I dared to go to sleep
 contradicts
@@ -708,7 +707,7 @@ contradicts
 the emperor was not attacked by them
 
 they dared to attack the emperor publicly
-contradicts
+permits
 they had the courage to attack the emperor publicly
 
 they dared to attack the emperor publicly
@@ -877,15 +876,15 @@ satan was slandered by archangel michael
 
 archangel michael dared to slander satan
 contradicts
-archangel michael was never slandered by satan
+stan was never slandered by archangel michael
 
 archangel michael dared to slander satan
 contradicts
-archangel michael did not clander satan
+archangel michael did not slander satan
 
 archangel michael dared to slander satan
 permits
-archangel michael was in love with sata
+archangel michael was in love with satan
 
 archangel michael dared to slander satan
 permits
@@ -904,7 +903,7 @@ contradicts
 they were not told so by Kim
 
 Kim dared to tell them so
-contradicts
+permits
 kim met her duty to tell them so
 
 Kim dared to tell them so
@@ -928,7 +927,7 @@ contradicts
 we did not use the pool
 
 we dared to use the pool 
-contradicts
+permits
 we did not miss the chance to use the pool
 
 we dared to use the pool 
@@ -1009,7 +1008,7 @@ the engineers took a vow to tell him that this would be difficult to achieve
 
 the engineers dared to tell him that this would be difficult to achieve
 permits
-her was not immediately told that this would be difficult to achieve
+she was not immediately told that this would be difficult to achieve
 
 he dared to console her
 entails
@@ -1117,7 +1116,7 @@ assad did not take the time to use chemical weapons
 
 Assad dared to use chemical weapons
 permits
-assad wasted no time use chemical weapons
+assad wasted no time to use chemical weapons
 
 Assad dared to use chemical weapons
 permits
@@ -1157,7 +1156,7 @@ she did laugh
 
 she dared to laugh
 contradicts
-she she never laughed
+she never laughed
 
 she dared to laugh
 contradicts

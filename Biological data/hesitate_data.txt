@@ -1,0 +1,183 @@
+she hesitated to take the job
+permits
+she did take the job
+
+she hesitated to take the job
+permits
+the job was happily taken by her
+
+she hesitated to take the job
+permits
+the job was angrily taken by her
+
+she did not hesitate to take the job
+entails
+she had taken the job
+
+she had not hesitated to take the job
+contradicts
+the job was not taken by her
+
+she never hesitated to take the job
+permits
+she was able to take the job
+
+Tom hesitated to bring up the subject
+permits
+the subject was never brought up by Tom
+
+Tom hesitated to bring up the subject
+permits
+Tom was forced to bring up the subject
+
+Tom hesitated to bring up the subject
+permits
+tom was not prevented to bring up the subject
+
+Tom had not hesitated to bring up the subject
+entails
+the subject was brought up by Tom
+
+Tom did not hesitate to bring up the subject
+contradicts
+Tom did not bother to bring up the subject
+
+Tom never hesitated to brought up the subject
+permits
+Tom did not exuberantly
+
+I hesitated to come without being asked
+permits
+I broke a pledge to come without being asked
+
+I hesitated to come without being asked
+permits
+I did not bother to come without being asked
+
+I hesitated to come without being asked
+permits
+I broke a promise to come without being asked
+
+I did not hesitate to come without being asked
+entails
+I came without being asked
+
+I had not hesitated to come without being asked
+contradicts
+I did not come without being asked
+
+I never hesitated to come without being asked
+permits
+I dared to come without being asked
+
+he hesitated to spoil the mood by being inquisitive
+permits
+he is a big old silly head
+
+he hesitated to spoil the mood by being inquisitive
+permits
+he disobeyed an order to spoil the mood by being inquisitive
+
+he hesitated to spoil the mood by being inquisitive
+permits
+the mood was spoiled by him being inquisitive
+
+Trump hesitated to pick indiana gov. mike pence for VP
+permits
+Trump is a literal orange
+
+Trump hesitated to pick indiana gov. mike pence for VP
+permtis
+Trump expectedly picked indiana gov. mike pence for VP
+
+Trump hesitated to pick indiana gov. mike pence for VP
+permits
+indiana gov. mike pence was unexpectedly picked for VP by trump
+
+Trump never hesitated to pick indiana gov. mike pence for VP
+entails
+gov. mike pence was picked for VP by trump
+
+Trump had not hesitated to pick indiana gov. mike pence for VP
+contradicts
+trump never picked mike pence for VP
+
+Trump did not hesitate to pick indiana gov. mike pence for VP
+permits
+trump did not fail to pick indiana gov.mike pence for VP
+
+we hesitated to stay at a bed and breakfast
+permits
+we failed an obligation to stay at a bed and breakfast
+
+we hesitated to stay at a bed and breakfast
+permits
+a bed and breakfast was never stayed at by us
+
+we hesitated to stay at a bed and breakfast
+permits
+a bed and breakfast was cheerfully stayed at by us
+
+we hesitated to stay at a bed and breakfast
+permits
+we did stay at a bed and breakfast
+
+we did not hesitate to stay at a bed and breakfast
+entails
+we stayed at a bed and breakfast
+
+we did not hesitate to stay at a bed and breakfast
+contradicts
+we forgot to stay at a bed and breakfast
+
+we had not hesitated to stay at a bed and breakfast
+permits
+we followed an order to stay at a bed and breakfast
+
+prince hesitated to express his femininity
+permits
+prince had expressed his femininity
+
+prince hesitated to express his femininity
+permits
+prince had not expressed his femininity
+
+prince hesitated to express his femininity
+permits
+prince fulfilled his promise to express his femininity
+
+prince had not hesitated to express his femininity
+entails
+prince did express his femininity
+
+prince never hesitated to express his femininity
+contradicts
+prince did not express his femininity
+
+prince did not hesitate to express his femininity
+permits
+his femininity was not pleasantly expressed
+
+kamala harris hesitated to confront big oil over gas price gouging
+permits
+bugs live in a bog and insects are fun
+
+kamala harris hesitated to confront big oil over gas price gouging
+permits
+kamala harris had never confronted big oil over gas price gouging
+
+kamala harris hesitated to confront big oil over gas price gouging
+permits
+big oil was always confronted over gas price gouging by kamala harris 
+
+kamala harris had not hesitated to confront big oil over gas price gouging
+entails
+kamala harris did confront big oil over gas price gouging
+
+kamala harris never hesitated to confront big oil over gas price gouging
+contradicts
+kamala harris had not confronted big oil over gas price gouging
+
+entails
+
+

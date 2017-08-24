@@ -207,10 +207,6 @@ contradicts
 they did not meet a promise to clean up the tables
 
 they bothered to clean up the tables
-contradicts
-they managed to clean up the tables
-
-they bothered to clean up the tables
 permits
 the tables were quickly cleaned up by them
 
@@ -608,7 +604,7 @@ I had used a condom
 
 I bothered to use a condom
 contradicts
-a condom was not used by e
+a condom was not used by me
 
 I bothered to use a condom
 contradicts
@@ -620,7 +616,7 @@ I had the foresight to use a condom
 
 I bothered to use a condom
 permits
-I did not hesitated to use a condom
+I did not hesitate to use a condom
 
 I bothered to click on the llama story and the dress story
 entails
@@ -655,12 +651,12 @@ entails
 labour supporters had turned out to vote
 
 labour supporters bothered to turn out to vote
-contradicts
+permits
 labour supporters had the time to turn out to vote
 
 labour supporters bothered to turn out to vote
 contradicts
-labour supporters lacked the foresight to turn out to cote
+labour supporters lacked the foresight to turn out to vote
 
 labour supporters bothered to turn out to vote
 permits
@@ -847,7 +843,7 @@ entails
 I was called by the cops after they discovered his body
 
 the cops bothered to call me after discovering his body
-contradicts
+permits
 the cops wasted no time to call me after discovering his body
 
 the cops bothered to call me after discovering his body
@@ -955,7 +951,7 @@ contradicts
 pierre de fermat broke a pledge to write it down
 
 pierre de fermat bothered to write it down
-permits
+contradicts
 pierre de fermat disobeyed an order to write it down
 
 pierre de fermat bothered to write it down
@@ -1012,7 +1008,7 @@ we got the chance to find out about his whereabouts
 
 they apparently bothered to look
 entails
-they bothered look
+they bothered to look
 
 they apparently bothered to look
 entails

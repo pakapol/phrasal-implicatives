@@ -16,7 +16,7 @@ nancy pelosi did not hesitate to post the final house health care bill online
 
 Nancy Pelosi broke the pledge to post the final house health care bill online
 permits
-nancy pelosi did nt have time to post the final house health care bill online
+nancy pelosi did not have time to post the final house health care bill online
 
 Nancy Pelosi broke the pledge to post the final house health care bill online
 permits
@@ -24,7 +24,7 @@ the bridge began to crack under the weight of the carts
 
 Nancy pelosi broke her pledge to post the final house health care bill online
 entails
-Nancy pelosi had not posted her inal house health care bill online
+Nancy pelosi had not posted her final house health care bill online
 
 Nancy pelosi broke her pledge to post the final house health care bill online
 entails
@@ -120,7 +120,7 @@ libya neglects to give the lockerbie bomber a low key reception
 
 libya broke their pledge to give the lockerbie bomber a low key reception
 entails
-libya did not give give the lockerbie bomber a low key reception
+libya did not give the lockerbie bomber a low key reception
 
 libya broke their pledge to give the lockerbie bomber a low key reception
 entails
@@ -192,7 +192,7 @@ the government did not waste money to open GP surgeries from 8am to 8pm
 
 scotland yard broke the pledge to hand over all material officers collated on him
 entails
-scotland yard did not handed over all material officers collated on him
+scotland yard did not hand over all material officers collated on him
 
 scotland yard broke the pledge to hand over all material officers collated on him
 entails
@@ -220,7 +220,7 @@ all material officers collated on him were not handed over by the scotland yard
 
 scotland yard broke their pledge to hand over all material officers collated on him
 entails
-scotland yard halfheartedly handed over all material officers collated on him
+scotland yard did not halfheartedly handed over all material officers collated on him
 
 scotland yard broke their pledge to hand over all material officers collated on him
 contradicts
@@ -285,21 +285,22 @@ the hockey club failed to send no more than three text messages per week
 the hockey club broke their pledge to send no more than three text messages per week
 permits
 the hockey club failed their obligation to send no more than three text messages per week 
+
 he broke the pledge to maintain insurance cover for suppliers
 entails
 A pledge was broken by him
 
 he broke the pledge to maintain insurance cover for suppliers
 entails
+he had not maintained insurance cover for suppliers
+
+he broke the pledge to maintain insurance cover for suppliers
+contradicts
 he maintained insurance cover for suppliers
 
 he broke the pledge to maintain insurance cover for suppliers
 contradicts
-he never maintained insurance cover for suppliers
-
-he broke the pledge to maintain insurance cover for suppliers
-contradicts
-insurance cover for suppliers was never maintained by him
+insurance cover for suppliers was maintained by him
 
 he broke the pledge to maintain insurance cover for suppliers
 permits
@@ -566,7 +567,7 @@ entails
 amnesty was not initially opposed by bush
 
 bush broke the pledge to oppose amnesty
-entail
+entails
 bush had not happily opposed amnesty
 
 bush broke the pledge to oppose amnesty
@@ -623,7 +624,7 @@ goneril loved him exclusively
 
 Goneril broke a pledge to love him exclusively
 contradicts
-goneril wasted not time to love him exclusively
+goneril wasted no time to love him exclusively
 
 Goneril broke a pledge to love him exclusively
 permits
@@ -903,7 +904,7 @@ I got a fairer system on my own
 
 I broke a pledge to get a fairer system
 contradicts
-I did get a fairer system when
+I did get a fairer system 
 
 I broke a pledge to get a fairer system
 permits
@@ -939,7 +940,7 @@ I made a vow to get a fairer system
 
 we broke the pledge to maintain at full strength our five divisions
 entails
-we maintained at full strength our five decisions
+we did not maintain at full strength our five divisions
 
 we broke the pledge to maintain at full strength our five divisions
 entails
@@ -1015,7 +1016,7 @@ jeb bush broke a pledge
 
 Jeb bush broke his pledge to support the republican nominee
 entails
-a pledge was broken by jep bush
+a pledge was broken by jeb bush
 
 Jeb bush broke his pledge to support the republican nominee
 contradicts
@@ -1023,7 +1024,7 @@ jeb bush obeyed an order to support the republican nominee
 
 Jeb bush broke his pledge to support the republican nominee
 contradicts
-jep bush remembered to support the republican nominee
+jeb bush remembered to support the republican nominee
 
 Jeb bush broke his pledge to support the republican nominee
 permits
@@ -1059,7 +1060,7 @@ obama did not take the opportunity to refuse donations
 
 Obama broke his pledge to refuse donations
 entails
-obama had not refuse donations
+obama had not refused donations
 
 Obama broke his pledge to refuse donations
 entails
@@ -1135,7 +1136,7 @@ they did not go on with the customs duties bill
 
 they broke the pledge to go on with the customs duties bill
 entails
-they had not gone one with the customs duties bill
+they had not gone on with the customs duties bill
 
 they broke the pledge to go on with the customs duties bill
 contradicts
@@ -1559,11 +1560,8 @@ obama did not break his pledge to force banks to help homeowners
 
 obama broke his pledge to force banks to help homeowners
 permits
-obama did not date to force banks to help homeowners
+obama did not dare to force banks to help homeowners
 
 obama broke his pledge to force banks to help homeowners
 permits
 the colors of the rainbow lit up the sky
-
-
-

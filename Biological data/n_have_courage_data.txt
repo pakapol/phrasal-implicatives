@@ -1,0 +1,371 @@
+they did not have the courage to tell the story of who they were
+contradicts
+they did tell the story of who they were
+
+they had not had the courage to tell the story of who they were
+contradicts
+the story of who they were was told by them
+
+they did not have the courage to tell the story of who they were
+entails
+they story of who they were was never told by them
+
+they never had the courage to tell the story of who they were
+entails
+they did not tell the story of who they were
+
+they had not had the courage to tell the story of who they were
+contradicts
+they immediately told the story of who they were
+
+they had the courage to tell the story of who they were
+permit
+they were able to tell the story of who they were
+
+the poor weak man had not had the courage to refuse
+contradicts
+the poor weak man refused
+
+the poor weak man did not have the courage to refuse
+contradicts
+the poor weak man had refused
+
+the poor weak man did not have the courage to refuse
+entails
+the poor weak man had not happily refused
+
+the poor weak man did not have the courage to refuse
+entails
+the poor weak man did not sadly refuse
+
+the poor weak man never had the courage to refuse
+contradicts
+the poor weak man did exuberantly refuse
+
+the poor weak man had not had the courage to refuse
+contradicts
+the poor weak man was forced to refuse
+
+I had not had the courage to start
+contradicts
+I started
+
+I did not have the courage to start
+contradicts
+I had started
+
+I had not had the courage to start
+entails
+I had never started
+
+I never had the courage to start
+permits
+I was prevented to start
+
+I had not had the courage to start
+contradicts
+I bothered to start
+
+I did not have the courage to start
+contradicts
+I quickly started
+
+I never had the courage to take action
+contradicts
+I did take action
+
+I had not had the courage to take action
+contradicts
+I took action
+
+I did not have the courage to take action
+permits
+I did not bother to take action
+
+I did not have the courage to take action
+permits
+I did not have the means to take action
+
+I never had the courage to take action
+contradicts
+I had the strength to take action
+
+I never had the courage to take action
+contradicts
+I had the wherewithal to take action
+
+you did not have the courage to start or purchase a business
+contradicts
+you started or purchased a business
+
+you had not had the courage to start or purchase a business
+contradicts
+a business was started or purchased by you
+
+you never had the courage to start or purchase a business
+permits
+you broke the pledge to start or purchase a business
+
+you never had the courage to start or purchase a business
+entails
+a business was never started or purchased by you
+
+you had not had the courage to start or purchase a business
+contradicts
+you had the gall to start or purchase a business
+
+you had not had the courage to start or purchase a business
+contradicts
+you dared to start or purchase a business
+
+burgess did not have the courage to write a book that will have eternal consequences
+contradicts
+a book that will have eternal consequences was written by burgess
+
+burgess did not have the courage to write a book that will have eternal consequences
+contradicts
+burgess had written a book that will have eternal consequences
+
+burgess never had the courage to write a book that will have eternal consequences
+permits
+burgess did not have the chutzpah to write a book that will have eternal consequences
+
+burgess never had the courage to write a book that will have eternal consequences
+permits
+burgess did not have the impudence to write a book that will have eternal consequences
+
+burgess did not have the courage to write a book that will have eternal consequences
+contradicts
+a book that will have eternal consequences was angrily written by burgess
+
+burgess never had the courage to write a book that will have eternal consequences
+entails
+burgess did not stupidly write a book that will have eternal consequences
+
+you never had the courage to talk to a girl
+contradicts
+you had talked to a girl
+
+you did not have the courage to talk to a girl
+contradicts
+a girl was talked to by you
+
+you never had the courage to talk to a girl
+entails
+a girl was never talked to by you
+
+you did not have the courage to talk to a girl
+entails
+you did not talk to a girl
+
+you had not had the courage to talk to a girl
+entails
+you did not cleverly talk to a girl
+
+you had not had the courage to talk to a girl
+entails
+you never quietly talked to a girl
+
+bobby had a courage give his folks the freedom to be themselves
+contradicts
+his folks were given the freedom to be themselves by bobby
+
+bobby had a courage give his folks the freedom to be themselves
+contradicts
+bobby gave his folks the freedom to be themselves
+
+bobby had a courage give his folks the freedom to be themselves
+entails
+bobby did not give his folks the freedom to be themselves
+
+bobby had a courage give his folks the freedom to be themselves
+permits
+bobby broke a promise to give his folks the freedom to be themselves
+
+bobby had a courage give his folks the freedom to be themselves
+contradicts
+his folks were slowly given the freedom to be themselves by bobby
+
+bobby had a courage give his folks the freedom to be themselves
+entails
+bobby never willingly gave his folks the freedom to be themselves
+
+she did not have the courage to use something different and dangerous
+permits
+she had used something different
+
+she had not had the courage to use something different and dangerous
+permits
+she did use something dangerous
+
+she never had the courage to use something different and dangerous
+permits
+she never used something different or dangerous
+
+she had not had the courage to use something different and dangerous
+permits
+she disobeyed an order to use something different and dangerous
+
+she did not have the courage to use something different and dangerous
+permits
+in the west the sun rises and in the east the sun sets
+
+she never had the courage to use something different and dangerous
+contradicts
+she did not fail to use something different and dangerous
+
+he did not have the courage to utilise and reward it
+contradicts
+he utilised and rewarded it
+
+he did not have the courage to utilise and reward it
+contradicts
+it was utilised and rewarded by him
+
+he never had the courage to utilise and reward it
+permits
+he never utilised or rewarded it
+
+he had not had the courage to utilise and reward it
+permits
+he failed to utilise or reward it
+
+he never had the courage to utilise and reward it
+contradicts
+he did not fail an obligation to utilise and reward it
+
+he did not have the courage to utilise and reward it
+permits
+he followed an order to utilise and reward it
+
+people had not had the courage to write down their biggest regrets
+contradicts
+people wrote down their biggest regrets
+
+people never had the courage to write down their biggest regrets
+permits
+regrets were wrote down by people
+
+people did not have the courage to write down their biggest regrets
+permits
+people forgot to write down their biggest regrets
+
+people did not have the courage to write down their biggest regrets
+permits
+people did not fulfill a promise to write down their biggest regrets
+
+people did not have the courage to write down their biggest regrets
+permits
+people got the chance to write down their biggest regrets
+
+people did not have the courage to write down their biggest regrets
+entails
+people never happily wrote down their biggest regrets
+
+I did not have the courage to enter the classroom
+contradicts
+I did enter the classroom
+
+I did not have the courage to enter the classroom
+contradicts
+the classroom was entered by me
+
+I did not have the courage to enter the classroom
+permits
+I never got the chance to enter the classroom
+
+I never had the courage to enter the classroom
+entails
+the classroom was not entered by me
+
+I had not had the courage to enter the classroom
+contradicts
+I happened to enter the classroom
+
+I never had the courage to enter the classroom
+contradicts
+I exuberantly entered the classroom
+
+she had not had the courage to talk about her idea
+contradicts
+she talked about her idea
+
+she had not had the courage to talk about her idea
+permits
+an idea was talked about by her
+
+she did not have the courage to talk about her idea
+entails
+she never talked about her idea
+
+she never had the courage to talk about her idea
+permits
+she did not get the chance to talk about her idea
+
+she did not have the courage to talk about her idea
+permits
+sh had the chance to talk about her idea
+
+she never had the courage to talk about her idea
+permits
+an idea was never pleasantly talked about by her
+
+the men of honor had not had the courage to do the right thing
+contradicts
+the men of honor did the right thing
+
+the men of honor had not had the courage to do the right thing
+contradicts
+the right thing was done by the men of honor
+
+the men of honor had not had the courage to do the right thing
+contradicts
+the men of honor had the foresight to do the right thing
+
+the men of honor never had the courage to do the right thing
+contradicts
+the men of honor reluctantly did the right thing
+
+I finally did not have the courage to apply for a job somewhere else
+contradicts
+I had applied for a job somewhere else
+
+I finally never had the courage to apply for a job somewhere else
+contradicts
+a job somewhere else was applied to by me
+
+I finally never had the courage to apply for a job somewhere else
+entails
+I never applied for a job somewhere else
+
+I finally never had the courage to apply for a job somewhere else
+permits
+I did not keep my promise to apply for a job somewhere else
+
+I finally did not have the courage to apply for a job somewhere else
+permits
+I took a vow to apply for a job somewhere else
+
+I finally did not have the courage to apply for a job somewhere else
+permits
+I did not make a promise to apply for a job somewhere else
+
+nine filipino tenants never had the courage to go to the tenant commission to complain
+contradicts
+nine filipino tenants went to the tenant commission to complain
+
+nine filipino tenants never had the courage to go to the tenant commission to complain
+contradicts
+nine fillipino tenants had gone to the tenant commission to complain
+
+nine filipino tenants had not had the courage to go to the tenant commission to complain
+entails
+nine filipino tenants never went to the tenant commission to complain
+
+nine filipino tenants never had the courage to go to the tenant commission to complain
+permits
+nine filipino tenants did not manage to go to the tenant commission to complain
+
+nine filipino tenants did not have the courage to go to the tenant commission to complain
+permits
+the table was made of wood but the chair was made of the finest steel
