@@ -1078,3 +1078,1082 @@ limos bothered to answer the complaint against him
 permits
 limos kept a promise to answer the complaint against him
 
+she never bothered to fold her socks and place one inside each shoe
+contradicts
+her socks were folded by her and she placed on inside each shoe
+
+she had not bothered to fold her socks and place one inside each shoe
+entails
+she did not fold her socks or place one inside each shoe
+
+she had not bothered to fold her socks and place one inside each shoe
+contradicts
+she was able to fold her socks and place one inside each shoe
+
+she never bothered to fold her socks and place one inside each shoe
+contradicts
+she did fold her socks and place one inside each shoe
+
+she had not bothered to fold her socks and place one inside each shoe
+permits
+she was prevented to fold her socks and place one inside each shoe
+
+she did not bother to fold her socks and place one inside each shoe
+contradicts
+she was forced to fold her socks and place one inside each shoe
+
+she never bothered to listen to her patient unlike other doctors
+contradicts
+she had listened to her patient unlike other doctors
+
+she never bothered to listen to her patient unlike other doctors
+permits
+she broke a pledge to listen to her patient
+
+she never bothered to listen to her patient unlike other doctors
+contradicts
+she dared to listen to her patient unlike other doctors
+
+she never bothered to listen to her patient unlike other doctors
+contradicts
+her patient was listened to by her
+
+she did not bother to listen to her patient unlike other doctors
+entails
+she did listen to her patient
+
+she did not bother to listen to her patient unlike other doctors
+permits
+the bell rang clearly through the town
+
+he had not bothered to try to have a relationship with his family
+contradicts
+he tried to have a relationship with his family
+
+he never bothered to try to have a relationship with his family
+contradicts
+he did try to have a relationship with his family
+
+he had not bothered to try to have a relationship with his family
+permits
+he had a relationship with his family
+
+he had not bothered to try to have a relationship with his family
+entails
+he did not have a relationship with his family
+
+he did not bother to try to have a relationship with his family
+permits
+he failed to try to have a relationship with his family
+
+he did not bother to try to have a relationship with his family
+permits
+he failed his obligation to try to have a relationship with his family
+
+he never bothered to stop and consider his own set of motives
+contradicts
+he did stop and consider his own set of motives
+
+he had not bothered to stop and consider his own set of motives
+permits
+he failed his obligation to stop and consider his own set of motives
+
+he had not bothered to stop and consider his own set of motives
+contradicts
+he followed an order to stop and consider his own set of motives
+
+he had not bothered to stop and consider his own set of motives
+contradicts
+he had stopped and considered his own set of motives
+
+he did not bother to stop and consider his own set of motives
+contradicts
+he fulfilled a promise to stop and consider his own set of motives
+
+he never bothered to stop and consider his own set of motives
+permits
+the young boy kicks the ball to the old man
+
+I had not bothered to come out here
+contradicts
+I did come out here
+
+I had not bothered to come out here
+contradicts
+I had came out here
+
+I had not bothered to come out here
+permits
+I forgot to come out here
+
+I did not bother to come out here
+entails
+I did not bother to come out here
+
+I had not bothered to come out here
+permits
+I got the chance to come out here
+
+I never bothered to come out here
+contradicts
+I had the courage to come out here
+
+I did not bother to drive to the rent office
+contradicts
+I drove to the rent office
+
+I did not bother to drive to the rent office
+permits
+I either drove to the rent office or kicked the ball
+
+I never bothered to drive to the rent office
+permits
+I did not have the foresight to drive to the rent office
+
+I never bothered to drive to the rent office
+permits
+I did not have time to drive to the rent office
+
+I never bothered to drive to the rent office
+permits
+the mallard ate the bread that the children threw to it
+
+I did not bother to drive to the rent office
+contradicts
+I did not hesitate to drive to the rent office
+
+you did not bother to tell me that she loved me
+contradicts
+you told me that she loved me
+
+you did not bother to tell me that she loved me
+permits
+you or your brother told me that she loved me
+
+you did not bother to tell me that she loved me
+permits
+you did not keep your promise to tell me that she loved me
+
+you did not bother to tell me that she loved me
+entails
+you had not told me that she loved me
+
+you did not bother to tell me that she loved me
+permits
+you did not keep a promise to tell me that she loved me
+
+you did not bother to tell me that she loved me
+permits
+you made a promise to tell me if she loved me
+
+you did not bother to tell me that she loved me
+contradicts
+you did not lose the opportunity to tell me that she loved me
+
+you did not bother to remove the plaques and testimonials of those societies
+contradicts
+the plaques and testimonials of those societies were removed by you
+
+you never bothered to remove the plaques and testimonials of those societies
+contradicts
+you did remove the plaques and testimonials of those societies
+
+you never bothered to remove the plaques and testimonials of those societies
+entails
+the plaques and testimonials of those societies were not removed 
+
+you had not bothered to remove the plaques and testimonials of those societies
+permits
+you did not meet an obligation to remove the plaques and testimonials of those societies
+
+you did not bother to remove the plaques and testimonials of those societies
+contradicts
+the plaques and testimonials of those societies were quietly removed by you
+
+you never bothered to remove the plaques and testimonials of those societies
+permits
+you made a vow to remove the plaques and testimonials of those societies
+
+they did not bother to clean up the tables
+contradicts
+the tables were cleaned up by them
+
+they never bothered to clean up the tables
+contradicts
+they did clean up the tables
+
+they had not bothered to clean up the tables
+permits
+they did not meet a promise to clean up the tables
+
+they never bothered to clean up the tables
+contradicts
+they managed to clean up the tables
+
+they never bothered to clean up the tables
+contradicts
+the tables were quickly cleaned up by them
+
+they did not bother to clean up the tables
+permits
+the sound was loud
+
+they had not bothered to find out who and what I was
+contradicts
+they found out who I was
+
+they never bothered to find out who and what I was
+contradicts
+the found out what I was
+
+they never bothered to find out who and what I was
+permits
+they missed the chance to find out who and what I was
+
+they did not bother to find out who and what I was
+permits
+they missed an opportunity to find out who I was
+
+they had not bothered to find out who and what I was
+contradicts
+they didn't neglect to find out who and what I was
+
+they never bothered to find out who and what I was
+contradicts
+they immediately found out who and what I was
+
+people had not bothered to respond to my request
+contradicts
+my request was responded to by someone
+
+people did not bother to respond to my request
+contradicts
+people responded to my request
+
+people never bothered to respond to my request
+entails
+My request was not responded to
+
+people did not bother to respond to my request
+permits
+people did not obey the order to respond to my request
+
+people had not bothered to respond to my request
+contradicts
+people took no time to respond to my request
+
+people never bothered to respond to my request
+contradicts
+my request was happily responded to by people
+
+Google never bothered to support WebGL on Linux with the release
+contradicts
+Google supported WebGL on linux with the release
+
+Google did not bother to support WebGL on Linux with the release
+contradicts
+Google did support WebGL on Linus with the release
+
+Google had not bothered to support WebGL on Linux with the release
+permits
+Google did not take the opportunity to support WebGL on Linux with the release
+
+Google had not bothered to support WebGL on Linux with the release
+entails
+Google did not support WebGL on Linus with the release
+
+Google had not bothered to support WebGL on Linux with the release
+contradicts
+Google remembered to support WebGL on Linus with the release
+
+Google did not bother to support WebGL on Linux with the release
+permits
+the fruit on the table began to rot
+
+Trey Gowdy had not bothered to show up for Huma Abedin's testimony today
+contradicts
+Trey Gowdy did show up for huma abedin's testimony today
+
+Trey Gowdy had not bothered to show up for Huma Abedin's testimony today
+contradicts
+trey gowdy had shown up for huma abedin's testimony today
+
+Trey Gowdy had not bothered to show up for Huma Abedin's testimony today
+permits
+trey gowdy wasted a chance to show up for huma abedin's testimony today
+
+Trey Gowdy had not bothered to show up for Huma Abedin's testimony today
+entails
+trey gowdy had not shown up for huma abedin's testimony today
+
+Trey Gowdy never bothered to show up for Huma Abedin's testimony today
+contradicts
+trey gowdy did not wasted a chance to show up for Huma abedin's testimony today
+
+Trey Gowdy did not bother to show up for Huma Abedin's testimony today
+permits
+trey gowdy took a vow to show up for huma abedin's testimony today
+
+trump never bothered to develop a ground game and data analytics program
+contradicts
+a ground game and data analytics program was developed by trump
+
+trump never bothered to develop a ground game and data analytics program
+contradicts
+trump had developed a ground game and data analytics program
+
+trump never bothered to develop a ground game and data analytics program
+permits
+trump wasted an opportunity to develop a ground game and data analytics program
+
+trump had not bothered to develop a ground game and data analytics program
+permits
+trump did not waste money to develop a ground game and data analytics program
+
+trump had not bothered to develop a ground game and data analytics program
+contradicts
+trump wasted money to develop a ground game and data analytics program
+
+trump never bothered to develop a ground game and data analytics program
+contradicts
+a ground game and data analytics program was effectively developed by trump
+
+the cyclist had not bothered to stop to check on her
+contradicts
+the cyclist stopped to check on her
+
+the cyclist had not bothered to stop to check on her
+contradicts
+the cyclist checked on her
+
+the cyclist never bothered to stop to check on her
+entails
+the cyclist did not check on her
+
+the cyclist did not bother to stop to check on her
+entails
+the cyclist did not stop
+
+the cyclist had not bothered to stop to check on her
+contradicts
+the cyclist eventually checked on her
+
+the cyclist had not bothered to stop to check on her
+permits
+the cyclist is a six foot tall man
+
+president obama never bothered to notify pakistan of the drone strike
+contradicts
+pakistan was notified of the drone strike by president obama
+
+president obama never bothered to notify pakistan of the drone strike
+contradicts
+president obama notified pakistan of the drone strike
+
+president obama had not bothered to notify pakistan of the drone strike
+entails
+pakistan was not notified of the drone strike by president obama
+
+president obama never bothered to notify pakistan of the drone strike
+permits
+president obama wasted an opportunity to notify pakistan of the drone strike
+
+president obama had not bothered to notify pakistan of the drone strike
+contradicts
+pakistan was cheerfully notified by president obama
+
+president obama had not bothered to notify pakistan of the drone strike
+contradicts
+president obama wasted time to notify pakistan of the drone strike
+
+lamar odom never bothered to stop by to see his kids
+contradicts
+lamar odom saw his kids
+
+lamar odom never bothered to stop by to see his kids
+contradicts
+lamar odom did stop by to see his kids
+
+lamar odom never bothered to stop by to see his kids
+entails
+lamar odom did not see his kids
+
+lamar odom had not bothered to stop by to see his kids
+entails
+lamar odom had not stopped by to see his kids
+
+lamar odom had not bothered to stop by to see his kids
+contradicts
+lamar odom briefly saw his kids
+
+lamar odom had not bothered to stop by to see his kids
+contradicts
+lamar odom wasted no time to see his kids
+
+sean penn had not bothered to dress up for his premiere
+contradicts
+sean penn dressed up for his premiere
+
+sean penn had not bothered to dress up for his premiere
+contradicts
+sean penn had dressed up fro his premiere
+
+sean penn did not bother to dress up for his premiere
+permits
+sean penn was not able to dress up for his premiere
+
+sean penn did not bother to dress up for his premiere
+entails
+sean penn did not dress up for his premiere
+
+sean penn had not bothered to dress up for his premiere
+contradicts
+sean penn was forced to dress up for his premiere
+
+sean penn had not bothered to dress up for his premiere
+contradicts
+sean penn finally dressed up for his premiere
+
+the red hot chili peppers never bothered to plug their guitars in
+contradicts
+the red hot chili peppers had plugged in their guitars
+
+the red hot chili peppers had not bothered to plug their guitars in
+contradicts
+guitars were plugged in by the red hot chili peppers
+
+the red hot chili peppers never bothered to plug their guitars in
+entails
+guitars were not plugged in by the red hot chili peppers
+
+the red hot chili peppers did not bother to plug their guitars in
+permits
+the dirt was packed tight from the horses on the road
+
+the red hot chili peppers did not bother to plug their guitars in
+contradicts
+the red hot chili peppers were not prevented to plug their guitars in
+
+the reporters did not bother to check and vet the anecdotes and quotes
+contradicts
+the anecdotes and quotes were checked by the reporters
+
+the reporters never bothered to check and vet the anecdotes and quotes
+contradicts
+the reporters did check and vet the anecdotes and quotes
+
+the reporters had not bothered to check and vet the anecdotes and quotes
+entails
+the anecdotes and quotes were not checked by the reporters
+
+the reporters had not bothered to check and vet the anecdotes and quotes
+permits
+the reporters broke a pledge to check and vet the anecdotes and quotes
+
+the reporters did not bother to check and vet the anecdotes and quotes
+contradicts
+the reporters dared to check and vet the anecdotes and quotes
+
+the reporters did not bother to check and vet the anecdotes and quotes
+entails
+the anecdotes and quotes were not quickly checked and vetted by the reporters
+
+hillary never bothered to check facts before speaking under oath
+contradicts
+hillary checked facts before speaking under oath
+
+hillary never bothered to check facts before speaking under oath
+contradicts
+hillary did check facts before speaking under oath
+
+hillary never bothered to check facts before speaking under oath
+permits
+hillary failed to check facts before speaking under oath
+
+hillary had not bothered to check facts before speaking under oath
+permits
+hillary disobeyed an order ro check facts before speaking under oath
+
+hillary never bothered to check facts before speaking under oath
+entails
+hillary did not rapidly check facts before speaking under oath
+
+hillary did not bother to check facts before speaking under oath
+permits
+the golden sun set in the east and rose in the west
+
+the affluent society did not bother to add to the inherited system of canals and reservoirs
+contradicts
+the affluent society added to the inherited system of canals
+
+the affluent society had not bothered to add to the inherited system of canals and reservoirs
+contradicts
+the affluent society did bother to add to the inherited system of reservoirs
+
+the affluent society did not bother to add to the inherited system of canals and reservoirs
+entails
+the affluent society did not bother to add to the inherited system of canals
+
+the affluent society did not bother to add to the inherited system of canals and reservoirs
+permits
+the affluent society failed an obligation to add to the inherited system of canals and reservoirs
+
+the affluent society never bothered to add to the inherited system of canals and reservoirs
+permits
+the prince was the ruler of the land until the day he passed
+
+the affluent society had not bothered to add to the inherited system of canals and reservoirs
+contradicts
+the affluent society did not  break a promise to add to the inherited system of canals and reservoirs
+
+officials had not bothered to take a look at the tests from four years ago
+contradicts
+officials took a look at the tests from four years ago
+
+officials had not bothered to take a look at the tests from four years ago
+contradicts
+officials had taken a look at the tests from four years ago
+
+officials never bothered to take a look at the tests from four years ago
+entails
+officials did not take a look at the tests from four years ago
+
+officials had not bothered to take a look at the tests from four years ago
+permits
+officials did not get the chance to take a look at the tests from four years ago
+
+officials did not bother to take a look at the tests from four years ago
+contradicts
+officials fulfilled a promise to take a look at the tests from four years ago
+
+officials had not bothered to take a look at the tests from four years ago
+entails
+officials did not happily take a look at the tests from four years ago
+
+we never bothered to do our own research
+contradicts
+research was done by us
+
+we had not bothered to do our own research
+contradicts
+we did our own research
+
+we had not bothered to do our own research
+permits
+we did not happen to de our own research
+
+we had not bothered to do our own research
+permits
+No research was done by us
+
+we did not bother to do our own research
+permits
+we got the chance to do our own research
+
+we had not bothered to do our own research
+contradicts
+we sadly did our own research
+
+teflon hillary did not bother to seek approval when she set up an unsecured server
+contradicts
+teflon hillary sought approval when she set up an unsecured server
+
+teflon hillary did not bother to seek approval when she set up an unsecured server
+contradicts
+approval was sought by teflon hillary when she set up an unsecured server
+
+teflon hillary never bothered to seek approval when she set up an unsecured server
+permits
+teflon hillary forgot to seek approval when she set up an unsecured server
+
+teflon hillary had not bothered to seek approval when she set up an unsecured server
+entails
+approval was not sought by teflon hillary when she set up an unsecured server
+
+teflon hillary did not bother to seek approval when she set up an unsecured server
+contradicts
+teflon hillary happened to seek approval when she set up an unsecured server
+
+teflon hillary never bothered to seek approval when she set up an unsecured server
+contradicts
+teflon hillary fulfilled a promise to seek approval when she set up an unsecured server
+
+I had not bothered to use a condom
+contradicts
+a condom was used by me
+
+I never bothered to use a condom
+contradicts
+I had used a condom
+
+I did not bother to use a condom
+entails
+a condom was not used by me
+
+I never bothered to use a condom
+permits
+I didn't have the chance to use a condom
+
+I had not bothered to use a condom
+contradicts
+I had the foresight to use a condom
+
+I did not bother to use a condom
+contradicts
+I did not hesitate to use a condom
+
+I did not bother to click on the llama story or the dress story
+contradicts
+I clicked on the dress story
+
+I had not bothered to click on the llama story or the dress story
+contradicts
+I clicked on the llama story
+
+I never bothered to click on the llama story or the dress story
+entails
+I did not click on the dress story
+
+I never bothered to click on the llama story or the dress story
+entails
+I did not bother to click on the llama story
+
+I did not bother to click on the llama story or the dress story
+contradicts
+I had the courage to click on the llama story
+
+I never bothered to click on the llama story or the dress story
+contradicts
+I kept a promise to click on the dress story
+
+labour supporters had not bothered to turn out to vote
+contradicts
+labour supporters turned out to vote
+
+labour supporters did not bother to turn out to vote
+contradicts
+labour supporters had turned out to vote
+
+labour supporters did not bother to turn out to vote
+contradicts
+labour supporters had the time to turn out to vote
+
+labour supporters had not bothered to turn out to vote
+permits
+labour supporters lacked the foresight to turn out to cote
+
+labour supporters never bothered to turn out to vote
+permits
+labour supporters made a vow to turn out to vote
+
+labour supporters did not bother to turn out to vote
+contradicts
+labour supporters begrudgingly turned out to vote 
+
+our FBI soldiers never bothered to administer the oath to this female renegade
+contradicts
+the oath was administered to this female renegade by our FBI soldiers
+
+our FBI soldiers did not bother to administer the oath to this female renegade
+contradicts
+our FBI soldiers did administer the oath to this female renegade
+
+our FBI soldiers had not bothered to administer the oath to this female renegade
+entails
+the oath was not administered to this female renegade by our FBI soldiers
+
+our FBI soldiers had not bothered to administer the oath to this female renegade
+permits
+our FBI soldiers did not manage to administer the oath to this female renegade
+
+our FBI soldiers had not bothered to administer the oath to this female renegade
+permits
+our FBI soldiers took a vow to administer the oath to this female renegade
+
+our FBI soldiers did not bother to administer the oath to this female renegade
+entails
+our fbi soldiers did not quickly administer the oath to this female renegade
+
+she never bothered to attend the vote
+contradicts
+she had attended the vote
+
+she did not bother to attend the vote
+contradicts
+the vote was attended by her
+
+she never bothered to attend the vote
+permits
+she lost the opportunity to attend the vote
+
+she did not bother to attend the vote
+entails
+she had not attended the vote
+
+she never bothered to attend the vote
+contradicts
+she did not miss the chance to attend the vote
+
+she never bothered to attend the vote
+permits
+blue is the warmest color, but yellow is the brightest
+
+most polls did not bother to include donald trump
+permits
+some polls included donald trump
+
+most polls had not bothered to include donald trump
+contradicts
+donals trump was included by most polls
+
+most polls never bothered to include donald trump
+permits
+donald trump was included by no polls
+
+most polls did not bother to include donald trump
+entails
+donald trump was not included by most polls
+
+most polls did not bother to include donald trump
+contradicts
+most polls met their duty to include donald trump
+
+most polls did not bother to include donald trump
+contradicts
+most polls met their obligation to include donald trump
+
+the patent attorney never bothered to take the time to understand the slightly angled feature
+contradicts
+the patent attorney took the time to understand the slightly angled feature
+
+the patent attorney never bothered to take the time to understand the slightly angled feature
+contradicts
+the patent attorney understood the slightly angled feature
+
+the patent attorney had not bothered to take the time to understand the slightly angled feature
+entails
+the patent attorney did not understand the slightly angled feature
+
+the patent attorney did not bother to take the time to understand the slightly angled feature
+entails
+the patent attorney did not take the time to understand the slightly angled feature
+
+the patent attorney never bothered to take the time to understand the slightly angled feature
+permits
+when it is winter I like to bundle myself up in warm clothes
+
+the patent attorney had not bothered to take the time to understand the slightly angled feature
+contradicts
+the patent attorney easily understood the slightly angled feature
+
+he did not bother to say hello to the man on the witness stand
+contradicts
+the man on the witness stand was said hello to by him
+
+he did not bother to say hello to the man on the witness stand
+contradicts
+he said hello to the man on the witness stand
+
+he never bothered to say hello to the man on the witness stand
+entails
+the man on the witness stand was not said hello to by him
+
+he did not bother to say hello to the man on the witness stand
+permits
+he missed his chance to say hello to the man on the witness stand
+
+he had not bothered to say hello to the man on the witness stand
+contradicts
+he obeyed an order to say hello to the man on the witness stand
+
+he never bothered to say hello to the man on the witness stand
+contradicts
+he did not miss his opportunity to say hello to the man on the witness stand
+
+he never bothered to read them
+contradicts
+they were read by him
+
+he did not bother to read them
+contradicts
+he had read them
+
+he had not bothered to read them
+permits
+he neglected to read them
+
+he never bothered to read them
+entails
+he did not read them
+
+he never bothered to read them
+contradicts
+he took a chance to read them
+
+he had not bothered to read them
+entails
+he did not read them slowly
+
+jedi did not bother to rescue anakin's mother from slavery
+contradicts
+jedi had rescued anakin's mother from slavery
+
+jedi had not bothered to rescue anakin's mother from slavery
+contradicts
+anakin's mother was rescued from slavery by jedi
+
+jedi had not bothered to rescue anakin's mother from slavery
+permits
+jedi did not remember to rescue anakin's mother from slavery
+
+jedi never bothered to rescue anakin's mother from slavery
+entails
+anakin's mother was not rescued from slavery by jedi 
+
+jedi never bothered to rescue anakin's mother from slavery
+contradicts
+jedi took no time to rescue anakin's mother from slavery
+
+jedi had not bothered to rescue anakin's mother from slavery
+contradicts
+jedi took the chance to rescue anakin's mother from slavery
+
+the cops did not bother to call me after discovering his body
+contradicts
+the cops called me after discovering his body
+
+the cops never bothered to call me after discovering his body
+contradicts
+I was called by the cops after they discovered his body
+
+the cops had not bothered to call me after discovering his body
+contradicts
+the cops wasted no time to call me after discovering his body
+
+the cops never bothered to call me after discovering his body
+entails
+the cops never called me after discovering his body
+
+the cops had not bothered to call me after discovering his body
+entails
+the cops did not immediately call me after discovering his body
+
+the cops did not bother to call me after discovering his body
+contradicts
+the cops did immediately call me after discovering his body
+
+the prophet never bothered to acknowledge that salute
+contradicts
+that salute was acknowledged by the prophet 
+
+the prophet never bothered to acknowledge that salute
+contradicts
+the prophet did bother to acknowledge that salute
+
+the prophet had not bothered to acknowledge that salute
+entails
+the prophet never acknowledged that salute
+
+the prophet had not bothered to acknowledge that salute
+permits
+the prophet wasted an opportunity to acknowledge that salute
+
+the prophet never bothered to acknowledge that salute
+permits
+the prophet took a vow to acknowledge that salute
+
+the prophet did not bother to acknowledge that salute
+contradicts
+the prophet happily acknowledged that salute
+
+she did not bother to count the roll of hundreds because she was in a hurry
+contradicts
+she did count the roll of hundreds because she was in a hurry
+
+she did not bother to count the roll of hundreds because she was in a hurry
+contradicts
+the rolls of hundreds were counted by her because she was in a hurry
+
+she had not bothered to count the roll of hundreds because she was in a hurry
+entails
+she never counted the roll of hundreds 
+
+she never bothered to count the roll of hundreds because she was in a hurry
+entails
+the roll of hundreds were not counted by her
+
+she never bothered to count the roll of hundreds because she was in a hurry
+contradicts
+she was able to count the roll of hundreds because she was in a hurry
+
+she did not bother to count the roll of hundreds because she was in a hurry
+permits
+patriotism is three out of ten
+
+you had not bothered to ask before writing your editorial
+contradicts
+you asked before writing your editorial
+
+you did not bother to ask before writing your editorial
+contradicts
+you had asked before writing your editorial
+
+you never bothered to ask before writing your editorial
+entails
+you never asked before writing your editorial
+
+you never bothered to ask before writing your editorial
+entails
+you did not bother to ask before writing your editorial
+
+you never bothered to ask before writing your editorial
+contradicts
+you were forced to ask before writing your editorial
+
+you had not bothered to ask before writing your editorial
+contradicts
+you smartly asked before writing your editorial
+
+you did not bother to ask before writing your editorial
+contradicts
+you were not prevented to ask before writing your editorial
+
+pierre de fermat had not bothered to write it down
+contradicts
+pierre de fermat wrote it down
+
+pierre de fermat had not bothered to write it down
+contradicts
+it was written down by pierre de fermat
+
+pierre de fermat never bothered to write it down
+entails
+it was never written down by pierre de fermar
+
+pierre de fermat never bothered to write it down
+permits
+pierre de fermat broke a pledge to write it down
+
+pierre de fermat never bothered to write it down
+permits
+pierre de fermat disobeyed an order to write it down
+
+pierre de fermat did not bother to write it down
+contradicts
+it was quickly written down by pierre de fermat
+
+angels fans did not bother to counter the applause
+contradicts
+angels fans did counter the applause
+
+angels fans never bothered to counter the applause
+contradicts
+the applause was countered by angel fans
+
+angels fans did not bother to counter the applause
+permits
+angels fans did not dare to counter the applause
+
+angels fans did not bother to counter the applause
+permits
+angels fans broke a pledge to counter the applause
+
+angels fans had not bothered to counter the applause
+contradicts
+angels fans did not fail to counter the applause
+
+angels fans did not bother to counter the applause
+contradicts
+angels fans followed an order to counter the applause
+
+we never bothered to find out about his whereabouts
+contradicts
+we found out about his whereabouts
+
+we did not bother to find out about his whereabouts
+contradicts
+we did find out about his whereabouts
+
+we had not bothered to find out about his whereabouts
+permits
+we forgot to find out about his whereabouts
+
+we did not bother to find out about his whereabouts
+entails
+we never found out about his whereabouts
+
+we did not bother to find out about his whereabouts
+contradicts
+we fulfilled a promise to find out about his whereabouts
+
+we never bothered to find out about his whereabouts
+permits
+we got the chance to find out about his whereabouts
+
+they apparently had not bothered to look
+contradicts
+they bothered to look
+
+they apparently had not bothered to look
+contradicts
+they looked
+
+they apparently did not bother to look
+entails
+they apparently did not bother to look
+
+they apparently had not bothered to look
+permits
+they did not happen to look
+
+they apparently did not bother to look
+contradicts
+they quickly looked
+
+they apparently did not bother to look
+permits
+they had the chance to look
+
+he never bothered to check the average age of people entering disneyland
+contradicts
+he checked the average age of people entering disneyland
+
+he did not bother to check the average age of people entering disneyland
+contradicts
+he did check the average age of people entering disneyland
+
+he did not bother to check the average age of people entering disneyland
+entails
+he did not check the average age of people entering disneyland
+
+he had not bothered to check the average age of people entering disneyland
+permits
+he did not have time to check the average age of people entering disneyland
+
+he never bothered to check the average age of people entering disneyland
+permits
+he hesitated to check the average age of people entering disneyland
+
+he had not bothered to check the average age of people entering disneyland
+contradicts
+he had the courage to check the average age of people entering disneyland
+
+limos did not bother to answer the complaint against them
+contradicts
+limos did answer the complaint against them
+
+limos did not bother to answer the complaint against him
+contradicts
+a complaint was answered by limos
+
+limos never bothered to answer the complaint against him
+permits
+limos did not have the foresight to answer the complaint against him
+
+limos never bothered to answer the complaint against him
+entails
+limos never answered the complaint against him
+
+limos had not bothered to answer the complaint against him
+permits
+the balloons were popped one by one

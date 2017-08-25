@@ -1430,3 +1430,1020 @@ the attending peers failed to notice this unusual omission
 permits
 the attending peers neglected to notice this unusual omission
 
+Chuck Grassley never failed to get the 60 votes for passage
+contradicts
+Chuck Grassley didn't get the 60 votes for passage
+
+Chuck Grassley had not failed to get the 60 votes for passage
+permits
+Chuck Grassley managed to get the 60 votes for passage
+
+Chuck Grassley had not failed to get the 60 votes for passage
+permits
+Barrack Obama failed to get the 60 votes for passage
+
+Chuck Grassley never failed to get the 60 votes for passage
+permits
+Chuck Grassley didn't quickly get the 60 votes for passage
+
+Chuck Grassley did not fail to get the 60 votes for passage
+entails
+Chuck Grassley got the 60 votes for passage
+
+Chuck Grassley did not fail to get the 60 votes for passage
+permits
+Someone failed to get the 60 votes for passage
+
+she never failed to turn things around at the beleaguered company
+contradicts
+she didn't turn things around at the beleagured company
+
+she never failed to turn things around at the beleaguered company
+permits
+she completely turned things around at the beleageured company
+
+she had not failed to turn things around at the beleaguered company
+permits
+she promised to turn things around at the beleaguered company
+
+she did not fail to turn things around at the beleaguered company
+contradicts
+she failed to turn things around at the beleaguered company
+
+she did not fail to turn things around at the beleaguered company
+permits
+she was able to quietly turn things around at the beleagured company
+
+she never failed to turn things around at the beleaguered company
+permits
+the dog went to the store
+
+Straw had not failed to consider all Britain's options before invasion
+contradicts
+Straw didn't consider all Britain's options before invasion
+
+Straw had not failed to consider all Britain's options before invasion
+permits
+Straw already considered all Britain's options before invasion
+
+Straw did not fail to consider all Britain's options before invasion
+permits
+Straw took a vow to consider all Britain's options before invasion
+
+Straw had not failed to consider all Britain's options before invasion
+permits
+Someone failed to consider all Britain's options before invasion
+
+Straw had not failed to consider all Britain's options before invasion
+permits
+Straw fortuanately considered all Britain's options before invasion
+
+Straw did not fail to consider all Britain's options before invasion
+permits
+Straw was able to consider all Britain's options before invasion
+
+the IRS never failed to notify some taxpayers after their accounts were compromised by hackers
+contradicts
+the IRS didn't notify some taxpayers after their accounts were compromised by hackers
+
+the IRS did not fail to notify some taxpayers after their accounts were compromised by hackers
+entails
+the IRS notified some taxpayers after their accounts were compromised by hackers
+
+the irs had not failed to notify some taxpayers after their accounts were compromised by hackers
+the IRS broke a promise to notify some taxpayers after their accounts were compromised by hackers
+
+the irs never failed to notify some taxpayers after their accounts were compromised by hackers
+entails
+the irs didn't notify all taxpayers after their accounts were compromised by hackers
+
+the irs did not fail to notify some taxpayers after their accounts were compromised by hackers
+entails
+the irs didn't fail to notify some taxpayers after their accounts were compromised by hackers
+
+the irs had not failed to notify some taxpayers after their accounts were compromised by hackers
+permits
+The young boy climbed the hill
+
+Bob Corker never failed to properly disclose millions of dollars in income from real estate
+contradicts
+Bob Corker didn't properly disclose millions of dollars in income from real estate
+
+Bob Corker had not failed to properly disclose millions of dollars in income from real estate
+entails
+Bob Corker did properly disclose millions of dollars in income from real estate
+
+Bob Corker never failed to properly disclose millions of dollars in income from real estate
+permits
+Tom Corker failed to properly disclose millions of dollars in income from real estate
+
+Bob Corker had not failed to properly disclose millions of dollars in income from real estate
+permits
+Bob Corker wasn't forced to disclose millions of dollars in income from real estate
+
+Bob Corker did not fail to properly disclose millions of dollars in income from real estate
+entails
+Bob Corker didn't fail to properly disclose millions of dollars in income from real estate
+
+Bob Corker did not fail to properly disclose millions of dollars in income from real estate
+contradicts
+Bob Corker was prevented from properly disclosing millions of dollars in income from real estate
+
+Obama had not failed to deliver on nuclear disarmament promises
+contradicts
+Obama didn't deliver on nuclear disarmament promises
+
+obama had not failed to deliver on nuclear disarmament promises
+entails
+Obama delivered on nuclear disarmament promises
+
+obama never failed to deliver on nuclear disarmament promises
+contradicts
+Obama didn't bother to deliver on nuclear disarmament promises
+
+obama had not failed to deliver on nuclear disarmament promises
+permits
+Obama didn't energetically deliver on nuclear disarmament promises
+
+obama did not fail to deliver on nuclear disarmament promises
+permits
+obama dared to deliver on nuclear disarmament promises
+
+obama had not failed to deliver on nuclear disarmament promises
+contradicts
+obama broke his pledge to deliver on nuclear disarmament promises
+
+Camtasia Studio never failed to create a video memory resource
+contradicts
+Camtasia Studio didn't create a video memory resource
+
+Camtasia Studio had not failed to create a video memory resource
+permits
+Camtasia studio didn't break a promise to create a video memory resource
+
+Camtasia Studio never failed to create a video memory resource
+contradicts
+Camtasia Studio disobeyed an order to create a video memory resource
+
+Camtasia Studio did not fail to create a video memory resource
+contradicts
+Camtasia Studio has not created a video memory resource
+
+Camtasia Studio did not fail to create a video memory resource
+permits
+Camtasia Studio didn't fail an obligation to create a video memory resource
+
+Camtasia Studio had not failed to create a video memory resource
+permits
+Nine ducks flew off to roost on the house
+
+former secretary hillary clinton had not failed to turn over a copy of a key message
+contradicts
+former secretary hillary clinton has not turned over a copy of a key message
+
+former secretary hillary clinton never failed to turn over a copy of a key message
+permits
+former secretary hillary clinton followed an order ro turn over a copy of a key message
+
+former secretary hillary clinton did not fail to turn over a copy of a key message
+contradicts
+former secretary hillary clinton forgot to turn over a copy of a key message
+
+former secretary hillary clinton never failed to turn over a copy of a key message
+permits
+Someone didn't turn over a copy of a key message
+
+former secretary hillary clinton never failed to turn over a copy of a key message
+permits
+former secretary hillary clinton fulfilled a promise to turn over a copy of a key message
+
+former secretary hillary clinton had not failed to turn over a copy of a key message
+permits
+former secretary hillary clinton got the chance to turn over a copy of a key message
+
+they did not fail to recognize her bigotry
+permits
+they didn't immediately recognize her bigotry
+
+they had not failed to recognize her bigotry
+permits
+they happened to recognize her bigotry
+
+they did not fail to recognize her bigotry
+permits
+they had the chance to recognize her bigotry
+
+they did not fail to recognize her bigotry
+permits
+Not everyone recognized her bigotry
+
+they never failed to recognize her bigotry
+permits
+They had the courage to recognize her bigotry
+
+They had not failed to recognize her bigotry
+permits
+The masses failed to recognize her bigotry
+
+prosecutors never failed to tell police about disturbing video
+contradicts
+prosecutors had not told police about disturbing video
+
+prosecutors had not failed to tell police about disturbing video
+permits
+prosecutors had the foresight to tell police about disturbing video
+
+prosecutors never failed to tell police about disturbing video
+permits
+prosecutors had the chance to tell police about disturbing video
+
+prosecutors had not failed to tell police about disturbing video
+permits
+prosecutors did not loudly tell police about disturbing video
+
+prosecutors did not fail to tell police about disturbing video
+permits
+prosecutors had told everyone about disturbing video even the police
+
+prosecutors had not failed to tell police about disturbing video
+permits
+Lightning strikes every day.
+
+researchers never failed to seek ethics approval for a study on teens with scoliosis
+permits
+someone had not sought ethics approval for a study on teens with scoliosis
+
+researchers had not failed to seek ethics approval for a study on teens with scoliosis
+entails
+ethics approval for a study on teens with scoliosis was sought by researchers
+
+researchers never failed to seek ethics approval for a study on teens with scoliosis
+permits
+researchers had time to seek ethics approval for a study on teens with scoliosis
+
+researchers had not failed to seek ethics approval for a study on teens with scoliosis
+permits
+Someone did not seek ethics approval for a study on teens with scoliosis
+
+researchers never failed to seek ethics approval for a study on teens with scoliosis
+entails
+researchers did in fact seek ethics approval for a study on teens with scoliosis
+
+researchers never failed to seek ethics approval for a study on teens with scoliosis
+permits
+researchers hesitated to seek ethics approval for a study on teens with scoliosis
+
+I had not failed to become the perfect spouse
+contradicts
+I did not become the perfect spouse
+
+I did not fail to become the perfect spouse
+permits
+I kept my promise to become the perfect spouse
+
+I did not fail to become the perfect spouse
+permits
+The French attacked after the sun set.
+
+I never failed to become the perfect spouse
+contradicts
+I had not became the perfect spouse
+
+I never failed to become the perfect spouse
+permits
+I quickly became the perfect spouse.
+
+I did not fail to become the perfect spouse
+permits
+I made a promise to become the perfect spouse.
+
+I never failed to get the correct answer for the challenge
+contradicts
+I did not get the correct answer for the challenge
+
+I did not fail to get the correct answer for the challenge
+permits
+I managed to get the correct answer for the challenge
+
+I did not fail to get the correct answer for the challenge
+contradicts
+I lost my opportunity to get the correct answer for the challenge
+
+I never failed to get the correct answer for the challenge
+permits
+I did not immediately get the correct answer for the challenge
+
+I had not failed to get the correct answer for the challenge
+permits
+I met my duty to get the correct answer for the challenge
+
+I did not fail to get the correct answer for the challenge
+permits
+I made a vow to get the correct answer for the challenge
+
+you had not failed to make payments on your student loan
+permits
+someone did not sneakily make payments on your student loan 
+
+you had not failed to make payments on your student loan
+permits
+you met your obligation to make payments on your student loan
+
+you never failed to make payments on your student loan
+permits
+the man on the horse failed to make payments on his student loan
+
+you had not failed to make payments on your student loan
+contradicts
+you did not make payments on your student loan
+
+you had not failed to make payments on your student loan
+permits
+you met your promise to make payments on your student loan
+
+you did not fail to make payments on your student loan
+permits
+you and I are the best friends in the worlds
+
+you had not failed to download the required mods from the steam workshop
+permits
+you had not stealthily downloaded the required mods from the steam workshop
+
+you had not failed to download the required mods from the steam workshop
+permits
+you obeyed an order to download the required mods from the steam workshop
+
+you never failed to download the required mods from the steam workshop
+contradicts
+you missed your chance to download the required mods from the steam workshop
+
+you never failed to download the required mods from the steam workshop
+permits
+someone did not download the required mods from the steam workshop
+
+you had not failed to download the required mods from the steam workshop
+permits
+you actually downloaded the required mods from the steam sorkshop
+
+you did not fail to download the required mods from the steam workshop
+permits
+in the night the owl hunts mice
+
+he did not fail to see my point of view
+contradicts
+he did not finally see my point of view
+
+he never failed to see my point of view
+entails
+he saw my point of view
+
+he did not fail to see my point of view
+contradicts
+he missed an opportunity to see my point of view
+
+he had not failed to see my point of view
+permits
+Someone did not see my point of view
+
+he had not failed to see my point of view
+permits
+he and everyone else easily saw my point of view
+
+he did not fail to see my point of view
+contradicts
+he neglected to see my point of view
+
+he did not fail to recognize that his patient Sergio was trans
+he or she did not easily recognize that his his patient Sergio was trans
+
+he did not fail to recognize that his patient Sergio was trans
+permits
+he recognized that his patient Sergio was trans and was surprised
+
+he had not failed to recognize that his patient Sergio was trans
+permits
+he took an opportunity to recognize that his patient Sergio was trans
+
+he had not failed to recognize that his patient Sergio was trans
+permits
+someone did not recognize that his patient Sergiow was trans
+
+he did not fail to recognize that his patient Sergio was trans
+permits
+he remembered to recognize that his patient Sergio was trans
+
+he never failed to recognize that his patient Sergio was trans
+permits
+I run the the grass and into the forest
+
+she had not failed to notice that her child was no longer in his crib
+contradicts
+she did not notice that her child was not longer in his crib
+
+she had not failed to notice that her child was no longer in his crib
+permits
+she took the chance to notice that her child was no longer in his crib
+
+she never failed to notice that her child was no longer in his crib
+permits
+she took a vow to notice that her child was not longer in his crib
+
+she did not fail to notice that her child was no longer in his crib
+permits
+she had not slowly noticed that her child was no longer in his crib
+
+she did not fail to notice that her child was no longer in his crib
+permits
+she didn't take any time to notice that her child was no longer in his crib
+
+she had not failed to notice that her child was no longer in his crib
+permits
+The sloth slowly eats his food
+
+she did not fail to disclose gifts and free over seas trips
+permits
+she did not immediately disclose gifts and free over seas trips
+
+she never failed to disclose gifts and free over seas trips
+permits
+she took some time to disclose gifts and free over seas trips
+
+she did not fail to disclose gifts and free over seas trips
+contradicts
+she did not take time to disclose drifts and free over seas tips
+
+she did not fail to disclose gifts and free over seas trips
+contradicts
+she or her staff did not disclose gifts and free over seas strips
+
+she did not fail to disclose gifts and free over seas trips
+entails
+she disclosed gifts and free over seas trips the first chance she had
+
+she did not fail to disclose gifts and free over seas trips
+contradicts
+she wasted the opportunity to disclose gifts and free over seas trips
+
+we had not failed to deliver stability in iraq
+contradicts
+we did not smoothly deliver stability in iraq 
+
+we never failed to deliver stability in iraq
+contradicts
+we wasted time to deliver stability in iraq
+
+we had not failed to deliver stability in iraq
+permits
+the young man looked up the the sky with joy
+
+we had not failed to deliver stability in iraq
+permits
+someone failed to deliver stability in iraq
+
+we never failed to deliver stability in iraq
+entails
+we were able to deliver stability in iraq
+
+we never failed to deliver stability in iraq
+contradicts
+we broke a pledge to deliver stability in iraq
+
+we had not failed to grasp the mood of anger
+contradicts
+we did not grasp the mood of anger
+
+we had not failed to grasp the mood of anger
+permits
+we were forced by their tone of voice to grasp the mood of anger
+
+we did not fail to grasp the mood of anger
+contradicts
+we were prevented to grasp the mood of anger
+
+we never failed to grasp the mood of anger
+permits
+someone had not grasped the mood of anger
+
+we had not failed to grasp the mood of anger
+permits
+we quickly were able to grasp the mood of anger
+
+we did not fail to grasp the mood of anger
+contradicts
+we didn't bother to grasp the mood of anger
+
+they did not fail to take away our guns
+contradicts
+our guns were not taken away from them
+
+they did not fail to take away our guns
+permits
+they dared to take away our guns
+ 
+they never failed to take away our guns
+contradicts
+they disobeyed an order to take away our guns
+
+they did not fail to take away our guns
+permits
+they did not knowingly take away our guns
+
+they had not failed to take away our guns
+permits
+they didn't break a pledge to take away our guns
+
+they never failed to take away our guns
+permits
+we never wanted to take away any of their guns
+
+they had not failed to register to vote for his father in the new york primary
+permits
+they did not unknowingly register to vote for his father in the new york primary
+
+they did not fail to register to vote for his father in the new york primary
+entails
+they registered to vote for his father in the new york primary the moment they could
+
+they had not failed to register to vote for his father in the new york primary
+permits
+the rust crept up the side of the car over the years
+
+they never failed to register to vote for his father in the new york primary
+contradicts
+they had not registered to vote for his father in the new york primary
+
+they had not failed to register to vote for his father in the new york primary
+permits
+they did not disobey an order to register to vote for his father in the new york primary
+
+they had not failed to register to vote for his father in the new york primary
+contradicts
+they broke a pledge to register to vote for his father in the new york primary
+
+the husky owner did not fail to restrain her dog during an alleged biting incident
+permits
+the husky owner did not truly restrain her dog during an alleged biting incident
+
+the husky owner did not fail to restrain her dog during an alleged biting incident
+permits
+the husky owner followed an order to retrain her dog during an alleged biting incident
+
+the husky owner did not fail to restrain her dog during an alleged biting incident
+contradicts
+the husky owner forgot to restrain her dog during an alleged biting incident
+
+the husky owner did not fail to restrain her dog during an alleged biting incident
+permits
+someone failed to restrain her dog during an alleged biting incident
+
+the husky owner had not failed to restrain her dog during an alleged biting incident
+permits
+the husky owner fulfilled a promise to restrain her dog during an alleged biting incident
+
+the husky owner never failed to restrain her dog during an alleged biting incident
+permits
+the husky owner was never going to the store in the first place
+
+the State did not fail to protect the physical and mental well being of a bank branch manager
+contradicts
+the state failed to protect the physical and mental well being of someone
+
+the State did not fail to protect the physical and mental well being of a bank branch manager
+permits
+the State did not fail an obligation to protect the physical and mental well being or every bank branch manager
+
+the State did not fail to protect the physical and mental well being of a bank branch manager
+permits
+the water froze into ice as the winter progressed
+
+the State never failed to protect the physical and mental well being of a bank branch manager
+permits
+the State did not successfully protect the physical and mental well being of a bank branch manager
+
+the State had not failed to protect the physical and mental well being of a bank branch manager
+permits
+the state happened to protect the physical and mental well being of a bank branch manager
+
+the State never failed to protect the physical and mental well being of a bank branch manager
+permits
+the state got the chance to protect the physical and mental well being of a bank branch manager
+
+church officials did not fail to comply with the law
+contradicts
+church officials did not comply with the law
+
+church officials had not failed to comply with the law
+permits
+church officials had the courage to comply with the law despite the consequences
+
+church officials did not fail to comply with the law
+contradicts
+church officials forgot to comply with the law
+
+church officials had not failed to comply with the law
+permits
+Someone had not quickly and quietly complied with the law
+
+church officials never failed to comply with the law
+permits
+church officials had the incredible foresight to comply with the law
+
+church officials had not failed to comply with the law
+permits
+church officials had the chance to comply with the law like everybody else
+
+Rick Santorum never failed to provide a total facepalm moment at the GOP debate
+contradicts
+Rick Santorum did not provide a total facepal moment as the GOP debate
+
+Rick Santorum did not fail to provide a total facepalm moment at the GOP debate
+permits
+Rick Santorum kept his promise to provide a total facepalm moment at the GOP debate
+
+Rick Santorum did not fail to provide a total facepalm moment at the GOP debate
+permits
+Rich Santorum had time to provide a total facepalm moment at the GOP debate
+
+Rick Santorum did not fail to provide a total facepalm moment at the GOP debate
+contradicts
+Rick Santorum had not provided a total facepalm moment at some debate 
+
+Rick Santorum had not failed to provide a total facepalm moment at the GOP debate
+permits
+Rick Santorum and every other debater provided total facepalm moments at the GOP debate
+
+Rick Santorum never failed to provide a total facepalm moment at the GOP debate
+permits
+Rick Santorum hesitated to provide a total facepalm moment at the GOP debate
+
+Princess Cruises had not failed to rescue adrift fishermen
+permits
+Princess Cruises did not immediately rescue adrift fishermen
+
+Princess Cruises never failed to rescue adrift fishermen
+permits
+Princess Cruises kept a promise to rescue adrift fishermen
+
+Princess Cruises had not failed to rescue adrift fishermen
+permits
+Princess Cruises had time to rescue adrift fishermen
+
+Princess Cruises had not failed to rescue adrift fishermen
+contradicts
+Princess Cruises failed to rescue someone
+
+Princess Cruises did not fail to rescue adrift fishermen
+permits
+Princess Cruises did not lack the foresight to rescue adrift fishermen
+
+Princess Cruises had not failed to rescue adrift fishermen
+permits
+Princess Cruises made a promise to rescue adrift fishermen
+
+the RCMP had not failed to protect a woman who claimed abuse
+contradicts
+the RCMP did not protect some woman
+
+the RCMP never failed to protect a woman who claimed abuse
+permits
+the RCMP did not lose the opportunity to protect a woman who claimed abuse
+
+the RCMP never failed to protect a woman who claimed abuse
+permits
+the tower disappeared into the clouds
+
+the RCMP did not fail to protect a woman who claimed abuse
+contradicts
+the RCMP did not protect a woman who claimed abuse
+
+the RCMP did not fail to protect a woman who claimed abuse
+permits
+the RCMP managed to protect a woman who claimed abuse
+
+the RCMP had not failed to protect a woman who claimed abuse
+permits
+the RCMP made a vow to protect a woman who claimed abuse
+
+young people today never failed to properly communicate because of slang
+contradicts
+young people today did not properly communicate because of slang
+
+young people today did not fail to properly communicate because of slang
+permits
+youngs people today meet their duty to properly communicate desptite slang
+
+young people today did not fail to properly communicate because of slang
+permits
+young people today took a vow to properly communicate
+
+young people today did not fail to properly communicate because of slang
+contradicts
+young people today had not properly communicated
+
+young people today had not failed to properly communicate because of slang
+permits
+young people today had met a promise to properly communicate
+
+young people today never failed to properly communicate because of slang
+contradicts
+young people today neglected to properly communicate
+
+they had not failed to recognize the peril in which they were
+contradicts
+they failed to recognize they were in peril
+
+they did not fail to recognize the peril in which they were
+permits
+they did not miss the chance to recognize the peril in which they were
+
+they had not failed to recognize the peril in which they were
+permits
+the sea foamed at the mouth like dog
+
+they did not fail to recognize the peril in which they were
+permits
+someone failed to recognize the peril in wich he or she was
+
+they had not failed to recognize the peril in which they were
+permits
+they remembered to recognize the peril in which they were
+
+they never failed to recognize the peril in which they were
+contradicts
+they missed an opportunity to recognize they were in peril
+
+it never failed to disclose all relevant information in a timely manner
+permits
+it did not cheerfully disclose all relevant information in a timely manner
+
+it had not failed to disclose all relevant information in a timely manner
+permits
+it took a chance to disclose all relevant information in a timely manner
+
+it did not fail to disclose all relevant information in a timely manner
+contradicts
+it missed a chance to disclose all relevant information in a timely manner
+
+it did not fail to disclose all relevant information in a timely manner
+permits
+something failed to disclose all relevant information in a timely manner
+
+it did not fail to disclose all relevant information in a timely manner
+entails
+it disclosed all relevant information in a timely manner
+  
+it did not fail to disclose all relevant information in a timely manner
+permits
+it took a vow to disclose all relevant information in a timely manner
+
+she had not failed to observe the strangeness of her brother's manner
+contradicts
+The strangeness of her brother's manner was not observed by her
+
+she had not failed to observe the strangeness of her brother's manner
+permits
+she took no time to observe the strangeness of her brother's manner
+
+she never failed to observe the strangeness of her brother's manner
+contradicts
+she wasted a chance to observe the strangeness of her brother's manner
+
+she had not failed to observe the strangeness of her brother's manner
+contradicts
+she did not sneakily observe the strangeness of her brother's manner
+
+she did not fail to observe the strangeness of her brother's manner
+permits
+she took some time to observe the strangeness of her brother's manner
+
+the panel did not fail to conduct an objective assessment of the manner
+contradicts
+an objective assessment of the matter was not conducted by the panel
+
+the panel did not fail to conduct an objective assessment of the manner
+permits
+the panel did not waste an opportunity to conduct an objective assessment of the manner
+
+the panel never failed to conduct an objective assessment of the manner
+contradicts
+the panel wasted money to conduct an objective assessment of the manner
+
+the panel had not failed to conduct an objective assessment of the manner
+contradicts
+the panel had not conducted an assessment of the manner that was objective
+
+the panel did not fail to conduct an objective assessment of the manner
+contradicts
+the panel wasted time to conduct an objective assessment of the manner
+
+the panel had not failed to conduct an objective assessment of the manner
+permits
+I like to let snowflakes fall down onto my tongue
+
+the scoffers for whom everything is fair game had not failed to joke about comets
+contradicts
+comets were not joked about by the scoffers for whom everything is a fair game
+
+the scoffers for whom everything is fair game had not failed to joke about comets
+entails
+comets were joked about by the scoffers for whom everything is a fair game
+
+the scoffers for whom everything is fair game did not fail to joke about comets
+permits
+the scoffers fo whome everything is fair went to the school and ate food
+
+the scoffers for whom everything is fair game never failed to joke about comets
+contradicts
+the scoffers for whome everything is fair game did not jake about comets
+
+the scoffers for whom everything is fair game never failed to joke about comets
+permits
+the scoffers for whom everything is a fair game were able to joke about the comets
+
+the scoffers for whom everything is fair game never failed to joke about comets
+contradicts
+the scoffers for whom everythin is a fair game were prevented to joke about comets
+
+his reverence had not failed to take his place in the choir
+permits
+someones did not take his place in the choir 
+
+his reverence never failed to take his place in the choir
+permits
+his reverence was forced to take his place in the choir
+
+his reverence never failed to take his place in the choir
+contradicts
+his reverence did not bother to take his place in the choir
+
+his reverence had not failed to take his place in the choir
+permits
+his reverence had not slowly taken his place in the choir
+
+his reverence did not fail to take his place in the choir
+permits
+his reverence dared to take his place in the choir
+
+his reverence had not failed to take his place in the choir
+permits
+the children play in the sand under the hot sun
+
+Pope Francis had not failed to surprise
+contradicts
+Pope Francis did not surprise
+
+Pope Francis did not fail to surprise
+entails
+Pope Francis didn't forget to surprise
+
+Pope Francis did not fail to surprise
+contradicts
+Pope Francis failed to surprise the boy
+
+Pope Francis did not fail to surprise
+contradicts
+Pope Francis had not surprised
+
+Pope Francis never failed to surprise
+permits
+Pope Francis quickly surprised
+
+Pope Francis had not failed to surprise
+permits
+Pope Francis fullfilled a promise to surprise
+
+Tateum Venn did not fail to stop at a stop sign on that fateful day
+contradicts
+a stop sign was not stopped at by Tateum Venn on that fateful day
+
+Tateum Venn had not failed to stop at a stop sign on that fateful day
+permits
+Tateum Venn happened to stop at a stop sign on that fateful day
+
+Tateum Venn had not failed to stop at a stop sign on that fateful day
+contradicts
+Tateum Venn did not follow an order to stop at a stop sign on that fateful day
+
+Tateum Venn never failed to stop at a stop sign on that fateful day
+permits
+Tateum Venn had not slyly stopped at a stop sign on that fateful day
+
+Tateum Venn did not fail to stop at a stop sign on that fateful day
+permits
+Tateum Venn did not forget to stop at a stop sign on that fateful day
+
+Tateum Venn did not fail to stop at a stop sign on that fateful day
+permits
+Tateum Venn had the chance to stop at a stop sign on that fateful day
+
+Zlatan had not failed to qualify for the champions league semifinal
+contradicts
+Zlatan had not qualified for the champions league semifinal
+
+Zlatan did not fail to qualify for the champions league semifinal
+permits
+Zlatan had the courage to qualify for the champions league semifinal
+
+Zlatan did not fail to qualify for the champions league semifinal
+contradicts
+Zlatan did not have the chance to qualify for the champions league semifinal
+ 
+Zlatan had not failed to qualify for the champions league semifinal
+contradicts
+the champions league semifinal was not qualified for by Zlatan
+
+Zlatan never failed to qualify for the champions league semifinal
+entails
+the champions league semifinal was qualified for by Zlatan
+
+Zlatan had not failed to qualify for the champions league semifinal
+permits
+the whirlpool caught the boat and sunk it
+
+he never failed to bequeath wealth to his family
+contradicts
+he did not bequeath wealth to his family
+
+he had not failed to bequeath wealth to his family
+entails
+wealth was bequeathed to his family by him
+
+he had not failed to bequeath wealth to his family
+permits
+he had time to bequeath wealth to his family
+
+he had not failed to bequeath wealth to his family
+contradicts
+wealth was not bequeathed to his family by him
+
+he never failed to bequeath wealth to his family
+permits
+he had the foresight to bequeath wealth to his family
+
+he did not fail to bequeath wealth to his family
+contradicts
+he didn't keep a promise to bequeath wealth to his family
+
+these state parties had not failed to comply with the request of the icc
+contradicts
+the request of the icc was not complied with by these state parties
+
+these state parties never failed to comply with the request of the icc
+entails
+the request of the icc was complied with by these state parties
+
+these state parties did not fail to comply with the request of the icc
+permits
+these state parties hesitated to comply with the request of the icc
+
+these state parties did not fail to comply with the request of the icc
+permits
+these state parties had not knowingly complied with the request of the icc
+
+these state parties never failed to comply with the request of the icc
+permits
+these state parties did not lose an opportunity to comply with the request of the icc
+
+these state parties never failed to comply with the request of the icc
+permits
+the man hit the ball with the bat and the crowd went wild
+
+the protestors did not fail to pay the bail
+contradicts
+the protestors did not pay the bail
+
+the protestors did not fail to pay the bail
+permits
+the bail was quickly payed by the protestors
+
+the protestors never failed to pay the bail
+permits
+the protestors took a vow to pay the bail
+
+the protestors never failed to pay the bail
+permits
+the bail was not slowly payed by the protestors
+
+the protestors did not fail to pay the bail
+permits
+the protestors managed to pay the bail
+
+they definitely did not fail to pay the bail
+contradicts
+they failed to pay the bail
+
+they definitely had not failed to pay the bail
+permits
+they met their duty to pay the bail
+
+they definitely had not failed to pay the bail
+permits
+they made a promise to pay the bail
+
+they definitely had not failed to pay the bail
+permits
+the bail was definitely not payed by them
+
+they definitely never failed to pay the bail
+permits
+they met an obligation to pay the bail

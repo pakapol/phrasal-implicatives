@@ -1,3 +1,778 @@
+he neglected to tell his employer that would be taking the day off
+entails
+he had not quietly told his employer that would be taking the day off
+
+he neglected to tell his employer that would be taking the day off
+entails
+he did not helpfully tell his employer that would be taking the day off
+
+he neglected to tell his employer that would be taking the day off
+contradicts
+he happily told his employer that would be taking the day off
+
+he neglected to tell his employer that would be taking the day off
+contradicts
+his employer was soon told by him that he would be taking the day off
+
+he neglected to tell his employer that would be taking the day off
+permits
+he lost the opportunity to tell his employer that would be taking the day off
+
+he neglected to tell his employer that would be taking the day off
+permits
+he lacked the foresight to tell his employer that would be taking the day offo
+
+I neglected to file my taxes my first 4 years after moving out of my parents house
+entails
+I had not filed my taxes my first 4 years after moving out of my parents house
+
+I neglected to file my taxes my first 4 years after moving out of my parents house
+entails
+I had not slyly filed my taxes my first 4 years after moving out of my parents house
+
+I neglected to file my taxes my first 4 years after moving out of my parents house
+entails
+I did not angrily file my taxes my first 4 years after moving out of my parents house
+
+I neglected to file my taxes my first 4 years after moving out of my parents house
+contradicts
+I did file my taxes my first 4 years after moving out of my parents house
+
+I neglected to file my taxes my first 4 years after moving out of my parents house
+contradicts
+I managed to file my taxes my first 4 years after moving out of my parents house
+
+I neglected to file my taxes my first 4 years after moving out of my parents house
+permits
+I made a vow to file my taxes my first 4 years after moving out of my parents house
+
+I neglected to file my taxes my first 4 years after moving out of my parents house
+permits
+I did not made a vow to file my taxes my first 4 years after moving out of my parents house
+
+they neglected to thank you for the gift
+entails
+you were not thanked by them for the gift
+
+they neglected to thank you for the gift
+entails
+you were not happily thanked by them for the gift
+
+they neglected to thank you for the gift
+contradicts
+you were thanked by them for the gift
+
+they neglected to thank you for the gift
+contradicts
+they met a duty to thank you for the gift
+
+they neglected to thank you for the gift
+permits
+they lacked the foresight to thank you for the gift
+
+they neglected to thank you for the gift
+permits
+they lost the opportunity tot hank you for the gift
+
+I neglected to mention that this report was from november 2 1922
+entails
+I did not mention that this report was from november 2 1922
+
+I neglected to mention that this report was from november 2 1922
+entails
+I had not usefully mentioned that this report was from november 2 1922
+
+I neglected to mention that this report was from november 2 1922
+contradicts
+I met the obligation to mention that this report was from november 2 1922
+
+I neglected to mention that this report was from november 2 1922
+contradicts
+I did not miss the chance to immediately mention that this report was from november 1922
+
+I neglected to mention that this report was from november 2 1922
+permits
+the wall in front of me is a blank slate 
+
+I neglected to mention that this report was from november 2 1922
+entails
+I did not expectedly mention that this report was from november 2 1922
+
+the developers neglected to include a function to load child theme styles
+entails
+a function to load child theme styles was not included by the developers
+
+the developers neglected to include a function to load child theme styles
+entails
+the developers had not included a function to load child theme styles
+
+the developers neglected to include a function to load child theme styles
+contradicts
+a function to load child theme styles was never included by the developers
+
+the developers neglected to include a function to load child theme styles
+contradicts
+the developers obeyed an order to include a function to load child theme styles
+
+the developers neglected to include a function to load child theme styles
+permits
+the developers did not have the gall to include a function to load child theme styles
+
+the developers neglected to include a function to load child theme styles
+permits
+the developers did not have the impudence to include a function to load child theme styles
+
+he neglected to tell me the date of the meeting
+entails
+the date of the meeting was not told to me by him
+
+he neglected to tell me the date of the meeting
+entails
+he had not told me the date of the meeting
+
+he neglected to tell me the date of the meeting
+contradicts
+the date of the meeting was usefully told to me by him
+
+he neglected to tell me the date of the meeting
+contradicts
+he had the chutzpah to tell me the date of the meeting
+
+he neglected to tell me the date of the meeting
+permits
+he did not have the means to tell me the date of the meeting
+
+he neglected to tell me the date of the meeting
+permits
+he did not have the strength to tell me the date of the meeting
+
+SCCC board neglected to serve the public
+entails
+the public was not served by the SCCC board
+
+SCCC board neglected to serve the public
+entails
+SCCC board did not serve the public
+
+SCCC board neglected to serve the public
+contradicts
+SCCC board had the wherewithal to serve the public
+
+SCCC board neglected to serve the public
+contradicts
+SCCC board did not miss an opportunity to serve the public
+
+SCCC board neglected to serve the public
+permits
+SCCC board took a vow to serve the public
+
+SCCC board neglected to serve the public
+permits
+SCCC baord did not remember to serve the public
+
+michigan prison workers neglected to record prisoner transfers
+entails
+prisoner transfers were not recorded by michigan prison workers
+
+michigan prison workers neglected to record prisoner transfers
+entails
+michigan prison workers did not record prisoner transfers
+
+michigan prison workers neglected to record prisoner transfers
+contradicts
+michigan prison workers met their promise to quickly record prisoner transfers
+
+michigan prison workers neglected to record prisoner transfers
+contradicts
+michigan prison workers did not miss their opportunity to record prisoner transfers
+
+michigan prison workers neglected to record prisoner transfers
+permits
+michigan prison workers did not obey an order to record prisoner transfers
+
+michigan prison workers neglected to record prisoner transfers
+entails
+michigan prison workers did not responsibly record prisoner transfers
+
+blueberry farm neglected to report worker injury
+entails
+blueberry farm did not report worker injury
+
+blueberry farm neglected to report worker injury
+entails
+worker injury was not reported by blueberry farms
+
+blueberry farm neglected to report worker injury
+contradicts
+worker injury is always reported by blueberry farms
+
+blueberry farm neglected to report worker injury
+contradicts
+blueberry farm was able to report worker injury
+
+blueberry farm neglected to report worker injury
+permits
+blueberry farm wasted money to report worker injury
+
+blueberry farm neglected to report worker injury
+permits
+blueberry farm did not waste time to report worker injury
+
+bugatti neglected to inform regulators of supercar problems
+entails
+bugatti did not inform regulators of supercar problems
+
+bugatti neglected to inform regulators of supercar problems
+entails
+regulators was not informed of super car problems by bugatti
+
+bugatti neglected to inform regulators of supercar problems
+contradicts
+regulators were informed of super car problems by bugatti
+
+bugatti neglected to inform regulators of supercar problems
+contradicts
+bugatti wasted no time to inform regulators of supercar problems
+
+bugatti neglected to inform regulators of supercar problems
+permits
+bugatti took a vow to inform regulators of supercar problems
+
+bugatti neglected to inform regulators of supercar problems
+permits
+bugatti neglected to inform regulators of supercar problems
+
+sullivan judge neglected to reveal family ties in a court case
+entails
+sullivan judge had not revealed family ties in a court case
+
+sullivan judge neglected to reveal family ties in a court case
+entails
+family ties in a court case were not revealed by sullivan judge
+
+sullivan judge neglected to reveal family ties in a court case
+contradicts
+family ties in a court case were cleverly revealed by sullivan judge
+
+sullivan judge neglected to reveal family ties in a court case
+contradicts
+sullivan judge did not waste a chance to reveal family ties in a court case
+
+sullivan judge neglected to reveal family ties in a court case
+permits
+sullivan judge wasted an opportunity to reveal family ties in a court case
+
+sullivan judge neglected to reveal family ties in a court case
+permits
+sullivan judge was able to reveal family ties in a court case
+
+the defendants neglected to follow the provisions of florida statute 39.502
+entails
+the defendants did not follow the provisions of floride statute 39.502
+
+the defendants neglected to follow the provisions of florida statute 39.502
+entails
+the provisions of florida statute 39.502 were not followed by the defendants
+
+the defendants neglected to follow the provisions of florida statute 39.502
+contradicts
+the defendants were able to follow the provisions of florida statute 39.502
+
+the defendants neglected to follow the provisions of florida statute 39.502
+contradicts
+the defendants bothered to follow the provisions of florida statute 39.502
+
+the defendants neglected to follow the provisions of florida statute 39.502
+permits
+the defendants did not dare to follow the provisions of florida statute 39.502
+
+the defendants neglected to follow the provisions of florida statute 39.502
+permits
+this sentence was chosen arbitrarily
+
+clinton foundation neglected to report $26 million in speaking fees
+entails
+clinton foundation did not report $26 million in speaking fees
+
+clinton foundation neglected to report $26 million in speaking fees
+entails
+26$ million in speaking fees were not reported by the clinton foundation
+
+clinton foundation neglected to report $26 million in speaking fees
+contradicts
+clinton foundation always reported speaking fees
+
+clinton foundation neglected to report $26 million in speaking fees
+contradicts
+clinton foundation dared to report $26 million in speaking fees
+
+clinton foundation neglected to report $26 million in speaking fees
+permits
+clinton foundation broke a promise to report $26 million in speaking fees
+
+clinton foundation neglected to report $26 million in speaking fees
+permits
+clinton foundation failed an obligation to report $26 million in speaking fees
+
+chief keef neglected to get his young daughter signed up for healthcare this year
+entails
+chief keef did not get his young daughter signed up for healthcare this year
+
+chief keef neglected to get his young daughter signed up for healthcare this year
+entails
+chief keef had not correctly gotten his young daughter signed up for healthcare this year
+
+chief keef neglected to get his young daughter signed up for healthcare this year
+contradicts
+chief keef followed an order to get his young daughter signed up for healthcare this year
+
+chief keef neglected to get his young daughter signed up for healthcare this year
+contradicts
+chief keef did not forget to get his young daughter signed up for healthcare this year
+
+chief keef neglected to get his young daughter signed up for healthcare this year
+permits
+chief keef had the chance to get his young daughter signed up for healthcare this year
+
+chief keef neglected to get his young daughter signed up for healthcare this year
+permits
+chief keef did not have the chance to get his young daughter signed up for healthcare this year
+
+my tenant neglected to tell me that the sink leaked
+entails
+my tenant did not tell me that the sink leaked
+
+my tenant neglected to tell me that the sink leaked
+entails
+I was not told by my tenant that the sink leaked 
+
+my tenant neglected to tell me that the sink leaked
+contradicts
+my tenant happened to tell me that the sink leaked
+
+my tenant neglected to tell me that the sink leaked
+contradicts
+my tenant very happily told me that the sink leaked
+
+my tenant neglected to tell me that the sink leaked
+permits
+my tenant did not have the chance to tell me that the sink leaked
+
+my tenant neglected to tell me that the sink leaked
+permits
+my tenant did not have the courage to tell me that the sink leaked
+
+gov. haley neglected to appoint nearly 600 positions on state boards and commissions
+entails
+gov. haley had not appointed nearly 600 positions on state boards and commissions
+
+gov. haley neglected to appoint nearly 600 positions on state boards and commissions
+entails
+nearly 600 positions on state boards and commissions were not appointed by gov. haley
+
+gov. haley neglected to appoint nearly 600 positions on state boards and commissions
+contradicts
+gov. haley had quickly appointed nearly 600 positions on state boards and commissions
+
+gov. haley neglected to appoint nearly 600 positions on state boards and commissions
+contradicts
+gov. haley did horribly appoint nearly 600 positions on state boards and commissions
+
+gov. haley neglected to appoint nearly 600 positions on state boards and commissions
+permits
+tennis is a sport with a green ball and a racket
+
+gov. haley neglected to appoint nearly 600 positions on state boards and commissions
+permits
+gov. haley did not have the foresight to appoint nearly 600 positions on state boards and commissions
+
+padraig amond neglected to negotiate a new deal with former club grimsby town
+entails
+padraig amond had not negotiated a new deal with former club grimsby town
+
+padraig amond neglected to negotiate a new deal with former club grimsby town
+entails
+a new deal with former club grimsby town was not negotiated by padraig amond
+
+padraig amond neglected to negotiate a new deal with former club grimsby town
+contradicts
+a new deal with former club grimsby town was negotiated by padraig amond
+
+padraig amond neglected to negotiate a new deal with former club grimsby town
+contradicts
+padraig amond had the time to negotiate a new deal with former club grimsby town
+
+padraig amond neglected to negotiate a new deal with former club grimsby town
+permits
+padraig amond hesitated to negotiate a new deal with former clubgrimsby
+
+padraig amond neglected to negotiate a new deal with former club grimsby town
+permits
+padraig amond did not keep his promise to negotiate a new deal with former club grimsby town
+
+fox news neglected to point out ronald reagan did the same thing donald trump did
+entails
+fox news had not slyly pointed out ronald reagan did the same thing donald trump did
+
+fox news neglected to point out ronald reagan did the same thing donald trump did
+entails
+the thing that donald trump did was done by ronald reagan
+
+fox news neglected to point out ronald reagan did the same thing donald trump did
+contradicts
+fox news confidently pointed out ronald reagan did the same thing donald trump did
+
+fox news neglected to point out ronald reagan did the same thing donald trump did
+contradicts
+fox news did not hesitate to point out ronald reagan did the same thing donald trump did
+
+fox news neglected to point out ronald reagan did the same thing donald trump did
+permits
+fox news did not keep a promise to point out ronald reagan did the same thing donald trump did
+
+fox news neglected to point out ronald reagan did the same thing donald trump did
+permits
+fox news lost an opportunity to point out ronald reagan did the same thing donald trump did
+
+you neglected to take care of the requirements of form 123
+entails
+you did not responsibly take care of the requirements of form 123
+
+you neglected to take care of the requirements of form 123
+entails
+you had not crazily taken care of the requirements of form 123
+
+you neglected to take care of the requirements of form 123
+contradicts
+you managed to take care of the requirements of form 123
+
+you neglected to take care of the requirements of form 123
+contradicts
+you sadly took care of the requirements of form 123
+
+you neglected to take care of the requirements of form 123
+permits
+you took a vow to take care of the requirements of form 123
+
+you neglected to take care of the requirements of form 123
+permits
+you did not make a vow to take care of the requirements of form 123
+
+he neglected to have her breakfast ready when she woke
+entails
+he did not obediently have her breakfast ready when she woke
+
+he neglected to have her breakfast ready when she woke
+entails
+he did not slowly have her breakfast ready when she woke
+
+he neglected to have her breakfast ready when she woke
+contradicts
+he efficiently had her breakfast ready when she woke
+
+he neglected to have her breakfast ready when she woke
+contradicts
+he met an obligation to have her breakfast ready when she woke
+
+he neglected to have her breakfast ready when she woke
+permits
+he did not meet a promise to have her breakfast ready when she woke
+
+he neglected to have her breakfast ready when she woke
+permits
+he lacked the foresight to have her breakfast ready when she woke
+
+housekeeping neglected to clean our room on the first day
+entails
+housekeeping did not clean our room on the first day
+
+housekeeping neglected to clean our room on the first day
+entails
+housekeeping had not cheerily cleaned our room on the first day
+
+housekeeping neglected to clean our room on the first day
+contradicts
+housekeeping remembered to clean our room on the first day
+
+housekeeping neglected to clean our room on the first day
+contradicts
+housekeeping took no time to clean our room on the first day
+
+housekeeping neglected to clean our room on the first day
+permits
+housekeeping did not take the time to clean our room on the first day
+
+housekeeping neglected to clean our room on the first day
+permits
+housekeeping did not take a vow to clean our room on the first day
+
+the seller of my house neglected to fix the central air as promised
+entails
+the seller of my house had not fixed the central air
+
+the seller of my house neglected to fix the central air as promised
+entails
+the central air was not fixed by the seller of my house
+
+the seller of my house neglected to fix the central air as promised
+contradicts
+the central air was properly fixed by the seller of my house
+
+the seller of my house neglected to fix the central air as promised
+contradicts
+the seller of my house had the means to fix the central air as promised
+
+the seller of my house neglected to fix the central air as promised
+permits
+the seller of my house was a 20 foot tall vampire
+
+the seller of my house neglected to fix the central air as promised
+permits
+the seller of my house wasted a chance to fix the central air as promised
+
+the seller of my house neglected to fix the central air as promised
+permits
+the seller of my house did not waste money to fix the central air
+
+I neglected to obtain IRB approval prior to implementing a protocol waiver
+entails
+I did not smartly obtain IRB approval prior to implementing a protocol waiver
+
+I neglected to obtain IRB approval prior to implementing a protocol waiver
+entails
+IRB approval was not obtained by me prior to implementing a protocol waiver
+
+I neglected to obtain IRB approval prior to implementing a protocol waiver
+contradicts
+IRB approval was obtained by me prior to implementing a protocol waiver
+
+I neglected to obtain IRB approval prior to implementing a protocol waiver
+contradicts
+I had the gall to obtain IRB approval prior to implementing a protocol waiver
+
+I neglected to obtain IRB approval prior to implementing a protocol waiver
+permits
+I did not have the wherewithal to obtain irb approval prior to implementing a protocol waiver
+
+I neglected to obtain IRB approval prior to implementing a protocol waiver
+permits
+I did not have the chutzpah to obtain irb approval prior to implementing a protocol waiver
+
+my boyfriend neglected to tell me he has herpes
+entails
+I was not told by my boyfriend that he has herpes
+
+my boyfriend neglected to tell me he has herpes
+entails
+my boyfriend did not tell me he has herpes
+
+my boyfriend neglected to tell me he has herpes
+contradicts
+my boyfriend did tell me he has herpes
+
+my boyfriend neglected to tell me he has herpes
+contradicts
+my boyfriend had the strength to tell me he has herpes
+
+my boyfriend neglected to tell me he has herpes
+permits
+my boyfriend did not have the impudence to tell me he has herpes
+
+my boyfriend neglected to tell me he has herpes
+permits
+my boyfriend did not have the gall to tell me he has herpes
+
+we neglected to consider the origin of the charge distributions
+entails
+the origin of the charge distributions were not considered by us
+
+we neglected to consider the origin of the charge distributions
+entails
+we did not happily consider the origin of the charge distributions
+
+we neglected to consider the origin of the charge distributions
+contradicts
+the origin of the charge distributions were frankly considered by us
+
+we neglected to consider the origin of the charge distributions
+contradicts
+we wasted no time to consider the origin of the charge distributions
+
+we neglected to consider the origin of the charge distributions
+permits
+we wasted a chance to consider the origin of the charge distributions
+
+we neglected to consider the origin of the charge distributions
+permits
+we wasted an opportunity to consider the origin of the charge distributions
+
+we neglected to post this great photo earlier this week
+entails
+this great photo was not posted by us earlier this week
+
+we neglected to post this great photo earlier this week
+entails
+we had not confidently posted this great photo earlier this week
+
+we neglected to post this great photo earlier this week
+contradicts
+we had confidently posted this great photo earlier this week
+
+we neglected to post this great photo earlier this week
+contradicts
+we bothered to post this great photo earlier this week
+
+we neglected to post this great photo earlier this week
+permits
+we were not forced to post this great photo earlier this week
+
+we neglected to post this great photo earlier this week
+permits
+I love listening to music and I think it is quite engrossing
+
+she neglected to give us the park view room
+entails
+the park view room was not given to us by her
+
+she neglected to give us the park view room
+entails
+the park view room was not willingly given to us by her
+
+she neglected to give us the park view room
+contradicts
+she dared to give us the park view room
+
+she neglected to give us the park view room
+contradicts
+the park view room was happily given to us by her
+
+she neglected to give us the park view room
+permits
+she disobeyed orders to give us the park view room
+
+she neglected to give us the park view room
+permits
+she broke a promise to give us the park view room
+
+she neglected to mention she was married
+entails
+the fact that she was married was not mentioned by her
+
+she neglected to mention she was married
+entails
+she had not forwardly mentioned she was married
+
+she neglected to mention she was married
+contradicts
+she did not fail to mention she was married
+
+she neglected to mention she was married
+contradicts
+she happily mentioned the fact that she was married
+
+she neglected to mention she was married
+permits
+she forgot to mention she was married
+
+she neglected to mention she was married
+permits
+she got the chance to mention she was married
+
+they neglected to inform us that our flight was 90 mins delayed
+entails
+they had not informed us that our flight was 90 mins delayed
+
+they neglected to inform us that our flight was 90 mins delayed
+entails
+we were not informed by them that our flight was 90 mins delayed
+
+they neglected to inform us that our flight was 90 mins delayed
+contradicts
+they followed orders to inform us that our flight was 90 mins delayed
+
+they neglected to inform us that our flight was 90 mins delayed
+contradicts
+they did not fail an obligation to inform us that our flight was 90 mins delayed
+
+they neglected to inform us that our flight was 90 mins delayed
+permits
+they were all savages who preyed on raw flesh
+
+they neglected to inform us that our flight was 90 mins delayed
+permits
+they did not have the courage to inform us that our flight was 90 mins delayed
+
+they neglected to thank you for the gift
+entails
+they did not hurriedly thanked you for the gift
+
+they neglected to thank you for the gift
+entails
+you were not thanked by them for the gift
+
+they neglected to thank you for the gift
+contradicts
+they bashfully thanked you for the gift
+
+they neglected to thank you for the gift
+contradicts
+they had the foresight to thank you for the gift
+
+they neglected to thank you for the gift
+permits
+they did not have the foresight to thank you for your gift
+
+they neglected to thank you for the gift
+permits
+there once was a time when we didn't have gifts and we didn't give thanks
+
+we neglected to recognize the quality of scientific thought
+entails
+we did not recognize the quality of scientific thought
+
+we neglected to recognize the quality of scientific thought
+entails
+the quality of scientific thought was not recognized by us
+
+we neglected to recognize the quality of scientific thought
+contradicts
+the quality of scientific thought was idiotically recognized by us
+
+we neglected to recognize the quality of scientific thought
+contradicts
+we always recognize the quality of scientific thought
+
+we neglected to recognize the quality of scientific thought
+permits
+we had the time to recognize the quality of scientific thought
+
+we neglected to recognize the quality of scientific thought
+permits
+we did not have the time to recognize the quality of scientific thought
+
+the security team neglected to upgrade one of our network servers
+entails
+the security team did not upgrade one of our network servers
+
+the security team neglected to upgrade one of our network servers
+entails
+the security team had not upgraded one of our network servers
+
+the security team neglected to upgrade one of our network servers
+contradicts
+the security team kept a promise to upgrade one of our network servers
+
+the security team neglected to upgrade one of our network servers
+contradicts
+the security team did not lose an opportunity to upgrade one of our network servers
+
+the security team neglected to upgrade one of our network servers
+permits
+the security team is a bunch of big old dummies
+
+the security team neglected to upgrade one of our network servers
+permits
+the security team did not make a promise to upgrade one of our network servers
 he had not neglected to tell his employer that would be taking the day off
 contradicts
 he had not quietly told his employer that would be taking the day off
