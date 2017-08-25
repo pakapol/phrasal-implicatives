@@ -1,9 +1,8 @@
 import os
-for f in os.listdir(os.getcwd()):
-    print(f)
-    if f[-8:] == "data.txt":
+for q in os.listdir(os.getcwd()):
+    if q[-8:] == "data.txt":
         write = []
-        with open(f, "r") as f:
+        with open(q, "r") as f:
             new = []
             lines = f.readlines()
             for i, line in enumerate(lines):
