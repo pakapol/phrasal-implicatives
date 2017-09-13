@@ -11,13 +11,6 @@ import numpy as np
 
 flags = tf.flags
 logging = tf.logging
-#Check point paths are odd. You should have some folder where you saved your model. It should have 5 files in it of the form:
-#checkpoint
-#log
-#xxx.data
-#xxx.index
-#xxx.meta
-#The check point path you should provide as an argument is path/to/folder/xxx
 
 
 flags.DEFINE_string("checkpoint_path", None, "checkpoint_path")
