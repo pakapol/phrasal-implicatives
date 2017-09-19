@@ -178,6 +178,187 @@ kamala harris never hesitated to confront big oil over gas price gouging
 contradicts
 kamala harris had not confronted big oil over gas price gouging
 
-entails
+kamala harris never hesitated to confront big oil over gas price gouging
+permits
+kamala harris got the chance to confront big oil over gas price gouging
 
+I hesitated to intrude upon your work
+permits
+I did not get the chance to intrude upon your work
+
+I hesitated to intrude upon your work
+permits
+clocks are by favorite objects
+
+I hesitated to intrude upon your work
+permits
+I happened to intrude upon your work
+
+I did not hesitate to intrude upon your work
+entails
+I intruded upon your work
+
+I did not hesitate to intrude upon your work
+contradicts
+I did not have the chance to intrude upon your work
+
+I did not hesitate to intrude upon your work
+permits
+I had the chance to intrude upon your work
+
+I hesitated to take my husband's last name after marriage
+permits
+my husband's last name was joyously take by me after marriage
+
+I hesitated to take my husband's last name after marriage
+permits
+I had the courage to take my husband's last name after marriage
+
+I hesitated to take my husband's last name after marriage
+permits
+I did not have the courage to take my husband's last name after marriage
+
+the king and queen hesitated to attempt the proposed expulsion
+permits
+the king and queen attempted the proposed expulsion
+
+the king and queen hesitated to attempt the proposed expulsion
+permits
+the king and queen did not have the foresight to attempt the proposed expulsion
+
+the king and queen hesitated to attempt the proposed expulsion
+permits
+the king and queen merrily attempted the proposed expulsion
+
+the king and queen had not hesitated to attempt the proposed expulsion
+entails
+the proposed expulsion was attempted by the king and queen
+
+the king and queen never hesitated to attempt the proposed expulsion
+contradicts
+the king and queen did not have the time to attempt the proposed expulsion
+
+the king and queen did not hesitate to attempt the proposed expulsion
+permits
+the proposed expulsion was not happily attempted by the king and queen
+
+he hesitated to give a firm order
+permits
+a firm order was never given by him
+
+he hesitated to give a firm order
+permits
+he lacked the foresight to give a firm order
+
+he hesitated to give a firm order
+permits
+he lost the opportunity to give a firm order
+
+he did not hesitate to give a firm order
+entails
+he did give a firm order
+
+he had not hesitated to give a firm order
+contradicts
+he did not have the foresight to give a firm order
+
+he had not hesitated to give a firm order
+permits
+he took a vow to give a firm order
+
+they hesitated to grant whatever I might ask
+permits
+they always granted whatever I might ask
+
+they hesitated to grant whatever I might ask
+permits
+they took a vow to grant whatever I might ask
+
+they hesitated to grant whatever I might ask
+permits
+they had granted whatever I might ask
+
+they never hesitated to grant whatever I might ask
+entails
+they granted whatever I might ask
+
+they never hesitated to grant whatever I might ask
+contradicts
+they had not granted whatever I might ask
+
+they never hesitated to grant whatever I might ask
+permits
+they did not waste a chance to grant whatever I might ask
+
+he hesitated to commit to a pure christian life
+permits
+he did not happily commit to a pure christian life
+
+he hesitated to commit to a pure christian life
+permits
+he did happily commit to a pure christian life
+
+he hesitated to commit to a pure christian life
+permits
+the boy ran to his school and was eaten by a bear
+
+he did not hesitate to commit to a pure christian life
+entails
+a pure christian life was committed to by him
+
+he did not hesitated to commit to a pure christian life
+contradicts
+he did not waste time to commit to a pure christian life
+
+he did not hesitated to commit to a pure christian life
+permits
+he took a vow to commit to a pure christian life
+
+she hesitated to bring her royal cousin to trial
+permits
+she wasted an opportunity to bring her royal cousin to trial
+
+she hesitated to bring her royal cousin to trial
+permits
+she did not waste any time to bring her royal cousin to trial
+
+she hesitated to bring her royal cousin to trial
+permits
+she took time to bring her royal cousin to trial
+
+she had not hesitated to bring her royal cousin to trial
+entails
+she had brought her royal cousin to trial
+
+she had not hesitated to bring her royal cousin to trial
+contradicts
+her royal cousin was not brought to trial by her
+
+she had not hesitated to bring her royal cousin to trial
+permits
+the cat and the dog sit on the carpet
+
+the palestinian authority hesitated to honor israeli arab terrorist
+permits
+israeli arab terrorists were confidently honored by the palestinian authority
+
+the palestinian authority hesitated to honor israeli arab terrorist
+permits
+israeli arab terrorists were never happily honored by the palestinian authority
+
+the palestinian authority hesitated to honor israeli arab terrorist
+permits
+the palestinian authority was not cool at all
+
+the palestinian authority never hesitated to honor israeli arab terrorist
+entails
+israeli arab terrorists were honored by the palestinian authority
+
+the palestinian authority never hesitated to honor israeli arab terrorist
+contradicts
+israeli arab terrorists were not honored by the palestinian authority
+
+the palestinian authority never hesitated to honor israeli arab terrorist
+permits
+israeli arab terrorists were quickly honored by the palestinian authority
 
