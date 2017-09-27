@@ -1,0 +1,496 @@
+Dean took the opportunity to knock on Martha's door and step inside
+entails
+dean knocked on Martha's door and stepped inside
+
+Dean took the opportunity to knock on Martha's door and step inside
+contradicts
+dean had not knocked on Martha's door and stepped inside
+
+Dean took the opportunity to knock on Martha's door and step inside
+permits
+dean quietly knocked on Martha's door and stepped inside
+
+dean did not take the opportunity to knock on Martha's door and step inside
+entails
+dean did not cheerily knock on Martha's door and step inside
+
+dean did not take the opportunity to knock on Martha's door and step inside
+contradicts
+dean had happily knocked on Martha's door and stepped inside
+
+dean did not take the opportunity to knock on Martha's door and step inside
+permits
+dead was able to knock on martha's door and step inside
+
+I took my opportunity to visit the museum
+entails
+I visited the museum
+
+I took my opportunity to visit the museum
+contradicts
+the museum was not visited by me
+
+I took my opportunity to visit the museum
+permits
+the museum was happily visited by me
+
+I had not taken my opportunity to visit the museum
+entails
+the museum was not visited by me
+
+I had not taken my opportunity to visit the museum
+contradicts
+I was forced to visit the museum
+
+I had not taken my opportunity to visit the museum
+permits
+I was not prevented to visit the museum
+
+I took the opportunity to debunk a few liberal lies
+entails
+a few liberal lies were debunked by me
+
+I took the opportunity to debunk a few liberal lies
+contradicts
+I did not bother to debunk a few liberal lies
+
+I took the opportunity to debunk a few liberal lies
+permits
+I regretfully debunked a few liberal lies
+
+I never took the opportunity to debunk a few liberal lies
+entails
+a few liberal lies were never debunked by me
+
+I never took the opportunity to debunk a few liberal lies
+contradicts
+I dared to debunk a few liberal lies
+
+I never took the opportunity to debunk a few liberal lies
+permits
+I broke a promise to debunk a few liberal lies
+
+the monks took the opportunity to take photographs
+entails
+the monks took photographs
+
+the monks took the opportunity to take photographs
+contradicts
+the monks broke a promise to take photographs
+
+the monks took the opportunity to take photographs
+permits
+the dragon defended his treasure for centuries
+
+the monks did not take the opportunity to take photographs
+entails
+photographs were not taken by the monks
+
+the monks did not take the opportunity to take photographs
+contradicts
+the monks did not fail to take photographs
+
+the monks did not take the opportunity to take photographs
+permits
+the monks disobeyed an order to take photographs
+
+we took an opportunity to stay at this inn for a weekend family wedding
+entails
+we stayed at this inn for a weekend family wedding
+
+we took an opportunity to stay at this inn for a weekend family wedding
+contradicts
+we failed an obligation to stay at this inn for a weekend family wedding
+
+we took an opportunity to stay at this inn for a weekend family wedding
+permits
+we followed an order to stay at this inn for a weekend family wedding
+
+we had not taken an opportunity to stay at this inn for a weekend family wedding
+entails
+this inn was not immediately stayed at by us for a weekend family wedding
+
+we had not taken an opportunity to stay at this inn for a weekend family wedding
+contradicts
+we did not forget to stay at this inn for a weekend family wedding
+
+we had not taken an opportunity to stay at this inn for a weekend family wedding
+permits
+we did not fulfill a promise to stay at this inn for a weekend family wedding
+
+we took the opportunity to slaughter our own bird
+entails
+our own bird was slaughtered by us
+
+we took the opportunity to slaughter our own bird
+contradicts
+we did not get the chance to slaughter our own bird
+
+we took the opportunity to slaughter our own bird
+permits
+we exuberantly slaughtered our own bird
+
+we never took the opportunity to slaughter our own bird
+entails
+our own bird was not crazily slaughtered by us
+
+we took the opportunity to slaughter our own bird
+contradicts
+our own bird was happily slaughtered by us
+
+we took the opportunity to slaughter our own bird
+permits
+we did not happen to slaughter our own bird
+
+I took my opportunity to face my fear
+entails
+I did face my fear
+
+I took my opportunity to face my fear
+contradicts
+I did not face my fear
+
+I took my opportunity to face my fear
+permits
+I had the chance to face my fear
+
+I did not take my opportunity to face my fear
+entails
+I had not bravely faced by fear
+
+I did not take my opportunity to face my fear
+contradicts
+I had shamefully faced my fear
+
+I did not take my opportunity to face my fear
+permits
+I did not have the courage to face my fear
+
+Eddie vedder took an opportunity to speak his mind about a transgender bill
+entails
+Eddie vedder spoke his mind about a transgender bill
+
+Eddie vedder took an opportunity to speak his mind about a transgender bill
+contradicts
+Eddie vedder did not have the foresight to speak his mind about a transgender bill
+
+Eddie vedder took an opportunity to speak his mind about a transgender bill
+permits
+Eddie vedder had the time to speak his mind about a transgender bill
+
+Eddie vedder had not taken an opportunity to speak his mind about a transgender bill
+entails
+eddie vedder had not angrily spoken his mind about a transgender bill
+
+Eddie vedder had not taken an opportunity to speak his mind about a transgender bill
+contradicts
+eddie vedder did stupidly speak his mind about a transgender bill
+
+Eddie vedder had not taken an opportunity to speak his mind about a transgender bill
+permits
+the person next to me right now is very cute
+
+the Utah Supreme Court took the opportunity to explain the rules for admissibility of gruesome photographs
+entails
+the Utah Supreme Court did explain the rules for admissibility of gruesome photographs
+
+the Utah Supreme Court took the opportunity to explain the rules for admissibility of gruesome photographs
+entails
+the rules for admissibility of gruesome photographs were explained by the Utah supreme court
+
+the Utah Supreme Court took the opportunity to explain the rules for admissibility of gruesome photographs
+contradicts
+the Utah Supreme Court did not keep a promise to explain the rules for admissibility of gruesome photographs
+
+the Utah Supreme Court took the opportunity to explain the rules for admissibility of gruesome photographs
+contradicts
+the rules for admissibility of gruesome photographs were not explained by the Utah supreme court
+
+the Utah Supreme Court took the opportunity to explain the rules for admissibility of gruesome photographs
+permits
+the Utah supreme court happily explained the rules for admissibility of gruesome photographs
+
+we had not taken the opportunity to visit this restaurant to celebrate my sister's birthday
+entails
+we did not quickly visit this restaurant to celebrate my sister's birthday
+
+we had not taken the opportunity to visit this restaurant to celebrate my sister's birthday
+entails
+this restaurant was not sadly visited by us to celebrate my sister's birthday
+
+we had not taken the opportunity to visit this restaurant to celebrate my sister's birthday
+contradicts
+we did not lack the foresight to visit this restaurant to celebrate my sister's birthday
+
+we had not taken the opportunity to visit this restaurant to celebrate my sister's birthday
+contradicts
+we did not lose the opportunity to visit this restaurant to celebrate my sister's birthday
+
+we had not taken the opportunity to visit this restaurant to celebrate my sister's birthday
+permits
+we made a promise to visit this restaurant to celebrate my sister's birthday
+
+we had not taken the opportunity to visit this restaurant to celebrate my sister's birthday
+permits
+we did not take a vow to visit this restaurant to celebrate my sister's birthday
+
+I took my opportunity to face my fear
+entails
+my fear was face by me
+
+I took my opportunity to face my fear
+entails
+I did face my fear
+
+I took my opportunity to face my fear
+contradicts
+I did not manage to face my fear
+
+I took my opportunity to face my fear
+contradicts
+my fear was never faced by me
+
+I took my opportunity to face my fear
+permits
+my fear was bravely face by me
+
+I took my opportunity to face my fear
+permits
+my fear was not bravely face by me
+
+Ciroc never took the opportunity to place its logo everywhere
+entails
+Ciroc did not place its logo everywhere
+
+Ciroc never took the opportunity to place its logo everywhere
+entails
+Ciroc had not placed its logo everywhere
+
+Ciroc never took the opportunity to place its logo everywhere
+contradicts
+Ciroc met a duty to place its logo everywhere
+
+Ciroc never took the opportunity to place its logo everywhere
+contradicts
+Ciroc met an obligation to place its logo everywhere
+
+Ciroc never took the opportunity to place its logo everywhere
+permits
+Ciroc made a promise to place its logo everywhere
+
+Ciroc never took the opportunity to place its logo everywhere
+permits
+Ciroc neglected to place its logo everywhere
+
+Paras took the opportunity to get a little up close and personal
+entails
+Paras got a little up close and personal
+
+Paras took the opportunity to get a little up close and personal
+entails
+Paras did get a little up close and personal
+
+Paras took the opportunity to get a little up close and personal
+contradicts
+Paras did not get a little up close and personal
+
+Paras took the opportunity to get a little up close and personal
+contradicts
+Paras did not remember to get a little up close and personal
+
+Paras took the opportunity to get a little up close and personal
+permits
+Paras angrily got a little up close and personal
+
+Paras took the opportunity to get a little up close and personal
+permits
+Paras did not immediately get a little up close and personal
+
+the chancellor did not take the opportunity to exchange views with relief organizations
+entails
+the chancellor did not stupidly exchange views with relief organizations
+
+the chancellor did not take the opportunity to exchange views with relief organizations
+entails
+views were not exchanged with the relief organizations by the chancellor
+
+the chancellor did not take the opportunity to exchange views with relief organizations
+contradicts
+the chancellor pleasently exchanged views with relief organizations
+
+the chancellor did not take the opportunity to exchange views with relief organizations
+contradicts
+the chancellor obeyed and order to exchange views with relief organizations
+
+the chancellor did not take the opportunity to exchange views with relief organizations
+permits
+the chancellor missed a chance to take the opportunity to exchange views with relief organizations
+
+brad took the opportunity to head down the end of the stage and sang to the rest of the crowd
+entails
+brad headed down the end of the stage and sang to the rest of the crowd
+
+brad took the opportunity to head down the end of the stage and sang to the rest of the crowd
+entails
+brad did head down the end of the stage and sang to the rest of the crowd
+
+brad took the opportunity to head down the end of the stage and sang to the rest of the crowd
+contradicts
+brad did not take the chance to head down the end of the stage and sang to the rest of the crowd
+
+brad took the opportunity to head down the end of the stage and sang to the rest of the crowd
+contradicts
+brad wasted a chance to head down the end of the stage and sang to the rest of the crowd
+
+brad took the opportunity to head down the end of the stage and sang to the rest of the crowd
+permits
+the room was quiet except for the sound of mice eating in the corner
+
+brad took the opportunity to head down the end of the stage and sang to the rest of the crowd
+permits
+brad did not happily head down the end of the stage and sang to the rest of the crowd
+
+tourists had not taken the opportunity to cool off in the national world war II memorial's pond
+entails
+tourists did not cool off in the national world war II memorial's pond
+
+tourists had not taken the opportunity to cool off in the national world war II memorial's pond
+entails
+national world war II memorial's pond was not cooled off in by the tourists
+
+tourists had not taken the opportunity to cool off in the national world war II memorial's pond
+contradicts
+tourists playfully cooled off in the national world war II memorial's pond
+
+tourists had not taken the opportunity to cool off in the national world war II memorial's pond
+contradicts
+tourists took the time to cool off in the national world war II memorial's pond
+
+tourists had not taken the opportunity to cool off in the national world war II memorial's pond
+permits
+tourists did not waste money to cool off in the national world war II memorial's pond
+
+tourists had not taken the opportunity to cool off in the national world war II memorial's pond
+permits
+tourists are not very good people
+
+air canada took the opportunity to close the file aveos
+entails
+the file aveos was closed by air canada
+
+air canada took the opportunity to close the file aveos
+entails
+air canada closed the file aveos
+
+air canada took the opportunity to close the file aveos
+contradicts
+air canada had not closed the file aveos
+
+air canada took the opportunity to close the file aveos
+contradicts
+air canada wasted the opportunity to close the file aveos
+
+air canada took the opportunity to close the file aveos
+permits
+air canada took a vow to close the file aveos
+
+air canada took the opportunity to close the file aveos
+permits
+air canada did not waste any time to close the file aveos
+
+I took the opportunity to creep around her house and take pictures
+entails
+I crept around her house
+
+I took the opportunity to creep around her house and take pictures
+entails
+I took pictures
+
+I took the opportunity to creep around her house and take pictures
+contradicts
+I did not creep around her house
+
+I took the opportunity to creep around her house and take pictures
+contradicts
+pictures were not taken by me
+
+I took the opportunity to creep around her house and take pictures
+permits
+I was able to creep around her house and take pictures
+
+I took the opportunity to creep around her house and take pictures
+permits
+I was able to creep around her house and take pictures
+
+president erdogan never took the opportunity to blame the west for the failed coup
+entails
+president erdogan did not surprisingly blame the west for the failed coup
+
+president erdogan never took the opportunity to blame the west for the failed coup
+entails
+the west was not blamce by president erdogan for the failed coup
+
+president erdogan never took the opportunity to blame the west for the failed coup
+contradicts
+president erdogan happily blamed the west for the failed coup
+
+president erdogan never took the opportunity to blame the west for the failed coup
+contradicts
+president erdogan was forced to blame the west for the failed coup
+
+president erdogan never took the opportunity to blame the west for the failed coup
+permits
+president erdogan was prevented to blame the west for the failed coup
+
+president erdogan never took the opportunity to blame the west for the failed coup
+permits
+president erdogan did not bother to blame the west for the failed coup
+
+you took the opportunity to grab a short nap
+entails
+a short nap was grabbed by you
+
+you took the opportunity to grab a short nap
+entails
+you grabbed a short nap
+
+you took the opportunity to grab a short nap
+contradicts
+you broke a pledge to grab a short nap
+
+you took the opportunity to grab a short nap
+contradicts
+you did not dare to grab a short nap
+
+you took the opportunity to grab a short nap
+permits
+you did not fail to grab a short nap
+
+you took the opportunity to grab a short nap
+permits
+you did not disobey an order to grab a short nap
+
+he took the opportunity to teach the delegates how to say America in sign language
+entails
+he taught the delegates how to say America in sign language
+
+he took the opportunity to teach the delegates how to say America in sign language
+entails
+the delegates were taught by him how to say America in sign language
+
+he took the opportunity to teach the delegates how to say America in sign language
+contradicts
+the delegates were not taught by him how to say America in sign language
+
+he took the opportunity to teach the delegates how to say America in sign language
+contradicts
+he failed to teach the delegates how to say America in sign language
+
+he took the opportunity to teach the delegates how to say America in sign language
+permits
+he quickly taught the delegates how to say america in sign language
+
+he took the opportunity to teach the delegates how to say America in sign language
+permits
+he did not fail to teach the delegates how to say america in sign language
+
