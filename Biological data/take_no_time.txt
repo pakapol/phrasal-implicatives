@@ -1,0 +1,440 @@
+they took no time to get plates
+entails
+they did get plates
+
+they took no time to get plates
+contradicts
+they were not able to get plates
+
+they took no time to get plates
+permits
+they were not forced to get plates
+
+ginger and our three cats took no time to adjust to each other
+entails
+ginger and our three cats had adjusted to each other
+
+ginger and our three cats took no time to adjust to each other
+contradicts
+ginger and our three cats did not adjust to each other
+
+ginger and our three cats took no time to adjust to each other
+permits
+ginger and our three cats pleasantly adjust to each other
+
+Jeff Farmer our demonstrator took no time to figure out how to peel these mudbugs
+entails
+Jeff Farmer our demonstrator figuered out how to peel these mudbugs
+
+Jeff Farmer our demonstrator took no time to figure out how to peel these mudbugs
+contradicts
+Jeff Farmer our demonstrator was prevented to figure out how to peel these mudbugs
+
+Jeff Farmer our demonstrator took no time to figure out how to peel these mudbugs
+permits
+jeff farmer our demonstrator did not immediately figure out how to peel these mudbugs
+
+the front end executive took no time to fill all formalities
+entails
+all formalities were filled by the front end executive
+
+the front end executive took no time to fill all formalities
+contradicts
+all formalities were not filled by the front end exucutive
+
+the front end executive took no time to fill all formalities
+permits
+the front and executive had not relectantly filled all formalities
+
+mailmunch took no time to pay for itself
+entails
+mailmuch payed for itself
+
+mailmunch took no time to pay for itself
+contradicts
+mailmunch had not payed for itself
+
+mailmunch took no time to pay for itself
+permits
+mailmunch surprisingly did not pay for itself
+
+the cows took no time to adapt and make themselves at home
+entails
+the cows did adapt and make themselves at home
+
+the cows took no time to adapt and make themselves at home
+contradicts
+the cows did not bother to adapt and make themselves at home
+
+the cows took no time to adapt and make themselves at home
+permits
+the cows were almost as smart as the people on the farm
+
+grannis took no time to immerse herself in a variety of programs to find her calling
+entails
+grannis immersed herself in a variety of programs to find her calling
+
+grannis took no time to immerse herself in a variety of programs to find her calling
+contradicts
+grannis broke a pledge to immerse herself in a variety of programs to find her calling
+
+grannis took no time to immerse herself in a variety of programs to find her calling
+permits
+grannis dared to immerse herself in a variety of programs to find her calling
+
+huw jones took no time to consider whether he wanted to join up with the national team
+entails
+whether he wanted to join up with the national team was considered by huw jones
+
+huw jones took no time to consider whether he wanted to join up with the national team
+contradicts
+huw jones disobeyed an order to consider whether he wanted to join up with the national team
+
+huw jones took no time to consider whether he wanted to join up with the national team
+permits
+huw jones did not fail to consider whether he wanted to join up with the national team
+
+laker head coach byron scott took no time to take shots at the clippers
+entails
+shots at the clippers were taken by laker head coach byron scott
+
+laker head coach byron scott took no time to take shots at the clippers
+contradicts
+laker head coach byron scott failed an obligation to take shots at the clippers
+
+laker head coach byron scott took no time to take shots at the clippers
+permits
+laker head coach byron scott happened to take shots at the clippers
+
+yuvraj took no time to put the pressure on the bowler
+entails
+the pressure was put on the bowler by yuvraj
+
+yuvraj took no time to put the pressure on the bowler
+contradicts
+yuvraj did not get the chance to put the pressure on the bowler
+
+yuvraj took no time to put the pressure on the bowler
+permits
+yuvraj had a chance to put the pressure on the bowler
+
+donald trump took no time to respond to obama's speech
+entails
+donald trump responded to obama's speech
+
+donald trump took no time to respond to obama's speech
+contradicts
+donald trump did not have the courage to respond to obama's speech
+
+donald trump took no time to respond to obama's speech
+permits
+donald trump had the foresight to respond to obama's speech
+
+this little monkey took no time to be settled back at home with us
+entails
+this little monkey had been settled back at home with us
+
+this little monkey took no time to be settled back at home with us
+contradicts
+this little monkey did not have the time to be settled back at home with us
+
+this little monkey took no time to be settled back at home with us
+permits
+this little monkey hesitated to be settled back at home with us
+
+she took no time to bounce back to normal
+entails
+she bounced back to being normal
+
+she took no time to bounce back to normal
+contradicts
+she did not keep a promise to bounce back to normal
+
+she took no time to bounce back to normal
+permits
+she did not lack the foresight to bounce back to normal
+
+ronaldo took no time to lace up some sneakers
+entails
+some sneakers were laced up by ronaldo
+
+ronaldo took no time to lace up some sneakers
+contradicts
+ronaldo lost an opportunity to lace up some sneakers
+
+ronaldo took no time to lace up some sneakers
+permits
+ronaldo made a promise to lace up some sneakers
+
+the judges took no time to pack in the punches
+entails
+the judges had packed in the punches
+
+the judges took no time to pack in the punches
+contradicts
+the judges did not manage to pack in the punches
+
+the judges took no time to pack in the punches
+permits
+the judges met a duty to pack in the punches
+
+ann putnam sr. took no time to accuse rebecca
+entails
+ann putnam sr. did accuse rebecca
+
+ann putnam sr. took no time to accuse rebecca
+contradicts
+rebecca was not accused by ann putnam sr.
+
+ann putnam sr. took no time to accuse rebecca
+permits
+rebecca was not crazily accused by ann putnam sr.
+
+the new jersey governor took no time to slam rubio cruz and kasich
+entails
+the new jersey governor did slam rubio cruz and kasich
+
+the new jersey governor took no time to slam rubio cruz and kasich
+contradicts
+the new jersey governor did not meet a duty to slam rubio cruz and kasich
+
+the new jersey governor took no time to slam rubio cruz and kasich
+permits
+the new jersey governor met a promise to slam rubio cruz and kasich
+
+the video took no time to buffer
+entails
+the video did buffer
+
+the video took no time to buffer
+contradicts
+the video had not buffered
+
+the video took no time to buffer
+permits
+the video did not immediately buffer
+
+sussex took no time to hand him his debut
+entails
+sussex had handed him his debut
+
+sussex took no time to hand him his debut
+contradicts
+sussex neglected to hand him his debut
+
+sussex took no time to hand him his debut
+permits
+sussex obeyed an order to hand him his debut
+
+mapcentrix took no time to start using the system properly
+entails
+the system was used properly by mapcentrix
+
+mapcentrix took no time to start using the system properly
+contradicts
+the system was never used properly by map centrix
+
+mapcentrix took no time to start using the system properly
+permits
+mapcentrix remembered to start using the system properly
+
+Anderson took no time to respond to the posts
+entails
+anderson did respond to the posts
+
+Anderson took no time to respond to the posts
+contradicts
+anderson did not respond to the posts
+
+Anderson took no time to respond to the posts
+permits
+anderson had not happily responded to the posts
+
+they never took any time to get plates
+entailsthey did get plates
+
+they did not take any time to get plates
+contradictsthey were not able to get plates
+
+they never took any time to get plates
+permitsthey were not forced to get plates
+
+ginger and our three cats did not take any time to adjust to each other
+entailsginger and our three cats had adjusted to each other
+
+ginger and our three cats did not take any time to adjust to each other
+contradictsginger and our three cats did not adjust to each other
+
+ginger and our three cats did not take any time to adjust to each other
+permitsginger and our three cats pleasantly adjust to each other
+
+Jeff Farmer our demonstrator never took any time to figure out how to peel these mudbugs
+entailsJeff Farmer our demonstrator figuered out how to peel these mudbugs
+
+Jeff Farmer our demonstrator did not take any time to figure out how to peel these mudbugs
+contradictsJeff Farmer our demonstrator was prevented to figure out how to peel these mudbugs
+
+Jeff Farmer our demonstrator never took any time to figure out how to peel these mudbugs
+permitsjeff farmer our demonstrator did not immediately figure out how to peel these mudbugs
+
+the front end executive had not taken any time to fill all formalities
+entailsall formalities were filled by the front end executive
+
+the front end executive had not taken any time to fill all formalities
+contradictsall formalities were not filled by the front end exucutive
+
+the front end executive never took any time to fill all formalities
+permitsthe front and executive had not relectantly filled all formalities
+
+mailmunch had not taken any time to pay for itself
+entailsmailmuch payed for itself
+
+mailmunch had not taken any time to pay for itself
+contradictsmailmunch had not payed for itself
+
+mailmunch did not take any time to pay for itself
+permitsmailmunch surprisingly did not pay for itself
+
+the cows did not take any time to adapt and make themselves at home
+entailsthe cows did adapt and make themselves at home
+
+the cows did not take any time to adapt and make themselves at home
+contradictsthe cows did not bother to adapt and make themselves at home
+
+the cows did not take any time to adapt and make themselves at home
+permitsthe cows were almost as smart as the people on the farm
+
+grannis had not taken any time to immerse herself in a variety of programs to find her calling
+entailsgrannis immersed herself in a variety of programs to find her calling
+
+grannis never took any time to immerse herself in a variety of programs to find her calling
+contradictsgrannis broke a pledge to immerse herself in a variety of programs to find her calling
+
+grannis never took any time to immerse herself in a variety of programs to find her calling
+permitsgrannis dared to immerse herself in a variety of programs to find her calling
+
+huw jones never took any time to consider whether he wanted to join up with the national team
+entailswhether he wanted to join up with the national team was considered by huw jones
+
+huw jones had not taken any time to consider whether he wanted to join up with the national team
+contradictshuw jones disobeyed an order to consider whether he wanted to join up with the national team
+
+huw jones had not taken any time to consider whether he wanted to join up with the national team
+permitshuw jones did not fail to consider whether he wanted to join up with the national team
+
+laker head coach byron scott did not take any time to take shots at the clippers
+entailsshots at the clippers were taken by laker head coach byron scott
+
+laker head coach byron scott never took any time to take shots at the clippers
+contradictslaker head coach byron scott failed an obligation to take shots at the clippers
+
+laker head coach byron scott had not taken any time to take shots at the clippers
+permitslaker head coach byron scott happened to take shots at the clippers
+
+yuvraj had not taken any time to put the pressure on the bowler
+entailsthe pressure was put on the bowler by yuvraj
+
+yuvraj did not take any time to put the pressure on the bowler
+contradictsyuvraj did not get the chance to put the pressure on the bowler
+
+yuvraj never took any time to put the pressure on the bowler
+permitsyuvraj had a chance to put the pressure on the bowler
+
+donald trump had not taken any time to respond to obama's speech
+entailsdonald trump responded to obama's speech
+
+donald trump never took any time to respond to obama's speech
+contradictsdonald trump did not have the courage to respond to obama's speech
+
+donald trump did not take any time to respond to obama's speech
+permitsdonald trump had the foresight to respond to obama's speech
+
+this little monkey had not taken any time to be settled back at home with us
+entailsthis little monkey had been settled back at home with us
+
+this little monkey had not taken any time to be settled back at home with us
+contradictsthis little monkey did not have the time to be settled back at home with us
+
+this little monkey never took any time to be settled back at home with us
+permitsthis little monkey hesitated to be settled back at home with us
+
+she had not taken any time to bounce back to normal
+entailsshe bounced back to being normal
+
+she had not taken any time to bounce back to normal
+contradictsshe did not keep a promise to bounce back to normal
+
+she had not taken any time to bounce back to normal
+permitsshe did not lack the foresight to bounce back to normal
+
+ronaldo never took any time to lace up some sneakers
+entailssome sneakers were laced up by ronaldo
+
+ronaldo did not take any time to lace up some sneakers
+contradictsronaldo lost an opportunity to lace up some sneakers
+
+ronaldo never took any time to lace up some sneakers
+permitsronaldo made a promise to lace up some sneakers
+
+the judges never took any time to pack in the punches
+entailsthe judges had packed in the punches
+
+the judges had not taken any time to pack in the punches
+contradictsthe judges did not manage to pack in the punches
+
+the judges did not take any time to pack in the punches
+permitsthe judges met a duty to pack in the punches
+
+ann putnam sr. did not take any time to accuse rebecca
+entailsann putnam sr. did accuse rebecca
+
+ann putnam sr. never took any time to accuse rebecca
+contradictsrebecca was not accused by ann putnam sr.
+
+ann putnam sr. had not taken any time to accuse rebecca
+permitsrebecca was not crazily accused by ann putnam sr.
+
+the new jersey governor did not take any time to slam rubio cruz and kasich
+entailsthe new jersey governor did slam rubio cruz and kasich
+
+the new jersey governor did not take any time to slam rubio cruz and kasich
+contradictsthe new jersey governor did not meet a duty to slam rubio cruz and kasich
+
+the new jersey governor never took any time to slam rubio cruz and kasich
+permitsthe new jersey governor met a promise to slam rubio cruz and kasich
+
+the video had not taken any time to buffer
+entailsthe video did buffer
+
+the video did not take any time to buffer
+contradictsthe video had not buffered
+
+the video did not take any time to buffer
+permitsthe video did not immediately buffer
+
+sussex had not taken any time to hand him his debut
+entailssussex had handed him his debut
+
+sussex never took any time to hand him his debut
+contradictssussex neglected to hand him his debut
+
+sussex did not take any time to hand him his debut
+permitssussex obeyed an order to hand him his debut
+
+mapcentrix never took any time to start using the system properly
+entailsthe system was used properly by mapcentrix
+
+mapcentrix did not take any time to start using the system properly
+contradictsthe system was never used properly by map centrix
+
+mapcentrix had not taken any time to start using the system properly
+permitsmapcentrix remembered to start using the system properly
+
+Anderson did not take any time to respond to the posts
+entailsanderson did respond to the posts
+
+Anderson did not take any time to respond to the posts
+contradictsanderson did not respond to the posts
+
+Anderson had not taken any time to respond to the posts
+permitsanderson had not happily responded to the posts
